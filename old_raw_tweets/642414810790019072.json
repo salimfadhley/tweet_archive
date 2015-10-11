@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 11 19:10:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3046525515,
+                "id_str": "3046525515",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Barclays UK Help",
+                "screen_name": "BarclaysUKHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 642414810790019072,
+    "id_str": "642414810790019072",
+    "in_reply_to_screen_name": "BarclaysUKHelp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 3046525515,
+    "in_reply_to_user_id_str": "3046525515",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.257418,
+                        54.63917
+                    ],
+                    [
+                        -1.175446,
+                        54.63917
+                    ],
+                    [
+                        -1.175446,
+                        54.71881
+                    ],
+                    [
+                        -1.257418,
+                        54.71881
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Hartlepool, England",
+        "id": "1f3d386c66451137",
+        "name": "Hartlepool",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1f3d386c66451137.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@BarclaysUKHelp I received an sms asking me to confirm account activity. So I did as all is well. I keep getting invalid response text back.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 12 18:14:16 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We're all stories, in the end. Just make it a good one.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 955,
+        "follow_request_sent": false,
+        "followers_count": 1701,
+        "following": false,
+        "friends_count": 227,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 89503611,
+        "id_str": "89503611",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 55,
+        "location": "Hartlepool, England",
+        "name": "Hotch",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/528236193935147009/dX93OxSl.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/528236193935147009/dX93OxSl.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/89503611/1441199418",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/629774981941964800/-2Isjr4A_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/629774981941964800/-2Isjr4A_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DoctorWhotch",
+        "statuses_count": 141560,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Aug 10 22:59:40 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3046525515,
+                "id_str": "3046525515",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Barclays UK Help",
+                "screen_name": "BarclaysUKHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 630876194473316353,
+    "id_str": "630876194473316353",
+    "in_reply_to_screen_name": "BarclaysUKHelp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 3046525515,
+    "in_reply_to_user_id_str": "3046525515",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.2160701,
+                        51.5098789
+                    ],
+                    [
+                        -0.1301597,
+                        51.5098789
+                    ],
+                    [
+                        -0.1301597,
+                        51.5397916
+                    ],
+                    [
+                        -0.2160701,
+                        51.5397916
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Paddington, London",
+        "id": "56c45474148ca4da",
+        "name": "Paddington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/56c45474148ca4da.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@BarclaysUKHelp On hold for 102 minutes and counting trying to report my card lost.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 26 14:12:18 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Nothing to see here",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "phantomfiles.co.uk",
+                        "expanded_url": "http://phantomfiles.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/iKQBZ1ig7G"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 99,
+        "follow_request_sent": false,
+        "followers_count": 3369,
+        "following": false,
+        "friends_count": 2198,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 19535531,
+        "id_str": "19535531",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "UK",
+        "name": "Phantom",
+        "notifications": false,
+        "profile_background_color": "330066",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000122905697/1875c5f5dc47e5618fec9daa19b420cc.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000122905697/1875c5f5dc47e5618fec9daa19b420cc.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/425188498334052352/NBT2skzQ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/425188498334052352/NBT2skzQ_normal.jpeg",
+        "profile_link_color": "330066",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "2390B4",
+        "profile_text_color": "423E46",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "phantomdanman",
+        "statuses_count": 1228,
+        "time_zone": "London",
+        "url": "http://t.co/iKQBZ1ig7G",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
