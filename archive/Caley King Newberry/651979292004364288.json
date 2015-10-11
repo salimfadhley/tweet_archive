@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 08 04:35:51 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 158129535,
+                "id_str": "158129535",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "UPS",
+                "screen_name": "UPS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 651979292004364288,
+    "id_str": "651979292004364288",
+    "in_reply_to_screen_name": "UPS",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 158129535,
+    "in_reply_to_user_id_str": "158129535",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -86.798533,
+                        36.1788427
+                    ],
+                    [
+                        -86.789234,
+                        36.1788427
+                    ],
+                    [
+                        -86.789234,
+                        36.188454
+                    ],
+                    [
+                        -86.798533,
+                        36.188454
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Salemtown, Nashville-Davidson balance",
+        "id": "0adf946398a41a8e",
+        "name": "Salemtown",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/0adf946398a41a8e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@UPS I have a package that\u2019s \u201cIn Process\u201d that I *desperately* need delivered sooner. Is this at all possible?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 22 21:44:14 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wedding and boudoir photographer in Nashville. Part nocturnal, loft dweller, faith-filled optimist, extrovert. A taco and a latte would be my perfect meal.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "caleynewberry.com",
+                        "expanded_url": "http://www.caleynewberry.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/owVRyzUJEu"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 46,
+        "follow_request_sent": false,
+        "followers_count": 596,
+        "following": false,
+        "friends_count": 174,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 789568,
+        "id_str": "789568",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 34,
+        "location": "Nashville",
+        "name": "Caley King Newberry",
+        "notifications": false,
+        "profile_background_color": "A09D9C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/329159416/IMG_2931.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/329159416/IMG_2931.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/789568/1397677155",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/526994454625140737/CvPZ8wZp_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/526994454625140737/CvPZ8wZp_normal.jpeg",
+        "profile_link_color": "050505",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "C5C5C4",
+        "profile_text_color": "2B1D1D",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Caley",
+        "statuses_count": 8080,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/owVRyzUJEu",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

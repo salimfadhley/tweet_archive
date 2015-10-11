@@ -1,0 +1,183 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 08 23:48:52 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    50,
+                    55
+                ],
+                "text": "NSBE"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/hIcXEvxDLj",
+                "expanded_url": "http://twitter.com/kyle_rahn/status/652269460007579648/photo/1",
+                "id": 652269453594505218,
+                "id_str": "652269453594505218",
+                "indices": [
+                    109,
+                    131
+                ],
+                "media_url": "http://pbs.twimg.com/media/CQ1TnLdWsAIgj3w.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CQ1TnLdWsAIgj3w.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/hIcXEvxDLj"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 6717192,
+                "id_str": "6717192",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "United Technologies",
+                "screen_name": "UTC"
+            }
+        ]
+    },
+    "favorite_count": 5,
+    "favorited": false,
+    "geo": null,
+    "id": 652269460007579648,
+    "id_str": "652269460007579648",
+    "in_reply_to_screen_name": "UTC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 6717192,
+    "in_reply_to_user_id_str": "6717192",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -72.718386,
+                        41.723759
+                    ],
+                    [
+                        -72.643547,
+                        41.723759
+                    ],
+                    [
+                        -72.643547,
+                        41.807475
+                    ],
+                    [
+                        -72.718386,
+                        41.807475
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Hartford, CT",
+        "id": "61c225139f635563",
+        "name": "Hartford",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/61c225139f635563.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@UTC thank you for being an important part of the #NSBE Professionals Development Conference in Hartford, CT http://t.co/hIcXEvxDLj",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 16 12:08:42 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "NSBE.org",
+                        "expanded_url": "http://www.NSBE.org",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Vr8P4LjAdt"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12,
+        "follow_request_sent": false,
+        "followers_count": 42,
+        "following": false,
+        "friends_count": 119,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1598258924,
+        "id_str": "1598258924",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Alexandria, VA",
+        "name": "Kyle Rahn",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/581919251742597120/b7TJmL1A_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/581919251742597120/b7TJmL1A_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kyle_rahn",
+        "statuses_count": 94,
+        "time_zone": null,
+        "url": "http://t.co/Vr8P4LjAdt",
+        "utc_offset": null,
+        "verified": false
+    }
+}

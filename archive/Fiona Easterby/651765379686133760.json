@@ -1,0 +1,165 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 07 14:25:50 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    128,
+                    136
+                ],
+                "text": "robbery"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 158129535,
+                "id_str": "158129535",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "UPS",
+                "screen_name": "UPS"
+            },
+            {
+                "id": 22907495,
+                "id_str": "22907495",
+                "indices": [
+                    17,
+                    27
+                ],
+                "name": "Parcel2Go",
+                "screen_name": "Parcel2Go"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 651765379686133760,
+    "id_str": "651765379686133760",
+    "in_reply_to_screen_name": "UPS",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 158129535,
+    "in_reply_to_user_id_str": "158129535",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.95729593780907,
+                        50.5746064789388
+                    ],
+                    [
+                        1.45178800018019,
+                        50.5746064789388
+                    ],
+                    [
+                        1.45178800018019,
+                        52.1962850088601
+                    ],
+                    [
+                        -1.95729593780907,
+                        52.1962850088601
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "South East, England",
+        "id": "06168d1feda43857",
+        "name": "South East",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@UPS Are UPS and @parcel2go operating a scam? Does anyone ever recieve their delivery or receive compensation for lost parcels? #robbery",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 12 22:04:57 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Trans-continental car rallier, author and Camera Operator. \nTravelling the world in a 1969 Baja Beetle.  http://t.co/bb4FIGY908",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/worldrallies",
+                        "expanded_url": "http://www.facebook.com/worldrallies",
+                        "indices": [
+                            105,
+                            127
+                        ],
+                        "url": "http://t.co/bb4FIGY908"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "worldrallies.com",
+                        "expanded_url": "http://www.worldrallies.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/xsRxc7Tnq5"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 48,
+        "follow_request_sent": false,
+        "followers_count": 504,
+        "following": false,
+        "friends_count": 378,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20724395,
+        "id_str": "20724395",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Variable",
+        "name": "Fiona Easterby",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20724395/1403604931",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/483220124971720705/52lPAr13_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/483220124971720705/52lPAr13_normal.jpeg",
+        "profile_link_color": "1B5411",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WorldRallies",
+        "statuses_count": 2147,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/xsRxc7Tnq5",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}
