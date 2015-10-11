@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 10 16:30:25 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            },
+            {
+                "id": 280557152,
+                "id_str": "280557152",
+                "indices": [
+                    126,
+                    139
+                ],
+                "name": "General Mills",
+                "screen_name": "GeneralMills"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652883898234458112,
+    "id_str": "652883898234458112",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": 652854612580544512,
+    "in_reply_to_status_id_str": "652854612580544512",
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.075086,
+                        43.07079
+                    ],
+                    [
+                        -78.942516,
+                        43.07079
+                    ],
+                    [
+                        -78.942516,
+                        43.132798
+                    ],
+                    [
+                        -79.075086,
+                        43.132798
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Niagara Falls, NY",
+        "id": "eec8e86da985fc44",
+        "name": "Niagara Falls",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/eec8e86da985fc44.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Target Out of these, definitely Boo Berry but I actually prefer the Frute Brute ! Bring back Frute Brute &amp; Yummy Mummy ! @GeneralMills",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 01 00:43:45 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/xfallenstar",
+                        "expanded_url": "http://facebook.com/xfallenstar",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Kswq5pbCsE"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1999,
+        "follow_request_sent": false,
+        "followers_count": 88,
+        "following": false,
+        "friends_count": 315,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 542108575,
+        "id_str": "542108575",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Niagara Falls, NY",
+        "name": "Steffany Kurilovitch",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/542108575/1441640448",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/651365624707354624/No0Nm0lx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/651365624707354624/No0Nm0lx_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "x_fallen_star",
+        "statuses_count": 3555,
+        "time_zone": null,
+        "url": "http://t.co/Kswq5pbCsE",
+        "utc_offset": null,
+        "verified": false
+    }
+}

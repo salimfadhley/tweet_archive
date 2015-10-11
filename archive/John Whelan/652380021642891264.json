@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 09 07:08:12 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 247026381,
+                "id_str": "247026381",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Volkswagen",
+                "screen_name": "Volkswagen"
+            },
+            {
+                "id": 22646514,
+                "id_str": "22646514",
+                "indices": [
+                    55,
+                    66
+                ],
+                "name": "Newstalk 106-108fm",
+                "screen_name": "NewstalkFM"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652380021642891264,
+    "id_str": "652380021642891264",
+    "in_reply_to_screen_name": "Volkswagen",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 247026381,
+    "in_reply_to_user_id_str": "247026381",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.2820377,
+                        53.1992829
+                    ],
+                    [
+                        -6.0667589,
+                        53.1992829
+                    ],
+                    [
+                        -6.0667589,
+                        53.315283
+                    ],
+                    [
+                        -6.2820377,
+                        53.315283
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ireland",
+        "country_code": "IE",
+        "full_name": "Dun Laoghaire-Rathdown, Ireland",
+        "id": "723427e351a01e72",
+        "name": "Dun Laoghaire-Rathdown",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/723427e351a01e72.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Volkswagen is the Lance Armstrong of motororing ( via @NewstalkFM  )",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 01 11:38:29 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Founder of 4 startups but now  Tech Transfer Case Manager at Trinity College Dublin. Director of Launchbox  accelerator. Doing is better than Perfect",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "tcd.ie/innovation/ind\u2026",
+                        "expanded_url": "http://www.tcd.ie/innovation/industry/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/G46IS7nCGO"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 177,
+        "follow_request_sent": false,
+        "followers_count": 1634,
+        "following": false,
+        "friends_count": 1522,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 16080897,
+        "id_str": "16080897",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 120,
+        "location": "Dublin, Ireland",
+        "name": "John Whelan",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/742364025/eb73ff138c6d9d5870d1cca4c957c6c4.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/742364025/eb73ff138c6d9d5870d1cca4c957c6c4.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16080897/1356883358",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649541244608081921/rmFavlkt_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/649541244608081921/rmFavlkt_normal.png",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "offportal",
+        "statuses_count": 7759,
+        "time_zone": "Dublin",
+        "url": "http://t.co/G46IS7nCGO",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

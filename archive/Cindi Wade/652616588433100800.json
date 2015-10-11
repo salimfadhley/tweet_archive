@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 09 22:48:14 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            },
+            {
+                "id": 25721214,
+                "id_str": "25721214",
+                "indices": [
+                    8,
+                    18
+                ],
+                "name": "Tanya Spiegel",
+                "screen_name": "tsspiegel"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652616588433100800,
+    "id_str": "652616588433100800",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": 652589867831050240,
+    "in_reply_to_status_id_str": "652589867831050240",
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.310298,
+                        34.982924
+                    ],
+                    [
+                        -81.646901,
+                        34.982924
+                    ],
+                    [
+                        -81.646901,
+                        36.678119
+                    ],
+                    [
+                        -90.310298,
+                        36.678119
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Tennessee, USA",
+        "id": "7f7d58e5229c6b6c",
+        "name": "Tennessee",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7f7d58e5229c6b6c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Target @tsspiegel  I find it ridiculous trying to complete the target survey.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 04 14:27:48 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "My family is my life!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 12,
+        "follow_request_sent": false,
+        "followers_count": 37,
+        "following": false,
+        "friends_count": 121,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2476967240,
+        "id_str": "2476967240",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Cindi Wade",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2476967240/1425248634",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/584786934431518720/ghhdDKfo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/584786934431518720/ghhdDKfo_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cindi_wade",
+        "statuses_count": 229,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

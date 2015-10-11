@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 08 20:25:22 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89587925,
+                "id_str": "89587925",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Comcast",
+                "screen_name": "comcast"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652218246754639873,
+    "id_str": "652218246754639873",
+    "in_reply_to_screen_name": "comcast",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89587925,
+    "in_reply_to_user_id_str": "89587925",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.461887,
+                        40.121825
+                    ],
+                    [
+                        -85.320813,
+                        40.121825
+                    ],
+                    [
+                        -85.320813,
+                        40.272656
+                    ],
+                    [
+                        -85.461887,
+                        40.272656
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Muncie, IN",
+        "id": "01c14352f8d6ca6e",
+        "name": "Muncie",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01c14352f8d6ca6e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@comcast has awful service. Germany game has been frozen for a good 3 mins now.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 06 18:57:03 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "all american intramural ping pong champion",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1492,
+        "follow_request_sent": false,
+        "followers_count": 256,
+        "following": false,
+        "friends_count": 315,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 278166357,
+        "id_str": "278166357",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "fort wayne indiana",
+        "name": "Neil Chalupa",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/354379698/steven_gerrard.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/354379698/steven_gerrard.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/278166357/1432311041",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/601783294200553472/O1C7J5Zk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/601783294200553472/O1C7J5Zk_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "neil_before_me",
+        "statuses_count": 13124,
+        "time_zone": "Indiana (East)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

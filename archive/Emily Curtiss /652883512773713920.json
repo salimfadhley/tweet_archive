@@ -1,0 +1,155 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 10 16:28:54 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    39,
+                    49
+                ],
+                "text": "Cartwheel"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            },
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    28,
+                    38
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652883512773713920,
+    "id_str": "652883512773713920",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.766298,
+                        35.321152
+                    ],
+                    [
+                        -80.4959648,
+                        35.321152
+                    ],
+                    [
+                        -80.4959648,
+                        35.482811
+                    ],
+                    [
+                        -80.766298,
+                        35.482811
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Concord, NC",
+        "id": "ec689e69912965d0",
+        "name": "Concord",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ec689e69912965d0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Target, I had the \"secret\" @Starbucks #Cartwheel offer. I showed the cashier, she scanned, but it didn't take off 50%. Can this be fixed?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 03 03:45:18 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ohio girl, now living in CLT, NC. Big time Buckeyes, Reds, Browns & Kyle Busch fan. Enjoy attending CLT sports. HONEST. Love our fur babies. Chris' fianc\u00e9'.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/emilycurtiss",
+                        "expanded_url": "http://facebook.com/emilycurtiss",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/MHYjbR8swi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1608,
+        "follow_request_sent": false,
+        "followers_count": 421,
+        "following": false,
+        "friends_count": 2000,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 512748332,
+        "id_str": "512748332",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Concord, NC",
+        "name": "Emily Curtiss ",
+        "notifications": false,
+        "profile_background_color": "ED1FB6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636313468/7muyqdkzniq473thmbyu.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/636313468/7muyqdkzniq473thmbyu.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/512748332/1437850010",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/430482919887757312/huEYaFnx_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/430482919887757312/huEYaFnx_normal.jpeg",
+        "profile_link_color": "930DA8",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "emily_curtiss",
+        "statuses_count": 9313,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/MHYjbR8swi",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

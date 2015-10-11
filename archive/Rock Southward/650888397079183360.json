@@ -1,0 +1,159 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 05 04:21:01 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    107,
+                    119
+                ],
+                "text": "iTweet4Tips"
+            },
+            {
+                "indices": [
+                    120,
+                    132
+                ],
+                "text": "GlobalGoals"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ucpi.sco.ca.gov/ucp/PropertyDe\u2026",
+                "expanded_url": "https://ucpi.sco.ca.gov/ucp/PropertyDetails.aspx?propertyRecID=22244130",
+                "indices": [
+                    15,
+                    38
+                ],
+                "url": "https://t.co/jigQH7gxPa"
+            },
+            {
+                "display_url": "sco.ca.gov",
+                "expanded_url": "http://sco.ca.gov",
+                "indices": [
+                    67,
+                    89
+                ],
+                "url": "http://t.co/m2YTyLeWY0"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 61559439,
+                "id_str": "61559439",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "NVIDIA",
+                "screen_name": "nvidia"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 650888397079183360,
+    "id_str": "650888397079183360",
+    "in_reply_to_screen_name": "nvidia",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 61559439,
+    "in_reply_to_user_id_str": "61559439",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.473595,
+                        37.6009088
+                    ],
+                    [
+                        -122.399963,
+                        37.6009088
+                    ],
+                    [
+                        -122.399963,
+                        37.641689
+                    ],
+                    [
+                        -122.473595,
+                        37.641689
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Bruno, CA",
+        "id": "5358b6f78dd95ef6",
+        "name": "San Bruno",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5358b6f78dd95ef6.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@nvidia Yours? https://t.co/jigQH7gxPa\nunclaimed ID 972760297 goto http://t.co/m2YTyLeWY0 to claim $515.76 #iTweet4Tips #GlobalGoals",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 01 05:33:57 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Retired real estate professional, attorney and notary public.  I tweet for tips!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 15,
+        "follow_request_sent": false,
+        "followers_count": 502,
+        "following": false,
+        "friends_count": 2002,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15285394,
+        "id_str": "15285394",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "San Bruno, CA",
+        "name": "Rock Southward",
+        "notifications": false,
+        "profile_background_color": "262835",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/10516726/John_Lennon-1.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/10516726/John_Lennon-1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15285394/1433270575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/516453655159914496/6TM3FMiO_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/516453655159914496/6TM3FMiO_normal.jpeg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rocksouthward",
+        "statuses_count": 2297,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}
