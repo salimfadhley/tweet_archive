@@ -1,0 +1,131 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 09 03:28:21 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    115,
+                    125
+                ],
+                "text": "DLOReilly"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 32516857,
+                "id_str": "32516857",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "O'Reilly Auto Parts",
+                "screen_name": "oreillyauto"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652324694348042240,
+    "id_str": "652324694348042240",
+    "in_reply_to_screen_name": "oreillyauto",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 32516857,
+    "in_reply_to_user_id_str": "32516857",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.5127219,
+                        42.8909187
+                    ],
+                    [
+                        -71.3754393,
+                        42.8909187
+                    ],
+                    [
+                        -71.3754393,
+                        43.0515452
+                    ],
+                    [
+                        -71.5127219,
+                        43.0515452
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manchester, NH",
+        "id": "5e6cc87c609e3a59",
+        "name": "Manchester",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5e6cc87c609e3a59.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@oreillyauto My first car was a 1980 Tan Chevrolet Chevette. It was nothing special, but my parents gave it to me. #DLOReilly",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 24 20:44:32 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "MY  DAUGHTER CHELSEA always says no, but I still LOVE HER",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 57,
+        "follow_request_sent": false,
+        "followers_count": 167,
+        "following": false,
+        "friends_count": 958,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 108093699,
+        "id_str": "108093699",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "",
+        "name": "pam",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/129388527/Picture_035.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/129388527/Picture_035.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/591099172591427584/kt25_348_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/591099172591427584/kt25_348_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pammyforlife",
+        "statuses_count": 1622,
+        "time_zone": "America/Detroit",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 11 11:20:11 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    5,
+                    17
+                ],
+                "text": "haveyoursay"
+            },
+            {
+                "indices": [
+                    80,
+                    90
+                ],
+                "text": "Palestine"
+            },
+            {
+                "indices": [
+                    128,
+                    138
+                ],
+                "text": "photobias"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bbc.co.uk/news/world-mid\u2026",
+                "expanded_url": "http://www.bbc.co.uk/news/world-middle-east-34498442",
+                "indices": [
+                    93,
+                    115
+                ],
+                "url": "http://t.co/cOWmzARMSm"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 19701628,
+                "id_str": "19701628",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "BBC",
+                "screen_name": "BBC"
+            },
+            {
+                "id": 87401080,
+                "id_str": "87401080",
+                "indices": [
+                    116,
+                    127
+                ],
+                "name": "PSC ",
+                "screen_name": "PSCupdates"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653168211844796416,
+    "id_str": "653168211844796416",
+    "in_reply_to_screen_name": "BBC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19701628,
+    "in_reply_to_user_id_str": "19701628",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.008791,
+                        53.36489
+                    ],
+                    [
+                        -2.822063,
+                        53.36489
+                    ],
+                    [
+                        -2.822063,
+                        53.474867
+                    ],
+                    [
+                        -3.008791,
+                        53.474867
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Liverpool, England",
+        "id": "151b9e91272233d1",
+        "name": "Liverpool",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/151b9e91272233d1.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@bbc #haveyoursay I am appalled at your coverage of the escalating situation in #Palestine.  http://t.co/cOWmzARMSm @PSCupdates.#photobias",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 19 16:23:14 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Writer. Changing the world one word at  a time + occasionally rhyming. Bafta Rocliffe's Emerging Children's Writer Winner 2014. Represented by @kitsonpress",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "alisondown.net",
+                        "expanded_url": "http://www.alisondown.net",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/kzNGQGRGo3"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5587,
+        "follow_request_sent": false,
+        "followers_count": 1204,
+        "following": false,
+        "friends_count": 2001,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1104079742,
+        "id_str": "1104079742",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 41,
+        "location": "Liverpool, UK.",
+        "name": "Alison Down",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000008453611/fc97f877b8132daaddefc9fd48820746.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000008453611/fc97f877b8132daaddefc9fd48820746.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1104079742/1435504277",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615175681803177985/4dNW0SpU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/615175681803177985/4dNW0SpU_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "alisonwordage",
+        "statuses_count": 8035,
+        "time_zone": null,
+        "url": "http://t.co/kzNGQGRGo3",
+        "utc_offset": null,
+        "verified": false
+    }
+}

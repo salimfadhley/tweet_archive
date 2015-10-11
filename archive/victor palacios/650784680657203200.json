@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 21:28:53 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 267399199,
+                "id_str": "267399199",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "General Electric",
+                "screen_name": "generalelectric"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 650784680657203200,
+    "id_str": "650784680657203200",
+    "in_reply_to_screen_name": "generalelectric",
+    "in_reply_to_status_id": 649323398951112705,
+    "in_reply_to_status_id_str": "649323398951112705",
+    "in_reply_to_user_id": 267399199,
+    "in_reply_to_user_id_str": "267399199",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -58.5317922,
+                        -34.674453
+                    ],
+                    [
+                        -58.353494,
+                        -34.674453
+                    ],
+                    [
+                        -58.353494,
+                        -34.534177
+                    ],
+                    [
+                        -58.5317922,
+                        -34.534177
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Argentina",
+        "country_code": "AR",
+        "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+        "id": "018f1cde6bad9747",
+        "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@generalelectric exelente.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 02 15:22:06 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 288,
+        "follow_request_sent": false,
+        "followers_count": 12,
+        "following": false,
+        "friends_count": 39,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3131329781,
+        "id_str": "3131329781",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 0,
+        "location": "",
+        "name": "victor palacios",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/646649666730242048/1VuCdMkj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/646649666730242048/1VuCdMkj_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "elchama2015",
+        "statuses_count": 318,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

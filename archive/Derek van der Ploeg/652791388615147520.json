@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 10 10:22:49 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 31957731,
+                "id_str": "31957731",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Autodesk",
+                "screen_name": "autodesk"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652791388615147520,
+    "id_str": "652791388615147520",
+    "in_reply_to_screen_name": "autodesk",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 31957731,
+    "in_reply_to_user_id_str": "31957731",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        5.50238869830932,
+                        51.4340335810422
+                    ],
+                    [
+                        5.51454573856627,
+                        51.4340335810422
+                    ],
+                    [
+                        5.51454573856627,
+                        51.4448729824193
+                    ],
+                    [
+                        5.50238869830932,
+                        51.4448729824193
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Nederland",
+        "country_code": "NL",
+        "full_name": "Doornakkers-West, Eindhoven",
+        "id": "1f04e6bcce957577",
+        "name": "Doornakkers-West",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/1f04e6bcce957577.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "@autodesk Hey, I\u2019m trying to download fusion 360, but the download page sends duplicate headers",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 31 15:03:23 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Niet de dokter. Ik onderzoek, luister en hou ervan.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 705,
+        "follow_request_sent": false,
+        "followers_count": 146,
+        "following": false,
+        "friends_count": 257,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 210484012,
+        "id_str": "210484012",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "",
+        "name": "Derek van der Ploeg",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/435313452710916096/EcV-4M0B.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/435313452710916096/EcV-4M0B.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/210484012/1398451395",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/621266389559586816/4RaJsf6G_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/621266389559586816/4RaJsf6G_normal.jpg",
+        "profile_link_color": "909090",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "2C2C2C",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "deaddderek",
+        "statuses_count": 7667,
+        "time_zone": "Amsterdam",
+        "url": null,
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

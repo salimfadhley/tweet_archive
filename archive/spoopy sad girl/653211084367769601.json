@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 11 14:10:33 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            },
+            {
+                "id": 655093,
+                "id_str": "655093",
+                "indices": [
+                    9,
+                    13
+                ],
+                "name": "God",
+                "screen_name": "god"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653211084367769601,
+    "id_str": "653211084367769601",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -75.295291,
+                        43.050251
+                    ],
+                    [
+                        -75.158681,
+                        43.050251
+                    ],
+                    [
+                        -75.158681,
+                        43.189108
+                    ],
+                    [
+                        -75.295291,
+                        43.189108
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Utica, NY",
+        "id": "41f575b7eebcd4b7",
+        "name": "Utica",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/41f575b7eebcd4b7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@netflix @god you better put ALL the seasons of SVU on there like smh y'all only got 4 seasons",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 06 18:41:35 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "the bluest things on earth don't know shit about the blues",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5523,
+        "follow_request_sent": false,
+        "followers_count": 3332,
+        "following": false,
+        "friends_count": 778,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2864209401,
+        "id_str": "2864209401",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 19,
+        "location": "San Fernando Valley",
+        "name": "spoopy sad girl",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2864209401/1444269077",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/652342034569777152/ovYh06Lc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/652342034569777152/ovYh06Lc_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_ponyboyy",
+        "statuses_count": 14506,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

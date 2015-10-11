@@ -1,0 +1,176 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 03:34:57 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/GDPpywwKbw",
+                "expanded_url": "http://twitter.com/edgardo_vale/status/650514417537253376/photo/1",
+                "id": 650514415964393472,
+                "id_str": "650514415964393472",
+                "indices": [
+                    11,
+                    33
+                ],
+                "media_url": "http://pbs.twimg.com/media/CQcXaizUEAA99fv.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CQcXaizUEAA99fv.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1325,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 776,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 440,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/GDPpywwKbw"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 46177695,
+                "id_str": "46177695",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Walgreens",
+                "screen_name": "Walgreens"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 650514417537253376,
+    "id_str": "650514417537253376",
+    "in_reply_to_screen_name": "Walgreens",
+    "in_reply_to_status_id": 649984749725814784,
+    "in_reply_to_status_id_str": "649984749725814784",
+    "in_reply_to_user_id": 46177695,
+    "in_reply_to_user_id_str": "46177695",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.928935,
+                        30.127892
+                    ],
+                    [
+                        -97.5805133,
+                        30.127892
+                    ],
+                    [
+                        -97.5805133,
+                        30.5187994
+                    ],
+                    [
+                        -97.928935,
+                        30.5187994
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Austin, TX",
+        "id": "c3f37afa9efcf94b",
+        "name": "Austin",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Walgreens http://t.co/GDPpywwKbw",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 05 02:00:58 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "tvaleg.com",
+                        "expanded_url": "http://www.tvaleg.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/kkdNNNfiRG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6,
+        "follow_request_sent": false,
+        "followers_count": 47,
+        "following": false,
+        "friends_count": 186,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 329425852,
+        "id_str": "329425852",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Dallas,TX",
+        "name": "Edgar Vale",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/329425852/1439496733",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/631919858024755200/hmDee5r__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/631919858024755200/hmDee5r__normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "edgardo_vale",
+        "statuses_count": 111,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/kkdNNNfiRG",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

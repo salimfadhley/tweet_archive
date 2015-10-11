@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 09 13:02:45 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15425377,
+                "id_str": "15425377",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Airbus",
+                "screen_name": "Airbus"
+            },
+            {
+                "id": 14172570,
+                "id_str": "14172570",
+                "indices": [
+                    8,
+                    20
+                ],
+                "name": "Frontier Airlines",
+                "screen_name": "FlyFrontier"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652469245226393600,
+    "id_str": "652469245226393600",
+    "in_reply_to_screen_name": "Airbus",
+    "in_reply_to_status_id": 652467207788736513,
+    "in_reply_to_status_id_str": "652467207788736513",
+    "in_reply_to_user_id": 15425377,
+    "in_reply_to_user_id_str": "15425377",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.31844,
+                        40.684315
+                    ],
+                    [
+                        -73.273577,
+                        40.684315
+                    ],
+                    [
+                        -73.273577,
+                        40.74145
+                    ],
+                    [
+                        -73.31844,
+                        40.74145
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "West Islip, NY",
+        "id": "c3940942f7542565",
+        "name": "West Islip",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c3940942f7542565.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Airbus @FlyFrontier Hey Frontier - You will find me on one of these in the future - if you begin service at ISP Airport.  :)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 24 15:01:29 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Hubby, Dad, Isles fan- Computershare/Georgeson employee and Past NIRI NY Chapter President.  Views here are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 28,
+        "follow_request_sent": false,
+        "followers_count": 233,
+        "following": false,
+        "friends_count": 900,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2260369652,
+        "id_str": "2260369652",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Long Island, NY",
+        "name": "Patrick Tracey",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/415501148351508481/LRSO0FYn_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/415501148351508481/LRSO0FYn_normal.jpeg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "PTracey1940",
+        "statuses_count": 867,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

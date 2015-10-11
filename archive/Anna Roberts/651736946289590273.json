@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 07 12:32:51 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 146385359,
+                "id_str": "146385359",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Pret",
+                "screen_name": "Pret"
+            },
+            {
+                "id": 153142089,
+                "id_str": "153142089",
+                "indices": [
+                    6,
+                    18
+                ],
+                "name": "Erin Cardiff",
+                "screen_name": "erincardiff"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 651736946289590273,
+    "id_str": "651736946289590273",
+    "in_reply_to_screen_name": "Pret",
+    "in_reply_to_status_id": 651736529061191680,
+    "in_reply_to_status_id_str": "651736529061191680",
+    "in_reply_to_user_id": 146385359,
+    "in_reply_to_user_id_str": "146385359",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.187894,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.5164655
+                    ],
+                    [
+                        -0.187894,
+                        51.5164655
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "London, England",
+        "id": "457b4814b4240d87",
+        "name": "London",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/457b4814b4240d87.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Pret @erincardiff Do we need special socks to eat burritos? (answer: yes)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 30 19:15:19 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Online editor at Press Association. anna.roberts@pressassociation.com",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 725,
+        "follow_request_sent": false,
+        "followers_count": 4141,
+        "following": false,
+        "friends_count": 2004,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 172844781,
+        "id_str": "172844781",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 118,
+        "location": "London, England",
+        "name": "Anna Roberts",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/508289542999121920/O2M3CHQq.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/508289542999121920/O2M3CHQq.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/172844781/1444058351",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/652549208243859456/CjvazxJM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/652549208243859456/CjvazxJM_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "journoannie",
+        "statuses_count": 7670,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": true
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 02 20:18:10 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 61744008,
+                "id_str": "61744008",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Telef\u00f3nica",
+                "screen_name": "Telefonica"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 650042106522812417,
+    "id_str": "650042106522812417",
+    "in_reply_to_screen_name": "Telefonica",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 61744008,
+    "in_reply_to_user_id_str": "61744008",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -58.644586,
+                        -34.654376
+                    ],
+                    [
+                        -58.5224777,
+                        -34.654376
+                    ],
+                    [
+                        -58.5224777,
+                        -34.546888
+                    ],
+                    [
+                        -58.644586,
+                        -34.546888
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Argentina",
+        "country_code": "AR",
+        "full_name": "Caseros, Argentina",
+        "id": "014f72200f706d3f",
+        "name": "Caseros",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/014f72200f706d3f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Telefonica una semana sin servicio de Internet?? cuanto mas hay q esperar??",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 06 04:03:26 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Analista en Redes Informaticas",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "compusuite.com.ar",
+                        "expanded_url": "http://www.compusuite.com.ar",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/CMrRDoGFbb"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3,
+        "follow_request_sent": false,
+        "followers_count": 31,
+        "following": false,
+        "friends_count": 112,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 248045153,
+        "id_str": "248045153",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 0,
+        "location": "Ciudadela",
+        "name": "Carlos Ferrari",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/248045153/1397780206",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/456949836403597312/ZFvXGHkD_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/456949836403597312/ZFvXGHkD_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "carlosferrari82",
+        "statuses_count": 248,
+        "time_zone": "Buenos Aires",
+        "url": "http://t.co/CMrRDoGFbb",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

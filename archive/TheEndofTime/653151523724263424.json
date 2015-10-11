@@ -1,0 +1,237 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 11 10:13:52 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/Askrigglad/sta\u2026",
+                "expanded_url": "https://twitter.com/Askrigglad/status/653150545277001728",
+                "indices": [
+                    14,
+                    37
+                ],
+                "url": "https://t.co/ixmuw2khsC"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 19701628,
+                "id_str": "19701628",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "BBC",
+                "screen_name": "BBC"
+            },
+            {
+                "id": 7587032,
+                "id_str": "7587032",
+                "indices": [
+                    5,
+                    13
+                ],
+                "name": "Sky News",
+                "screen_name": "SkyNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653151523724263424,
+    "id_str": "653151523724263424",
+    "in_reply_to_screen_name": "BBC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19701628,
+    "in_reply_to_user_id_str": "19701628",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Oct 11 10:09:59 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 103065157,
+                    "id_str": "103065157",
+                    "indices": [
+                        0,
+                        14
+                    ],
+                    "name": "David Cameron",
+                    "screen_name": "David_Cameron"
+                }
+            ]
+        },
+        "favorite_count": 20,
+        "favorited": false,
+        "geo": null,
+        "id": 653150545277001728,
+        "id_str": "653150545277001728",
+        "in_reply_to_screen_name": "David_Cameron",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 103065157,
+        "in_reply_to_user_id_str": "103065157",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -2.56475248726412,
+                            53.3015341502953
+                        ],
+                        [
+                            0.149787002205902,
+                            53.3015341502953
+                        ],
+                        [
+                            0.149787002205902,
+                            54.5621550270294
+                        ],
+                        [
+                            -2.56475248726412,
+                            54.5621550270294
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United Kingdom",
+            "country_code": "GB",
+            "full_name": "Yorkshire and The Humber, England",
+            "id": "4efd6fc8c50fae33",
+            "name": "Yorkshire and The Humber",
+            "place_type": "admin",
+            "url": "https://api.twitter.com/1.1/geo/id/4efd6fc8c50fae33.json"
+        },
+        "retweet_count": 23,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "@David_Cameron Can I remind you that \u201cpassive tolerance\u201d starts with forcing our school children to eat halal meat",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Nov 08 09:54:11 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Ex RAF. Photographer. Avid Pro-Britain. \r\nAnti-Immigration. Anti-EU. Anti-Green nonsense",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 314,
+            "follow_request_sent": false,
+            "followers_count": 4711,
+            "following": false,
+            "friends_count": 4234,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 213223080,
+            "id_str": "213223080",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 48,
+            "location": "Yorkshire",
+            "name": "Malcolm Wood",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/213223080/1398509776",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1162412816/me_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1162412816/me_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Askrigglad",
+            "statuses_count": 11673,
+            "time_zone": "London",
+            "url": null,
+            "utc_offset": 3600,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 653150545277001728,
+    "quoted_status_id_str": "653150545277001728",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@bbc @skynews https://t.co/ixmuw2khsC",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 04 02:02:55 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Best-selling author - signed First Edition Tweets available on request - BAN ALL HAT SPEECH !",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 11,
+        "follow_request_sent": false,
+        "followers_count": 604,
+        "following": false,
+        "friends_count": 1949,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 87339732,
+        "id_str": "87339732",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 20,
+        "location": "Coconutistan",
+        "name": "TheEndofTime",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/652189496935624704/fCiol0lL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/652189496935624704/fCiol0lL_normal.jpg",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "StocksRocks",
+        "statuses_count": 4669,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

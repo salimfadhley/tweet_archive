@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 10 16:04:42 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19103481,
+                "id_str": "19103481",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Uber",
+                "screen_name": "Uber"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652877424326148097,
+    "id_str": "652877424326148097",
+    "in_reply_to_screen_name": "Uber",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19103481,
+    "in_reply_to_user_id_str": "19103481",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -115.1581427,
+                        35.917793
+                    ],
+                    [
+                        -114.918531,
+                        35.917793
+                    ],
+                    [
+                        -114.918531,
+                        36.094719
+                    ],
+                    [
+                        -115.1581427,
+                        36.094719
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Henderson, NV",
+        "id": "0e2242eb8691df96",
+        "name": "Henderson",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0e2242eb8691df96.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Uber is gonna come in clutch tonight",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 21 09:23:55 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "probably chillin",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5407,
+        "follow_request_sent": false,
+        "followers_count": 966,
+        "following": false,
+        "friends_count": 743,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 708694764,
+        "id_str": "708694764",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "andrew",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/706538242/f4eeee64d4b328b8c1d1d285f79d4ef0.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/706538242/f4eeee64d4b328b8c1d1d285f79d4ef0.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/708694764/1442988811",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/646568155913977856/NAvcc7X7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/646568155913977856/NAvcc7X7_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Sir_JD_",
+        "statuses_count": 20819,
+        "time_zone": "Arizona",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

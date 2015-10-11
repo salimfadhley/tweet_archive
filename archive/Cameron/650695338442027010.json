@@ -1,0 +1,153 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 15:33:52 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19967728,
+                "id_str": "19967728",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Selfridges.com",
+                "screen_name": "Selfridges"
+            },
+            {
+                "id": 2343392558,
+                "id_str": "2343392558",
+                "indices": [
+                    12,
+                    19
+                ],
+                "name": "MUJI UK",
+                "screen_name": "UKMUJI"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 650695338442027010,
+    "id_str": "650695338442027010",
+    "in_reply_to_screen_name": "Selfridges",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19967728,
+    "in_reply_to_user_id_str": "19967728",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.104501,
+                        51.518605
+                    ],
+                    [
+                        -0.015834,
+                        51.518605
+                    ],
+                    [
+                        -0.015834,
+                        51.5766844
+                    ],
+                    [
+                        -0.104501,
+                        51.5766844
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Hackney, London",
+        "id": "2a3f152d1ac5044a",
+        "name": "Hackney",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2a3f152d1ac5044a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Selfridges @UKMUJI does the Selfridge's Muji concession accept the Selfridge's gift card? Thanks!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 25 10:44:10 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "http://t.co/GHBgunXj73\nhttp://t.co/fFjgKVmJlC",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Ello.co/cameronross",
+                        "expanded_url": "http://Ello.co/cameronross",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/GHBgunXj73"
+                    },
+                    {
+                        "display_url": "Instagram.com/heycameronross",
+                        "expanded_url": "http://Instagram.com/heycameronross",
+                        "indices": [
+                            23,
+                            45
+                        ],
+                        "url": "http://t.co/fFjgKVmJlC"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 177,
+        "follow_request_sent": false,
+        "followers_count": 90,
+        "following": false,
+        "friends_count": 77,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 19484268,
+        "id_str": "19484268",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "London",
+        "name": "Cameron",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000057173774/d58cec67f75e538018c2614441a1bc75.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000057173774/d58cec67f75e538018c2614441a1bc75.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19484268/1421491287",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/585111867045056512/G7Ly-aG9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/585111867045056512/G7Ly-aG9_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "heycameronross",
+        "statuses_count": 2859,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

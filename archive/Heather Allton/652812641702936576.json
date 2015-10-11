@@ -1,0 +1,142 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 10 11:47:17 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    77,
+                    88
+                ],
+                "text": "fundraiser"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "thehavenforchildren.com",
+                "expanded_url": "http://www.thehavenforchildren.com",
+                "indices": [
+                    89,
+                    111
+                ],
+                "url": "http://t.co/YpPGnJGU5z"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 19103481,
+                "id_str": "19103481",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Uber",
+                "screen_name": "Uber"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652812641702936576,
+    "id_str": "652812641702936576",
+    "in_reply_to_screen_name": "Uber",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19103481,
+    "in_reply_to_user_id_str": "19103481",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.634643,
+                        24.396308
+                    ],
+                    [
+                        -79.974307,
+                        24.396308
+                    ],
+                    [
+                        -79.974307,
+                        31.001056
+                    ],
+                    [
+                        -87.634643,
+                        31.001056
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Florida, USA",
+        "id": "4ec01c9dbc693497",
+        "name": "Florida",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Uber PLEASE can you hook us up with ride vouchers supporting a great cause? #fundraiser http://t.co/YpPGnJGU5z one child at a time!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 14 16:42:44 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1,
+        "follow_request_sent": false,
+        "followers_count": 23,
+        "following": false,
+        "friends_count": 122,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 373467357,
+        "id_str": "373467357",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Satellite Beach Fl",
+        "name": "Heather Allton",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1729770864/cartoon_chair_001_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1729770864/cartoon_chair_001_normal.JPG",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "halltonlive",
+        "statuses_count": 79,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

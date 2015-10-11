@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 10 20:15:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/beN4SA9T0l",
+                "expanded_url": "http://twitter.com/readwriteerase/status/652940612753227776/photo/1",
+                "id": 652940597779525632,
+                "id_str": "652940597779525632",
+                "indices": [
+                    116,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/CQ-2A6YUcAA4fHY.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CQ-2A6YUcAA4fHY.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/beN4SA9T0l"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652940612753227776,
+    "id_str": "652940612753227776",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -124.482003,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        42.009519
+                    ],
+                    [
+                        -124.482003,
+                        42.009519
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "California, USA",
+        "id": "fbd6d2f5a4e4a15e",
+        "name": "California",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@British_Airways All desks but business/executive club at SFO manned 15 minutes after check in was supposed to open http://t.co/beN4SA9T0l",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 25 18:49:20 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Londoner/Maker/Hacker/Bodger/Networking + VoIP Engineer/Japanese Speaker/Cable Car + Boat Commuter. Tweets unrelated to any professional context.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 614,
+        "follow_request_sent": false,
+        "followers_count": 156,
+        "following": false,
+        "friends_count": 408,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 6323622,
+        "id_str": "6323622",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Portland, OR",
+        "name": "read/write/eerie-ase",
+        "notifications": false,
+        "profile_background_color": "466063",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/50162058/Picture_524.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/50162058/Picture_524.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6323622/1443254431",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/641550795335446528/Z8SuA-Hm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/641550795335446528/Z8SuA-Hm_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "A11717",
+        "profile_text_color": "080708",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "readwriteerase",
+        "statuses_count": 1360,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

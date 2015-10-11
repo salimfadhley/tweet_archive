@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 10 14:52:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19103481,
+                "id_str": "19103481",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Uber",
+                "screen_name": "Uber"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652859131804708864,
+    "id_str": "652859131804708864",
+    "in_reply_to_screen_name": "Uber",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19103481,
+    "in_reply_to_user_id_str": "19103481",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Uber VIP is just the absolute best.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 22 23:53:09 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Engineering Program Manager @Google Design | Founder TeamX @TeamXnyc Building teams around moonshot ideas. (Tweets mine)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/katykasmai",
+                        "expanded_url": "http://linkedin.com/in/katykasmai",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/aOm1DNslNA"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6723,
+        "follow_request_sent": false,
+        "followers_count": 1818,
+        "following": false,
+        "friends_count": 386,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1895518519,
+        "id_str": "1895518519",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 84,
+        "location": "New York City",
+        "name": "Katy Kasmai",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/571374697825071104/LztEE97v.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/571374697825071104/LztEE97v.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1895518519/1444355494",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/571390143349542912/cCVZ_qNy_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/571390143349542912/cCVZ_qNy_normal.jpeg",
+        "profile_link_color": "00BBD4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KatyKasmai",
+        "statuses_count": 2289,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/aOm1DNslNA",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

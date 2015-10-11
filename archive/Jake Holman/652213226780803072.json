@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 08 20:05:25 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19992977,
+                "id_str": "19992977",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ADP",
+                "screen_name": "ADP"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652213226780803072,
+    "id_str": "652213226780803072",
+    "in_reply_to_screen_name": "ADP",
+    "in_reply_to_status_id": 652199780941062144,
+    "in_reply_to_status_id_str": "652199780941062144",
+    "in_reply_to_user_id": 19992977,
+    "in_reply_to_user_id_str": "19992977",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.41823688,
+                        37.78151103
+                    ],
+                    [
+                        -122.40751392,
+                        37.78151103
+                    ],
+                    [
+                        -122.40751392,
+                        37.78832898
+                    ],
+                    [
+                        -122.41823688,
+                        37.78832898
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Tenderloin, San Francisco",
+        "id": "7ab4041072a386f6",
+        "name": "Tenderloin",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/7ab4041072a386f6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@ADP good, better late than never. So you have a web dev team now? Seems like it was built, then abandoned, by contractors",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 04 21:20:29 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Director of Product Management @Zendesk. Myself and my team look after the ticketing, business rules, agent experience, knowledge & community! How can I help?",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/jakeholman",
+                        "expanded_url": "http://www.linkedin.com/in/jakeholman",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/cBJpjQKeix"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1,
+        "follow_request_sent": false,
+        "followers_count": 1125,
+        "following": false,
+        "friends_count": 320,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20095111,
+        "id_str": "20095111",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 57,
+        "location": "iPhone: 51.310146,-0.332917",
+        "name": "Jake Holman",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/524929591974969344/ig2v8BTA_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/524929591974969344/ig2v8BTA_normal.png",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jakeisonline",
+        "statuses_count": 6325,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/cBJpjQKeix",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

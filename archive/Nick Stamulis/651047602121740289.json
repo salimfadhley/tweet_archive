@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 05 14:53:38 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 562190552,
+                "id_str": "562190552",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Hilton Help",
+                "screen_name": "HiltonHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 651047602121740289,
+    "id_str": "651047602121740289",
+    "in_reply_to_screen_name": "HiltonHelp",
+    "in_reply_to_status_id": 651046771041398785,
+    "in_reply_to_status_id_str": "651046771041398785",
+    "in_reply_to_user_id": 562190552,
+    "in_reply_to_user_id_str": "562190552",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.320464,
+                        38.533149
+                    ],
+                    [
+                        -90.175132,
+                        38.533149
+                    ],
+                    [
+                        -90.175132,
+                        38.774349
+                    ],
+                    [
+                        -90.320464,
+                        38.774349
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "St Louis, MO",
+        "id": "0570f015c264cbd9",
+        "name": "St Louis",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0570f015c264cbd9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@HiltonHelp Downtown Hilton St. Louis Ballpark Village; only Option is $9.95 per day, nothing complimentary when searching for wifi. Thanks",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 15 17:28:33 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 21,
+        "follow_request_sent": false,
+        "followers_count": 22,
+        "following": false,
+        "friends_count": 43,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 464824792,
+        "id_str": "464824792",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Nick Stamulis",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1757094742/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1757094742/image_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NickStamulis",
+        "statuses_count": 26,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

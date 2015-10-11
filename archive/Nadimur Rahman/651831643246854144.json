@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 07 18:49:08 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15818391,
+                "id_str": "15818391",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "HTC",
+                "screen_name": "htc"
+            },
+            {
+                "id": 20506279,
+                "id_str": "20506279",
+                "indices": [
+                    5,
+                    12
+                ],
+                "name": "HTC UK",
+                "screen_name": "HTC_UK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 651831643246854144,
+    "id_str": "651831643246854144",
+    "in_reply_to_screen_name": "htc",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15818391,
+    "in_reply_to_user_id_str": "15818391",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.254269,
+                        51.379947
+                    ],
+                    [
+                        -0.124309,
+                        51.379947
+                    ],
+                    [
+                        -0.124309,
+                        51.441804
+                    ],
+                    [
+                        -0.254269,
+                        51.441804
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Merton, London",
+        "id": "3798b82d031ee49c",
+        "name": "Merton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3798b82d031ee49c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@htc @HTC_UK trying desperately to connect HTC One to PC without joy. Sync Mgr doesn't pick up phone...help!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 22 15:19:49 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Teach to Learn and Learn to Teach, AHT in Secondary School and part of AMJ UK",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1518,
+        "follow_request_sent": false,
+        "followers_count": 1263,
+        "following": false,
+        "friends_count": 2002,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 67909359,
+        "id_str": "67909359",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 37,
+        "location": "Surrey",
+        "name": "Nadimur Rahman",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/67909359/1355770903",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/492733704557821953/LvAF_ZeH_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/492733704557821953/LvAF_ZeH_normal.jpeg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NadimurRahman",
+        "statuses_count": 12748,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

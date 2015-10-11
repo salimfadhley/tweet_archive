@@ -1,0 +1,146 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 03 16:40:31 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 82151473,
+                "id_str": "82151473",
+                "indices": [
+                    1,
+                    9
+                ],
+                "name": "Citi",
+                "screen_name": "AskCiti"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 650349722633437185,
+    "id_str": "650349722633437185",
+    "in_reply_to_screen_name": "AskCiti",
+    "in_reply_to_status_id": 650348703446888448,
+    "in_reply_to_status_id_str": "650348703446888448",
+    "in_reply_to_user_id": 82151473,
+    "in_reply_to_user_id_str": "82151473",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.5001644,
+                        37.649122
+                    ],
+                    [
+                        -122.405233,
+                        37.649122
+                    ],
+                    [
+                        -122.405233,
+                        37.708437
+                    ],
+                    [
+                        -122.5001644,
+                        37.708437
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Daly City, CA",
+        "id": "6a71821001635bbd",
+        "name": "Daly City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6a71821001635bbd.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": ".@AskCiti Oh, there are *many* problems with your product (about which I have tweeted numerous times!), but that wasn't the issue here. :-/",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 15 17:11:18 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "http://t.co/W9nxRSzlU0 at @TwitterDev (Tweets are my own); problem-solver; builder; product/project manager; geek; philosopher; fitness enthusiast (HIT & Paleo)",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "dev.twitter.com",
+                        "expanded_url": "http://dev.twitter.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/W9nxRSzlU0"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "arthurzey.com",
+                        "expanded_url": "http://www.arthurzey.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/12vRQZyD2B"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 97,
+        "follow_request_sent": false,
+        "followers_count": 3377,
+        "following": false,
+        "friends_count": 575,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 40284074,
+        "id_str": "40284074",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 83,
+        "location": "San Francisco, CA",
+        "name": "Arthur Zey",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000372240388/b81841ca932765ae3c0650965678272a_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000372240388/b81841ca932765ae3c0650965678272a_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LogicalArthur",
+        "statuses_count": 24350,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/12vRQZyD2B",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

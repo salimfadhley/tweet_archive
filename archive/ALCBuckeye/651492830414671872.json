@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 06 20:22:49 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Nqi0JTnrTL",
+                "expanded_url": "http://twitter.com/ALCBuckeye/status/651492830414671872/photo/1",
+                "id": 651492826794995712,
+                "id_str": "651492826794995712",
+                "indices": [
+                    68,
+                    90
+                ],
+                "media_url": "http://pbs.twimg.com/media/CQqRRjLUsAAFHYv.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CQqRRjLUsAAFHYv.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 682
+                    },
+                    "medium": {
+                        "h": 900,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 510,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/Nqi0JTnrTL"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 46177695,
+                "id_str": "46177695",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Walgreens",
+                "screen_name": "Walgreens"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 651492830414671872,
+    "id_str": "651492830414671872",
+    "in_reply_to_screen_name": "Walgreens",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 46177695,
+    "in_reply_to_user_id_str": "46177695",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -112.3239143,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.8154652
+                    ],
+                    [
+                        -112.3239143,
+                        33.8154652
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Phoenix, AZ",
+        "id": "5c62ffb0f0f3479d",
+        "name": "Phoenix",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Walgreens FREE 1st delivery with Postmates. Enter promo code f7ni7 http://t.co/Nqi0JTnrTL",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 04 03:19:54 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7,
+        "follow_request_sent": false,
+        "followers_count": 34,
+        "following": false,
+        "friends_count": 101,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 139939496,
+        "id_str": "139939496",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Buckeye,AZ",
+        "name": "ALCBuckeye",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/139939496/1357092753",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3052901260/896bd060ef276d79ee50345273480be8_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3052901260/896bd060ef276d79ee50345273480be8_normal.jpeg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ALCBuckeye",
+        "statuses_count": 163,
+        "time_zone": "Arizona",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

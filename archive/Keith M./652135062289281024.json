@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 08 14:54:49 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    104,
+                    115
+                ],
+                "text": "goldisbest"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 42712551,
+                "id_str": "42712551",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "American Express",
+                "screen_name": "AmericanExpress"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652135062289281024,
+    "id_str": "652135062289281024",
+    "in_reply_to_screen_name": "AmericanExpress",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 42712551,
+    "in_reply_to_user_id_str": "42712551",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -124.482003,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        42.009519
+                    ],
+                    [
+                        -124.482003,
+                        42.009519
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "California, USA",
+        "id": "fbd6d2f5a4e4a15e",
+        "name": "California",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanExpress that centurion club in SFO looks so nice. I guess if I have to ask, I can't afford it. #goldisbest",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 13 06:11:08 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "FGCU Grad, Car hobbyist, and Apple QA Engineer",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 31,
+        "follow_request_sent": false,
+        "followers_count": 116,
+        "following": false,
+        "friends_count": 333,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 389924975,
+        "id_str": "389924975",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "San Jose, CA",
+        "name": "Keith M.",
+        "notifications": false,
+        "profile_background_color": "B8BBC4",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000147314831/nOVols0B.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000147314831/nOVols0B.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/389924975/1427951828",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/583498376290775040/9RiU_7lx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/583498376290775040/9RiU_7lx_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "keith_michel",
+        "statuses_count": 659,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
