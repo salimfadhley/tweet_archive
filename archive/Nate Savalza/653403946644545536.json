@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 12 02:56:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2917968139,
+                "id_str": "2917968139",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Starbucks Help",
+                "screen_name": "starbuckshelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653403946644545536,
+    "id_str": "653403946644545536",
+    "in_reply_to_screen_name": "starbuckshelp",
+    "in_reply_to_status_id": 653389851375575040,
+    "in_reply_to_status_id_str": "653389851375575040",
+    "in_reply_to_user_id": 2917968139,
+    "in_reply_to_user_id_str": "2917968139",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@starbuckshelp will do",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 25 02:32:47 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "musician \u2022 explorer of new places",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5423,
+        "follow_request_sent": false,
+        "followers_count": 371,
+        "following": false,
+        "friends_count": 353,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 473532480,
+        "id_str": "473532480",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "New York, NY",
+        "name": "Nate Savalza",
+        "notifications": false,
+        "profile_background_color": "A5C257",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/545899537/x12b47cfcdf949225a5fc2f152c7303a.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/545899537/x12b47cfcdf949225a5fc2f152c7303a.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/473532480/1432750988",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627691906080854016/3WABi7t1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/627691906080854016/3WABi7t1_normal.jpg",
+        "profile_link_color": "3B2B32",
+        "profile_sidebar_border_color": "962A3A",
+        "profile_sidebar_fill_color": "752839",
+        "profile_text_color": "599661",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NSavalza",
+        "statuses_count": 992,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
