@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 09 21:01:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652589850470670336,
+    "id_str": "652589850470670336",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.188998,
+                        38.666358
+                    ],
+                    [
+                        -90.136467,
+                        38.666358
+                    ],
+                    [
+                        -90.136467,
+                        38.692704
+                    ],
+                    [
+                        -90.188998,
+                        38.692704
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Madison, IL",
+        "id": "6e476e7990c60eb3",
+        "name": "Madison",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6e476e7990c60eb3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ATT why is my wifi so slow",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 22 18:59:00 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "how can i be ready for the future when im not even ready to get up in the morning // Orgullosa Mexicana // GCHS",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "expanded_url": null,
+                        "indices": [
+                            0,
+                            26
+                        ],
+                        "url": "http://ask.fm/dianepyatt18"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 32791,
+        "follow_request_sent": false,
+        "followers_count": 2243,
+        "following": false,
+        "friends_count": 1783,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 615441349,
+        "id_str": "615441349",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "who knows",
+        "name": "sugar plum",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/615441349/1443674855",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649446048960610304/DHSjQT2V_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/649446048960610304/DHSjQT2V_normal.jpg",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dianepyatt18",
+        "statuses_count": 17649,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://ask.fm/dianepyatt18",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

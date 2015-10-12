@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 06 09:54:13 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18994444,
+                "id_str": "18994444",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "IBM",
+                "screen_name": "IBM"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 651334639039184896,
+    "id_str": "651334639039184896",
+    "in_reply_to_screen_name": "IBM",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18994444,
+    "in_reply_to_user_id_str": "18994444",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.6654364,
+                        4.1974055
+                    ],
+                    [
+                        14.6777951,
+                        4.1974055
+                    ],
+                    [
+                        14.6777951,
+                        13.8881151
+                    ],
+                    [
+                        2.6654364,
+                        13.8881151
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Nigeria",
+        "country_code": "NG",
+        "full_name": "Nigeria",
+        "id": "59b27337f38d658b",
+        "name": "Nigeria",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/59b27337f38d658b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@IBM ITSM solutions, accelerate  services delivery through advanced automation, performance management",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 17 11:25:55 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We are an Information Technology company with 4 lines of business focus:  IT Security, Technology Services, Risk Management and Workforce",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mayakorp.com",
+                        "expanded_url": "http://www.mayakorp.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/5DFi4OjTIw"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 16,
+        "follow_request_sent": false,
+        "followers_count": 146,
+        "following": false,
+        "friends_count": 363,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 763533889,
+        "id_str": "763533889",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Lagos, Nigeria",
+        "name": "Mayakorp Nigeria Ltd",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/763533889/1441636985",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3205936915/be0d7845d79f9470dfb0b013c9d4a187_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3205936915/be0d7845d79f9470dfb0b013c9d4a187_normal.png",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MayakorpNigeria",
+        "statuses_count": 524,
+        "time_zone": "West Central Africa",
+        "url": "http://t.co/5DFi4OjTIw",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

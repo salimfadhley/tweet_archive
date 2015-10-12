@@ -1,0 +1,141 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 03 21:51:50 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    12,
+                    17
+                ],
+                "text": "spam"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 23482357,
+                "id_str": "23482357",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "The Coca-Cola Co.",
+                "screen_name": "CocaColaCo"
+            },
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    18,
+                    26
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 650428069287694336,
+    "id_str": "650428069287694336",
+    "in_reply_to_screen_name": "CocaColaCo",
+    "in_reply_to_status_id": 650370003326251008,
+    "in_reply_to_status_id_str": "650370003326251008",
+    "in_reply_to_user_id": 23482357,
+    "in_reply_to_user_id_str": "23482357",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        4.549262,
+                        51.8387077
+                    ],
+                    [
+                        4.6474958,
+                        51.8387077
+                    ],
+                    [
+                        4.6474958,
+                        51.9030061
+                    ],
+                    [
+                        4.549262,
+                        51.9030061
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Nederland",
+        "country_code": "NL",
+        "full_name": "Ridderkerk, Zuid-Holland",
+        "id": "aa79a3cfc9a36113",
+        "name": "Ridderkerk",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/aa79a3cfc9a36113.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CocaColaCo #spam @twitter",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 20 11:39:59 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ridderkerk",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 103,
+        "follow_request_sent": false,
+        "followers_count": 164,
+        "following": false,
+        "friends_count": 214,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 769363242,
+        "id_str": "769363242",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "nl",
+        "listed_count": 20,
+        "location": "",
+        "name": "mario",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000274379936/8f90f51f57991e2dff656c089b04e813_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000274379936/8f90f51f57991e2dff656c089b04e813_normal.jpeg",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "mariov555",
+        "statuses_count": 14793,
+        "time_zone": "Athens",
+        "url": null,
+        "utc_offset": 10800,
+        "verified": false
+    }
+}

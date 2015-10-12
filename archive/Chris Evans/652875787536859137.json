@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 10 15:58:12 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    128,
+                    135
+                ],
+                "text": "stupid"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 59889953,
+                "id_str": "59889953",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Verizon",
+                "screen_name": "verizon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652875787536859137,
+    "id_str": "652875787536859137",
+    "in_reply_to_screen_name": "verizon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 59889953,
+    "in_reply_to_user_id_str": "59889953",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.280822,
+                        26.295711
+                    ],
+                    [
+                        -80.065981,
+                        26.295711
+                    ],
+                    [
+                        -80.065981,
+                        26.427259
+                    ],
+                    [
+                        -80.280822,
+                        26.427259
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Boca Raton, FL",
+        "id": "d1cd39353c51904d",
+        "name": "Boca Raton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/d1cd39353c51904d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@verizon super security: Asked me my DOB and then how old I was. Guess they are weeding out those crooks with poor math skills. #stupid",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 24 22:55:14 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Traveling and tweeting my observations. Life's an adventure. OSU Beaver Believer, Team Rubicon Member, Proud father of two great young adults.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 416,
+        "follow_request_sent": false,
+        "followers_count": 393,
+        "following": false,
+        "friends_count": 518,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14519144,
+        "id_str": "14519144",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 16,
+        "location": "Boca Raton, FL",
+        "name": "Chris Evans",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/20767457/IMG_2912.JPG",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/20767457/IMG_2912.JPG",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14519144/1409926096",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/507892975104704513/sz6JxqyJ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/507892975104704513/sz6JxqyJ_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "2chaos",
+        "statuses_count": 6410,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

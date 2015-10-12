@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 07 21:39:08 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15131310,
+                "id_str": "15131310",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Whole Foods Market",
+                "screen_name": "WholeFoods"
+            },
+            {
+                "id": 525629781,
+                "id_str": "525629781",
+                "indices": [
+                    122,
+                    138
+                ],
+                "name": "Dallas Brew Scene",
+                "screen_name": "DallasBrewScene"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 651874425474711552,
+    "id_str": "651874425474711552",
+    "in_reply_to_screen_name": "WholeFoods",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15131310,
+    "in_reply_to_user_id_str": "15131310",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.856247,
+                        32.932133
+                    ],
+                    [
+                        -96.807772,
+                        32.932133
+                    ],
+                    [
+                        -96.807772,
+                        32.987442
+                    ],
+                    [
+                        -96.856247,
+                        32.987442
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Addison, TX",
+        "id": "570002ce3d2a7ac1",
+        "name": "Addison",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/570002ce3d2a7ac1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@WholeFoods Addison will be tapping some of our Cinnamon Girl Spiced Red Ale tomorrow @ 5p. Buy the beer, keep the glass! @DallasBrewScene",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 02 17:39:33 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A new brewery in our beloved state of Texas!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/REVOLVERBREWING",
+                        "expanded_url": "http://www.facebook.com/REVOLVERBREWING",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/b7K5vk7AgE"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 577,
+        "follow_request_sent": false,
+        "followers_count": 10087,
+        "following": false,
+        "friends_count": 79,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 328070922,
+        "id_str": "328070922",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 285,
+        "location": "Granbury, Texas",
+        "name": "Revolver Brewing",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000176756960/-ewe6tG9.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000176756960/-ewe6tG9.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/328070922/1431454183",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/427921760705454081/HLDj8kqK_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/427921760705454081/HLDj8kqK_normal.jpeg",
+        "profile_link_color": "949494",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RevolverBrewing",
+        "statuses_count": 2371,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/b7K5vk7AgE",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

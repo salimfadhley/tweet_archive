@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -91.94367902,
+            30.09969613
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sat Oct 10 14:46:23 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19336500,
+                "id_str": "19336500",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Lowe's",
+                "screen_name": "Lowes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            30.09969613,
+            -91.94367902
+        ],
+        "type": "Point"
+    },
+    "id": 652857714519863297,
+    "id_str": "652857714519863297",
+    "in_reply_to_screen_name": "Lowes",
+    "in_reply_to_status_id": 647044981115371520,
+    "in_reply_to_status_id_str": "647044981115371520",
+    "in_reply_to_user_id": 19336500,
+    "in_reply_to_user_id_str": "19336500",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -92.0163978,
+                        30.046877
+                    ],
+                    [
+                        -91.91848,
+                        30.046877
+                    ],
+                    [
+                        -91.91848,
+                        30.1702787
+                    ],
+                    [
+                        -92.0163978,
+                        30.1702787
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Broussard, LA",
+        "id": "0058ef3b0638fbfd",
+        "name": "Broussard",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0058ef3b0638fbfd.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Lowes thought this was drake at first lol",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 20 02:45:33 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "| LA | Ephesians 6:11 | Infantryman |",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2664,
+        "follow_request_sent": false,
+        "followers_count": 511,
+        "following": false,
+        "friends_count": 319,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1023354450,
+        "id_str": "1023354450",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "Jonathan Thiessen",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1023354450/1444411554",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/651241707137200130/tZ9twIHU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/651241707137200130/tZ9twIHU_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ThiessenJ",
+        "statuses_count": 18493,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

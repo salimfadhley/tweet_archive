@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 05 02:32:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/zgY2S1cNs0",
+                "expanded_url": "http://twitter.com/sonyamicker/status/650860968424177664/photo/1",
+                "id": 650860961012645888,
+                "id_str": "650860961012645888",
+                "indices": [
+                    65,
+                    87
+                ],
+                "media_url": "http://pbs.twimg.com/media/CQhSmHtUAAAbL1t.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CQhSmHtUAAAbL1t.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 576
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 576
+                    },
+                    "small": {
+                        "h": 604,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/zgY2S1cNs0"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19336500,
+                "id_str": "19336500",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Lowe's",
+                "screen_name": "Lowes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 650860968424177664,
+    "id_str": "650860968424177664",
+    "in_reply_to_screen_name": "Lowes",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19336500,
+    "in_reply_to_user_id_str": "19336500",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.727283,
+                        40.1571255
+                    ],
+                    [
+                        -80.699834,
+                        40.1571255
+                    ],
+                    [
+                        -80.699834,
+                        40.165971
+                    ],
+                    [
+                        -80.727283,
+                        40.165971
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Yorkville, OH",
+        "id": "143f3196e459298c",
+        "name": "Yorkville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/143f3196e459298c.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Lowes Druby loves Lowe's. For her it's better than the petstore http://t.co/zgY2S1cNs0",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 21 14:10:24 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I'm a girly girl who loves fashion mixed in with some heavy metal. But I have a sporty side. Luv my Pittsburgh Steelers  the Buccos and a huge wrestling fanatic",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1011,
+        "follow_request_sent": false,
+        "followers_count": 373,
+        "following": false,
+        "friends_count": 830,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2886925720,
+        "id_str": "2886925720",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Yorkville ohio",
+        "name": "*Sonya Micker*",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2886925720/1440108619",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/652236645773799424/v9Uu4vHF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/652236645773799424/v9Uu4vHF_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sonyamicker",
+        "statuses_count": 2014,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

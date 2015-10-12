@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 12 01:56:44 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19638600,
+                "id_str": "19638600",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Scotiabank",
+                "screen_name": "scotiabank"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 653388800500994048,
+    "id_str": "653388800500994048",
+    "in_reply_to_screen_name": "scotiabank",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19638600,
+    "in_reply_to_user_id_str": "19638600",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -99.1919955,
+                        19.357102
+                    ],
+                    [
+                        -99.1309649,
+                        19.357102
+                    ],
+                    [
+                        -99.1309649,
+                        19.4041235
+                    ],
+                    [
+                        -99.1919955,
+                        19.4041235
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "M\u00e9xico",
+        "country_code": "MX",
+        "full_name": "Benito Ju\u00e1rez, Distrito Federal",
+        "id": "7d93122509633720",
+        "name": "Benito Ju\u00e1rez",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7d93122509633720.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@scotiabank no conviene solicitar tarjeta de cr\u00e9dito a este banco. Tengan cuidado.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 08 15:39:31 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Art\u00edsta.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 11602,
+        "follow_request_sent": false,
+        "followers_count": 602,
+        "following": false,
+        "friends_count": 1989,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 602932890,
+        "id_str": "602932890",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 13,
+        "location": "Barcelona, Espa\u00f1a",
+        "name": "Nanoumaga",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/882239935/d336e15115b0d98209639012a9b555d9.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/882239935/d336e15115b0d98209639012a9b555d9.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/602932890/1435788195",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/639513034663178240/9395pMIO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/639513034663178240/9395pMIO_normal.jpg",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A36B50",
+        "profile_text_color": "C94C48",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nanoubaga",
+        "statuses_count": 18000,
+        "time_zone": "Paris",
+        "url": null,
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

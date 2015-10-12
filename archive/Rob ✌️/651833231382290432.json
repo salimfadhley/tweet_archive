@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 07 18:55:27 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    105,
+                    110
+                ],
+                "text": "fail"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 111679943,
+                "id_str": "111679943",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonaldsCorp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 651833231382290432,
+    "id_str": "651833231382290432",
+    "in_reply_to_screen_name": "McDonaldsCorp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 111679943,
+    "in_reply_to_user_id_str": "111679943",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.5093057,
+                        51.286606
+                    ],
+                    [
+                        0.334433,
+                        51.286606
+                    ],
+                    [
+                        0.334433,
+                        51.6916388
+                    ],
+                    [
+                        -0.5093057,
+                        51.6916388
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "London, England",
+        "id": "5d838f7a011f4a2d",
+        "name": "London",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/5d838f7a011f4a2d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@McDonaldsCorp What a joke, drive through don't mean waiting 20mins for my food.. Worse service ever !!! #fail",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 11 15:05:07 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Born To Live In The \u2600\ufe0f Work Hard Play Hard. #Arsenal Instagram ROBOLA1 #NoSnakes\u26d4\ufe0f #JetSetter \u2708\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 193,
+        "follow_request_sent": false,
+        "followers_count": 163,
+        "following": false,
+        "friends_count": 556,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2438650212,
+        "id_str": "2438650212",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en-gb",
+        "listed_count": 1,
+        "location": "London, Essex, Amsterdam",
+        "name": "Rob \u270c\ufe0f",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2438650212/1442312051",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/616900714099527680/nk6yb-CM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/616900714099527680/nk6yb-CM_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Robola00",
+        "statuses_count": 597,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

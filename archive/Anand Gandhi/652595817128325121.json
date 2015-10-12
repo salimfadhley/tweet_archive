@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 09 21:25:42 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/llwFgdFW2u",
+                "expanded_url": "http://twitter.com/uneekg/status/652595817128325121/photo/1",
+                "id": 652595769409605632,
+                "id_str": "652595769409605632",
+                "indices": [
+                    67,
+                    89
+                ],
+                "media_url": "http://pbs.twimg.com/media/CQ58ZQmVEAAj0qq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CQ58ZQmVEAAj0qq.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1365,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/llwFgdFW2u"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1900686864,
+                "id_str": "1900686864",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "EnterpriseRentACar",
+                "screen_name": "Enterprise"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652595817128325121,
+    "id_str": "652595817128325121",
+    "in_reply_to_screen_name": "Enterprise",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1900686864,
+    "in_reply_to_user_id_str": "1900686864",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.046876,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.416412
+                    ],
+                    [
+                        -81.046876,
+                        35.416412
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Charlotte, NC",
+        "id": "512a8a4a4c4b4be0",
+        "name": "Charlotte",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/512a8a4a4c4b4be0.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Enterprise what kind of location leaves the office before 6:00pm. http://t.co/llwFgdFW2u",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 05 07:11:17 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "uneekg~ unique gandhi\r\nThat inquisitive one. I give the Gandhi perpective to sports, real-time events, live traffic and happenings around my shifting locality",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 168,
+        "follow_request_sent": false,
+        "followers_count": 106,
+        "following": false,
+        "friends_count": 218,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 87635386,
+        "id_str": "87635386",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Anywhere near delightful food ",
+        "name": "Anand Gandhi",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1258670224/Photo-05031_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1258670224/Photo-05031_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "uneekg",
+        "statuses_count": 3809,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

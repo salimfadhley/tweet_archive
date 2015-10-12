@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 11 15:32:52 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653231802866249728,
+    "id_str": "653231802866249728",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -98.6144114,
+                        33.835461
+                    ],
+                    [
+                        -98.425702,
+                        33.835461
+                    ],
+                    [
+                        -98.425702,
+                        34.017379
+                    ],
+                    [
+                        -98.6144114,
+                        34.017379
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Wichita Falls, TX",
+        "id": "b980515f617707a9",
+        "name": "Wichita Falls",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b980515f617707a9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks just needs to sponsor me at this point",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 20 01:09:31 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "They call me ruthless, but you can call me tonight || Midwestern State \u26bd\ufe0f #15 || cancer survivor",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "thewichitan.com/womens-soccer-\u2026",
+                        "expanded_url": "http://thewichitan.com/womens-soccer-player-kicks-cancer/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/rLRWQfDLpX"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 592,
+        "follow_request_sent": false,
+        "followers_count": 1372,
+        "following": false,
+        "friends_count": 594,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 33362764,
+        "id_str": "33362764",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 14,
+        "location": "HTX // Wichita Falls",
+        "name": "Kylie Austin",
+        "notifications": false,
+        "profile_background_color": "17E6E6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000052210962/ee25170582560e2fab8754cfeb4d6da7.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000052210962/ee25170582560e2fab8754cfeb4d6da7.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33362764/1444086623",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/651172277397024768/rumE_mcH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/651172277397024768/rumE_mcH_normal.jpg",
+        "profile_link_color": "2EB07C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F7DA93",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Kyliethesmiley",
+        "statuses_count": 59554,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/rLRWQfDLpX",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

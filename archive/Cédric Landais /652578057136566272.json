@@ -1,0 +1,325 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 09 20:15:07 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/LittleCityCH/s\u2026",
+                "expanded_url": "https://twitter.com/LittleCityCH/status/652476586311188480",
+                "indices": [
+                    9,
+                    32
+                ],
+                "url": "https://t.co/5uFyDJE7NN"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 25103967,
+                "id_str": "25103967",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "The Boeing Company",
+                "screen_name": "Boeing"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652578057136566272,
+    "id_str": "652578057136566272",
+    "in_reply_to_screen_name": "Boeing",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 25103967,
+    "in_reply_to_user_id_str": "25103967",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.2241006,
+                        48.8155214
+                    ],
+                    [
+                        2.4699053,
+                        48.8155214
+                    ],
+                    [
+                        2.4699053,
+                        48.9021461
+                    ],
+                    [
+                        2.2241006,
+                        48.9021461
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Paris, Ile-de-France",
+        "id": "09f6a7707f18e0b1",
+        "name": "Paris",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": {
+            "coordinates": [
+                2.5787527,
+                49.0068889
+            ],
+            "type": "Point"
+        },
+        "created_at": "Fri Oct 09 13:31:55 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/FOB8c5rWGR",
+                    "expanded_url": "http://twitter.com/LittleCityCH/status/652476586311188480/photo/1",
+                    "id": 652476580669865984,
+                    "id_str": "652476580669865984",
+                    "indices": [
+                        69,
+                        91
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CQ4P_j8WwAAb-dq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CQ4P_j8WwAAb-dq.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 769,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 450,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 255,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "http://t.co/FOB8c5rWGR"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 106062176,
+                    "id_str": "106062176",
+                    "indices": [
+                        58,
+                        68
+                    ],
+                    "name": "Air France",
+                    "screen_name": "airfrance"
+                }
+            ]
+        },
+        "favorite_count": 7,
+        "favorited": false,
+        "geo": {
+            "coordinates": [
+                49.0068889,
+                2.5787527
+            ],
+            "type": "Point"
+        },
+        "id": 652476586311188480,
+        "id_str": "652476586311188480",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "de",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            2.5647252,
+                            49.0000697
+                        ],
+                        [
+                            2.6301151,
+                            49.0000697
+                        ],
+                        [
+                            2.6301151,
+                            49.0350284
+                        ],
+                        [
+                            2.5647252,
+                            49.0350284
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "France",
+            "country_code": "FR",
+            "full_name": "Le Mesnil-Amelot, Ile-de-France",
+            "id": "07185ea0ed96fe09",
+            "name": "Le Mesnil-Amelot",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/07185ea0ed96fe09.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Falls mich jemand sucht, ich bin dann mal unter der 777 \ud83d\ude0a @airfrance http://t.co/FOB8c5rWGR",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Dec 19 23:33:26 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "valeria | swiss travel & food blogger | loves thai food & cupcakes | instagram: @valeriaslittlecity | currently in Zurich",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "littlecity.ch",
+                            "expanded_url": "http://littlecity.ch",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/6sNKL01sSf"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 2562,
+            "follow_request_sent": false,
+            "followers_count": 1848,
+            "following": false,
+            "friends_count": 1160,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 1023100596,
+            "id_str": "1023100596",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "de",
+            "listed_count": 71,
+            "location": "Zurich",
+            "name": "ValeriasLittleCITY",
+            "notifications": false,
+            "profile_background_color": "F5F0F4",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1023100596/1429620060",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/515562445037793280/_7Bur-OB_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/515562445037793280/_7Bur-OB_normal.jpeg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LittleCityCH",
+            "statuses_count": 1696,
+            "time_zone": "Bern",
+            "url": "http://t.co/6sNKL01sSf",
+            "utc_offset": 7200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 652476586311188480,
+    "quoted_status_id_str": "652476586311188480",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Boeing  https://t.co/5uFyDJE7NN",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 17 18:42:23 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Attach\u00e9 de presse Air France, mes tweets n'engagent que moi !!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 224,
+        "follow_request_sent": false,
+        "followers_count": 543,
+        "following": false,
+        "friends_count": 581,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2288485103,
+        "id_str": "2288485103",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 27,
+        "location": "Paris, Ile-de-France",
+        "name": "C\u00e9dric Landais ",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2288485103/1442435276",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627954775292813312/-TFAguti_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/627954775292813312/-TFAguti_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "landais_cedric",
+        "statuses_count": 1185,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

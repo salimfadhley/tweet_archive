@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 12 13:10:33 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    62,
+                    79
+                ],
+                "text": "mondaymotivation"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/xxWjygCxXt",
+                "expanded_url": "http://twitter.com/jamesrhsmith/status/653558372311040001/photo/1",
+                "id": 653558359447080960,
+                "id_str": "653558359447080960",
+                "indices": [
+                    80,
+                    102
+                ],
+                "media_url": "http://pbs.twimg.com/media/CRHn3X7UkAAquZN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CRHn3X7UkAAquZN.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/xxWjygCxXt"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653558372311040001,
+    "id_str": "653558372311040001",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.910507,
+                        42.0983323
+                    ],
+                    [
+                        -87.77999,
+                        42.0983323
+                    ],
+                    [
+                        -87.77999,
+                        42.153178
+                    ],
+                    [
+                        -87.910507,
+                        42.153178
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Northbrook, IL",
+        "id": "ecbe21c16e88f161",
+        "name": "Northbrook",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ecbe21c16e88f161.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Starbucks I asked for a Grande white mocha and got hot milk. #mondaymotivation http://t.co/xxWjygCxXt",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 12 04:01:42 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Connoisseur of fun!\nIf your not laughing, your not living! #BatmanAudi",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3782,
+        "follow_request_sent": false,
+        "followers_count": 180,
+        "following": false,
+        "friends_count": 322,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 521934878,
+        "id_str": "521934878",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Chicago burbs ",
+        "name": "JimmyJames",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000051791955/716d9056533b8e7d094224ea5e72dc96.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000051791955/716d9056533b8e7d094224ea5e72dc96.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/521934878/1416164941",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/620827400918724608/xLe3PqAF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/620827400918724608/xLe3PqAF_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jamesrhsmith",
+        "statuses_count": 1834,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

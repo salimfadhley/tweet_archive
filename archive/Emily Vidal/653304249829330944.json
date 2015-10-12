@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 11 20:20:45 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653304249829330944,
+    "id_str": "653304249829330944",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -115.1876163482666,
+                        36.11711156556251
+                    ],
+                    [
+                        -115.1876163482666,
+                        36.11711156556251
+                    ],
+                    [
+                        -115.1876163482666,
+                        36.11711156556251
+                    ],
+                    [
+                        -115.1876163482666,
+                        36.11711156556251
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "RIO All-Suite Hotel & Casino",
+        "id": "07d9d2195fc84001",
+        "name": "RIO All-Suite Hotel & Casino",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9d2195fc84001.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks if i pay double for my drink bc I'm in a casino, the barista should still be friendly and give me my change w/o asking for it.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 21 19:14:54 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 88,
+        "follow_request_sent": false,
+        "followers_count": 19,
+        "following": false,
+        "friends_count": 44,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 49398813,
+        "id_str": "49398813",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Los Angeles, CA",
+        "name": "Emily Vidal",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/275617702/batch1_466-2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/275617702/batch1_466-2_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "emilyvidal",
+        "statuses_count": 104,
+        "time_zone": "Tehran",
+        "url": null,
+        "utc_offset": 12600,
+        "verified": false
+    }
+}

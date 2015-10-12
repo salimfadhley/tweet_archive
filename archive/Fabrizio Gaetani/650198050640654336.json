@@ -1,0 +1,326 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 03 06:37:50 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    8,
+                    14
+                ],
+                "text": "Cloud"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/oracle/status/\u2026",
+                "expanded_url": "https://twitter.com/oracle/status/650066494672408576",
+                "indices": [
+                    60,
+                    83
+                ],
+                "url": "https://t.co/cnILt3aN7m"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 809273,
+                "id_str": "809273",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Oracle",
+                "screen_name": "Oracle"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 650198050640654336,
+    "id_str": "650198050640654336",
+    "in_reply_to_screen_name": "Oracle",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 809273,
+    "in_reply_to_user_id_str": "809273",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        11.2325517,
+                        44.4489077
+                    ],
+                    [
+                        11.2968222,
+                        44.4489077
+                    ],
+                    [
+                        11.2968222,
+                        44.494205
+                    ],
+                    [
+                        11.2325517,
+                        44.494205
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Italia",
+        "country_code": "IT",
+        "full_name": "Casalecchio di Reno, Emilia Romagna",
+        "id": "78b01fa55ad4dd38",
+        "name": "Casalecchio di Reno",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/78b01fa55ad4dd38.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Oct 02 21:55:04 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        0,
+                        7
+                    ],
+                    "text": "Oracle"
+                },
+                {
+                    "indices": [
+                        8,
+                        14
+                    ],
+                    "text": "Cloud"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/X5b9sjK1GA",
+                    "expanded_url": "http://twitter.com/Oracle/status/650066494672408576/photo/1",
+                    "id": 649950306441236480,
+                    "id_str": "649950306441236480",
+                    "indices": [
+                        118,
+                        140
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CQUWXDEWEAA-3cM.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CQUWXDEWEAA-3cM.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 435,
+                            "resize": "fit",
+                            "w": 650
+                        },
+                        "medium": {
+                            "h": 401,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 227,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "http://t.co/X5b9sjK1GA"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "bit.ly/1dGyqCI",
+                    "expanded_url": "http://bit.ly/1dGyqCI",
+                    "indices": [
+                        79,
+                        101
+                    ],
+                    "url": "http://t.co/OiN5ZhQWMv"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 42763598,
+                    "id_str": "42763598",
+                    "indices": [
+                        102,
+                        117
+                    ],
+                    "name": "Oracle Magazine",
+                    "screen_name": "oraclemagazine"
+                }
+            ]
+        },
+        "favorite_count": 18,
+        "favorited": false,
+        "geo": null,
+        "id": 650066494672408576,
+        "id_str": "650066494672408576",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "fr",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 31,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "#Oracle #Cloud offers developers more capabilities, choices &amp; combinations http://t.co/OiN5ZhQWMv @OracleMagazine http://t.co/X5b9sjK1GA",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Mar 03 23:54:26 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Stay connected with all things #Oracle: products, services, training, news, events, promotions, and more.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "oracle.com",
+                            "expanded_url": "http://www.oracle.com/",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/IO46kzz8il"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1772,
+            "follow_request_sent": false,
+            "followers_count": 382646,
+            "following": false,
+            "friends_count": 880,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 809273,
+            "id_str": "809273",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 5721,
+            "location": "Redwood Shores, CA",
+            "name": "Oracle",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/754829745/15800ac44cee490b5f79207cac02bfe1.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/754829745/15800ac44cee490b5f79207cac02bfe1.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/809273/1436286265",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/535165913054445568/jT-HJYJg_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/535165913054445568/jT-HJYJg_normal.png",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F2F2F2",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Oracle",
+            "statuses_count": 9420,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/IO46kzz8il",
+            "utc_offset": -25200,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 650066494672408576,
+    "quoted_status_id_str": "650066494672408576",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Oracle #Cloud platform offers developers more capabilities https://t.co/cnILt3aN7m",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 16 09:21:31 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Helping Italian Mid Size Enterprises grow their business with #Cloud #ERP #SCM #PLM #Socialmedia #Modern Cloud",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "it.linkedin.com/in/fabriziogae\u2026",
+                        "expanded_url": "http://it.linkedin.com/in/fabriziogaetani/Edit",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/1k7iFaSmAV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 15,
+        "follow_request_sent": false,
+        "followers_count": 234,
+        "following": false,
+        "friends_count": 59,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2650543664,
+        "id_str": "2650543664",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "it",
+        "listed_count": 196,
+        "location": "Bologna",
+        "name": "Fabrizio Gaetani",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2650543664/1432366588",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/646384129064468481/a2hv5T-E_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/646384129064468481/a2hv5T-E_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fabriziogaetani",
+        "statuses_count": 6759,
+        "time_zone": null,
+        "url": "http://t.co/1k7iFaSmAV",
+        "utc_offset": null,
+        "verified": false
+    }
+}

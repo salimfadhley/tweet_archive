@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 08 19:48:11 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store ",
+                "screen_name": "AppStore"
+            },
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    10,
+                    20
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 930270762,
+                "id_str": "930270762",
+                "indices": [
+                    21,
+                    36
+                ],
+                "name": "Starbucks India",
+                "screen_name": "StarbucksIndia"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652208890810118144,
+    "id_str": "652208890810118144",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": 652201297899294721,
+    "in_reply_to_status_id_str": "652201297899294721",
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        72.7458022,
+                        18.8453429
+                    ],
+                    [
+                        73.0036476,
+                        18.8453429
+                    ],
+                    [
+                        73.0036476,
+                        19.5029372
+                    ],
+                    [
+                        72.7458022,
+                        19.5029372
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Mumbai, Maharashtra",
+        "id": "7929cea6bd5b32bd",
+        "name": "Mumbai",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AppStore @Starbucks @StarbucksIndia when do you plan to launch in India?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 07 07:34:07 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Life is like a sport. Sometimes you win, sometimes you lose. But whatever it is, the game goes on.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 230,
+        "follow_request_sent": false,
+        "followers_count": 131,
+        "following": false,
+        "friends_count": 907,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 38391219,
+        "id_str": "38391219",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Mumbai, India",
+        "name": "Arijit Roy",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38391219/1365273121",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3474259404/5f9d3f548f04a341aef572effa6681d6_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3474259404/5f9d3f548f04a341aef572effa6681d6_normal.jpeg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "iArijitRoy",
+        "statuses_count": 6617,
+        "time_zone": "Mumbai",
+        "url": null,
+        "utc_offset": 19800,
+        "verified": false
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 09 19:44:37 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            },
+            {
+                "id": 62643312,
+                "id_str": "62643312",
+                "indices": [
+                    5,
+                    14
+                ],
+                "name": "ATTCares",
+                "screen_name": "ATTCares"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652570382218752000,
+    "id_str": "652570382218752000",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@ATT @ATTCares WOW! Was just told they cannot help me again because they didn't cancel it forever ago and until I ASK the collections dept",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 05 15:36:51 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "surprises.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "chicagoadhoc.com",
+                        "expanded_url": "http://www.chicagoadhoc.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/WFxFCj6bCG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 161,
+        "follow_request_sent": false,
+        "followers_count": 158,
+        "following": false,
+        "friends_count": 409,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2176307004,
+        "id_str": "2176307004",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "1948 W Chicago Ave, Chicago ",
+        "name": "AD HOC",
+        "notifications": false,
+        "profile_background_color": "403C35",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/524672077358325761/d7ahIfps.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/524672077358325761/d7ahIfps.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2176307004/1413926288",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/443872788038680576/MEi1uCMV_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/443872788038680576/MEi1uCMV_normal.jpeg",
+        "profile_link_color": "333231",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ChicagoAdHoc",
+        "statuses_count": 904,
+        "time_zone": null,
+        "url": "http://t.co/WFxFCj6bCG",
+        "utc_offset": null,
+        "verified": false
+    }
+}

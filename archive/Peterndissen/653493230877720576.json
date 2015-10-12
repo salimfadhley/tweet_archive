@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 12 08:51:42 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 297169759,
+                "id_str": "297169759",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Samsung Mobile",
+                "screen_name": "SamsungMobile"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653493230877720576,
+    "id_str": "653493230877720576",
+    "in_reply_to_screen_name": "SamsungMobile",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 297169759,
+    "in_reply_to_user_id_str": "297169759",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        12.453064,
+                        55.613717
+                    ],
+                    [
+                        12.6511441,
+                        55.613717
+                    ],
+                    [
+                        12.6511441,
+                        55.731834
+                    ],
+                    [
+                        12.453064,
+                        55.731834
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Danmark",
+        "country_code": "DK",
+        "full_name": "Copenhagen, Capital Region of Denmark",
+        "id": "936b83f20956cd4c",
+        "name": "Copenhagen",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/936b83f20956cd4c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@SamsungMobile",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 29 00:21:49 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "noreply007.wordpress.com",
+                        "expanded_url": "http://noreply007.wordpress.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/pMeRVaaOoA"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 46,
+        "follow_request_sent": false,
+        "followers_count": 15,
+        "following": false,
+        "friends_count": 124,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 400408159,
+        "id_str": "400408159",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Denmark",
+        "name": "Peterndissen",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1844585003/new_9309_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1844585003/new_9309_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "peterndissen",
+        "statuses_count": 4379,
+        "time_zone": "Amsterdam",
+        "url": "http://t.co/pMeRVaaOoA",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

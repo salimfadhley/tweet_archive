@@ -1,0 +1,167 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 08 21:32:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 42871498,
+                "id_str": "42871498",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Lockheed Martin",
+                "screen_name": "LockheedMartin"
+            },
+            {
+                "id": 524487620,
+                "id_str": "524487620",
+                "indices": [
+                    16,
+                    27
+                ],
+                "name": "reddit AMA",
+                "screen_name": "reddit_AMA"
+            },
+            {
+                "id": 15840909,
+                "id_str": "15840909",
+                "indices": [
+                    31,
+                    47
+                ],
+                "name": "Northrop Grumman",
+                "screen_name": "northropgrumman"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652235212714209280,
+    "id_str": "652235212714209280",
+    "in_reply_to_screen_name": "LockheedMartin",
+    "in_reply_to_status_id": 652195553774825472,
+    "in_reply_to_status_id_str": "652195553774825472",
+    "in_reply_to_user_id": 42871498,
+    "in_reply_to_user_id_str": "42871498",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@LockheedMartin @reddit_AMA Is @northropgrumman on the team?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 19 18:54:38 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#UCSD (lit./writing) #SCU (law) work: http://t.co/lKhtOSDcSJ #AspiringCurator",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "johnrubens.wordpress.com",
+                        "expanded_url": "http://johnrubens.wordpress.com",
+                        "indices": [
+                            38,
+                            60
+                        ],
+                        "url": "http://t.co/lKhtOSDcSJ"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "johnrubens.wordpress.com",
+                        "expanded_url": "http://johnrubens.wordpress.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/2rq4QJo7J5"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6014,
+        "follow_request_sent": false,
+        "followers_count": 662,
+        "following": false,
+        "friends_count": 1919,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 33278902,
+        "id_str": "33278902",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 66,
+        "location": "California and AZ",
+        "name": "John Matthew Rubens",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33278902/1411238471",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/555936971684462592/Ph7qujSH_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/555936971684462592/Ph7qujSH_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "raftofwater",
+        "statuses_count": 36047,
+        "time_zone": "London",
+        "url": "http://t.co/2rq4QJo7J5",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 02 16:48:21 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 64510593,
+                "id_str": "64510593",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Hilton Hotels",
+                "screen_name": "HiltonHotels"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 649989304932896768,
+    "id_str": "649989304932896768",
+    "in_reply_to_screen_name": "HiltonHotels",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 64510593,
+    "in_reply_to_user_id_str": "64510593",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.23560072135158,
+                        51.8259029271059
+                    ],
+                    [
+                        -1.17213601934124,
+                        51.8259029271059
+                    ],
+                    [
+                        -1.17213601934124,
+                        53.2262100153425
+                    ],
+                    [
+                        -3.23560072135158,
+                        53.2262100153425
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "West Midlands, England",
+        "id": "60160252aeb7e3e5",
+        "name": "West Midlands",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/60160252aeb7e3e5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@HiltonHotels I have been a diamond member for the last 3 year but time to change brands thanks to the London Metrapole",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 09 13:38:45 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 39,
+        "follow_request_sent": false,
+        "followers_count": 122,
+        "following": false,
+        "friends_count": 300,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1657782140,
+        "id_str": "1657782140",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Chris Anderson",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/555115665045340160/DBS--nBC_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/555115665045340160/DBS--nBC_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "65ChrisAnderson",
+        "statuses_count": 76,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

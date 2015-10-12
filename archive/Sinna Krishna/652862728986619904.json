@@ -1,0 +1,135 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            0.1321586,
+            51.5809473
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sat Oct 10 15:06:18 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17309923,
+                "id_str": "17309923",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Sage UK",
+                "screen_name": "sageuk"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            51.5809473,
+            0.1321586
+        ],
+        "type": "Point"
+    },
+    "id": 652862728986619904,
+    "id_str": "652862728986619904",
+    "in_reply_to_screen_name": "sageuk",
+    "in_reply_to_status_id": 648895607478751232,
+    "in_reply_to_status_id_str": "648895607478751232",
+    "in_reply_to_user_id": 17309923,
+    "in_reply_to_user_id_str": "17309923",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        0.0103975,
+                        51.543815
+                    ],
+                    [
+                        0.147328,
+                        51.543815
+                    ],
+                    [
+                        0.147328,
+                        51.626165
+                    ],
+                    [
+                        0.0103975,
+                        51.626165
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Ilford, London",
+        "id": "00486f39ae8bd30d",
+        "name": "Ilford",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00486f39ae8bd30d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@sageuk Pay Manual ?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 08 20:22:00 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4058,
+        "follow_request_sent": false,
+        "followers_count": 45,
+        "following": false,
+        "friends_count": 37,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3025542976,
+        "id_str": "3025542976",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "",
+        "name": "Sinna Krishna",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/568859184683581441/8l8sVNnm_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/568859184683581441/8l8sVNnm_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KrishnaSinna",
+        "statuses_count": 3774,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

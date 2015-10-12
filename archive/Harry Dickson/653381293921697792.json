@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 12 01:26:54 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653381293921697792,
+    "id_str": "653381293921697792",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -86.348441,
+                        39.631677
+                    ],
+                    [
+                        -85.937404,
+                        39.631677
+                    ],
+                    [
+                        -85.937404,
+                        39.927448
+                    ],
+                    [
+                        -86.348441,
+                        39.927448
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Indianapolis, IN",
+        "id": "018929347840059e",
+        "name": "Indianapolis",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/018929347840059e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ATT your internet service is literally the worst thing I've ever experienced.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 04 02:59:00 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Remember my name, I'll be your President one day",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "harrycdickson.wordpress.com",
+                        "expanded_url": "http://harrycdickson.wordpress.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/njazV3dCuj"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6610,
+        "follow_request_sent": false,
+        "followers_count": 769,
+        "following": false,
+        "friends_count": 573,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 276793923,
+        "id_str": "276793923",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "Indianapolis, IN",
+        "name": "Harry Dickson",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/435988294283702272/Pqota2EI.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/435988294283702272/Pqota2EI.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/276793923/1439373911",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/592498165804236800/I4tDsRuR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/592498165804236800/I4tDsRuR_normal.jpg",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "harrydickson4",
+        "statuses_count": 20483,
+        "time_zone": "Indiana (East)",
+        "url": "http://t.co/njazV3dCuj",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

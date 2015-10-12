@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 05 14:56:16 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    8,
+                    15
+                ],
+                "text": "Maxima"
+            },
+            {
+                "indices": [
+                    44,
+                    60
+                ],
+                "text": "BackintheSaddle"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 258730549,
+                "id_str": "258730549",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Nissan",
+                "screen_name": "Nissan"
+            },
+            {
+                "id": 25743813,
+                "id_str": "25743813",
+                "indices": [
+                    33,
+                    43
+                ],
+                "name": "Aerosmith",
+                "screen_name": "Aerosmith"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 651048263055974400,
+    "id_str": "651048263055974400",
+    "in_reply_to_screen_name": "Nissan",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 258730549,
+    "in_reply_to_user_id_str": "258730549",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Nissan #Maxima using a cover of @Aerosmith #BackintheSaddle in a commercial. Nice. Hope u paid the band their royalties",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 22 04:27:04 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "actor&dad.comic.Fantasy baseball/football. \r\nWhite-collar body,Blue-collar face.Kidney Donor 2 mom. I thrive at immaturity! FoodPorn Purveyor. Twitter-quette",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "charliefersko.wix.com/pecanpieismywe\u2026",
+                        "expanded_url": "http://charliefersko.wix.com/pecanpieismyweakness",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/vs4mgUrmkR"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4914,
+        "follow_request_sent": false,
+        "followers_count": 1273,
+        "following": false,
+        "friends_count": 2001,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 181422145,
+        "id_str": "181422145",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 28,
+        "location": "NYC",
+        "name": "Charlie Fersko",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/139460100/xf521e478d67756db4aa726df24402c9.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/139460100/xf521e478d67756db4aa726df24402c9.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/181422145/1398273227",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000855111742/0499c482b6453d5b51635c7c8b5ca3ab_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000855111742/0499c482b6453d5b51635c7c8b5ca3ab_normal.jpeg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Tiggercharlie",
+        "statuses_count": 14589,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/vs4mgUrmkR",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

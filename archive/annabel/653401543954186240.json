@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 12 02:47:22 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653401543954186240,
+    "id_str": "653401543954186240",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.9208596,
+                        30.575695
+                    ],
+                    [
+                        -87.765512,
+                        30.575695
+                    ],
+                    [
+                        -87.765512,
+                        30.684177
+                    ],
+                    [
+                        -87.9208596,
+                        30.684177
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Daphne, AL",
+        "id": "d4aa1d0bb51bccfd",
+        "name": "Daphne",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/d4aa1d0bb51bccfd.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@netflix where is season 4 of Hart of Dixie???",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 13 23:34:34 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "i'm super fun",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4155,
+        "follow_request_sent": false,
+        "followers_count": 464,
+        "following": false,
+        "friends_count": 322,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 334975648,
+        "id_str": "334975648",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Daphne, AL",
+        "name": "annabel",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/334975648/1444453533",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/650325176496836608/_yeaFHhx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/650325176496836608/_yeaFHhx_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Annabel_Parke",
+        "statuses_count": 9733,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

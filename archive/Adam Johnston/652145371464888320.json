@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 08 15:35:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 128267983,
+                "id_str": "128267983",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "TD (Canada)",
+                "screen_name": "TD_Canada"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652145371464888320,
+    "id_str": "652145371464888320",
+    "in_reply_to_screen_name": "TD_Canada",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 128267983,
+    "in_reply_to_user_id_str": "128267983",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -78.3879942,
+                        44.252035
+                    ],
+                    [
+                        -78.268232,
+                        44.252035
+                    ],
+                    [
+                        -78.268232,
+                        44.377544
+                    ],
+                    [
+                        -78.3879942,
+                        44.377544
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Peterborough, Ontario",
+        "id": "32bdf27d67a9570d",
+        "name": "Peterborough",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/32bdf27d67a9570d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TD_Canada i cant login to my account. Is something wrong?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 03 16:12:49 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Listen; there's a hell of a good universe next door: let's go. - E.E. Cummings",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 414,
+        "follow_request_sent": false,
+        "followers_count": 69,
+        "following": false,
+        "friends_count": 163,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 384393632,
+        "id_str": "384393632",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "peterborough",
+        "name": "Adam Johnston",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/623395561144758272/kPk2AmIo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/623395561144758272/kPk2AmIo_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "adamjohnston88",
+        "statuses_count": 3446,
+        "time_zone": "Quito",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

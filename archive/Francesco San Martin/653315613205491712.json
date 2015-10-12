@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 11 21:05:54 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/dTcF5wPuDe",
+                "expanded_url": "http://twitter.com/JavierSanMart10/status/653315613205491712/photo/1",
+                "id": 653315600807137280,
+                "id_str": "653315600807137280",
+                "indices": [
+                    40,
+                    62
+                ],
+                "media_url": "http://pbs.twimg.com/media/CRELE9hUkAAGzmE.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CRELE9hUkAAGzmE.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/dTcF5wPuDe"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653315613205491712,
+    "id_str": "653315613205491712",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -95.823268,
+                        29.522325
+                    ],
+                    [
+                        -95.069705,
+                        29.522325
+                    ],
+                    [
+                        -95.069705,
+                        30.1546646
+                    ],
+                    [
+                        -95.823268,
+                        30.1546646
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Houston, TX",
+        "id": "1c69a67ad480e1b1",
+        "name": "Houston",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks You're the best coffee there http://t.co/dTcF5wPuDe",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 19 15:02:55 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Amo il calcio, i cattolici, vero al 100%, mi piace la cucina, che operano nel settore di marketing",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 502,
+        "follow_request_sent": false,
+        "followers_count": 598,
+        "following": false,
+        "friends_count": 850,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 416335466,
+        "id_str": "416335466",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 8,
+        "location": "Milano,Italy",
+        "name": "Francesco San Martin",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/504143916/tifosis_del_milan.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/504143916/tifosis_del_milan.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/416335466/1418795840",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/545096640353562625/LtY4GC01_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/545096640353562625/LtY4GC01_normal.jpeg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "4F637A",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JavierSanMart10",
+        "statuses_count": 5494,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

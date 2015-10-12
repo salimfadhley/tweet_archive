@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 05 09:46:09 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 109525104,
+                "id_str": "109525104",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "National Grid UK",
+                "screen_name": "nationalgriduk"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 650970220572577792,
+    "id_str": "650970220572577792",
+    "in_reply_to_screen_name": "nationalgriduk",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 109525104,
+    "in_reply_to_user_id_str": "109525104",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.364553,
+                        53.213504
+                    ],
+                    [
+                        -2.322848,
+                        53.213504
+                    ],
+                    [
+                        -2.322848,
+                        53.231268
+                    ],
+                    [
+                        -2.364553,
+                        53.231268
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Goostrey, England",
+        "id": "50eaacf873d7ea10",
+        "name": "Goostrey",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/50eaacf873d7ea10.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@nationalgriduk Does SP Networks have a twitter account or is yours the one which should cover electricity network faults?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 15 14:53:52 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "Northerner, Evertonian, Parish Councillor, Husband to Sylvia, Father x3, Grandfather x6, One-time Scourge of Unrealistic/Uneconomic IT Initiatives.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 12,
+        "follow_request_sent": false,
+        "followers_count": 19,
+        "following": false,
+        "friends_count": 51,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2345249114,
+        "id_str": "2345249114",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Goostrey, England",
+        "name": "Peter Godfrey",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PeterMSGodfrey",
+        "statuses_count": 104,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

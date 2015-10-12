@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 11 04:06:48 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2815754953,
+                "id_str": "2815754953",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Uber Support",
+                "screen_name": "Uber_Support"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653059147869458432,
+    "id_str": "653059147869458432",
+    "in_reply_to_screen_name": "Uber_Support",
+    "in_reply_to_status_id": 652949930584240128,
+    "in_reply_to_status_id_str": "652949930584240128",
+    "in_reply_to_user_id": 2815754953,
+    "in_reply_to_user_id_str": "2815754953",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.514926,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.833238
+                    ],
+                    [
+                        -122.514926,
+                        37.833238
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Francisco, CA",
+        "id": "5a110d312052166f",
+        "name": "San Francisco",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Uber_Support thanks for doing what you do. \ud83d\udc4d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 19 00:03:59 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I dream in streams. Meerkat @prince #ForLife. Also, #meteorjs because the internet.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "medium.com/@micahalcorn",
+                        "expanded_url": "http://medium.com/@micahalcorn",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/2JaiHQbiAh"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3694,
+        "follow_request_sent": false,
+        "followers_count": 2778,
+        "following": false,
+        "friends_count": 2880,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 21257545,
+        "id_str": "21257545",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 100,
+        "location": "Norman, OK",
+        "name": "Micah",
+        "notifications": false,
+        "profile_background_color": "CCCCCC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/439498463571484672/OU42HumL.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/439498463571484672/OU42HumL.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21257545/1398225510",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/572665545645953025/IfZ37HJG_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/572665545645953025/IfZ37HJG_normal.jpeg",
+        "profile_link_color": "82B8ED",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "micahalcorn",
+        "statuses_count": 3704,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/2JaiHQbiAh",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

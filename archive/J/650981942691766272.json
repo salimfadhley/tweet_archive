@@ -1,0 +1,166 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 05 10:32:44 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    60,
+                    68
+                ],
+                "text": "eyetest"
+            },
+            {
+                "indices": [
+                    69,
+                    79
+                ],
+                "text": "opticians"
+            },
+            {
+                "indices": [
+                    80,
+                    89
+                ],
+                "text": "students"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 545087869,
+                "id_str": "545087869",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Boots",
+                "screen_name": "BootsUK"
+            },
+            {
+                "id": 151871119,
+                "id_str": "151871119",
+                "indices": [
+                    9,
+                    20
+                ],
+                "name": "Specsavers",
+                "screen_name": "Specsavers"
+            },
+            {
+                "id": 271986064,
+                "id_str": "271986064",
+                "indices": [
+                    21,
+                    27
+                ],
+                "name": "Tesco",
+                "screen_name": "Tesco"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 650981942691766272,
+    "id_str": "650981942691766272",
+    "in_reply_to_screen_name": "BootsUK",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 545087869,
+    "in_reply_to_user_id_str": "545087869",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.226804,
+                        52.9489413
+                    ],
+                    [
+                        -2.081221,
+                        52.9489413
+                    ],
+                    [
+                        -2.081221,
+                        53.089852
+                    ],
+                    [
+                        -2.226804,
+                        53.089852
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Stoke-on-Trent, England",
+        "id": "5c6453db6560163a",
+        "name": "Stoke-on-Trent",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c6453db6560163a.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BootsUK @Specsavers @Tesco do students get free eye tests? #eyetest #opticians #students",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 15 12:55:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "supporting the least successful football team since my birth in 91.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 549,
+        "follow_request_sent": false,
+        "followers_count": 335,
+        "following": false,
+        "friends_count": 547,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 40233572,
+        "id_str": "40233572",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 19,
+        "location": "Stoke-on-Trent",
+        "name": "J",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/163532106/floral.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/163532106/floral.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40233572/1353148230",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/422767950396153856/IYj2ff4G_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/422767950396153856/IYj2ff4G_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Jbed3",
+        "statuses_count": 9155,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

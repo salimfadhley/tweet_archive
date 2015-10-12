@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 10 18:35:49 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 75691804,
+                "id_str": "75691804",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Microsoft Support",
+                "screen_name": "MicrosoftHelps"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652915454504226816,
+    "id_str": "652915454504226816",
+    "in_reply_to_screen_name": "MicrosoftHelps",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 75691804,
+    "in_reply_to_user_id_str": "75691804",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.3151018,
+                        51.8030797
+                    ],
+                    [
+                        -1.2982973,
+                        51.8030797
+                    ],
+                    [
+                        -1.2982973,
+                        51.8159958
+                    ],
+                    [
+                        -1.3151018,
+                        51.8159958
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Yarnton, England",
+        "id": "6f839233f2fe43f6",
+        "name": "Yarnton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6f839233f2fe43f6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@MicrosoftHelps lots of parents seem to have issues with family safety not working. The time limits don't work. I'm one of many!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 23 10:59:55 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Researching the Brimson's worldwide & a member of the Guild of One Name Stuidies",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "one-name.org/profiles/brims\u2026",
+                        "expanded_url": "http://www.one-name.org/profiles/brimson.html",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/WeEpmLHSPP"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 13,
+        "follow_request_sent": false,
+        "followers_count": 42,
+        "following": false,
+        "friends_count": 96,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 68122955,
+        "id_str": "68122955",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Yarnton",
+        "name": "David Brimson",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68122955/1389867111",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2755792675/88db55b55efc221f3adb74686153e40e_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2755792675/88db55b55efc221f3adb74686153e40e_normal.png",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Brimson1",
+        "statuses_count": 1180,
+        "time_zone": "London",
+        "url": "http://t.co/WeEpmLHSPP",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 06 12:25:36 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1178011,
+                "id_str": "1178011",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Wells Fargo",
+                "screen_name": "WellsFargo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 651372735281631232,
+    "id_str": "651372735281631232",
+    "in_reply_to_screen_name": "WellsFargo",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1178011,
+    "in_reply_to_user_id_str": "1178011",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.353955,
+                        32.04683
+                    ],
+                    [
+                        -78.499301,
+                        32.04683
+                    ],
+                    [
+                        -78.499301,
+                        35.215449
+                    ],
+                    [
+                        -83.353955,
+                        35.215449
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "South Carolina, USA",
+        "id": "6057f1e35bcc6c20",
+        "name": "South Carolina",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/6057f1e35bcc6c20.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@WellsFargo Webinar on Oct. 8 @ 2pm for those interested in careers in Wealth/Brokerage/Retirement. Dial in (888) 549-3557, Conf ID 3837398",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 08 13:59:19 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Engaging students in career development & experiential learning activities that will empower them to successfully pursue their educational & professional goals.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "career.clemson.edu",
+                        "expanded_url": "http://career.clemson.edu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/LBGqvEKInM"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 66,
+        "follow_request_sent": false,
+        "followers_count": 992,
+        "following": false,
+        "friends_count": 43,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 153416138,
+        "id_str": "153416138",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 35,
+        "location": "316 Hendrix Student Center",
+        "name": "Clemson CCPD",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/454295969325002752/EsM2A_Zj.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/454295969325002752/EsM2A_Zj.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/153416138/1444050798",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/604258651063373824/avxm_K_D_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/604258651063373824/avxm_K_D_normal.jpg",
+        "profile_link_color": "F66733",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ClemsonCCPD",
+        "statuses_count": 1854,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": "http://t.co/LBGqvEKInM",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 09 20:16:41 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 96965958,
+                "id_str": "96965958",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Royal Mail ",
+                "screen_name": "RoyalMail"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652578448590946304,
+    "id_str": "652578448590946304",
+    "in_reply_to_screen_name": "RoyalMail",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 96965958,
+    "in_reply_to_user_id_str": "96965958",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.959452,
+                        42.538811
+                    ],
+                    [
+                        -87.807358,
+                        42.538811
+                    ],
+                    [
+                        -87.807358,
+                        42.639696
+                    ],
+                    [
+                        -87.959452,
+                        42.639696
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Kenosha, WI",
+        "id": "6359ef285f710052",
+        "name": "Kenosha",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6359ef285f710052.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@RoyalMail For international track and sign packages, will tracking updated continue for the package once it arrives in the United States?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 13 17:20:02 +0000 2008",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9,
+        "follow_request_sent": false,
+        "followers_count": 41,
+        "following": false,
+        "friends_count": 84,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 16273659,
+        "id_str": "16273659",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "redbauer18",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1156633087/Screen_shot_2010-10-10_at_12.27.48_PM_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156633087/Screen_shot_2010-10-10_at_12.27.48_PM_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "redbauer18",
+        "statuses_count": 153,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

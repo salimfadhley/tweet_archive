@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 10 08:55:13 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 38676903,
+                "id_str": "38676903",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "easyJet",
+                "screen_name": "easyJet"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652769339293200384,
+    "id_str": "652769339293200384",
+    "in_reply_to_screen_name": "easyJet",
+    "in_reply_to_status_id": 652732130519306240,
+    "in_reply_to_status_id_str": "652732130519306240",
+    "in_reply_to_user_id": 38676903,
+    "in_reply_to_user_id_str": "38676903",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.104501,
+                        51.518605
+                    ],
+                    [
+                        -0.015834,
+                        51.518605
+                    ],
+                    [
+                        -0.015834,
+                        51.5766844
+                    ],
+                    [
+                        -0.104501,
+                        51.5766844
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Hackney, London",
+        "id": "2a3f152d1ac5044a",
+        "name": "Hackney",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2a3f152d1ac5044a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@easyJet yes you're happy go to respond on Twitter but not to emails?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 17 23:00:52 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "that bloke from the Basement Jaxx vid,you know the one with the monkeys & Doctor Who,you know the scary episodes with the gasmasks,Birds of A Feather &Sherlock",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/MelvynTheMovie",
+                        "expanded_url": "https://www.facebook.com/MelvynTheMovie",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/deqO1DmgIT"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 753,
+        "follow_request_sent": false,
+        "followers_count": 552,
+        "following": false,
+        "friends_count": 97,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 19127302,
+        "id_str": "19127302",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "LONDON",
+        "name": "Damian Samuels",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/766801247/fb252e7ec9515f3ada73ee12a49fadc9.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/766801247/fb252e7ec9515f3ada73ee12a49fadc9.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19127302/1438641990",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/628336392653926400/p8JvdhjT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/628336392653926400/p8JvdhjT_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DamianSamuels",
+        "statuses_count": 3437,
+        "time_zone": "Casablanca",
+        "url": "https://t.co/deqO1DmgIT",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

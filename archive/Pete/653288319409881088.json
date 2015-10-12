@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 11 19:17:27 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 38676903,
+                "id_str": "38676903",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "easyJet",
+                "screen_name": "easyJet"
+            },
+            {
+                "id": 33875003,
+                "id_str": "33875003",
+                "indices": [
+                    85,
+                    101
+                ],
+                "name": "Gatwick Airport LGW",
+                "screen_name": "Gatwick_Airport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653288319409881088,
+    "id_str": "653288319409881088",
+    "in_reply_to_screen_name": "easyJet",
+    "in_reply_to_status_id": 653287087249166336,
+    "in_reply_to_status_id_str": "653287087249166336",
+    "in_reply_to_user_id": 38676903,
+    "in_reply_to_user_id_str": "38676903",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        18.925169,
+                        47.351501
+                    ],
+                    [
+                        19.333916,
+                        47.351501
+                    ],
+                    [
+                        19.333916,
+                        47.613362
+                    ],
+                    [
+                        18.925169,
+                        47.613362
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Magyarorsz\u00e1g",
+        "country_code": "HU",
+        "full_name": "Budapest, Hungary",
+        "id": "e52e231315b975c1",
+        "name": "Budapest",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e52e231315b975c1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@easyJet thanks for reply! Can you confirm if the plane we need to get home has left @Gatwick_Airport yet? We've had conflicting news here!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 13 00:26:09 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 209,
+        "follow_request_sent": false,
+        "followers_count": 87,
+        "following": false,
+        "friends_count": 424,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 24082920,
+        "id_str": "24082920",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Hereford",
+        "name": "Pete",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24082920/1438114294",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640122186536230912/kmrsEXR-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/640122186536230912/kmrsEXR-_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Pranko_",
+        "statuses_count": 4447,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 12 11:59:00 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 38676903,
+                "id_str": "38676903",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "easyJet",
+                "screen_name": "easyJet"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653540366340255744,
+    "id_str": "653540366340255744",
+    "in_reply_to_screen_name": "easyJet",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 38676903,
+    "in_reply_to_user_id_str": "38676903",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.112442,
+                        51.5068
+                    ],
+                    [
+                        -0.0733794,
+                        51.5068
+                    ],
+                    [
+                        -0.0733794,
+                        51.522161
+                    ],
+                    [
+                        -0.112442,
+                        51.522161
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "City of London, London",
+        "id": "3eb2c704fe8a50cb",
+        "name": "City of London",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3eb2c704fe8a50cb.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@easyJet Filed a claim for 7.5hr delayed flight. More than 25 days later.... STILL NO RESPONSE! What is going on?!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 26 15:40:05 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Marketing Wizard. London resident. ENFJ. Weekend adventurer. Brunch enthusiast. Gin lover.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 219,
+        "follow_request_sent": false,
+        "followers_count": 384,
+        "following": false,
+        "friends_count": 397,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 288285089,
+        "id_str": "288285089",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "London",
+        "name": "Lily Boulle",
+        "notifications": false,
+        "profile_background_color": "ABB8C9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/484645460657725440/92TlmVFY.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/484645460657725440/92TlmVFY.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/288285089/1439558635",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/588275523035475969/haFJjbSK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/588275523035475969/haFJjbSK_normal.jpg",
+        "profile_link_color": "B4CCCC",
+        "profile_sidebar_border_color": "B4FCFC",
+        "profile_sidebar_fill_color": "B4ECEC",
+        "profile_text_color": "B4DCDC",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "lillianeboulle",
+        "statuses_count": 1338,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

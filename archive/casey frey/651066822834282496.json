@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 05 16:10:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1178011,
+                "id_str": "1178011",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Wells Fargo",
+                "screen_name": "WellsFargo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 651066822834282496,
+    "id_str": "651066822834282496",
+    "in_reply_to_screen_name": "WellsFargo",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1178011,
+    "in_reply_to_user_id_str": "1178011",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -95.823268,
+                        29.522325
+                    ],
+                    [
+                        -95.069705,
+                        29.522325
+                    ],
+                    [
+                        -95.069705,
+                        30.1546646
+                    ],
+                    [
+                        -95.823268,
+                        30.1546646
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Houston, TX",
+        "id": "1c69a67ad480e1b1",
+        "name": "Houston",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@WellsFargo are yall sending out cards with the chip? Do I need to request it? The teller I just talked to was kinda clueless. Thanks! \ud83d\udcb3\ud83d\udcb3",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 05 13:54:35 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Girl mom. Runner. Texan football lover.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/caseboogie",
+                        "expanded_url": "http://www.facebook.com/caseboogie",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/6pW7cJpocs"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7835,
+        "follow_request_sent": false,
+        "followers_count": 173,
+        "following": false,
+        "friends_count": 359,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 863086802,
+        "id_str": "863086802",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Cypress, TX",
+        "name": "casey frey",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/863086802/1424454838",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/646145544650231809/yecgJ-RH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/646145544650231809/yecgJ-RH_normal.jpg",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "case_frey",
+        "statuses_count": 3073,
+        "time_zone": null,
+        "url": "http://t.co/6pW7cJpocs",
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 05 06:25:04 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    35,
+                    51
+                ],
+                "text": "SultanateofOman"
+            },
+            {
+                "indices": [
+                    71,
+                    76
+                ],
+                "text": "Oman"
+            },
+            {
+                "indices": [
+                    115,
+                    120
+                ],
+                "text": "fail"
+            },
+            {
+                "indices": [
+                    121,
+                    128
+                ],
+                "text": "WakeUp"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20595739,
+                "id_str": "20595739",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Priceline.com",
+                "screen_name": "priceline"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 650919617280516096,
+    "id_str": "650919617280516096",
+    "in_reply_to_screen_name": "priceline",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20595739,
+    "in_reply_to_user_id_str": "20595739",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        51.9921946,
+                        16.6395606
+                    ],
+                    [
+                        59.8393228,
+                        16.6395606
+                    ],
+                    [
+                        59.8393228,
+                        26.3884883
+                    ],
+                    [
+                        51.9921946,
+                        26.3884883
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Oman",
+        "country_code": "OM",
+        "full_name": "Oman",
+        "id": "ec1d87074d3793f0",
+        "name": "Oman",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/ec1d87074d3793f0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@priceline you sell tickets to the #SultanateofOman but you don't list #Oman on you list of countries for payment! #fail #WakeUp smell the $",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 15 09:53:25 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "teacher trainer / life-long learner",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "frothquaffer.wordpress.com",
+                        "expanded_url": "http://www.frothquaffer.wordpress.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/zZcHQu3rio"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 651,
+        "follow_request_sent": false,
+        "followers_count": 299,
+        "following": false,
+        "friends_count": 281,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 24506754,
+        "id_str": "24506754",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 19,
+        "location": "Sohar, Oman",
+        "name": "rob clement",
+        "notifications": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/10699552/full-earth-photo-EL199600155-xl.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/10699552/full-earth-photo-EL199600155-xl.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1261344573/fc107b24-a8a6-4fbe-92e7-c2dd7afa1a7e_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1261344573/fc107b24-a8a6-4fbe-92e7-c2dd7afa1a7e_normal.png",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "frothquaffer",
+        "statuses_count": 6897,
+        "time_zone": "Abu Dhabi",
+        "url": "http://t.co/zZcHQu3rio",
+        "utc_offset": 14400,
+        "verified": false
+    }
+}

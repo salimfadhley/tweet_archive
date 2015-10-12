@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 10 12:40:43 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17648080,
+                "id_str": "17648080",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "first direct",
+                "screen_name": "firstdirect"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652826088209555460,
+    "id_str": "652826088209555460",
+    "in_reply_to_screen_name": "firstdirect",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 17648080,
+    "in_reply_to_user_id_str": "17648080",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -4.067068,
+                        55.841537
+                    ],
+                    [
+                        -3.9951348,
+                        55.841537
+                    ],
+                    [
+                        -3.9951348,
+                        55.878295
+                    ],
+                    [
+                        -4.067068,
+                        55.878295
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Coatbridge, Scotland",
+        "id": "0de54c5b490b1452",
+        "name": "Coatbridge",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0de54c5b490b1452.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@firstdirect I can't withdraw cash from an atm, even though I have sufficient funds to do so. Can you help?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 17 16:39:14 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 745,
+        "follow_request_sent": false,
+        "followers_count": 76,
+        "following": false,
+        "friends_count": 395,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 191890525,
+        "id_str": "191890525",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Coatbridge, Scotland",
+        "name": "Christopher Morgan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/191890525/1390847051",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/427869668570038272/bV0LohmO_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/427869668570038272/bV0LohmO_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cm04gan",
+        "statuses_count": 1156,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

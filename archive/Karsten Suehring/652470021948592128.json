@@ -1,0 +1,146 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 09 13:05:50 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store ",
+                "screen_name": "AppStore"
+            },
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    10,
+                    20
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652470021948592128,
+    "id_str": "652470021948592128",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": 652201297899294721,
+    "in_reply_to_status_id_str": "652201297899294721",
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        13.42058,
+                        52.485929
+                    ],
+                    [
+                        13.49149,
+                        52.485929
+                    ],
+                    [
+                        13.49149,
+                        52.5307583
+                    ],
+                    [
+                        13.42058,
+                        52.5307583
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Deutschland",
+        "country_code": "DE",
+        "full_name": "Friedrichshain, Berlin",
+        "id": "47c235d0c44f3e6a",
+        "name": "Friedrichshain",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/47c235d0c44f3e6a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@AppStore @Starbucks US store only? So travelers may not use it?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 28 15:37:08 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ksuehring.de",
+                        "expanded_url": "http://www.ksuehring.de",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/tqsxBfYvS8"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 382,
+        "follow_request_sent": false,
+        "followers_count": 137,
+        "following": false,
+        "friends_count": 192,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14055107,
+        "id_str": "14055107",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Berlin/Germany",
+        "name": "Karsten Suehring",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2138606943/twitter_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2138606943/twitter_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ksuehring",
+        "statuses_count": 4078,
+        "time_zone": "Bern",
+        "url": "http://t.co/tqsxBfYvS8",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

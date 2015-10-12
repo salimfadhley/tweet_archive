@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 11 16:18:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/v1lrwU9PMJ",
+                "expanded_url": "http://twitter.com/TerrillFl/status/653243275931848704/photo/1",
+                "id": 653243271498498048,
+                "id_str": "653243271498498048",
+                "indices": [
+                    80,
+                    102
+                ],
+                "media_url": "http://pbs.twimg.com/media/CRDJS12VAAAXKhb.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CRDJS12VAAAXKhb.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 400,
+                        "resize": "fit",
+                        "w": 300
+                    },
+                    "medium": {
+                        "h": 400,
+                        "resize": "fit",
+                        "w": 300
+                    },
+                    "small": {
+                        "h": 400,
+                        "resize": "fit",
+                        "w": 300
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/v1lrwU9PMJ"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 67725628,
+                "id_str": "67725628",
+                "indices": [
+                    11,
+                    25
+                ],
+                "name": "Starbucks News",
+                "screen_name": "Starbucksnews"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 653243275931848704,
+    "id_str": "653243275931848704",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.605166,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        35.000771
+                    ],
+                    [
+                        -85.605166,
+                        35.000771
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Georgia, USA",
+        "id": "7142eb97ae21e839",
+        "name": "Georgia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks @Starbucksnews your pumpkin spice frappuccino is absolutely amazing! http://t.co/v1lrwU9PMJ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 19 23:49:47 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 43,
+        "follow_request_sent": false,
+        "followers_count": 100,
+        "following": false,
+        "friends_count": 913,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2352405854,
+        "id_str": "2352405854",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Terrill F.",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2352405854/1424634919",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/597441758633598977/0Bs88Rs6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/597441758633598977/0Bs88Rs6_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "TerrillFl",
+        "statuses_count": 126,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

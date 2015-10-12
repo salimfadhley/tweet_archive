@@ -1,0 +1,142 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 11 20:01:17 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    112,
+                    125
+                ],
+                "text": "prettyplease"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 38676903,
+                "id_str": "38676903",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "easyJet",
+                "screen_name": "easyJet"
+            },
+            {
+                "id": 56745793,
+                "id_str": "56745793",
+                "indices": [
+                    53,
+                    68
+                ],
+                "name": "Bournemouth Uni",
+                "screen_name": "bournemouthuni"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653299350353874944,
+    "id_str": "653299350353874944",
+    "in_reply_to_screen_name": "easyJet",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 38676903,
+    "in_reply_to_user_id_str": "38676903",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.013326,
+                        50.682612
+                    ],
+                    [
+                        -1.891233,
+                        50.682612
+                    ],
+                    [
+                        -1.891233,
+                        50.774097
+                    ],
+                    [
+                        -2.013326,
+                        50.774097
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Poole, England",
+        "id": "1c4cd8e4ae3a1959",
+        "name": "Poole",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1c4cd8e4ae3a1959.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@easyJet doing a charity run to get as far away from @bournemouthuni  on 7/8th November, any spare free tickets #prettyplease",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 03 17:59:17 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Partial to a flannel shirt",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 250,
+        "follow_request_sent": false,
+        "followers_count": 189,
+        "following": false,
+        "friends_count": 571,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 404278798,
+        "id_str": "404278798",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "",
+        "name": "Andrew Davies",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000165450193/CHcnDYYf.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000165450193/CHcnDYYf.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/404278798/1443432596",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/636631977702129664/t8QvPt3Q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/636631977702129664/t8QvPt3Q_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "andrewdaviess",
+        "statuses_count": 5863,
+        "time_zone": "Amsterdam",
+        "url": null,
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

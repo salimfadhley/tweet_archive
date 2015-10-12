@@ -1,0 +1,251 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 12 04:25:33 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/raggga/status/\u2026",
+                "expanded_url": "https://twitter.com/raggga/status/653425152768802816",
+                "indices": [
+                    10,
+                    33
+                ],
+                "url": "https://t.co/4bEJCBGJod"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653426254914433024,
+    "id_str": "653426254914433024",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.046876,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.416412
+                    ],
+                    [
+                        -81.046876,
+                        35.416412
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Charlotte, NC",
+        "id": "512a8a4a4c4b4be0",
+        "name": "Charlotte",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/512a8a4a4c4b4be0.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Oct 12 04:21:11 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 3095301822,
+                    "id_str": "3095301822",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "name": "constellate",
+                    "screen_name": "constellate_"
+                },
+                {
+                    "id": 23636341,
+                    "id_str": "23636341",
+                    "indices": [
+                        14,
+                        28
+                    ],
+                    "name": "AutumnForHillary",
+                    "screen_name": "AutumnNAlston"
+                }
+            ]
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "geo": null,
+        "id": 653425152768802816,
+        "id_str": "653425152768802816",
+        "in_reply_to_screen_name": "constellate_",
+        "in_reply_to_status_id": 653424550982451201,
+        "in_reply_to_status_id_str": "653424550982451201",
+        "in_reply_to_user_id": 3095301822,
+        "in_reply_to_user_id_str": "3095301822",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "@constellate_ @AutumnNAlston open the borders for more monkeys to come in fam nice president right there",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Jul 06 17:24:42 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "alt-right",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 2726,
+            "follow_request_sent": false,
+            "followers_count": 135,
+            "following": false,
+            "friends_count": 92,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2607924038,
+            "id_str": "2607924038",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 3,
+            "location": "Switzerland",
+            "name": "raggga",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2607924038/1443821788",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649700648330498048/6wdA7UKM_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649700648330498048/6wdA7UKM_normal.png",
+            "profile_link_color": "000099",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "raggga",
+            "statuses_count": 9817,
+            "time_zone": "Bern",
+            "url": null,
+            "utc_offset": 7200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 653425152768802816,
+    "quoted_status_id_str": "653425152768802816",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@twitter  https://t.co/4bEJCBGJod",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 10 19:17:11 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#Hillary2016. black lives DO matter and you will deal. Heteroflexible. queer-ish. idk and idc",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "liberalamerica.org/author/autumn/",
+                        "expanded_url": "http://www.liberalamerica.org/author/autumn/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/PDBzDJD8Eg"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 538,
+        "follow_request_sent": false,
+        "followers_count": 2593,
+        "following": false,
+        "friends_count": 1944,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 23636341,
+        "id_str": "23636341",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 101,
+        "location": "charlotte/concord, NC",
+        "name": "AutumnForHillary",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/376808724/beyonce_grammys.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/376808724/beyonce_grammys.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23636341/1442768111",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/650854723109695488/qx00l_lo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/650854723109695488/qx00l_lo_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AutumnNAlston",
+        "statuses_count": 188283,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/PDBzDJD8Eg",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

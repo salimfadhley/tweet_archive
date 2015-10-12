@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 12 04:12:40 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 653423010318299136,
+    "id_str": "653423010318299136",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.435201,
+                        39.572598
+                    ],
+                    [
+                        -77.37679,
+                        39.572598
+                    ],
+                    [
+                        -77.37679,
+                        39.644105
+                    ],
+                    [
+                        -77.435201,
+                        39.644105
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Thurmont, MD",
+        "id": "c9d9e0a43135f9a4",
+        "name": "Thurmont",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c9d9e0a43135f9a4.json"
+    },
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@twitter I'm going to need you to get rid of that blue dot on the moments tab...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 30 19:05:06 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "University of Maryland Student; World Traveler; \u65e5\u672c\u8a9e Speaker; BuzzFeed Community Blogger; \u03a0\u03a3\u0395.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5962,
+        "follow_request_sent": false,
+        "followers_count": 583,
+        "following": false,
+        "friends_count": 206,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 382822144,
+        "id_str": "382822144",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "College Park, MD",
+        "name": "Brian Sweeney",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/725663745/e11c12e5cde9aa1786fc1cf68163a1a3.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/725663745/e11c12e5cde9aa1786fc1cf68163a1a3.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/382822144/1439155115",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/650573204629626880/hOD3t431_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/650573204629626880/hOD3t431_normal.jpg",
+        "profile_link_color": "4F5978",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "B5C1A9",
+        "profile_text_color": "175763",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tokyo_brian",
+        "statuses_count": 18090,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

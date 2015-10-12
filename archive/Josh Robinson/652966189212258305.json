@@ -1,0 +1,207 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 10 21:57:25 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    100,
+                    105
+                ],
+                "text": "oops"
+            },
+            {
+                "indices": [
+                    106,
+                    115
+                ],
+                "text": "wrongday"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/tMErVfvXRF",
+                "expanded_url": "http://twitter.com/jrossrobinson/status/652966189212258305/photo/1",
+                "id": 652966181608005632,
+                "id_str": "652966181608005632",
+                "indices": [
+                    116,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/CQ_NSFkWoAAzstf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CQ_NSFkWoAAzstf.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 575
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 575
+                    },
+                    "small": {
+                        "h": 605,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/tMErVfvXRF"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19380829,
+                "id_str": "19380829",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Yahoo",
+                "screen_name": "Yahoo"
+            },
+            {
+                "id": 7302282,
+                "id_str": "7302282",
+                "indices": [
+                    7,
+                    19
+                ],
+                "name": "Yahoo Sports",
+                "screen_name": "YahooSports"
+            },
+            {
+                "id": 33587536,
+                "id_str": "33587536",
+                "indices": [
+                    36,
+                    49
+                ],
+                "name": "Spartan Football",
+                "screen_name": "MSU_Football"
+            },
+            {
+                "id": 818431566,
+                "id_str": "818431566",
+                "indices": [
+                    56,
+                    66
+                ],
+                "name": "Rutgers Football",
+                "screen_name": "RFootball"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652966189212258305,
+    "id_str": "652966189212258305",
+    "in_reply_to_screen_name": "Yahoo",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19380829,
+    "in_reply_to_user_id_str": "19380829",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.524765,
+                        44.700493
+                    ],
+                    [
+                        -85.489819,
+                        44.700493
+                    ],
+                    [
+                        -85.489819,
+                        44.745536
+                    ],
+                    [
+                        -85.524765,
+                        44.745536
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "East Bay, MI",
+        "id": "01cb36826c900f4c",
+        "name": "East Bay",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01cb36826c900f4c.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Yahoo @YahooSports, you do realize @MSU_Football plays @RFootball tonight and not tomorrow, right? #oops #wrongday http://t.co/tMErVfvXRF",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 30 21:11:29 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 74,
+        "follow_request_sent": false,
+        "followers_count": 70,
+        "following": false,
+        "friends_count": 148,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1633804872,
+        "id_str": "1633804872",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "East Lansing, MI",
+        "name": "Josh Robinson",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000670217582/529c2b6e5d3f7baf4a691587fcb481c8_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000670217582/529c2b6e5d3f7baf4a691587fcb481c8_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jrossrobinson",
+        "statuses_count": 205,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

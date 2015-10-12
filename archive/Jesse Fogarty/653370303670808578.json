@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 12 00:43:14 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19103481,
+                "id_str": "19103481",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Uber",
+                "screen_name": "Uber"
+            },
+            {
+                "id": 2978589413,
+                "id_str": "2978589413",
+                "indices": [
+                    59,
+                    69
+                ],
+                "name": "Flow",
+                "screen_name": "FlowWater"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653370303670808578,
+    "id_str": "653370303670808578",
+    "in_reply_to_screen_name": "Uber",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19103481,
+    "in_reply_to_user_id_str": "19103481",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.639319,
+                        43.403221
+                    ],
+                    [
+                        -78.90582,
+                        43.403221
+                    ],
+                    [
+                        -78.90582,
+                        43.855401
+                    ],
+                    [
+                        -79.639319,
+                        43.855401
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Toronto, Ontario",
+        "id": "3797791ff9c0e4c6",
+        "name": "Toronto",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3797791ff9c0e4c6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Uber took like 4-5 black cars yesterday only one offered  @FlowWater - rest had them for themselves. What gives youre giving drivers a case",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 08 20:51:15 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Digital Marketing Ninja. Founder, Adaptive Marketing. Latte connoisseur, liberal wing nut and confessed workaholic.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jessefogarty.com",
+                        "expanded_url": "http://jessefogarty.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/DEl9uSjUfB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 94,
+        "follow_request_sent": false,
+        "followers_count": 483,
+        "following": false,
+        "friends_count": 118,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 103084757,
+        "id_str": "103084757",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 26,
+        "location": "Danforth Village, Toronto",
+        "name": "Jesse Fogarty",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/103084757/1399475945",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/453506633826443264/e9CIGRIz_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/453506633826443264/e9CIGRIz_normal.png",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jessefogarty",
+        "statuses_count": 9998,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/DEl9uSjUfB",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
