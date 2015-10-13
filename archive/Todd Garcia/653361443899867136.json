@@ -1,0 +1,165 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 12 00:08:01 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    82,
+                    86
+                ],
+                "text": "duh"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17842366,
+                "id_str": "17842366",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Discovery",
+                "screen_name": "Discovery"
+            },
+            {
+                "id": 11348282,
+                "id_str": "11348282",
+                "indices": [
+                    11,
+                    16
+                ],
+                "name": "NASA",
+                "screen_name": "NASA"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653361443899867136,
+    "id_str": "653361443899867136",
+    "in_reply_to_screen_name": "Discovery",
+    "in_reply_to_status_id": 653359784566112257,
+    "in_reply_to_status_id_str": "653359784566112257",
+    "in_reply_to_user_id": 17842366,
+    "in_reply_to_user_id_str": "17842366",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Discovery @NASA With magic rockets full of the hopes of children are our future. #duh",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 12 18:50:49 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Actor/writer/Improviser/Debutante/Designer of wall hangings.\r\n\r\nhttp://t.co/UR6VOXsGUY",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "toddagarcia.wordpress.com",
+                        "expanded_url": "http://toddagarcia.wordpress.com",
+                        "indices": [
+                            64,
+                            86
+                        ],
+                        "url": "http://t.co/UR6VOXsGUY"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "campgarcia.wordpress.com",
+                        "expanded_url": "http://campgarcia.wordpress.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/dfd8lGwsjr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 249,
+        "follow_request_sent": false,
+        "followers_count": 181,
+        "following": false,
+        "friends_count": 391,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 225893611,
+        "id_str": "225893611",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Chicago, IL",
+        "name": "Todd Garcia",
+        "notifications": false,
+        "profile_background_color": "7F7675",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000167513197/kjTaKLyk.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000167513197/kjTaKLyk.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/225893611/1389631191",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/441316891353559041/tBn2eO43_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/441316891353559041/tBn2eO43_normal.jpeg",
+        "profile_link_color": "9E4539",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "2F1914",
+        "profile_text_color": "815B56",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Toddawatomi",
+        "statuses_count": 2659,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/dfd8lGwsjr",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

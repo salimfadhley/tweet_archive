@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 12 21:52:51 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store ",
+                "screen_name": "AppStore"
+            },
+            {
+                "id": 65184105,
+                "id_str": "65184105",
+                "indices": [
+                    10,
+                    26
+                ],
+                "name": "The Walking Dead AMC",
+                "screen_name": "WalkingDead_AMC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653689813678342145,
+    "id_str": "653689813678342145",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": 653367984740794369,
+    "in_reply_to_status_id_str": "653367984740794369",
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        12.752163,
+                        48.501088
+                    ],
+                    [
+                        12.895761,
+                        48.501088
+                    ],
+                    [
+                        12.895761,
+                        48.608044
+                    ],
+                    [
+                        12.752163,
+                        48.608044
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Deutschland",
+        "country_code": "DE",
+        "full_name": "Arnstorf, Bayern",
+        "id": "b6dfab557dc35740",
+        "name": "Arnstorf",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b6dfab557dc35740.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AppStore @WalkingDead_AMC and playstore?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 03 11:14:23 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Carwrapper, Shirtbusiness, 36 years, 2 Kids, hobby-Filmmaker, gaming CoD-Battlefield, Volkswagen Driver-Jetta mk2.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 21,
+        "follow_request_sent": false,
+        "followers_count": 2,
+        "following": false,
+        "friends_count": 9,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3851787023,
+        "id_str": "3851787023",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "de",
+        "listed_count": 0,
+        "location": "Bayern, Deutschland",
+        "name": "DaEgge-Shop",
+        "notifications": false,
+        "profile_background_color": "FA743E",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/650274281033715712/b6u6vsoP.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/650274281033715712/b6u6vsoP.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3851787023/1443871701",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/650274781636464640/eV1Iym-M_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/650274781636464640/eV1Iym-M_normal.png",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DaEggeShop",
+        "statuses_count": 21,
+        "time_zone": "Berlin",
+        "url": null,
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

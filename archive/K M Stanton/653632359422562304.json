@@ -1,0 +1,131 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 12 18:04:33 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    26,
+                    35
+                ],
+                "text": "hashtags"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 42712551,
+                "id_str": "42712551",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "American Express",
+                "screen_name": "AmericanExpress"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653632359422562304,
+    "id_str": "653632359422562304",
+    "in_reply_to_screen_name": "AmericanExpress",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 42712551,
+    "in_reply_to_user_id_str": "42712551",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.320464,
+                        38.533149
+                    ],
+                    [
+                        -90.175132,
+                        38.533149
+                    ],
+                    [
+                        -90.175132,
+                        38.774349
+                    ],
+                    [
+                        -90.320464,
+                        38.774349
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "St Louis, MO",
+        "id": "0570f015c264cbd9",
+        "name": "St Louis",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0570f015c264cbd9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanExpress \nspecial #hashtags",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 09 18:32:02 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": true,
+        "description": "Enjoy fraking with clueless and useless liberals.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1,
+        "follow_request_sent": false,
+        "followers_count": 5,
+        "following": false,
+        "friends_count": 208,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2435917885,
+        "id_str": "2435917885",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "St. Louis City",
+        "name": "K M Stanton",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KevinS63103",
+        "statuses_count": 1399,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

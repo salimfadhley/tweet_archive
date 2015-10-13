@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 13 00:10:22 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17842366,
+                "id_str": "17842366",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Discovery",
+                "screen_name": "Discovery"
+            },
+            {
+                "id": 65647594,
+                "id_str": "65647594",
+                "indices": [
+                    15,
+                    31
+                ],
+                "name": " Scott Kelly",
+                "screen_name": "StationCDRKelly"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653724423799771136,
+    "id_str": "653724423799771136",
+    "in_reply_to_screen_name": "Discovery",
+    "in_reply_to_status_id": 653721991753650176,
+    "in_reply_to_status_id_str": "653721991753650176",
+    "in_reply_to_user_id": 17842366,
+    "in_reply_to_user_id_str": "17842366",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -98.778559,
+                        29.141956
+                    ],
+                    [
+                        -98.302744,
+                        29.141956
+                    ],
+                    [
+                        -98.302744,
+                        29.693046
+                    ],
+                    [
+                        -98.778559,
+                        29.693046
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Antonio, TX",
+        "id": "3df4f427b5a60fea",
+        "name": "San Antonio",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3df4f427b5a60fea.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Discovery hey @StationCDRKelly !",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 20 21:09:06 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "enjoying my brief moment in the sun. grad school. aspiring SLP.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3267,
+        "follow_request_sent": false,
+        "followers_count": 402,
+        "following": false,
+        "friends_count": 491,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 25576660,
+        "id_str": "25576660",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Texas ",
+        "name": "Amanda Montemayor",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25576660/1444272638",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/651238141660008449/6P6gZcbI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/651238141660008449/6P6gZcbI_normal.jpg",
+        "profile_link_color": "DE6E4C",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "amandamont10",
+        "statuses_count": 14875,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

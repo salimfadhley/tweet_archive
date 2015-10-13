@@ -1,0 +1,222 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 09 14:36:39 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    31,
+                    39
+                ],
+                "text": "Banking"
+            },
+            {
+                "indices": [
+                    54,
+                    67
+                ],
+                "text": "Teambuilding"
+            },
+            {
+                "indices": [
+                    87,
+                    94
+                ],
+                "text": "Rowing"
+            },
+            {
+                "indices": [
+                    95,
+                    102
+                ],
+                "text": "Thames"
+            },
+            {
+                "indices": [
+                    103,
+                    111
+                ],
+                "text": "charity"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/KE19LIkR6v",
+                "expanded_url": "http://twitter.com/BeOarsome/status/652492878862811136/photo/1",
+                "id": 652492877898104832,
+                "id_str": "652492877898104832",
+                "indices": [
+                    112,
+                    134
+                ],
+                "media_url": "http://pbs.twimg.com/media/CQ4e0L2WwAAo-i0.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CQ4e0L2WwAAo-i0.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 500,
+                        "resize": "fit",
+                        "w": 723
+                    },
+                    "medium": {
+                        "h": 414,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 235,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/KE19LIkR6v"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18949452,
+                "id_str": "18949452",
+                "indices": [
+                    0,
+                    3
+                ],
+                "name": "Financial Times",
+                "screen_name": "FT"
+            },
+            {
+                "id": 19050000,
+                "id_str": "19050000",
+                "indices": [
+                    4,
+                    20
+                ],
+                "name": "Financial Review",
+                "screen_name": "FinancialReview"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652492878862811136,
+    "id_str": "652492878862811136",
+    "in_reply_to_screen_name": "FT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18949452,
+    "in_reply_to_user_id_str": "18949452",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.3229167,
+                        51.3428601
+                    ],
+                    [
+                        -0.234011,
+                        51.3428601
+                    ],
+                    [
+                        -0.234011,
+                        51.437266
+                    ],
+                    [
+                        -0.3229167,
+                        51.437266
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Kingston upon Thames, London",
+        "id": "65b23b0045f450f6",
+        "name": "Kingston upon Thames",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/65b23b0045f450f6.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@FT @FinancialReview Please RT #Banking &amp; Finance #Teambuilding challenge for 2016 #Rowing #Thames #charity http://t.co/KE19LIkR6v",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 13 11:43:27 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Take up a rowing challenge and fundraise for @AHOYOfficial a charity working with young people and disabled people in London",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1ilF3x8",
+                        "expanded_url": "http://bit.ly/1ilF3x8",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/atWnAjFgOs"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 500,
+        "follow_request_sent": false,
+        "followers_count": 91,
+        "following": false,
+        "friends_count": 277,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3419979047,
+        "id_str": "3419979047",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "London, England",
+        "name": "Oarsome Challenges",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3419979047/1439470956",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/631812741704060928/lSaaph8I_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/631812741704060928/lSaaph8I_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BeOarsome",
+        "statuses_count": 430,
+        "time_zone": null,
+        "url": "http://t.co/atWnAjFgOs",
+        "utc_offset": null,
+        "verified": false
+    }
+}

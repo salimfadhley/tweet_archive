@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 12 17:33:37 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/CFGVMElIWU",
+                "expanded_url": "http://twitter.com/Alcallister/status/653624577352933376/photo/1",
+                "id": 653624554569506816,
+                "id_str": "653624554569506816",
+                "indices": [
+                    102,
+                    124
+                ],
+                "media_url": "http://pbs.twimg.com/media/CRIkEb-WoAAz6ml.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CRIkEb-WoAAz6ml.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/CFGVMElIWU"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28596803,
+                "id_str": "28596803",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Aldi Stores UK",
+                "screen_name": "AldiUK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653624577352933376,
+    "id_str": "653624577352933376",
+    "in_reply_to_screen_name": "AldiUK",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 28596803,
+    "in_reply_to_user_id_str": "28596803",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.6614936,
+                        53.438156
+                    ],
+                    [
+                        -2.604203,
+                        53.438156
+                    ],
+                    [
+                        -2.604203,
+                        53.464689
+                    ],
+                    [
+                        -2.6614936,
+                        53.464689
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Newton-le-Willows, England",
+        "id": "2bceac2837641eb9",
+        "name": "Newton-le-Willows",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2bceac2837641eb9.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AldiUK can't believe you can sell fuirt that's moldy. Buy strawberries you expect them to be edible. http://t.co/CFGVMElIWU",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 13 15:22:14 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Live hard or go home. Ancient and Loyal. Former Captain of Newton Storm ARL, defected to Newton rugby union.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 22,
+        "follow_request_sent": false,
+        "followers_count": 247,
+        "following": false,
+        "friends_count": 374,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 226193509,
+        "id_str": "226193509",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "United Kingdom",
+        "name": "Al Callister",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/226193509/1351436094",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/518824242172157953/KIVyMN2Q_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/518824242172157953/KIVyMN2Q_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Alcallister",
+        "statuses_count": 5517,
+        "time_zone": "Amsterdam",
+        "url": null,
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

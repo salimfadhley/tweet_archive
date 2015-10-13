@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 11 15:00:11 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17170147,
+                "id_str": "17170147",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "DISH",
+                "screen_name": "dish"
+            },
+            {
+                "id": 15791186,
+                "id_str": "15791186",
+                "indices": [
+                    42,
+                    47
+                ],
+                "name": "KHOU 11 News Houston",
+                "screen_name": "KHOU"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653223576720445440,
+    "id_str": "653223576720445440",
+    "in_reply_to_screen_name": "dish",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 17170147,
+    "in_reply_to_user_id_str": "17170147",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -95.823268,
+                        29.522325
+                    ],
+                    [
+                        -95.069705,
+                        29.522325
+                    ],
+                    [
+                        -95.069705,
+                        30.1546646
+                    ],
+                    [
+                        -95.823268,
+                        30.1546646
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Houston, TX",
+        "id": "1c69a67ad480e1b1",
+        "name": "Houston",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@dish how much will u lower my bill since @KHOU isn't available. My network idea is looking better and better!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 25 14:15:54 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Former host of IT'S YOUR TIME podcast, writer, music lover, mom, wife and canning queen.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1192,
+        "follow_request_sent": false,
+        "followers_count": 263,
+        "following": false,
+        "friends_count": 200,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 16966855,
+        "id_str": "16966855",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Houston, TX",
+        "name": "YourTimeLisa",
+        "notifications": false,
+        "profile_background_color": "000033",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/671644883/530305ee54dcd37a33244a09f7f62844.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/671644883/530305ee54dcd37a33244a09f7f62844.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16966855/1403208571",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/610560988056662017/ISayv7-F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/610560988056662017/ISayv7-F_normal.jpg",
+        "profile_link_color": "BECACD",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "12172B",
+        "profile_text_color": "243345",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ItsYourTimeLisa",
+        "statuses_count": 2358,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

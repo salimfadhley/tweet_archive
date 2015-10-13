@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 10 19:23:20 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17170147,
+                "id_str": "17170147",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "DISH",
+                "screen_name": "dish"
+            },
+            {
+                "id": 14361260,
+                "id_str": "14361260",
+                "indices": [
+                    6,
+                    11
+                ],
+                "name": "WFMY News 2",
+                "screen_name": "WFMY"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652927411869364225,
+    "id_str": "652927411869364225",
+    "in_reply_to_screen_name": "dish",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 17170147,
+    "in_reply_to_user_id_str": "17170147",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.32187,
+                        33.752879
+                    ],
+                    [
+                        -75.40012,
+                        33.752879
+                    ],
+                    [
+                        -75.40012,
+                        36.588118
+                    ],
+                    [
+                        -84.32187,
+                        36.588118
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "North Carolina, USA",
+        "id": "3b98b02fba3f9753",
+        "name": "North Carolina",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/3b98b02fba3f9753.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@dish @WFMY I see it happened. Channel 2 removed from us. Each is at fault. Customers are ones being screwed.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 30 17:37:59 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Still learning things. Trying to understand. Attained spD.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "web210bobmcp.wordpress.com",
+                        "expanded_url": "http://web210bobmcp.wordpress.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/NJNg0sd9Ul"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 177,
+        "follow_request_sent": false,
+        "followers_count": 511,
+        "following": false,
+        "friends_count": 896,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17069839,
+        "id_str": "17069839",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "NC",
+        "name": "Bob McPherson...",
+        "notifications": false,
+        "profile_background_color": "B3C2C2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/50512192/brick_wa.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/50512192/brick_wa.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17069839/1442369720",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1862912935/2012-02-29_13-27-38.401_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1862912935/2012-02-29_13-27-38.401_normal.jpg",
+        "profile_link_color": "0066FF",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "B8C3C4",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bmcpherson",
+        "statuses_count": 2278,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/NJNg0sd9Ul",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

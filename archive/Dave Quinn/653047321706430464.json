@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 11 03:19:49 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17170147,
+                "id_str": "17170147",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "DISH",
+                "screen_name": "dish"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653047321706430464,
+    "id_str": "653047321706430464",
+    "in_reply_to_screen_name": "dish",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 17170147,
+    "in_reply_to_user_id_str": "17170147",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.937783,
+                        33.081206
+                    ],
+                    [
+                        -96.7327146,
+                        33.081206
+                    ],
+                    [
+                        -96.7327146,
+                        33.219073
+                    ],
+                    [
+                        -96.937783,
+                        33.219073
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Frisco, TX",
+        "id": "00c3e46c3d0cac08",
+        "name": "Frisco",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c3e46c3d0cac08.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@dish do I get a discount since you can't deliver programming I paid for?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 12 21:58:42 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Dave Quinn is a passionate father & husband, encouraging others to be a positive influence. #ProfessionalSpeaker, #EconDev Renegade, #VisionCaster & #Aggie '97",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/davequinn247",
+                        "expanded_url": "http://www.linkedin.com/in/davequinn247",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/NnU5HQcJSY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 432,
+        "follow_request_sent": false,
+        "followers_count": 1284,
+        "following": false,
+        "friends_count": 1273,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 96426869,
+        "id_str": "96426869",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 90,
+        "location": "Frisco , TX",
+        "name": "Dave Quinn",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/754378032/30571a0d71015b70a342d21188701185.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/754378032/30571a0d71015b70a342d21188701185.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/96426869/1357234223",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/568411095165960193/K5cl-Kg0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/568411095165960193/K5cl-Kg0_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DaveQuinn247",
+        "statuses_count": 9317,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": "http://t.co/NnU5HQcJSY",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

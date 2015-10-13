@@ -1,0 +1,141 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 12 13:48:17 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    22,
+                    139
+                ],
+                "text": "ccccccccccccccccrrrrrrrrrrrrrrrrrrrrrrrruuuuuuuuuuuuuunnnnnnnnnnnnnnnnnnnnnnncccccccccccccccchhhhhhhhhhhhhhhhhhhhhhh"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20123366,
+                "id_str": "20123366",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Asda",
+                "screen_name": "asda"
+            },
+            {
+                "id": 19331448,
+                "id_str": "19331448",
+                "indices": [
+                    6,
+                    21
+                ],
+                "name": "Walkers Crisps",
+                "screen_name": "walkers_crisps"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653567871738621952,
+    "id_str": "653567871738621952",
+    "in_reply_to_screen_name": "asda",
+    "in_reply_to_status_id": 653542891957039106,
+    "in_reply_to_status_id_str": "653542891957039106",
+    "in_reply_to_user_id": 20123366,
+    "in_reply_to_user_id_str": "20123366",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.905922,
+                        55.988326
+                    ],
+                    [
+                        -3.870313,
+                        55.988326
+                    ],
+                    [
+                        -3.870313,
+                        56.011396
+                    ],
+                    [
+                        -3.905922,
+                        56.011396
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Bonnybridge, Scotland",
+        "id": "0a62759208770972",
+        "name": "Bonnybridge",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0a62759208770972.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@asda @walkers_crisps #ccccccccccccccccrrrrrrrrrrrrrrrrrrrrrrrruuuuuuuuuuuuuunnnnnnnnnnnnnnnnnnnnnnncccccccccccccccchhhhhhhhhhhhhhhhhhhhhhh",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 28 12:23:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Millennium Hand and Shrimp, said the Bursar",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 680,
+        "follow_request_sent": false,
+        "followers_count": 108,
+        "following": false,
+        "friends_count": 354,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 43098443,
+        "id_str": "43098443",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Scotland",
+        "name": "Liam Gallagher",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2296661804/avatar_normal.JPEG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2296661804/avatar_normal.JPEG",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "oasis_77",
+        "statuses_count": 5087,
+        "time_zone": "Edinburgh",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

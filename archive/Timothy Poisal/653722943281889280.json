@@ -1,0 +1,146 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 13 00:04:29 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89587925,
+                "id_str": "89587925",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Comcast",
+                "screen_name": "comcast"
+            },
+            {
+                "id": 555548903,
+                "id_str": "555548903",
+                "indices": [
+                    33,
+                    39
+                ],
+                "name": "AmericanHorrorStory",
+                "screen_name": "AHSFX"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653722943281889280,
+    "id_str": "653722943281889280",
+    "in_reply_to_screen_name": "comcast",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89587925,
+    "in_reply_to_user_id_str": "89587925",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Washington, DC",
+        "id": "01fbe706f872cb32",
+        "name": "Washington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Comcast Had to restart watching @AHSFX on demand from the beginning because I accidentally hit exit instead of the volume button. SERIOUSLY",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 23 06:21:13 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I live to make people beautiful.  I tweet stuff I find interesting.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "karmaerwingomez.com/tim",
+                        "expanded_url": "http://karmaerwingomez.com/tim",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/ClwBXXHsep"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 118,
+        "follow_request_sent": false,
+        "followers_count": 4114,
+        "following": false,
+        "friends_count": 4361,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15556604,
+        "id_str": "15556604",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 119,
+        "location": "Washington, DC",
+        "name": "Timothy Poisal",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000085070457/123a634fe3bc6d1b5b70c46faa55129f.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000085070457/123a634fe3bc6d1b5b70c46faa55129f.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000705441501/dfa82ee079f708ee010c901b83ed73c2_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000705441501/dfa82ee079f708ee010c901b83ed73c2_normal.jpeg",
+        "profile_link_color": "4F7E0E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "0F0101",
+        "profile_text_color": "825F62",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tjpoisal",
+        "statuses_count": 14269,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/ClwBXXHsep",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
