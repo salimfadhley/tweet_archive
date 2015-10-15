@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 15 14:58:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654672774456197120,
+    "id_str": "654672774456197120",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -95.774704,
+                        35.995476
+                    ],
+                    [
+                        -89.098843,
+                        35.995476
+                    ],
+                    [
+                        -89.098843,
+                        40.613641
+                    ],
+                    [
+                        -95.774704,
+                        40.613641
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Missouri, USA",
+        "id": "2526edd24c06e60c",
+        "name": "Missouri",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/2526edd24c06e60c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@twitter I really dislike the way your android app goes 2 top of the feed everytime I tweet, retweet or favorite something. Very annoying",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 24 03:09:49 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Husband, father, army vet, conservative-leaning libertarian, software developer and MOOC enthusiast. I tweet about politics and coding.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3819,
+        "follow_request_sent": false,
+        "followers_count": 3757,
+        "following": false,
+        "friends_count": 4019,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1214311110,
+        "id_str": "1214311110",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 344,
+        "location": "Columbia, MO",
+        "name": "Jim ",
+        "notifications": false,
+        "profile_background_color": "0F0A02",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181104119/dZHEvZC-.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181104119/dZHEvZC-.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1214311110/1391484145",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3300335852/8283e8177827636516f8b5f61b85b20e_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3300335852/8283e8177827636516f8b5f61b85b20e_normal.jpeg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "171106",
+        "profile_text_color": "8A7302",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "developerWannab",
+        "statuses_count": 18784,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
