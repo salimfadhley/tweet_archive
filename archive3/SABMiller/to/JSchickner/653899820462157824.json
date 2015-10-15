@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 13 11:47:20 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18201377,
+                "id_str": "18201377",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "SABMiller",
+                "screen_name": "SABMiller"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653899820462157824,
+    "id_str": "653899820462157824",
+    "in_reply_to_screen_name": "SABMiller",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18201377,
+    "in_reply_to_user_id_str": "18201377",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        9.268442,
+                        47.501379
+                    ],
+                    [
+                        9.356455,
+                        47.501379
+                    ],
+                    [
+                        9.356455,
+                        47.531838
+                    ],
+                    [
+                        9.268442,
+                        47.531838
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Schweiz",
+        "country_code": "CH",
+        "full_name": "Muolen, Sankt Gallen",
+        "id": "7cb5ae9aa80a0471",
+        "name": "Muolen",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7cb5ae9aa80a0471.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@SABMiller do you also use hope from tettnang?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 17 16:49:23 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 984,
+        "follow_request_sent": false,
+        "followers_count": 28,
+        "following": false,
+        "friends_count": 136,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 719379219,
+        "id_str": "719379219",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "de",
+        "listed_count": 0,
+        "location": "",
+        "name": "j\u00f6rg schickner",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/719379219/1402564336",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/477016656435499008/Jn8kgi3O_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/477016656435499008/Jn8kgi3O_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JSchickner",
+        "statuses_count": 620,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

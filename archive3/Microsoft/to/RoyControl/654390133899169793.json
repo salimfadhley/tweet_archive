@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 14 20:15:40 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            },
+            {
+                "id": 15670515,
+                "id_str": "15670515",
+                "indices": [
+                    28,
+                    36
+                ],
+                "name": "Windows",
+                "screen_name": "Windows"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654390133899169793,
+    "id_str": "654390133899169793",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -72.0073024918158,
+                        17.4701563191231
+                    ],
+                    [
+                        -68.3227847681842,
+                        17.4701563191231
+                    ],
+                    [
+                        -68.3227847681842,
+                        19.9323139188769
+                    ],
+                    [
+                        -72.0073024918158,
+                        19.9323139188769
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Dominican Republic",
+        "country_code": "DO",
+        "full_name": "Dominican Republic",
+        "id": "695f560eb8922977",
+        "name": "Dominican Republic",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/695f560eb8922977.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Microsoft after installing @windows 10, sometimes I hear a hiss using headphones without any sound app running.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 24 02:50:22 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Soy rockero, bloguero, escribo poes\u00eda er\u00f3tica, no fumo, tengo mala memoria. Controlador a\u00e9reo, miembro directivo de @Adca_Atc.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "roycontrol.blogspot.com",
+                        "expanded_url": "http://roycontrol.blogspot.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/FoyKOk1u41"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 474,
+        "follow_request_sent": false,
+        "followers_count": 1928,
+        "following": false,
+        "friends_count": 760,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 76836768,
+        "id_str": "76836768",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 24,
+        "location": "Santo Domingo Este",
+        "name": "Roy",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000175990605/BtOCj0Au.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000175990605/BtOCj0Au.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76836768/1433000038",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/630984185688162304/0sLYMT33_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/630984185688162304/0sLYMT33_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RoyControl",
+        "statuses_count": 140625,
+        "time_zone": "Caracas",
+        "url": "http://t.co/FoyKOk1u41",
+        "utc_offset": -16200,
+        "verified": false
+    }
+}

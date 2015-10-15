@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 12 12:54:26 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 82151473,
+                "id_str": "82151473",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Citi",
+                "screen_name": "AskCiti"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653554318461829120,
+    "id_str": "653554318461829120",
+    "in_reply_to_screen_name": "AskCiti",
+    "in_reply_to_status_id": 653552571211194368,
+    "in_reply_to_status_id_str": "653552571211194368",
+    "in_reply_to_user_id": 82151473,
+    "in_reply_to_user_id_str": "82151473",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.483288999243,
+                        3.71743200175304
+                    ],
+                    [
+                        -74.0040529979154,
+                        3.71743200175304
+                    ],
+                    [
+                        -74.0040529979154,
+                        4.80713500387127
+                    ],
+                    [
+                        -74.483288999243,
+                        4.80713500387127
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Colombia",
+        "country_code": "CO",
+        "full_name": "Bogot\u00e1, Colombia",
+        "id": "0161be1b3f98d6c3",
+        "name": "Bogot\u00e1",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AskCiti not, I am in Colombia",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 25 18:47:30 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Funcionario de la DIAN, Pastuso, Universidad Externado de Colombia",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/danrocha7",
+                        "expanded_url": "http://facebook.com/danrocha7",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/4qpepuhyGI"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 715,
+        "follow_request_sent": false,
+        "followers_count": 1677,
+        "following": false,
+        "friends_count": 492,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 42461655,
+        "id_str": "42461655",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 11,
+        "location": "Bogot\u00e1 - Colombia",
+        "name": "Danny R. ",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42461655/1434839922",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/617910638472511488/iHpiqKRt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/617910638472511488/iHpiqKRt_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "danrocha7",
+        "statuses_count": 46194,
+        "time_zone": "Bogota",
+        "url": "http://t.co/4qpepuhyGI",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

@@ -1,0 +1,185 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 09 18:27:22 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    7,
+                    13
+                ],
+                "text": "Civic"
+            },
+            {
+                "indices": [
+                    14,
+                    20
+                ],
+                "text": "Sedan"
+            },
+            {
+                "indices": [
+                    27,
+                    35
+                ],
+                "text": "CarNews"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/g1I88ZPb45",
+                "expanded_url": "http://twitter.com/mk1rabbitGT/status/652550941724573696/photo/1",
+                "id": 652550888490405888,
+                "id_str": "652550888490405888",
+                "indices": [
+                    36,
+                    58
+                ],
+                "media_url": "http://pbs.twimg.com/media/CQ5Tk2JWEAA_3-q.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CQ5Tk2JWEAA_3-q.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 750,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 439,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 249,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/g1I88ZPb45"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 43430484,
+                "id_str": "43430484",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Honda",
+                "screen_name": "Honda"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652550941724573696,
+    "id_str": "652550941724573696",
+    "in_reply_to_screen_name": "Honda",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 43430484,
+    "in_reply_to_user_id_str": "43430484",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        31.2009591,
+                        28.9638508
+                    ],
+                    [
+                        31.9402534,
+                        28.9638508
+                    ],
+                    [
+                        31.9402534,
+                        30.2286469
+                    ],
+                    [
+                        31.2009591,
+                        30.2286469
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u0645\u0635\u0631",
+        "country_code": "EG",
+        "full_name": "Cairo, Egypt",
+        "id": "01d0cd182297354e",
+        "name": "Cairo",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/01d0cd182297354e.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Honda #Civic #Sedan #2016\n#CarNews http://t.co/g1I88ZPb45",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 16 15:38:46 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Nothing comes without effort.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 118,
+        "follow_request_sent": false,
+        "followers_count": 194,
+        "following": false,
+        "friends_count": 202,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 239006142,
+        "id_str": "239006142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 29,
+        "location": "Cairo",
+        "name": "Mk1Rabbit",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/239006142/1355645026",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/641738986784968704/mom9oqha_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/641738986784968704/mom9oqha_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mk1rabbitGT",
+        "statuses_count": 20816,
+        "time_zone": "Cairo",
+        "url": null,
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

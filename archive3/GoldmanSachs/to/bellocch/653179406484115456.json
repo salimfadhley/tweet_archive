@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 11 12:04:40 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/fKehmmJPVh",
+                "expanded_url": "http://twitter.com/bellocch/status/653179406484115456/photo/1",
+                "id": 653179404764487682,
+                "id_str": "653179404764487682",
+                "indices": [
+                    14,
+                    36
+                ],
+                "media_url": "http://pbs.twimg.com/media/CRCPNTuWoAIbAPV.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CRCPNTuWoAIbAPV.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 414,
+                        "resize": "fit",
+                        "w": 546
+                    },
+                    "medium": {
+                        "h": 414,
+                        "resize": "fit",
+                        "w": 546
+                    },
+                    "small": {
+                        "h": 257,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/fKehmmJPVh"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 253167239,
+                "id_str": "253167239",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Goldman Sachs",
+                "screen_name": "GoldmanSachs"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653179406484115456,
+    "id_str": "653179406484115456",
+    "in_reply_to_screen_name": "GoldmanSachs",
+    "in_reply_to_status_id": 646423342111551488,
+    "in_reply_to_status_id_str": "646423342111551488",
+    "in_reply_to_user_id": 253167239,
+    "in_reply_to_user_id_str": "253167239",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        12.4155497,
+                        41.5976345
+                    ],
+                    [
+                        12.5954934,
+                        41.5976345
+                    ],
+                    [
+                        12.5954934,
+                        41.7143875
+                    ],
+                    [
+                        12.4155497,
+                        41.7143875
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Italia",
+        "country_code": "IT",
+        "full_name": "Pomezia, Lazio",
+        "id": "ed58568dab3f9914",
+        "name": "Pomezia",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ed58568dab3f9914.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@GoldmanSachs http://t.co/fKehmmJPVh",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 07 13:54:17 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 22165,
+        "follow_request_sent": false,
+        "followers_count": 994,
+        "following": false,
+        "friends_count": 261,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1334169152,
+        "id_str": "1334169152",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "it",
+        "listed_count": 14,
+        "location": "",
+        "name": "angelobellocchi",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1334169152/1406390154",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000442351256/df2447e25c9e0958f64064cb92086865_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000442351256/df2447e25c9e0958f64064cb92086865_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bellocch",
+        "statuses_count": 98495,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

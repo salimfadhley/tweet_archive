@@ -1,0 +1,156 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 14 17:01:38 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 46177695,
+                "id_str": "46177695",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Walgreens",
+                "screen_name": "Walgreens"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654341305343057921,
+    "id_str": "654341305343057921",
+    "in_reply_to_screen_name": "Walgreens",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 46177695,
+    "in_reply_to_user_id_str": "46177695",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -92.889433,
+                        42.491889
+                    ],
+                    [
+                        -86.24955,
+                        42.491889
+                    ],
+                    [
+                        -86.24955,
+                        47.309715
+                    ],
+                    [
+                        -92.889433,
+                        47.309715
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Wisconsin, USA",
+        "id": "7dc5c6d3bfb10ccc",
+        "name": "Wisconsin",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7dc5c6d3bfb10ccc.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Walgreens as a former employee &amp; early adopter of Periscope I have to ask, do you have a game plan on how you'll use it?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 24 00:22:21 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Host of The Inside Scope, the #podcast all about the broadcast. \u27a1\ufe0f http://t.co/OvnkkNUxYj || #Periscope \u27a1\ufe0f http://t.co/z2z9AQwwlA #networking",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "theinsidescope.com",
+                        "expanded_url": "http://theinsidescope.com",
+                        "indices": [
+                            67,
+                            89
+                        ],
+                        "url": "http://t.co/OvnkkNUxYj"
+                    },
+                    {
+                        "display_url": "periscope.tv/ryan_bilello",
+                        "expanded_url": "http://periscope.tv/ryan_bilello",
+                        "indices": [
+                            107,
+                            129
+                        ],
+                        "url": "http://t.co/z2z9AQwwlA"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ryanbilello.me",
+                        "expanded_url": "http://ryanbilello.me",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/6tZlrqIThC"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2737,
+        "follow_request_sent": false,
+        "followers_count": 1671,
+        "following": false,
+        "friends_count": 537,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 26131248,
+        "id_str": "26131248",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 237,
+        "location": "Milwaukee, WI",
+        "name": "Ryan Bilello",
+        "notifications": false,
+        "profile_background_color": "010C12",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/837370434/28dc264a403de89e870645ab115d5b69.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/837370434/28dc264a403de89e870645ab115d5b69.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26131248/1443817148",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/559688028369584129/I2kssicy_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/559688028369584129/I2kssicy_normal.jpeg",
+        "profile_link_color": "D23925",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ryan_bilello",
+        "statuses_count": 13584,
+        "time_zone": null,
+        "url": "http://t.co/6tZlrqIThC",
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 12 16:37:03 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 64510593,
+                "id_str": "64510593",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Hilton Hotels",
+                "screen_name": "HiltonHotels"
+            },
+            {
+                "id": 409305482,
+                "id_str": "409305482",
+                "indices": [
+                    14,
+                    27
+                ],
+                "name": "Hilton Bodrum",
+                "screen_name": "HiltonBodrum"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 653610340228431872,
+    "id_str": "653610340228431872",
+    "in_reply_to_screen_name": "HiltonHotels",
+    "in_reply_to_status_id": 653598402949701632,
+    "in_reply_to_status_id_str": "653598402949701632",
+    "in_reply_to_user_id": 64510593,
+    "in_reply_to_user_id_str": "64510593",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.639319,
+                        43.403221
+                    ],
+                    [
+                        -78.90582,
+                        43.403221
+                    ],
+                    [
+                        -78.90582,
+                        43.855401
+                    ],
+                    [
+                        -79.639319,
+                        43.855401
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Toronto, Ontario",
+        "id": "3797791ff9c0e4c6",
+        "name": "Toronto",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3797791ff9c0e4c6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@HiltonHotels @HiltonBodrum my camera/ phone",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 16 17:44:37 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I love to inspire! Go big or go home!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4542,
+        "follow_request_sent": false,
+        "followers_count": 953,
+        "following": false,
+        "friends_count": 2001,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 32023084,
+        "id_str": "32023084",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 88,
+        "location": "Canada",
+        "name": "Nko",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/32023084/1367419383",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2356968346/z2lhfjx9fxp39zm2aqk4_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2356968346/z2lhfjx9fxp39zm2aqk4_normal.jpeg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "nikolinapapa",
+        "statuses_count": 16511,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

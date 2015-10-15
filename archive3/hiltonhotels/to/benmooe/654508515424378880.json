@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 15 04:06:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 64510593,
+                "id_str": "64510593",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Hilton Hotels",
+                "screen_name": "HiltonHotels"
+            },
+            {
+                "id": 16738488,
+                "id_str": "16738488",
+                "indices": [
+                    14,
+                    28
+                ],
+                "name": "The Drake",
+                "screen_name": "thedrakehotel"
+            },
+            {
+                "id": 40319760,
+                "id_str": "40319760",
+                "indices": [
+                    51,
+                    64
+                ],
+                "name": "The Drake Hotel ",
+                "screen_name": "DrakeChicago"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654508515424378880,
+    "id_str": "654508515424378880",
+    "in_reply_to_screen_name": "HiltonHotels",
+    "in_reply_to_status_id": 654431838761390080,
+    "in_reply_to_status_id_str": "654431838761390080",
+    "in_reply_to_user_id": 64510593,
+    "in_reply_to_user_id_str": "64510593",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.711527,
+                        43.749761
+                    ],
+                    [
+                        -79.420056,
+                        43.749761
+                    ],
+                    [
+                        -79.420056,
+                        43.924448
+                    ],
+                    [
+                        -79.711527,
+                        43.924448
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Vaughan, Ontario",
+        "id": "78d9392bd6093265",
+        "name": "Vaughan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/78d9392bd6093265.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@HiltonHotels @thedrakehotel I think you guys mean @DrakeChicago. That Drake Hotel in Toronto isn't a Hilton :)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 04 00:47:53 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "British chap lost in the 6ix, International man of mystery. Views are mine. RT \u2260 endorsement. Pour some frosting on me.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "zomato.com/benm",
+                        "expanded_url": "http://zomato.com/benm",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/zCqns5zLA2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1993,
+        "follow_request_sent": false,
+        "followers_count": 4523,
+        "following": false,
+        "friends_count": 399,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17854819,
+        "id_str": "17854819",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Toronto, Ontario",
+        "name": "Benjamin Moore",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000050839246/bf79bd999dd6050906830b2a56bf4bdc.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000050839246/bf79bd999dd6050906830b2a56bf4bdc.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17854819/1432537085",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/651404779181117440/VbRR6mgK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/651404779181117440/VbRR6mgK_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "benmooe",
+        "statuses_count": 15243,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/zCqns5zLA2",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

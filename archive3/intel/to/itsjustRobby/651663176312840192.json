@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 07 07:39:43 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "facebook.com/Surface/videos\u2026",
+                "expanded_url": "https://www.facebook.com/Surface/videos/1000996953257138/",
+                "indices": [
+                    66,
+                    89
+                ],
+                "url": "https://t.co/pnE6fw5zSn"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2803191,
+                "id_str": "2803191",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Intel",
+                "screen_name": "intel"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 651663176312840192,
+    "id_str": "651663176312840192",
+    "in_reply_to_screen_name": "intel",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2803191,
+    "in_reply_to_user_id_str": "2803191",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.069956,
+                        37.454962
+                    ],
+                    [
+                        -121.889098,
+                        37.454962
+                    ],
+                    [
+                        -121.889098,
+                        37.592327
+                    ],
+                    [
+                        -122.069956,
+                        37.592327
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Fremont, CA",
+        "id": "30344aecffe6a491",
+        "name": "Fremont",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/30344aecffe6a491.json"
+    },
+    "possibly_sensitive": true,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@intel very cool intel intro for Intel in this social media video.https://t.co/pnE6fw5zSn",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 20 23:01:06 +0000 2008",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 33,
+        "follow_request_sent": false,
+        "followers_count": 54,
+        "following": false,
+        "friends_count": 174,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14849700,
+        "id_str": "14849700",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Palo Alto, CA",
+        "name": "Robby Boyd",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2544160278/qfm95vkgceap4ow1lg71_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2544160278/qfm95vkgceap4ow1lg71_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "itsjustRobby",
+        "statuses_count": 551,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 14 03:24:50 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 37435412,
+                "id_str": "37435412",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Verizon Support",
+                "screen_name": "VerizonSupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654135749693042688,
+    "id_str": "654135749693042688",
+    "in_reply_to_screen_name": "VerizonSupport",
+    "in_reply_to_status_id": 654135396339724288,
+    "in_reply_to_status_id_str": "654135396339724288",
+    "in_reply_to_user_id": 37435412,
+    "in_reply_to_user_id_str": "37435412",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.9856133,
+                        40.788498
+                    ],
+                    [
+                        -73.95841,
+                        40.788498
+                    ],
+                    [
+                        -73.95841,
+                        40.8089414
+                    ],
+                    [
+                        -73.9856133,
+                        40.8089414
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan Valley, Manhattan",
+        "id": "1b0e9019b22e2966",
+        "name": "Manhattan Valley",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/1b0e9019b22e2966.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "@VerizonSupport done.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 26 19:07:58 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Husband. Chilean - Spaniard living in New York. My opinions are my own. iOS & Ruby Developer. @SarahFriedland is my copilot. @USantaMaria Alumni.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "rodrigogarcia.net",
+                        "expanded_url": "http://rodrigogarcia.net",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/a58QxLbEuB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 282,
+        "follow_request_sent": false,
+        "followers_count": 1006,
+        "following": false,
+        "friends_count": 962,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 9717582,
+        "id_str": "9717582",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "Planet Earth",
+        "name": "Rodrigo Garcia S.",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/110621200/mlkjr.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/110621200/mlkjr.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9717582/1350154166",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3486598372/c191aa4d6207645e706b384f86546325_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3486598372/c191aa4d6207645e706b384f86546325_normal.jpeg",
+        "profile_link_color": "301919",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C4903D",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rodchile",
+        "statuses_count": 10854,
+        "time_zone": "Santiago",
+        "url": "http://t.co/a58QxLbEuB",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}
