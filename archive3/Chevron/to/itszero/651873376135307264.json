@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 07 21:34:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 21021891,
+                "id_str": "21021891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Chevron",
+                "screen_name": "Chevron"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 651873376135307264,
+    "id_str": "651873376135307264",
+    "in_reply_to_screen_name": "Chevron",
+    "in_reply_to_status_id": 651769119042314244,
+    "in_reply_to_status_id_str": "651769119042314244",
+    "in_reply_to_user_id": 21021891,
+    "in_reply_to_user_id_str": "21021891",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.42548188,
+                        37.77322896
+                    ],
+                    [
+                        -122.40997884,
+                        37.77322896
+                    ],
+                    [
+                        -122.40997884,
+                        37.79084502
+                    ],
+                    [
+                        -122.42548188,
+                        37.79084502
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Civic Center, San Francisco",
+        "id": "9fff4bb5d61a7564",
+        "name": "Civic Center",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/9fff4bb5d61a7564.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "@Chevron gotcha. Hope to see\u2019em coming to more closer places! :)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 24 02:02:17 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@twitter eng. Reactive Scalaist having secret affairs with Ruby and Objective-C. Very Taiwanese. Such country. Wow.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "itszero.org",
+                        "expanded_url": "http://itszero.org/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/wKyfCWsiGh"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 562,
+        "follow_request_sent": false,
+        "followers_count": 1138,
+        "following": false,
+        "friends_count": 586,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 5450252,
+        "id_str": "5450252",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 46,
+        "location": "San Francisco, CA",
+        "name": "Zero Cho",
+        "notifications": false,
+        "profile_background_color": "DD3D25",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000173373284/yM1ByfMQ.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000173373284/yM1ByfMQ.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5450252/1398393649",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/648534219497406465/MsAZam16_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/648534219497406465/MsAZam16_normal.jpg",
+        "profile_link_color": "CC0606",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "itszero",
+        "statuses_count": 12133,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/wKyfCWsiGh",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

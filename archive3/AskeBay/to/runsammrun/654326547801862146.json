@@ -1,0 +1,176 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 14 16:03:00 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/z5Gq9GKIau",
+                "expanded_url": "http://twitter.com/runsammrun/status/654326547801862146/photo/1",
+                "id": 654326544836333568,
+                "id_str": "654326544836333568",
+                "indices": [
+                    117,
+                    139
+                ],
+                "media_url": "http://pbs.twimg.com/media/CRSihpgUEAAKXe4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CRSihpgUEAAKXe4.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 66,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 38,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 21,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 80,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/z5Gq9GKIau"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 430158505,
+                "id_str": "430158505",
+                "indices": [
+                    1,
+                    9
+                ],
+                "name": "Ask eBay",
+                "screen_name": "AskeBay"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654326547801862146,
+    "id_str": "654326547801862146",
+    "in_reply_to_screen_name": "AskeBay",
+    "in_reply_to_status_id": 653922978338578432,
+    "in_reply_to_status_id_str": "653922978338578432",
+    "in_reply_to_user_id": 430158505,
+    "in_reply_to_user_id_str": "430158505",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.0115728,
+                        40.718004
+                    ],
+                    [
+                        -73.995378,
+                        40.718004
+                    ],
+                    [
+                        -73.995378,
+                        40.729087
+                    ],
+                    [
+                        -74.0115728,
+                        40.729087
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "SOHO, Manhattan",
+        "id": "2597f2b91a5fcdb1",
+        "name": "SOHO",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/2597f2b91a5fcdb1.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": ".@AskeBay simply offloading uninterested users to your privacy policy / TOS is almost certainly not compliant w that http://t.co/z5Gq9GKIau",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 09 22:29:03 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "hello. I work on the @learn_co team.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "sammarc.us",
+                        "expanded_url": "http://sammarc.us",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/WUIKIebALx"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3275,
+        "follow_request_sent": false,
+        "followers_count": 696,
+        "following": false,
+        "friends_count": 1985,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1164260107,
+        "id_str": "1164260107",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 29,
+        "location": "NYC",
+        "name": "sam marcus",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1164260107/1432360921",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/599712939667423232/jfQ8aCaw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/599712939667423232/jfQ8aCaw_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "runsammrun",
+        "statuses_count": 14897,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/WUIKIebALx",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

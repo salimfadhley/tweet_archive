@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 14 15:23:49 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 10850192,
+                "id_str": "10850192",
+                "indices": [
+                    0,
+                    3
+                ],
+                "name": "General Motors",
+                "screen_name": "GM"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654316686183542784,
+    "id_str": "654316686183542784",
+    "in_reply_to_screen_name": "GM",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 10850192,
+    "in_reply_to_user_id_str": "10850192",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.288056,
+                        42.255085
+                    ],
+                    [
+                        -82.91052,
+                        42.255085
+                    ],
+                    [
+                        -82.91052,
+                        42.450488
+                    ],
+                    [
+                        -83.288056,
+                        42.450488
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Detroit, MI",
+        "id": "b463d3bd6064861b",
+        "name": "Detroit",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b463d3bd6064861b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@GM You can order lunch from our Twitter page starting at 11am-2pm for Downtown Detroit! We have a curated menu from the local spots.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 03 05:49:03 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Runn is now doing deliveries in Downtown Detroit between 11:30 AM - 2 PM! Hungry?! Check out our tweets with the BUY button on them and get what you want now!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "runnapp.com/signup.html",
+                        "expanded_url": "http://runnapp.com/signup.html",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/PX8u6njTnP"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 63,
+        "follow_request_sent": false,
+        "followers_count": 457,
+        "following": false,
+        "friends_count": 410,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2324912174,
+        "id_str": "2324912174",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Detroit, MI",
+        "name": "Runn",
+        "notifications": false,
+        "profile_background_color": "1AB7EA",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181141881/i3UGB4EH.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181141881/i3UGB4EH.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2324912174/1443726087",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/651196197135212544/Fc0vwDSr_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/651196197135212544/Fc0vwDSr_normal.png",
+        "profile_link_color": "1AB7EA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "runnapp",
+        "statuses_count": 378,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/PX8u6njTnP",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 12 23:57:13 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Tesla Motors",
+                "screen_name": "TeslaMotors"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653721113789251584,
+    "id_str": "653721113789251584",
+    "in_reply_to_screen_name": "TeslaMotors",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13298072,
+    "in_reply_to_user_id_str": "13298072",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.605166,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        35.000771
+                    ],
+                    [
+                        -85.605166,
+                        35.000771
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Georgia, USA",
+        "id": "7142eb97ae21e839",
+        "name": "Georgia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@TeslaMotors is the future of the automotive industry...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 24 18:10:16 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2954,
+        "follow_request_sent": false,
+        "followers_count": 237,
+        "following": false,
+        "friends_count": 472,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 287292253,
+        "id_str": "287292253",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Atlanta, GA",
+        "name": "Tucker Mathis",
+        "notifications": false,
+        "profile_background_color": "343338",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/829339198/10d63c8d9dd2b4aba16af0de41175687.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/829339198/10d63c8d9dd2b4aba16af0de41175687.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/287292253/1398263859",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3080846637/a968b02aafab609889dd5a8f52ff1dd6_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3080846637/a968b02aafab609889dd5a8f52ff1dd6_normal.jpeg",
+        "profile_link_color": "10A343",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TuckerMathis",
+        "statuses_count": 6864,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
