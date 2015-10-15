@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 15 17:15:49 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654707260522823680,
+    "id_str": "654707260522823680",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.5129821,
+                        33.5933183
+                    ],
+                    [
+                        -84.427795,
+                        33.5933183
+                    ],
+                    [
+                        -84.427795,
+                        33.669237
+                    ],
+                    [
+                        -84.5129821,
+                        33.669237
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "College Park, GA",
+        "id": "1703b859c254a0f9",
+        "name": "College Park",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1703b859c254a0f9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@twitter why doesn't moments  show up on iPad app \ud83d\ude11",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 22 19:40:28 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Husband of 1, Father of 3. #Teradata, #BigData #hadoop #Apple \uf8ff fan, technology guy. Anything #Bourbon, #RVA #GrossePointe #Michigan #Detroit #Virginia",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "teradata.com",
+                        "expanded_url": "http://www.teradata.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/iNH47yxswJ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 14,
+        "follow_request_sent": false,
+        "followers_count": 542,
+        "following": false,
+        "friends_count": 625,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 11438462,
+        "id_str": "11438462",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 55,
+        "location": "37.658534,-77.60599",
+        "name": "Todd Dube 2015",
+        "notifications": false,
+        "profile_background_color": "569FD2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/694277342/6e080e2fe630284c6495d836d3691594.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/694277342/6e080e2fe630284c6495d836d3691594.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11438462/1426592036",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/629657151494074368/GVMot7NE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/629657151494074368/GVMot7NE_normal.jpg",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F1F2E8",
+        "profile_text_color": "96B949",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "todddube",
+        "statuses_count": 8810,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/iNH47yxswJ",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

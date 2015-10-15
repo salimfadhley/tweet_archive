@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 13 15:39:34 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 253167239,
+                "id_str": "253167239",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Goldman Sachs",
+                "screen_name": "GoldmanSachs"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653958264682491904,
+    "id_str": "653958264682491904",
+    "in_reply_to_screen_name": "GoldmanSachs",
+    "in_reply_to_status_id": 653614122576277504,
+    "in_reply_to_status_id_str": "653614122576277504",
+    "in_reply_to_user_id": 253167239,
+    "in_reply_to_user_id_str": "253167239",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.59217,
+                        38.54757
+                    ],
+                    [
+                        -90.509959,
+                        38.54757
+                    ],
+                    [
+                        -90.509959,
+                        38.624853
+                    ],
+                    [
+                        -90.59217,
+                        38.624853
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Ballwin, MO",
+        "id": "cc1dc38105ac44d4",
+        "name": "Ballwin",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/cc1dc38105ac44d4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@GoldmanSachs Chop Suey?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 18 04:00:29 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Crapshooter",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2315,
+        "follow_request_sent": false,
+        "followers_count": 905,
+        "following": false,
+        "friends_count": 1955,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 192084422,
+        "id_str": "192084422",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 21,
+        "location": "chgo/st louis",
+        "name": "eduardo",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/395905283/mqsunnypasture.br.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/395905283/mqsunnypasture.br.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/192084422/1360839702",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1157921186/images_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157921186/images_normal.jpg",
+        "profile_link_color": "266D2F",
+        "profile_sidebar_border_color": "6B9735",
+        "profile_sidebar_fill_color": "C5EC65",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dirtmeister",
+        "statuses_count": 42285,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
