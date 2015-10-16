@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 08 04:17:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15425377,
+                "id_str": "15425377",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Airbus",
+                "screen_name": "Airbus"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 651974554898685952,
+    "id_str": "651974554898685952",
+    "in_reply_to_screen_name": "Airbus",
+    "in_reply_to_status_id": 651692588311924736,
+    "in_reply_to_status_id_str": "651692588311924736",
+    "in_reply_to_user_id": 15425377,
+    "in_reply_to_user_id_str": "15425377",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.082615,
+                        33.6289907
+                    ],
+                    [
+                        -117.91485,
+                        33.6289907
+                    ],
+                    [
+                        -117.91485,
+                        33.756093
+                    ],
+                    [
+                        -118.082615,
+                        33.756093
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Huntington Beach, CA",
+        "id": "80eb17ffe368fc9a",
+        "name": "Huntington Beach",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/80eb17ffe368fc9a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Airbus 28%",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 01 04:44:03 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 66,
+        "follow_request_sent": false,
+        "followers_count": 26,
+        "following": false,
+        "friends_count": 66,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2421539834,
+        "id_str": "2421539834",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Huntington Beach",
+        "name": "Henry Houck, Jr.",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2421539834/1396327900",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/455197284980899840/ii_SQUuL_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/455197284980899840/ii_SQUuL_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HenryHouck_Jr",
+        "statuses_count": 91,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
