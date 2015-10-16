@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 14 14:27:16 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1630182978,
+                "id_str": "1630182978",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Primark",
+                "screen_name": "Primark"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654302456789209088,
+    "id_str": "654302456789209088",
+    "in_reply_to_screen_name": "Primark",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1630182978,
+    "in_reply_to_user_id_str": "1630182978",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.5093057,
+                        51.286606
+                    ],
+                    [
+                        0.334433,
+                        51.286606
+                    ],
+                    [
+                        0.334433,
+                        51.6916388
+                    ],
+                    [
+                        -0.5093057,
+                        51.6916388
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "London, England",
+        "id": "5d838f7a011f4a2d",
+        "name": "London",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/5d838f7a011f4a2d.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Primark Is it possible to request sizes of clothing? Went to Oxford St today, saw good suit but not in the right size, can I order one in?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 09 13:55:14 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Presents the #fullpack show every Friday 6-8 on http://t.co/zDQ4fkUUjc / produce a whole load of radio shows / pencil pusher",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "sohoradiolondon.com",
+                        "expanded_url": "http://sohoradiolondon.com",
+                        "indices": [
+                            48,
+                            70
+                        ],
+                        "url": "http://t.co/zDQ4fkUUjc"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "fullpackshow.tumblr.com",
+                        "expanded_url": "http://fullpackshow.tumblr.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/8divZZRMlK"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 644,
+        "follow_request_sent": false,
+        "followers_count": 311,
+        "following": false,
+        "friends_count": 525,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20436156,
+        "id_str": "20436156",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "",
+        "name": "Samuel Gray",
+        "notifications": false,
+        "profile_background_color": "E6C2C1",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000073226698/91af429e476077053403338e27309042.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000073226698/91af429e476077053403338e27309042.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20436156/1392756627",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649152674601037824/VWbgFNkY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/649152674601037824/VWbgFNkY_normal.jpg",
+        "profile_link_color": "D4534E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "samsbit",
+        "statuses_count": 7924,
+        "time_zone": "Hawaii",
+        "url": "http://t.co/8divZZRMlK",
+        "utc_offset": -36000,
+        "verified": false
+    }
+}
