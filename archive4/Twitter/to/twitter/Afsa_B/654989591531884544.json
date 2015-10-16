@@ -1,0 +1,149 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            4.3630414,
+            50.8381205
+        ],
+        "type": "Point"
+    },
+    "created_at": "Fri Oct 16 11:57:42 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            50.8381205,
+            4.3630414
+        ],
+        "type": "Point"
+    },
+    "id": 654989591531884544,
+    "id_str": "654989591531884544",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        4.347341,
+                        50.8007214
+                    ],
+                    [
+                        4.4033873,
+                        50.8007214
+                    ],
+                    [
+                        4.4033873,
+                        50.8406204
+                    ],
+                    [
+                        4.347341,
+                        50.8406204
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Belgi\u00eb",
+        "country_code": "BE",
+        "full_name": "Elsene, Belgi\u00eb",
+        "id": "3060d31f8bf75f53",
+        "name": "Elsene",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3060d31f8bf75f53.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@twitter hi, why is my twitter playing me? I cannot follow/unfollow nor send messages via my pc",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 27 21:13:24 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u03a6\u03c6Love, emptiness, I, sound, vibration, music, frequency, me, you, fear, ... love ... (A)fsa \u264b \u2625\u03a6\u03c6",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "soundcloud.com/msayah",
+                        "expanded_url": "https://soundcloud.com/msayah",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/uUgGK8Y9Qm"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 316,
+        "follow_request_sent": false,
+        "followers_count": 1384,
+        "following": false,
+        "friends_count": 1123,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 85664075,
+        "id_str": "85664075",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "The whole,Belgium (Bxl-City)",
+        "name": "Ms@yah",
+        "notifications": false,
+        "profile_background_color": "F5E7F5",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/399449834/_DSC4038.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/399449834/_DSC4038.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85664075/1442599756",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/644932806489980928/4FwfP1iq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/644932806489980928/4FwfP1iq_normal.jpg",
+        "profile_link_color": "222222",
+        "profile_sidebar_border_color": "EBEBEB",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Afsa_B",
+        "statuses_count": 801,
+        "time_zone": "London",
+        "url": "https://t.co/uUgGK8Y9Qm",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
