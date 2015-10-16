@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 16 14:36:26 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655029536439050240,
+    "id_str": "655029536439050240",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -70.210918,
+                        -21.438447
+                    ],
+                    [
+                        -69.8219051,
+                        -21.438447
+                    ],
+                    [
+                        -69.8219051,
+                        -20.0651333
+                    ],
+                    [
+                        -70.210918,
+                        -20.0651333
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Chile",
+        "country_code": "CL",
+        "full_name": "Iquique, Tarapac\u00e1",
+        "id": "014f394f11cda9e4",
+        "name": "Iquique",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/014f394f11cda9e4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@twitter me acaba de felicitar por mi segundo aniversario desde el 2013! \u263a\ud83d\ude0d\ud83d\ude1a\u2764\u2600",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 14 16:27:50 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ante todo persona, amante y practicante de la fotograf\u00eda, m\u00fasica por las venas, cercano a los amigos, twitero 22\u00ae. Flickr: Choosing Ways - A.Ignacio fotograf\u00eda",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 520,
+        "follow_request_sent": false,
+        "followers_count": 145,
+        "following": false,
+        "friends_count": 249,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1960953810,
+        "id_str": "1960953810",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 2,
+        "location": "Chilean Lover! ",
+        "name": "Andr\u00e9s Ignacio ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1960953810/1423712919",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/645993282431008768/jZU6c8ta_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/645993282431008768/jZU6c8ta_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ignacio_andresi",
+        "statuses_count": 1438,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}
