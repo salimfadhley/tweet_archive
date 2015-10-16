@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 16 07:30:25 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271986064,
+                "id_str": "271986064",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Tesco",
+                "screen_name": "Tesco"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654922328883765248,
+    "id_str": "654922328883765248",
+    "in_reply_to_screen_name": "Tesco",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 271986064,
+    "in_reply_to_user_id_str": "271986064",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.112442,
+                        51.5068
+                    ],
+                    [
+                        -0.0733794,
+                        51.5068
+                    ],
+                    [
+                        -0.0733794,
+                        51.522161
+                    ],
+                    [
+                        -0.112442,
+                        51.522161
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "City of London, London",
+        "id": "3eb2c704fe8a50cb",
+        "name": "City of London",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3eb2c704fe8a50cb.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Tesco oh, I found a bug in your jam, what shall I do?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 17 00:51:22 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Data, spatial technologies and IT. My Neighbourhood. Our city heritage and politics. Our environment. Workers' rights everywhere.\r\nRetweeting is not endorsing.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2166,
+        "follow_request_sent": false,
+        "followers_count": 968,
+        "following": false,
+        "friends_count": 1948,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 19095125,
+        "id_str": "19095125",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 42,
+        "location": "Bristol",
+        "name": "Mariateresa B",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/734202051/4a7509b867fb5a6f04492d877126d6ac.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/734202051/4a7509b867fb5a6f04492d877126d6ac.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/529643204983791617/qtXon4gc_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/529643204983791617/qtXon4gc_normal.png",
+        "profile_link_color": "1A107A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "agreensteam",
+        "statuses_count": 12510,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
