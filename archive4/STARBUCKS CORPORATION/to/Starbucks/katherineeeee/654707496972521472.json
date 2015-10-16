@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 15 17:16:45 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    45,
+                    51
+                ],
+                "text": "basic"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 654707496972521472,
+    "id_str": "654707496972521472",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.690707,
+                        40.64329
+                    ],
+                    [
+                        -73.655767,
+                        40.64329
+                    ],
+                    [
+                        -73.655767,
+                        40.671411
+                    ],
+                    [
+                        -73.690707,
+                        40.671411
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Lynbrook, NY",
+        "id": "684ceb6509d97b6c",
+        "name": "Lynbrook",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/684ceb6509d97b6c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks toasted graham latte is the bomb. #basic",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 01 00:19:52 +0000 2008",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "wishing i was knee deep in the water somewhere\u2600\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 16618,
+        "follow_request_sent": false,
+        "followers_count": 181,
+        "following": false,
+        "friends_count": 130,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 16537552,
+        "id_str": "16537552",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "long island",
+        "name": "kat",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16537552/1443671721",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/654734408243503105/1Wiq4yRP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/654734408243503105/1Wiq4yRP_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "katherineeeee",
+        "statuses_count": 5137,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
