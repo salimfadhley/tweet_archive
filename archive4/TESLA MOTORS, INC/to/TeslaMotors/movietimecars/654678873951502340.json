@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 15 15:23:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Tesla Motors",
+                "screen_name": "TeslaMotors"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654678873951502340,
+    "id_str": "654678873951502340",
+    "in_reply_to_screen_name": "TeslaMotors",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13298072,
+    "in_reply_to_user_id_str": "13298072",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.1640885,
+                        40.717135
+                    ],
+                    [
+                        -74.076066,
+                        40.717135
+                    ],
+                    [
+                        -74.076066,
+                        40.7862874
+                    ],
+                    [
+                        -74.1640885,
+                        40.7862874
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Kearny, NJ",
+        "id": "d5140ca0d08eadc7",
+        "name": "Kearny",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/d5140ca0d08eadc7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@TeslaMotors Working on a movie and looking for a bronze colored Tesla for a one day shoot on Dec. 11th. Email me: movietimecars@me.com.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 08 18:14:09 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Movie Time Cars Inc, is a family owned & operated New Jersey based company. Our roots trace back 30 years supplying cars to the TV & feature Film industry.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "movietimecars.com",
+                        "expanded_url": "http://www.movietimecars.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/2pvpW78rDe"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 96,
+        "following": false,
+        "friends_count": 119,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 153492730,
+        "id_str": "153492730",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "North Arlington, NJ",
+        "name": "Movie Time Cars",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1291706690/Picture_12_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1291706690/Picture_12_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "movietimecars",
+        "statuses_count": 71,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/2pvpW78rDe",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
