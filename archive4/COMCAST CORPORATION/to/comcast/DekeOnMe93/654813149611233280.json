@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 16 00:16:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89587925,
+                "id_str": "89587925",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Comcast",
+                "screen_name": "comcast"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654813149611233280,
+    "id_str": "654813149611233280",
+    "in_reply_to_screen_name": "comcast",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89587925,
+    "in_reply_to_user_id_str": "89587925",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -105.148074,
+                        40.47168
+                    ],
+                    [
+                        -104.979811,
+                        40.47168
+                    ],
+                    [
+                        -104.979811,
+                        40.656701
+                    ],
+                    [
+                        -105.148074,
+                        40.656701
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Fort Collins, CO",
+        "id": "b2e4e65d7b80d2c1",
+        "name": "Fort Collins",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b2e4e65d7b80d2c1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@comcast I hate you.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 10 05:46:13 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I delete most of my tweets",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2321,
+        "follow_request_sent": false,
+        "followers_count": 157,
+        "following": false,
+        "friends_count": 136,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 938447538,
+        "id_str": "938447538",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "bryce",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/938447538/1438582106",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/645660327695155200/xV206b0a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/645660327695155200/xV206b0a_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "DekeOnMe93",
+        "statuses_count": 4541,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
