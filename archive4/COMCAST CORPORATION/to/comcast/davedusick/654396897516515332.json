@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 14 20:42:33 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    110,
+                    121
+                ],
+                "text": "PleaseHelp"
+            },
+            {
+                "indices": [
+                    122,
+                    137
+                ],
+                "text": "WeHaveWorkToDo"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89587925,
+                "id_str": "89587925",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Comcast",
+                "screen_name": "comcast"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654396897516515332,
+    "id_str": "654396897516515332",
+    "in_reply_to_screen_name": "comcast",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89587925,
+    "in_reply_to_user_id_str": "89587925",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -86.2755107,
+                        39.7654736
+                    ],
+                    [
+                        -86.225176,
+                        39.7654736
+                    ],
+                    [
+                        -86.225176,
+                        39.8110949
+                    ],
+                    [
+                        -86.2755107,
+                        39.8110949
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Speedway, IN",
+        "id": "6aa48afe6daf08a9",
+        "name": "Speedway",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6aa48afe6daf08a9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@comcast \nOur Internet has been down all day. Tech support was no help. They promised a call back...nothing. \n#PleaseHelp\n#WeHaveWorkToDo",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 28 01:58:29 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Motorsports Entrepeneur (@RaceTrackEngrng). Philanthropist (@IKnowDaveDusick). Traveler. Purveyor of all things Positive. #PowerOfPositivity #LiveLife",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "DaveDusick.com",
+                        "expanded_url": "http://www.DaveDusick.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/xTGuLV79Wr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 634,
+        "follow_request_sent": false,
+        "followers_count": 1239,
+        "following": false,
+        "friends_count": 880,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 77894601,
+        "id_str": "77894601",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 30,
+        "location": "Speedway, IN USA",
+        "name": "Dave Dusick",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/40632649/checks-rev3--smooth--black.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/40632649/checks-rev3--smooth--black.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/77894601/1348155736",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/539774519062564864/1B6sphnK_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/539774519062564864/1B6sphnK_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "davedusick",
+        "statuses_count": 9913,
+        "time_zone": "Indiana (East)",
+        "url": "http://t.co/xTGuLV79Wr",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
