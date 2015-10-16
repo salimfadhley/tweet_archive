@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 16 15:41:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 38676903,
+                "id_str": "38676903",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "easyJet",
+                "screen_name": "easyJet"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655046032066224128,
+    "id_str": "655046032066224128",
+    "in_reply_to_screen_name": "easyJet",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 38676903,
+    "in_reply_to_user_id_str": "38676903",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.4307689,
+                        48.9183871
+                    ],
+                    [
+                        2.4842825,
+                        48.9183871
+                    ],
+                    [
+                        2.4842825,
+                        48.955866
+                    ],
+                    [
+                        2.4307689,
+                        48.955866
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Le Blanc-Mesnil, Ile-de-France",
+        "id": "3f712f3df88cbeaf",
+        "name": "Le Blanc-Mesnil",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3f712f3df88cbeaf.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@easyJet Hi ! Not arrived to CDG airport and learning that the flight EZY2792 is about 1h30 late.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 03 22:03:00 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dauphinois g\u00e9n\u00e9tiquement mais aussi \u00e0 #Paris \u00e0 plein temps. - Je me d\u00e9veloppe en binaire. -  D\u00e9sormais moins de politique et plus de vie.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "matthiofishal.wordpress.com",
+                        "expanded_url": "https://matthiofishal.wordpress.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/WT6oivY2zR"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 20351,
+        "follow_request_sent": false,
+        "followers_count": 819,
+        "following": false,
+        "friends_count": 785,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 454343377,
+        "id_str": "454343377",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en-gb",
+        "listed_count": 36,
+        "location": "Paris | Grenoble",
+        "name": "MatthiOfficial",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/454343377/1441927326",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/577127476003913728/11PADusT_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/577127476003913728/11PADusT_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MatthioFishal",
+        "statuses_count": 46043,
+        "time_zone": "Paris",
+        "url": "https://t.co/WT6oivY2zR",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}
