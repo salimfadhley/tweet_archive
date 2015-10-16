@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 14 23:53:31 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16365636,
+                "id_str": "16365636",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "TripAdvisor",
+                "screen_name": "TripAdvisor"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 654444958779248640,
+    "id_str": "654444958779248640",
+    "in_reply_to_screen_name": "TripAdvisor",
+    "in_reply_to_status_id": 654332002796183552,
+    "in_reply_to_status_id_str": "654332002796183552",
+    "in_reply_to_user_id": 16365636,
+    "in_reply_to_user_id_str": "16365636",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.190523,
+                        37.362824
+                    ],
+                    [
+                        -122.097537,
+                        37.362824
+                    ],
+                    [
+                        -122.097537,
+                        37.465918
+                    ],
+                    [
+                        -122.190523,
+                        37.465918
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Palo Alto, CA",
+        "id": "3ad0f706b3fa62a8",
+        "name": "Palo Alto",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3ad0f706b3fa62a8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@TripAdvisor Trust me, two rooms is MUCH more relaxing -- until we get our credit card statement.  ;)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 24 02:04:43 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Writer, mom of two, and founder of Travel Savvy Mom. I see and blog about the funny side of family travel. Yes, there is one.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "travelsavvymom.com",
+                        "expanded_url": "http://www.travelsavvymom.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/fgAoIlmuJz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 555,
+        "follow_request_sent": false,
+        "followers_count": 23105,
+        "following": false,
+        "friends_count": 678,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15575630,
+        "id_str": "15575630",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1175,
+        "location": "Palo Alto, California",
+        "name": "Jamie Pearson",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/672787438/4da93a6be473c8c92d6ac9055fb7e7b5.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/672787438/4da93a6be473c8c92d6ac9055fb7e7b5.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15575630/1399339499",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1759666376/newprofilepic_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1759666376/newprofilepic_normal.jpg",
+        "profile_link_color": "058099",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TravelSavvyMom",
+        "statuses_count": 10382,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/fgAoIlmuJz",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}
