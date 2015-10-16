@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 15 19:49:00 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2803191,
+                "id_str": "2803191",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Intel",
+                "screen_name": "intel"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654745811801079808,
+    "id_str": "654745811801079808",
+    "in_reply_to_screen_name": "intel",
+    "in_reply_to_status_id": 654745567239606273,
+    "in_reply_to_status_id_str": "654745567239606273",
+    "in_reply_to_user_id": 2803191,
+    "in_reply_to_user_id_str": "2803191",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -111.083219,
+                        32.057802
+                    ],
+                    [
+                        -110.747928,
+                        32.057802
+                    ],
+                    [
+                        -110.747928,
+                        32.320979
+                    ],
+                    [
+                        -111.083219,
+                        32.320979
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Tucson, AZ",
+        "id": "013379ee5729a5e6",
+        "name": "Tucson",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/013379ee5729a5e6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@intel love this thanks",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 18 19:49:33 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 16,
+        "follow_request_sent": false,
+        "followers_count": 7,
+        "following": false,
+        "friends_count": 66,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 254184986,
+        "id_str": "254184986",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 0,
+        "location": "",
+        "name": "Jeannettes Sims",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jeannettesims",
+        "statuses_count": 39,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
