@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 16 13:50:52 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            },
+            {
+                "id": 174416608,
+                "id_str": "174416608",
+                "indices": [
+                    16,
+                    29
+                ],
+                "name": "Mama Twist",
+                "screen_name": "MrsAnneTwist"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655018072370188288,
+    "id_str": "655018072370188288",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.820272,
+                        38.403186
+                    ],
+                    [
+                        -80.518626,
+                        38.403186
+                    ],
+                    [
+                        -80.518626,
+                        42.327133
+                    ],
+                    [
+                        -84.820272,
+                        42.327133
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Ohio, USA",
+        "id": "de599025180e2ee7",
+        "name": "Ohio",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/de599025180e2ee7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@twitter verify @MrsAnneTwist",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 15 14:46:05 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "just one of them band kids",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 20008,
+        "follow_request_sent": false,
+        "followers_count": 758,
+        "following": false,
+        "friends_count": 1174,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20913161,
+        "id_str": "20913161",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "8/18/15 - 10/27/15",
+        "name": "spookmeister",
+        "notifications": false,
+        "profile_background_color": "282117",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000170803106/MnESfzvo.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000170803106/MnESfzvo.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20913161/1444787242",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/642904375745187840/bxluH39n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/642904375745187840/bxluH39n_normal.jpg",
+        "profile_link_color": "523E33",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6B8AB",
+        "profile_text_color": "EE6A5B",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "EllieYruegas",
+        "statuses_count": 27446,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
