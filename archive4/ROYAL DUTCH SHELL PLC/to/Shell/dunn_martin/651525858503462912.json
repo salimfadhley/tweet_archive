@@ -1,0 +1,172 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 06 22:34:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/9DOrTVI7Ky",
+                "expanded_url": "http://twitter.com/dunn_martin/status/651525858503462912/photo/1",
+                "id": 651525850836262912,
+                "id_str": "651525850836262912",
+                "indices": [
+                    99,
+                    121
+                ],
+                "media_url": "http://pbs.twimg.com/media/CQqvTzUUYAARhmw.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CQqvTzUUYAARhmw.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 460,
+                        "resize": "fit",
+                        "w": 408
+                    },
+                    "medium": {
+                        "h": 460,
+                        "resize": "fit",
+                        "w": 408
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/9DOrTVI7Ky"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20663500,
+                "id_str": "20663500",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Shell",
+                "screen_name": "Shell"
+            },
+            {
+                "id": 437664298,
+                "id_str": "437664298",
+                "indices": [
+                    7,
+                    19
+                ],
+                "name": "Oil&Money",
+                "screen_name": "oilandmoney"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 651525858503462912,
+    "id_str": "651525858503462912",
+    "in_reply_to_screen_name": "Shell",
+    "in_reply_to_status_id": 651321269112152064,
+    "in_reply_to_status_id_str": "651321269112152064",
+    "in_reply_to_user_id": 20663500,
+    "in_reply_to_user_id_str": "20663500",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        150.520928608,
+                        -34.1183470085
+                    ],
+                    [
+                        151.343020992,
+                        -34.1183470085
+                    ],
+                    [
+                        151.343020992,
+                        -33.578140996
+                    ],
+                    [
+                        150.520928608,
+                        -33.578140996
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Australia",
+        "country_code": "AU",
+        "full_name": "Sydney, New South Wales",
+        "id": "0073b76548e5984f",
+        "name": "Sydney",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Shell @oilandmoney Of all nations on earth why does Shell boycott only the one tiny Jewish state? http://t.co/9DOrTVI7Ky",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 17 09:18:10 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 355,
+        "following": false,
+        "friends_count": 545,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 392605105,
+        "id_str": "392605105",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Sydney, Australia",
+        "name": "Martin Dunn",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1627100806/Sydney_Harbour_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1627100806/Sydney_Harbour_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dunn_martin",
+        "statuses_count": 6406,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

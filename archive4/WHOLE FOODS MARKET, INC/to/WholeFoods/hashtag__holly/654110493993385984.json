@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 14 01:44:29 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/xVmOC5ZISI",
+                "expanded_url": "http://twitter.com/hashtag__holly/status/654110493993385984/photo/1",
+                "id": 654110482219991040,
+                "id_str": "654110482219991040",
+                "indices": [
+                    21,
+                    43
+                ],
+                "media_url": "http://pbs.twimg.com/media/CRPeBJiVAAAMYyY.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CRPeBJiVAAAMYyY.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/xVmOC5ZISI"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15131310,
+                "id_str": "15131310",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Whole Foods Market",
+                "screen_name": "WholeFoods"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654110493993385984,
+    "id_str": "654110493993385984",
+    "in_reply_to_screen_name": "WholeFoods",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15131310,
+    "in_reply_to_user_id_str": "15131310",
+    "is_quote_status": false,
+    "lang": "tl",
+    "metadata": {
+        "iso_language_code": "tl",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.928935,
+                        30.127892
+                    ],
+                    [
+                        -97.5805133,
+                        30.127892
+                    ],
+                    [
+                        -97.5805133,
+                        30.5187994
+                    ],
+                    [
+                        -97.928935,
+                        30.5187994
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Austin, TX",
+        "id": "c3f37afa9efcf94b",
+        "name": "Austin",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@WholeFoods dafuq??? http://t.co/xVmOC5ZISI",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 19 08:30:09 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 565,
+        "follow_request_sent": false,
+        "followers_count": 15,
+        "following": false,
+        "friends_count": 42,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 440671423,
+        "id_str": "440671423",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "holly",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/440671423/1439004943",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/629507208267431936/MdqaHah0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/629507208267431936/MdqaHah0_normal.jpg",
+        "profile_link_color": "810541",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "hashtag__holly",
+        "statuses_count": 2436,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

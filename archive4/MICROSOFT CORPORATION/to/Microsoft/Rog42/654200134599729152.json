@@ -1,0 +1,282 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 14 07:40:41 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    62,
+                    66
+                ],
+                "text": "IoT"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/techcrunch/sta\u2026",
+                "expanded_url": "https://twitter.com/techcrunch/status/654164488745316352",
+                "indices": [
+                    67,
+                    90
+                ],
+                "url": "https://t.co/RbeCgDgP5M"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            },
+            {
+                "id": 6087122,
+                "id_str": "6087122",
+                "indices": [
+                    17,
+                    21
+                ],
+                "name": "Adam Goldberg",
+                "screen_name": "aws"
+            },
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    27,
+                    34
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 654200134599729152,
+    "id_str": "654200134599729152",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        150.520928608,
+                        -34.1183470085
+                    ],
+                    [
+                        151.343020992,
+                        -34.1183470085
+                    ],
+                    [
+                        151.343020992,
+                        -33.578140996
+                    ],
+                    [
+                        150.520928608,
+                        -33.578140996
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Australia",
+        "country_code": "AU",
+        "full_name": "Sydney, New South Wales",
+        "id": "0073b76548e5984f",
+        "name": "Sydney",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Oct 14 05:19:02 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "tcrn.ch/1ZzvoEa",
+                    "expanded_url": "http://tcrn.ch/1ZzvoEa",
+                    "indices": [
+                        86,
+                        108
+                    ],
+                    "url": "http://t.co/crWn6pErpY"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 152,
+        "favorited": false,
+        "geo": null,
+        "id": 654164488745316352,
+        "id_str": "654164488745316352",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 191,
+        "retweeted": false,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Google launches Cloud Datalab, an interactive tool for exploring and visualizing data http://t.co/crWn6pErpY",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "techcrunch.com",
+                            "expanded_url": "http://techcrunch.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/b5Oyx12qGG"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 881,
+            "follow_request_sent": false,
+            "followers_count": 5786744,
+            "following": false,
+            "friends_count": 733,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 816653,
+            "id_str": "816653",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 100421,
+            "location": "San Francisco, CA",
+            "name": "TechCrunch",
+            "notifications": false,
+            "profile_background_color": "149500",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1431096993",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+            "profile_link_color": "097000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "222222",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "TechCrunch",
+            "statuses_count": 110970,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/b5Oyx12qGG",
+            "utc_offset": -25200,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 654164488745316352,
+    "quoted_status_id_str": "654164488745316352",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@microsoft, then @AWS, now @Google all building platforms for #IoT https://t.co/RbeCgDgP5M",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 12 05:40:08 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Adventurer | Technologist | Futurist | Speaker",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "rog42.net",
+                        "expanded_url": "http://rog42.net",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/S0WgZrKAQ7"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 505,
+        "follow_request_sent": false,
+        "followers_count": 1683,
+        "following": false,
+        "friends_count": 990,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 10172582,
+        "id_str": "10172582",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 197,
+        "location": "",
+        "name": "Rog42",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10172582/1438399926",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/544105007054741504/oajFsaNV_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/544105007054741504/oajFsaNV_normal.jpeg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Rog42",
+        "statuses_count": 24742,
+        "time_zone": "Sydney",
+        "url": "http://t.co/S0WgZrKAQ7",
+        "utc_offset": 39600,
+        "verified": false
+    }
+}

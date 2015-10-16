@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 15 18:13:45 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15133627,
+                "id_str": "15133627",
+                "indices": [
+                    0,
+                    3
+                ],
+                "name": "O2 in the UK",
+                "screen_name": "O2"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654721840326144000,
+    "id_str": "654721840326144000",
+    "in_reply_to_screen_name": "O2",
+    "in_reply_to_status_id": 654602675242315776,
+    "in_reply_to_status_id_str": "654602675242315776",
+    "in_reply_to_user_id": 15133627,
+    "in_reply_to_user_id_str": "15133627",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -4.3932845,
+                        55.796184
+                    ],
+                    [
+                        -4.0902182,
+                        55.796184
+                    ],
+                    [
+                        -4.0902182,
+                        55.9204214
+                    ],
+                    [
+                        -4.3932845,
+                        55.9204214
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Glasgow, Scotland",
+        "id": "791e00bcadc4615f",
+        "name": "Glasgow",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@O2 I don't see a DM option. Maybe I'm just missing it. Could I have an email address or something?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 23 16:41:09 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Jesus Follower. Photographer. Street Pastor. Musician. Youtuber. Scottish.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/markienelsonph\u2026",
+                        "expanded_url": "https://www.facebook.com/markienelsonphotography",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/S7xFiJWEbd"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2575,
+        "follow_request_sent": false,
+        "followers_count": 197,
+        "following": false,
+        "friends_count": 168,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 76688944,
+        "id_str": "76688944",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 16,
+        "location": "Glasgow, Scotland",
+        "name": "Mark Nelson",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000006376100/536abbc00c86b8be0f0346048a31216c.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000006376100/536abbc00c86b8be0f0346048a31216c.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76688944/1431284763",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/636369422450601988/Yj4aA_TZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/636369422450601988/Yj4aA_TZ_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "markieanelson",
+        "statuses_count": 10573,
+        "time_zone": "Edinburgh",
+        "url": "https://t.co/S7xFiJWEbd",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            3.0249334,
+            39.4256531
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sun Oct 11 16:03:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/6LwBBFP8Bv",
+                "expanded_url": "http://twitter.com/lluent/status/653239630528159744/photo/1",
+                "id": 653239615403524096,
+                "id_str": "653239615403524096",
+                "indices": [
+                    12,
+                    34
+                ],
+                "media_url": "http://pbs.twimg.com/media/CRDF-B1XAAAcBhb.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CRDF-B1XAAAcBhb.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/6LwBBFP8Bv"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 61744008,
+                "id_str": "61744008",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Telef\u00f3nica",
+                "screen_name": "Telefonica"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            39.4256531,
+            3.0249334
+        ],
+        "type": "Point"
+    },
+    "id": 653239630528159744,
+    "id_str": "653239630528159744",
+    "in_reply_to_screen_name": "Telefonica",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 61744008,
+    "in_reply_to_user_id_str": "61744008",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.9310579,
+                        39.3255818
+                    ],
+                    [
+                        3.1009491,
+                        39.3255818
+                    ],
+                    [
+                        3.1009491,
+                        39.4766038
+                    ],
+                    [
+                        2.9310579,
+                        39.4766038
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Espa\u00f1a",
+        "country_code": "ES",
+        "full_name": "Campos, Illes Balears",
+        "id": "8ee9929c08c60209",
+        "name": "Campos",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8ee9929c08c60209.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Telefonica http://t.co/6LwBBFP8Bv",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 11 06:55:29 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Soy yo!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 286,
+        "follow_request_sent": false,
+        "followers_count": 144,
+        "following": false,
+        "friends_count": 297,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 23733269,
+        "id_str": "23733269",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 0,
+        "location": "Mallorca",
+        "name": "Jaume",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/534373378941919235/CXIVMpTl.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/534373378941919235/CXIVMpTl.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23733269/1416239575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1695184234/J3HqX72S_normal",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1695184234/J3HqX72S_normal",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lluent",
+        "statuses_count": 781,
+        "time_zone": "Madrid",
+        "url": null,
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

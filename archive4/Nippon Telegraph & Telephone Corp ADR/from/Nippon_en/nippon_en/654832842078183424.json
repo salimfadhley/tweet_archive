@@ -1,0 +1,357 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 16 01:34:50 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    90,
+                    95
+                ],
+                "text": "R2D2"
+            },
+            {
+                "indices": [
+                    96,
+                    105
+                ],
+                "text": "StarWars"
+            },
+            {
+                "indices": [
+                    106,
+                    116
+                ],
+                "text": "CoolJapan"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/Hakata_Hands/s\u2026",
+                "expanded_url": "https://twitter.com/Hakata_Hands/status/652434238944362496",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/0WlROSCJmr"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 32244022,
+                "id_str": "32244022",
+                "indices": [
+                    3,
+                    12
+                ],
+                "name": "Paul 'Karaoke' Grgic",
+                "screen_name": "pochanuk"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654832842078183424,
+    "id_str": "654832842078183424",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Oct 10 11:55:40 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        76,
+                        81
+                    ],
+                    "text": "R2D2"
+                },
+                {
+                    "indices": [
+                        82,
+                        91
+                    ],
+                    "text": "StarWars"
+                },
+                {
+                    "indices": [
+                        92,
+                        102
+                    ],
+                    "text": "CoolJapan"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/Hakata_Hands/s\u2026",
+                    "expanded_url": "https://twitter.com/Hakata_Hands/status/652434238944362496",
+                    "indices": [
+                        103,
+                        126
+                    ],
+                    "url": "https://t.co/0WlROSCJmr"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 5,
+        "favorited": false,
+        "geo": null,
+        "id": 652814752016564224,
+        "id_str": "652814752016564224",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            139.586214996518,
+                            35.6622150056787
+                        ],
+                        [
+                            139.666528005112,
+                            35.6622150056787
+                        ],
+                        [
+                            139.666528005112,
+                            35.7248200038791
+                        ],
+                        [
+                            139.586214996518,
+                            35.7248200038791
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "\u65e5\u672c",
+            "country_code": "JP",
+            "full_name": "Suginami, Tokyo",
+            "id": "faab662cb34cf04f",
+            "name": "Suginami",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/faab662cb34cf04f.json"
+        },
+        "possibly_sensitive": false,
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Fri Oct 09 10:43:38 +0000 2015",
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/jBabQGP3ro",
+                        "expanded_url": "http://twitter.com/Hakata_Hands/status/652434238944362496/video/1",
+                        "id": 652434132249632768,
+                        "id_str": "652434132249632768",
+                        "indices": [
+                            30,
+                            52
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/652434132249632768/pu/img/xt6Z1leNXzRJZXJC.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/652434132249632768/pu/img/xt6Z1leNXzRJZXJC.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 1280,
+                                "resize": "fit",
+                                "w": 720
+                            },
+                            "medium": {
+                                "h": 1067,
+                                "resize": "fit",
+                                "w": 600
+                            },
+                            "small": {
+                                "h": 604,
+                                "resize": "fit",
+                                "w": 340
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "http://t.co/jBabQGP3ro"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 7103,
+            "favorited": false,
+            "geo": null,
+            "id": 652434238944362496,
+            "id_str": "652434238944362496",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "ja",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 9914,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "\uff32\uff12-D2\u3001\u304a\u5ba2\u3055\u307e\u306e\u81ea\u4f5c\u3060\u305d\u3046\u3067\u3059\u203c\ufe0e\u3057\u304b\u3082\u81ea\u8d70\u3059\u308b\u301c\uff01 http://t.co/jBabQGP3ro",
+            "truncated": false
+        },
+        "quoted_status_id": 652434238944362496,
+        "quoted_status_id_str": "652434238944362496",
+        "retweet_count": 4,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "R2-D2 at a shop called Tokyu Hands in Japan, built by one of the customers. #R2D2 #StarWars #CoolJapan https://t.co/0WlROSCJmr",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Apr 17 01:35:17 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "JP2ENG translator etc\u548c\u6587\u82f1\u8a33\u7ffb\u8a33\u8005\u517c\uff2e\uff23.Loves 70s robot anime,J-rock esp. \u30a4\u30a8\u30e2\u30f3\u3001\u5409\u4e95\u548c\u54c9\u3001JAM PROJECT\u3001\u30e9\u30eb\u30af\u3001\u9060\u85e4\u6b63\u660e\u3001\u666f\u5c71\u30d2\u30ed\u30ce\u30d6.Karaoke fiend\u30ab\u30e9\u30aa\u30b1\u30de\u30cb\u30a2\u30c3\u30af",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 2295,
+            "follow_request_sent": false,
+            "followers_count": 228,
+            "following": false,
+            "friends_count": 537,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 32244022,
+            "id_str": "32244022",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 8,
+            "location": "\u6771\u4eac\u90fd",
+            "name": "Paul 'Karaoke' Grgic",
+            "notifications": false,
+            "profile_background_color": "BADFCD",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/32244022/1421309459",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/627327813792628736/9uxQYZkM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/627327813792628736/9uxQYZkM_normal.jpg",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "F2E195",
+            "profile_sidebar_fill_color": "FFF7CC",
+            "profile_text_color": "0C3E53",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "pochanuk",
+            "statuses_count": 2488,
+            "time_zone": "Tokyo",
+            "url": null,
+            "utc_offset": 32400,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "text": "RT @pochanuk: R2-D2 at a shop called Tokyu Hands in Japan, built by one of the customers. #R2D2 #StarWars #CoolJapan https://t.co/0WlROSCJmr",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 10 06:57:59 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Scholarly analysis and entertaining articles on Japan's society, economy, and politics. Real-life images of Japan in seven languages. Successor to @japanecho.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "nippon.com/en",
+                        "expanded_url": "http://nippon.com/en",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/3fKRKT5P9U"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 17,
+        "follow_request_sent": false,
+        "followers_count": 13451,
+        "following": false,
+        "friends_count": 2210,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 352160450,
+        "id_str": "352160450",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 559,
+        "location": "Japan",
+        "name": "Nippon.com",
+        "notifications": false,
+        "profile_background_color": "C2BA9B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/352160450/1434700659",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1487690638/nippon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1487690638/nippon_normal.jpg",
+        "profile_link_color": "87692C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "nippon_en",
+        "statuses_count": 7364,
+        "time_zone": "Tokyo",
+        "url": "http://t.co/3fKRKT5P9U",
+        "utc_offset": 32400,
+        "verified": false
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 15 20:33:24 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            },
+            {
+                "id": 382267114,
+                "id_str": "382267114",
+                "indices": [
+                    12,
+                    20
+                ],
+                "name": "Android",
+                "screen_name": "Android"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654756982365163521,
+    "id_str": "654756982365163521",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -56.430439,
+                        -34.937896
+                    ],
+                    [
+                        -56.029341,
+                        -34.937896
+                    ],
+                    [
+                        -56.029341,
+                        -34.701599
+                    ],
+                    [
+                        -56.430439,
+                        -34.701599
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Uruguay",
+        "country_code": "UY",
+        "full_name": "Montevideo, Uruguay",
+        "id": "01a9dbb9232f0fac",
+        "name": "Montevideo",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9dbb9232f0fac.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@google and @Android are you going to update the time zone in Uruguay some day? We won't have DST anymore. It will be greatly appreciated.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 16 19:29:11 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 133,
+        "follow_request_sent": false,
+        "followers_count": 192,
+        "following": false,
+        "friends_count": 666,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 191564734,
+        "id_str": "191564734",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 2,
+        "location": "Uruguay",
+        "name": "Lord Pat",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/477590571666923521/x9NcW8KD_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/477590571666923521/x9NcW8KD_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "patoshaw",
+        "statuses_count": 770,
+        "time_zone": "Brasilia",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

@@ -1,0 +1,185 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 16 00:55:23 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/NqhHzm3WlT",
+                "expanded_url": "http://twitter.com/gak_pdx/status/654822916131913728/photo/1",
+                "id": 654822914118676480,
+                "id_str": "654822914118676480",
+                "indices": [
+                    104,
+                    126
+                ],
+                "media_url": "http://pbs.twimg.com/media/CRZl-JLUcAAn8cI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CRZl-JLUcAAn8cI.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1365,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/NqhHzm3WlT"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 415859364,
+                "id_str": "415859364",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Nike",
+                "screen_name": "Nike"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654822916131913728,
+    "id_str": "654822916131913728",
+    "in_reply_to_screen_name": "Nike",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 415859364,
+    "in_reply_to_user_id_str": "415859364",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.687169,
+                        45.522895
+                    ],
+                    [
+                        -122.674272,
+                        45.522895
+                    ],
+                    [
+                        -122.674272,
+                        45.5381228
+                    ],
+                    [
+                        -122.687169,
+                        45.5381228
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Pearl District, Portland",
+        "id": "517134823363846c",
+        "name": "Pearl District",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/517134823363846c.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@Nike Not a shoe designer, but this cord lace capture system died on me within 3 months. Not so durable http://t.co/NqhHzm3WlT",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 20 06:54:14 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I make high-end bondage gear for professional photographers at http://t.co/epJpQhmqaq",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "lu.ma",
+                        "expanded_url": "http://lu.ma",
+                        "indices": [
+                            63,
+                            85
+                        ],
+                        "url": "http://t.co/epJpQhmqaq"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "atomicdelights.com",
+                        "expanded_url": "http://www.atomicdelights.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/YlFNlrdmym"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 434,
+        "follow_request_sent": false,
+        "followers_count": 4011,
+        "following": false,
+        "friends_count": 529,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 7603032,
+        "id_str": "7603032",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 150,
+        "location": "PDX, OR",
+        "name": "Greg Koenig",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/67336982/loop-curve.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/67336982/loop-curve.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/522118262868283392/NUmqKUpc_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/522118262868283392/NUmqKUpc_normal.jpeg",
+        "profile_link_color": "AAAAC0",
+        "profile_sidebar_border_color": "AAAAC0",
+        "profile_sidebar_fill_color": "74727E",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "gak_pdx",
+        "statuses_count": 15951,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/YlFNlrdmym",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

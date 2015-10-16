@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 16 00:37:10 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            },
+            {
+                "id": 14626738,
+                "id_str": "14626738",
+                "indices": [
+                    9,
+                    16
+                ],
+                "name": "Sprint",
+                "screen_name": "sprint"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654818329006223360,
+    "id_str": "654818329006223360",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.605166,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        35.000771
+                    ],
+                    [
+                        -85.605166,
+                        35.000771
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Georgia, USA",
+        "id": "7142eb97ae21e839",
+        "name": "Georgia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ATT and @sprint should kill themselves for hiring their foreign customer service.  Im going to try to find an American company. .",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 17 00:05:28 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "M 29 Inspiration. California Born, Bringing Community and Togetherness. #IMA Turn Notifications On",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ImModernAfrican.com",
+                        "expanded_url": "http://ImModernAfrican.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/BHbjRkZyU2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3448,
+        "follow_request_sent": false,
+        "followers_count": 16050,
+        "following": false,
+        "friends_count": 12821,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2738474742,
+        "id_str": "2738474742",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 50,
+        "location": "A Leader Of The Free World",
+        "name": "Anubis",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/513139624005218304/dSarHImK.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/513139624005218304/dSarHImK.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2738474742/1408524467",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/502014066064244736/8CSQVNz3_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/502014066064244736/8CSQVNz3_normal.png",
+        "profile_link_color": "FFCC4D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ImModernAfrican",
+        "statuses_count": 13878,
+        "time_zone": "Arizona",
+        "url": "http://t.co/BHbjRkZyU2",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 15 11:40:48 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    39,
+                    45
+                ],
+                "text": "dance"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "vimeo.com/63789172?ref=t\u2026",
+                "expanded_url": "https://vimeo.com/63789172?ref=tw-share",
+                "indices": [
+                    68,
+                    91
+                ],
+                "url": "https://t.co/BcfVsoRDfH"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 67418441,
+                "id_str": "67418441",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Disney",
+                "screen_name": "Disney"
+            },
+            {
+                "id": 14718218,
+                "id_str": "14718218",
+                "indices": [
+                    60,
+                    66
+                ],
+                "name": "Vimeo",
+                "screen_name": "Vimeo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654622951426273281,
+    "id_str": "654622951426273281",
+    "in_reply_to_screen_name": "Disney",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 67418441,
+    "in_reply_to_user_id_str": "67418441",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        150.520928608,
+                        -34.1183470085
+                    ],
+                    [
+                        151.343020992,
+                        -34.1183470085
+                    ],
+                    [
+                        151.343020992,
+                        -33.578140996
+                    ],
+                    [
+                        150.520928608,
+                        -33.578140996
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Australia",
+        "country_code": "AU",
+        "full_name": "Sydney, New South Wales",
+        "id": "0073b76548e5984f",
+        "name": "Sydney",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@disney in the beginning.\nThe Skeleton #dance 1929 short on @Vimeo \nhttps://t.co/BcfVsoRDfH",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 04 07:33:47 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "If I'm not Tweeting, I'm Living. Producing #Collage and #Sculpture since 1999.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jorgemansilla.net",
+                        "expanded_url": "http://www.jorgemansilla.net",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/vB6auCZICY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 324,
+        "following": false,
+        "friends_count": 384,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 111242668,
+        "id_str": "111242668",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 9,
+        "location": "Sydney, Australia",
+        "name": "Jorge Mansilla",
+        "notifications": false,
+        "profile_background_color": "FFCC4D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/602350922014920705/Cx2jdIcx.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/602350922014920705/Cx2jdIcx.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/111242668/1437569180",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/619519184075010048/s8s5hG7J_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/619519184075010048/s8s5hG7J_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ElJorgeMansilla",
+        "statuses_count": 4424,
+        "time_zone": "Sydney",
+        "url": "http://t.co/vB6auCZICY",
+        "utc_offset": 39600,
+        "verified": false
+    }
+}

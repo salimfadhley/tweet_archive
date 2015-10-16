@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 14 15:16:32 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 111679943,
+                "id_str": "111679943",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonaldsCorp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654314854166073344,
+    "id_str": "654314854166073344",
+    "in_reply_to_screen_name": "McDonaldsCorp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 111679943,
+    "in_reply_to_user_id_str": "111679943",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.283944,
+                        38.154977
+                    ],
+                    [
+                        -122.229741,
+                        38.154977
+                    ],
+                    [
+                        -122.229741,
+                        38.2048683
+                    ],
+                    [
+                        -122.283944,
+                        38.2048683
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "American Canyon, CA",
+        "id": "f28195f8b183abcd",
+        "name": "American Canyon",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/f28195f8b183abcd.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@McDonaldsCorp when can we have lunch for breakfast!!! Plzzzzzzzzzzz",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 29 19:08:31 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "one Nation under a groove....",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 77,
+        "follow_request_sent": false,
+        "followers_count": 75,
+        "following": false,
+        "friends_count": 227,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 149616513,
+        "id_str": "149616513",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "killa cali",
+        "name": "Deddrick Jennings",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/149616513/1398777693",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/648914754883358720/9kH59ET6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/648914754883358720/9kH59ET6_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mikelowery38",
+        "statuses_count": 2372,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

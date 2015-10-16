@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 13 16:45:34 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    47,
+                    59
+                ],
+                "text": "selfservice"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 224168895,
+                "id_str": "224168895",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Morrisons",
+                "screen_name": "Morrisons"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 653974871937052672,
+    "id_str": "653974871937052672",
+    "in_reply_to_screen_name": "Morrisons",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 224168895,
+    "in_reply_to_user_id_str": "224168895",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        0.378141,
+                        52.7280351
+                    ],
+                    [
+                        0.461593,
+                        52.7280351
+                    ],
+                    [
+                        0.461593,
+                        52.79462
+                    ],
+                    [
+                        0.378141,
+                        52.79462
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "King's Lynn, England",
+        "id": "3bb508d078dcdf12",
+        "name": "King's Lynn",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3bb508d078dcdf12.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Morrisons every vegetable item I just scanned #selfservice in your Kings Lynn store asked the assistant to key in the price! Ridiculous!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 05 13:12:14 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Design & Communications Advisor at a Social Housing Association. Loves typography, print & &'s! #cblogger #lblogger",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "creativecowell.wordpress.com",
+                        "expanded_url": "https://creativecowell.wordpress.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/vbAanFyZHS"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 95,
+        "follow_request_sent": false,
+        "followers_count": 214,
+        "following": false,
+        "friends_count": 218,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 20146294,
+        "id_str": "20146294",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 22,
+        "location": "King's Lynn, England",
+        "name": "Danielle Cowell",
+        "notifications": false,
+        "profile_background_color": "DDCFAB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/851457765/7d6db8e57b4cd7776c04eec91c469665.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/851457765/7d6db8e57b4cd7776c04eec91c469665.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/588298061237067776/av0UXM3l_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/588298061237067776/av0UXM3l_normal.jpg",
+        "profile_link_color": "D27837",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F4A001",
+        "profile_text_color": "DD2D10",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "creative_cowell",
+        "statuses_count": 2657,
+        "time_zone": "London",
+        "url": "https://t.co/vbAanFyZHS",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

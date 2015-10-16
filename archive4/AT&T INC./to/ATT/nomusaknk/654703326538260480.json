@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 15 17:00:11 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            },
+            {
+                "id": 281237181,
+                "id_str": "281237181",
+                "indices": [
+                    5,
+                    12
+                ],
+                "name": "kleggy",
+                "screen_name": "kleggy"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654703326538260480,
+    "id_str": "654703326538260480",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": 632291970497531904,
+    "in_reply_to_status_id_str": "632291970497531904",
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        28.0135116,
+                        -26.0572574
+                    ],
+                    [
+                        28.1930256,
+                        -26.0572574
+                    ],
+                    [
+                        28.1930256,
+                        -25.9195514
+                    ],
+                    [
+                        28.0135116,
+                        -25.9195514
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "South Africa",
+        "country_code": "ZA",
+        "full_name": "Midrand, South Africa",
+        "id": "46c1b1ab24d7e11a",
+        "name": "Midrand",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/46c1b1ab24d7e11a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ATT @kleggy hey, how do l get my tablet unlocked?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 12 06:07:42 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2,
+        "follow_request_sent": false,
+        "followers_count": 55,
+        "following": false,
+        "friends_count": 178,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2404044556,
+        "id_str": "2404044556",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Midrand",
+        "name": "Nomusa Sasa Mkhize",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2404044556/1407248071",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/635002421870243840/z1ohZZWy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/635002421870243840/z1ohZZWy_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nomusaknk",
+        "statuses_count": 31,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

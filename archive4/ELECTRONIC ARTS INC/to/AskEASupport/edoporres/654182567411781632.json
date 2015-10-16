@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 14 06:30:52 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/JpcE0xs4Z8",
+                "expanded_url": "http://twitter.com/edoporres/status/654182567411781632/photo/1",
+                "id": 654182554325549056,
+                "id_str": "654182554325549056",
+                "indices": [
+                    46,
+                    68
+                ],
+                "media_url": "http://pbs.twimg.com/media/CRQfkTDVAAASl11.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CRQfkTDVAAASl11.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/JpcE0xs4Z8"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 80420672,
+                "id_str": "80420672",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "EA Support",
+                "screen_name": "AskEASupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654182567411781632,
+    "id_str": "654182567411781632",
+    "in_reply_to_screen_name": "AskEASupport",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 80420672,
+    "in_reply_to_user_id_str": "80420672",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -100.421037,
+                        25.4805381
+                    ],
+                    [
+                        -100.166146,
+                        25.4805381
+                    ],
+                    [
+                        -100.166146,
+                        25.802899
+                    ],
+                    [
+                        -100.421037,
+                        25.802899
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "M\u00e9xico",
+        "country_code": "MX",
+        "full_name": "Monterrey, Nuevo Le\u00f3n",
+        "id": "b19e24ce42ccd6aa",
+        "name": "Monterrey",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b19e24ce42ccd6aa.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AskEASupport why all my progress was erased? http://t.co/JpcE0xs4Z8",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 23 20:33:04 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "May the Force be with you",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 553,
+        "follow_request_sent": false,
+        "followers_count": 372,
+        "following": false,
+        "friends_count": 976,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 76748039,
+        "id_str": "76748039",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 9,
+        "location": "Monterrey, M\u00e9xico",
+        "name": "Eduardo Porres \uf8ff",
+        "notifications": false,
+        "profile_background_color": "FCFEFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/650894370636361728/B1x2-O2C_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/650894370636361728/B1x2-O2C_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "edoporres",
+        "statuses_count": 4342,
+        "time_zone": "Monterrey",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

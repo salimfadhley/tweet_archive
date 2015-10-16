@@ -1,0 +1,156 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -88.15153595,
+            40.3028808
+        ],
+        "type": "Point"
+    },
+    "created_at": "Thu Oct 15 17:15:14 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    8,
+                    20
+                ],
+                "text": "googlevoice"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            40.3028808,
+            -88.15153595
+        ],
+        "type": "Point"
+    },
+    "id": 654707112283475969,
+    "id_str": "654707112283475969",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -88.1838686,
+                        40.274551
+                    ],
+                    [
+                        -88.1210585,
+                        40.274551
+                    ],
+                    [
+                        -88.1210585,
+                        40.32669
+                    ],
+                    [
+                        -88.1838686,
+                        40.32669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Rantoul, IL",
+        "id": "007840b74c9b6486",
+        "name": "Rantoul",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/007840b74c9b6486.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@google #googlevoice down",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 26 20:27:22 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "On the fly?  No time to apply?  Quick Apply with us at our Facebook page.  We are Champaign County's Employment Experts.  Temporary.  Jobs.  Work.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/ManpowerChampa\u2026",
+                        "expanded_url": "http://www.facebook.com/ManpowerChampaign",
+                        "indices": [
+                            0,
+                            20
+                        ],
+                        "url": "http://t.co/w4kYeCOU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12,
+        "follow_request_sent": false,
+        "followers_count": 509,
+        "following": false,
+        "friends_count": 535,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 26841435,
+        "id_str": "26841435",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 23,
+        "location": "Champaign, Rantoul Illinois",
+        "name": "Manpower Champaign",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/126807267/mp_logo_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/126807267/mp_logo_normal.gif",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "manpowerillini",
+        "statuses_count": 1108,
+        "time_zone": "Hawaii",
+        "url": "http://t.co/w4kYeCOU",
+        "utc_offset": -36000,
+        "verified": false
+    }
+}

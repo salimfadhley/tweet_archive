@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 14 08:04:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 82151473,
+                "id_str": "82151473",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Citi",
+                "screen_name": "AskCiti"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654206247319769088,
+    "id_str": "654206247319769088",
+    "in_reply_to_screen_name": "AskCiti",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 82151473,
+    "in_reply_to_user_id_str": "82151473",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.041878,
+                        40.570842
+                    ],
+                    [
+                        -73.855673,
+                        40.570842
+                    ],
+                    [
+                        -73.855673,
+                        40.739434
+                    ],
+                    [
+                        -74.041878,
+                        40.739434
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Brooklyn, NY",
+        "id": "011add077f4d2da3",
+        "name": "Brooklyn",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AskCiti Hey, what is wrong with the Citi locator? Can never locate a branch or look up hours without getting \"no locations found.\"",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 19 22:23:28 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Tweet a lot, RT a lot, obscene a lot. News, politics, comics, and filthy jokes. Follow at your own peril. \n#TeamMuir",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 13397,
+        "follow_request_sent": false,
+        "followers_count": 3994,
+        "following": false,
+        "friends_count": 3977,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 338661490,
+        "id_str": "338661490",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 79,
+        "location": "NYC",
+        "name": "Rena",
+        "notifications": false,
+        "profile_background_color": "EB219A",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/547650424132497408/rNNLDASt.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/547650424132497408/rNNLDASt.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/338661490/1407733270",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/633472146233278465/Gyr0LuvC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/633472146233278465/Gyr0LuvC_normal.jpg",
+        "profile_link_color": "F100A3",
+        "profile_sidebar_border_color": "C47AB4",
+        "profile_sidebar_fill_color": "D952BC",
+        "profile_text_color": "FF06C9",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "XGirlNYC",
+        "statuses_count": 102372,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

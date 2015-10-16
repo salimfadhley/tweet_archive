@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 15 07:34:57 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 67418441,
+                "id_str": "67418441",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Disney",
+                "screen_name": "Disney"
+            },
+            {
+                "id": 1899024715,
+                "id_str": "1899024715",
+                "indices": [
+                    8,
+                    18
+                ],
+                "name": "pia",
+                "screen_name": "pvergara_"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 654561082976129024,
+    "id_str": "654561082976129024",
+    "in_reply_to_screen_name": "Disney",
+    "in_reply_to_status_id": 654522096723361793,
+    "in_reply_to_status_id_str": "654522096723361793",
+    "in_reply_to_user_id": 67418441,
+    "in_reply_to_user_id_str": "67418441",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.113623,
+                        42.233665
+                    ],
+                    [
+                        -82.890548,
+                        42.233665
+                    ],
+                    [
+                        -82.890548,
+                        42.356225
+                    ],
+                    [
+                        -83.113623,
+                        42.356225
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Windsor, Ontario",
+        "id": "15b0a643e7bd22c7",
+        "name": "Windsor",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/15b0a643e7bd22c7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Disney @pvergara_ OMG",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 20 20:18:52 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Still waiting for my Hogwarts' letter",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "noordinarycontinent.tumblr.com",
+                        "expanded_url": "http://noordinarycontinent.tumblr.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/SSdelUuJ81"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 18238,
+        "follow_request_sent": false,
+        "followers_count": 250,
+        "following": false,
+        "friends_count": 376,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 116011486,
+        "id_str": "116011486",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "City of Westminister ",
+        "name": "Asia McCallum",
+        "notifications": false,
+        "profile_background_color": "E1E6E5",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/526820550585245696/sjX7p432.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/526820550585245696/sjX7p432.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/116011486/1402280396",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/653084528945164288/OtSnNqUL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/653084528945164288/OtSnNqUL_normal.jpg",
+        "profile_link_color": "3D8554",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "asiamccs",
+        "statuses_count": 21896,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/SSdelUuJ81",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

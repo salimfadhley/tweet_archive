@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            32.5638147,
+            0.3339106
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Oct 07 19:52:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 23482357,
+                "id_str": "23482357",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "The Coca-Cola Co.",
+                "screen_name": "CocaColaCo"
+            },
+            {
+                "id": 27476141,
+                "id_str": "27476141",
+                "indices": [
+                    12,
+                    19
+                ],
+                "name": "Tim Bergling",
+                "screen_name": "Avicii"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            0.3339106,
+            32.5638147
+        ],
+        "type": "Point"
+    },
+    "id": 651847478355095552,
+    "id_str": "651847478355095552",
+    "in_reply_to_screen_name": "CocaColaCo",
+    "in_reply_to_status_id": 651834882876940291,
+    "in_reply_to_status_id_str": "651834882876940291",
+    "in_reply_to_user_id": 23482357,
+    "in_reply_to_user_id_str": "23482357",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        32.4166234,
+                        0.1648531
+                    ],
+                    [
+                        32.7216969,
+                        0.1648531
+                    ],
+                    [
+                        32.7216969,
+                        0.4136818
+                    ],
+                    [
+                        32.4166234,
+                        0.4136818
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Uganda",
+        "country_code": "UG",
+        "full_name": "Kampala, Uganda",
+        "id": "000c69ad123213a8",
+        "name": "Kampala",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/000c69ad123213a8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CocaColaCo @Avicii how possible is this...it wd me the most incredible thing in beverage history",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 08 07:35:07 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "We are captives of our own identities, trapped in dungeons of our own creation...but we are still our own only redeemers!!!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 69,
+        "follow_request_sent": false,
+        "followers_count": 140,
+        "following": false,
+        "friends_count": 252,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 810419053,
+        "id_str": "810419053",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Uganda",
+        "name": "HenrianHeritage ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/624956652748427264/9GlXMwED_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/624956652748427264/9GlXMwED_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RedStaUG",
+        "statuses_count": 902,
+        "time_zone": "Arizona",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

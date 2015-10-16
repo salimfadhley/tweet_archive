@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 15 03:27:37 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/iQZXym4tN3",
+                "expanded_url": "http://twitter.com/bajenga/status/654498837390712833/photo/1",
+                "id": 654498835759165440,
+                "id_str": "654498835759165440",
+                "indices": [
+                    31,
+                    53
+                ],
+                "media_url": "http://pbs.twimg.com/media/CRU_OTNU8AAKsjK.png",
+                "media_url_https": "https://pbs.twimg.com/media/CRU_OTNU8AAKsjK.png",
+                "sizes": {
+                    "large": {
+                        "h": 140,
+                        "resize": "fit",
+                        "w": 355
+                    },
+                    "medium": {
+                        "h": 140,
+                        "resize": "fit",
+                        "w": 355
+                    },
+                    "small": {
+                        "h": 134,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 140,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/iQZXym4tN3"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654498837390712833,
+    "id_str": "654498837390712833",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -114.3160379,
+                        50.84278
+                    ],
+                    [
+                        -113.859664,
+                        50.84278
+                    ],
+                    [
+                        -113.859664,
+                        51.212548
+                    ],
+                    [
+                        -114.3160379,
+                        51.212548
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Calgary, Alberta",
+        "id": "53504716d445dcad",
+        "name": "Calgary",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/53504716d445dcad.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@google EXPLAIN ?????????????? http://t.co/iQZXym4tN3",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 30 07:23:31 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "i am evil and love to complain",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 552,
+        "follow_request_sent": false,
+        "followers_count": 66,
+        "following": false,
+        "friends_count": 54,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 854289565,
+        "id_str": "854289565",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "the depths of my ass",
+        "name": "\u2620",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446480758643777536/SArFxfuL.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446480758643777536/SArFxfuL.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/854289565/1442821137",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/651952231747420160/CJoVMSct_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/651952231747420160/CJoVMSct_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "bajenga",
+        "statuses_count": 8928,
+        "time_zone": "Arizona",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

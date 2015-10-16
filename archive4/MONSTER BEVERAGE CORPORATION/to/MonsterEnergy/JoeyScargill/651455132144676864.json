@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 06 17:53:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/KZvc2SCm6T",
+                "expanded_url": "http://twitter.com/JoeyScargill/status/651455132144676864/photo/1",
+                "id": 651455127824543744,
+                "id_str": "651455127824543744",
+                "indices": [
+                    43,
+                    65
+                ],
+                "media_url": "http://pbs.twimg.com/media/CQpu_LkWsAAtcQc.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CQpu_LkWsAAtcQc.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 576
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 576
+                    },
+                    "small": {
+                        "h": 604,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/KZvc2SCm6T"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 63253045,
+                "id_str": "63253045",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Monster Energy",
+                "screen_name": "MonsterEnergy"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 651455132144676864,
+    "id_str": "651455132144676864",
+    "in_reply_to_screen_name": "MonsterEnergy",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 63253045,
+    "in_reply_to_user_id_str": "63253045",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.945705,
+                        35.120064
+                    ],
+                    [
+                        -84.786995,
+                        35.120064
+                    ],
+                    [
+                        -84.786995,
+                        35.266608
+                    ],
+                    [
+                        -84.945705,
+                        35.266608
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Cleveland, TN",
+        "id": "6ad5fc2baffd0f57",
+        "name": "Cleveland",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6ad5fc2baffd0f57.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@MonsterEnergy I spy a monster with gains\ud83d\ude09 http://t.co/KZvc2SCm6T",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 28 22:42:04 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Full contact sport fanatic/practicioner, gym rat, gamer, entrepreneur, winner \nIG -joey_scargill",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6022,
+        "follow_request_sent": false,
+        "followers_count": 18478,
+        "following": false,
+        "friends_count": 465,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2468365519,
+        "id_str": "2468365519",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Chattanooga, TN",
+        "name": "Harbinger",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2468365519/1442670320",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/647370035246186496/FmaHpGfO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/647370035246186496/FmaHpGfO_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JoeyScargill",
+        "statuses_count": 810,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

@@ -1,0 +1,379 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 08 16:13:06 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    91,
+                    104
+                ],
+                "text": "volunteerday"
+            },
+            {
+                "indices": [
+                    105,
+                    114
+                ],
+                "text": "efficacy"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/bethlam_forsa/\u2026",
+                "expanded_url": "https://twitter.com/bethlam_forsa/status/652151887064514561",
+                "indices": [
+                    115,
+                    138
+                ],
+                "url": "https://t.co/LX77EPaNQ2"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 15146163,
+                "id_str": "15146163",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Pearson",
+                "screen_name": "pearson"
+            },
+            {
+                "id": 40054452,
+                "id_str": "40054452",
+                "indices": [
+                    9,
+                    24
+                ],
+                "name": "PearsonNorthAmerica",
+                "screen_name": "PearsonNorthAm"
+            },
+            {
+                "id": 3332222697,
+                "id_str": "3332222697",
+                "indices": [
+                    25,
+                    39
+                ],
+                "name": "Pearson Impact",
+                "screen_name": "PearsonImpact"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 652154760628297728,
+    "id_str": "652154760628297728",
+    "in_reply_to_screen_name": "pearson",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15146163,
+    "in_reply_to_user_id_str": "15146163",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.041878,
+                        40.570842
+                    ],
+                    [
+                        -73.855673,
+                        40.570842
+                    ],
+                    [
+                        -73.855673,
+                        40.739434
+                    ],
+                    [
+                        -74.041878,
+                        40.739434
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Brooklyn, NY",
+        "id": "011add077f4d2da3",
+        "name": "Brooklyn",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Oct 08 16:01:40 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        63,
+                        76
+                    ],
+                    "text": "volunteerday"
+                },
+                {
+                    "indices": [
+                        77,
+                        91
+                    ],
+                    "text": "pearsonimpact"
+                },
+                {
+                    "indices": [
+                        92,
+                        108
+                    ],
+                    "text": "projectliteracy"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/NzhFuwzzkM",
+                    "expanded_url": "http://twitter.com/bethlam_forsa/status/652151887064514561/photo/1",
+                    "id": 652151885349146624,
+                    "id_str": "652151885349146624",
+                    "indices": [
+                        109,
+                        131
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CQzorznWUAAfHtU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CQzorznWUAAfHtU.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 768,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 450,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 255,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "http://t.co/NzhFuwzzkM"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 3015449759,
+                    "id_str": "3015449759",
+                    "indices": [
+                        38,
+                        50
+                    ],
+                    "name": "Blair Boggs",
+                    "screen_name": "blair_boggs"
+                },
+                {
+                    "id": 282878481,
+                    "id_str": "282878481",
+                    "indices": [
+                        51,
+                        62
+                    ],
+                    "name": "Samuel Itin",
+                    "screen_name": "SamuelItin"
+                }
+            ]
+        },
+        "favorite_count": 6,
+        "favorited": false,
+        "geo": null,
+        "id": 652151887064514561,
+        "id_str": "652151887064514561",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -74.041878,
+                            40.570842
+                        ],
+                        [
+                            -73.855673,
+                            40.570842
+                        ],
+                        [
+                            -73.855673,
+                            40.739434
+                        ],
+                        [
+                            -74.041878,
+                            40.739434
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Brooklyn, NY",
+            "id": "011add077f4d2da3",
+            "name": "Brooklyn",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 8,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "The team in Brooklyn at Volunteer Day @blair_boggs @SamuelItin #volunteerday #pearsonimpact #projectliteracy http://t.co/NzhFuwzzkM",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Jan 28 19:21:51 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 1,
+            "follow_request_sent": false,
+            "followers_count": 38,
+            "following": false,
+            "friends_count": 101,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 2999662344,
+            "id_str": "2999662344",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1,
+            "location": "",
+            "name": "Bethlam Forsa",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/567793220113813505/8Ct9eOKv_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/567793220113813505/8Ct9eOKv_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "bethlam_forsa",
+            "statuses_count": 12,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": null,
+            "utc_offset": -14400,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 652151887064514561,
+    "quoted_status_id_str": "652151887064514561",
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@pearson @PearsonNorthAm @PearsonImpact Placing the learner at the center can also be fun! #volunteerday #efficacy https://t.co/LX77EPaNQ2",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 16 03:46:14 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Web Analytics @Pearson with Digital & Social Marketing blended in. @Teachforamerica Alum. Beer Brewer + People Person + Data Driven #marketing #edtech #measure",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "samuelitin.com",
+                        "expanded_url": "http://www.samuelitin.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/STK9K6C0Nh"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 120,
+        "follow_request_sent": false,
+        "followers_count": 700,
+        "following": false,
+        "friends_count": 1839,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 282878481,
+        "id_str": "282878481",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 56,
+        "location": "New York, NY",
+        "name": "Samuel Itin",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/282878481/1439561974",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/630220694819835904/e39kfCPH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/630220694819835904/e39kfCPH_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SamuelItin",
+        "statuses_count": 2735,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/STK9K6C0Nh",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 14 19:41:33 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    27,
+                    34
+                ],
+                "text": "AudiTT"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 27650674,
+                "id_str": "27650674",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Audi",
+                "screen_name": "Audi"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654381547819282432,
+    "id_str": "654381547819282432",
+    "in_reply_to_screen_name": "Audi",
+    "in_reply_to_status_id": 654361025593085952,
+    "in_reply_to_status_id_str": "654361025593085952",
+    "in_reply_to_user_id": 27650674,
+    "in_reply_to_user_id_str": "27650674",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -91.655009,
+                        30.146096
+                    ],
+                    [
+                        -88.097889,
+                        30.146096
+                    ],
+                    [
+                        -88.097889,
+                        34.995968
+                    ],
+                    [
+                        -91.655009,
+                        34.995968
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Mississippi, USA",
+        "id": "43d2418301bf1a49",
+        "name": "Mississippi",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/43d2418301bf1a49.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Audi that's my childhood. #AudiTT",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 07 17:52:55 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ESPN Fantasy,FoxSports,CBS Sports Gamer,Tv/Movie Fanatic,ModRacers/LBP Karting Gamer, FIKA WK 4 MNR/LBPKarting for ps3. Sports Fanatic. PSN ID:rudd125/Jrc126.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "fanduel.com/users/jrc126",
+                        "expanded_url": "https://www.fanduel.com/users/jrc126",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/GX2ItJqHVQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 461,
+        "follow_request_sent": false,
+        "followers_count": 392,
+        "following": false,
+        "friends_count": 1960,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 294744967,
+        "id_str": "294744967",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 26,
+        "location": "Ruddport,MS",
+        "name": "Jrc126",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/489092598724706304/6YYzT3-i.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/489092598724706304/6YYzT3-i.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/294744967/1430162996",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/545794622552031232/7bgCRgnx_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/545794622552031232/7bgCRgnx_normal.jpeg",
+        "profile_link_color": "7CFF2B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JRC126",
+        "statuses_count": 36763,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/GX2ItJqHVQ",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

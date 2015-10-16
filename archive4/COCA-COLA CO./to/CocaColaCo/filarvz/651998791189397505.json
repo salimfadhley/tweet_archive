@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 08 05:53:20 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 23482357,
+                "id_str": "23482357",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "The Coca-Cola Co.",
+                "screen_name": "CocaColaCo"
+            },
+            {
+                "id": 27476141,
+                "id_str": "27476141",
+                "indices": [
+                    12,
+                    19
+                ],
+                "name": "Tim Bergling",
+                "screen_name": "Avicii"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 651998791189397505,
+    "id_str": "651998791189397505",
+    "in_reply_to_screen_name": "CocaColaCo",
+    "in_reply_to_status_id": 651834882876940291,
+    "in_reply_to_status_id_str": "651834882876940291",
+    "in_reply_to_user_id": 23482357,
+    "in_reply_to_user_id_str": "23482357",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        123.7647381,
+                        10.2594754
+                    ],
+                    [
+                        123.9287057,
+                        10.2594754
+                    ],
+                    [
+                        123.9287057,
+                        10.4901895
+                    ],
+                    [
+                        123.7647381,
+                        10.4901895
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Republika ng Pilipinas",
+        "country_code": "PH",
+        "full_name": "Cebu City, Central Visayas",
+        "id": "00ca4cd1517ddd94",
+        "name": "Cebu City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00ca4cd1517ddd94.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CocaColaCo @Avicii Hope to have this bottle with my picture",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 27 03:50:17 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 13,
+        "follow_request_sent": false,
+        "followers_count": 97,
+        "following": false,
+        "friends_count": 417,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 160077561,
+        "id_str": "160077561",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Cebu City, Philippines",
+        "name": "Filjoy Bautro Arches",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/598891324/d18bybwrjojk24fap05o.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/598891324/d18bybwrjojk24fap05o.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/650917157816045568/psPoPX-U_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/650917157816045568/psPoPX-U_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "filarvz",
+        "statuses_count": 4531,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

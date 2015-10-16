@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -76.99962888,
+            38.90740391
+        ],
+        "type": "Point"
+    },
+    "created_at": "Thu Oct 15 16:42:14 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    17,
+                    25
+                ],
+                "text": "goggles"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            38.90740391,
+            -76.99962888
+        ],
+        "type": "Point"
+    },
+    "id": 654698808853442560,
+    "id_str": "654698808853442560",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Washington, DC",
+        "id": "01fbe706f872cb32",
+        "name": "Washington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@google where is #goggles apps. I did the update and there is no camera icon",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 06 03:32:10 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "husband. father. i believe in the father son and holy spirit",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 64,
+        "follow_request_sent": false,
+        "followers_count": 248,
+        "following": false,
+        "friends_count": 432,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 140670826,
+        "id_str": "140670826",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Maryland",
+        "name": "JustZinfindale",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/140670826/1443779527",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/648992422836498432/qjnUNRSQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/648992422836498432/qjnUNRSQ_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "calduntil",
+        "statuses_count": 4360,
+        "time_zone": "Quito",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
