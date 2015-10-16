@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 08 04:02:46 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/Benioff/status\u2026",
+                "expanded_url": "https://twitter.com/Benioff/status/651959706307575808",
+                "indices": [
+                    38,
+                    61
+                ],
+                "url": "https://t.co/qtH1yjCj7m"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 10194682,
+                "id_str": "10194682",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Accenture",
+                "screen_name": "Accenture"
+            },
+            {
+                "id": 33612317,
+                "id_str": "33612317",
+                "indices": [
+                    17,
+                    28
+                ],
+                "name": "Salesforce",
+                "screen_name": "salesforce"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 651970968466780160,
+    "id_str": "651970968466780160",
+    "in_reply_to_screen_name": "Accenture",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 10194682,
+    "in_reply_to_user_id_str": "10194682",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        77.3305776,
+                        12.731936
+                    ],
+                    [
+                        77.7863188,
+                        12.731936
+                    ],
+                    [
+                        77.7863188,
+                        13.1142933
+                    ],
+                    [
+                        77.3305776,
+                        13.1142933
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Bengaluru South, Karnataka",
+        "id": "5f55bb82cf16ac81",
+        "name": "Bengaluru South",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Accenture &amp; @salesforce rocks... https://t.co/qtH1yjCj7m",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 18 13:46:31 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Software Engineering Team Lead @Accenture  \u2601 Button Click Admin  \u2601  Tweets are my own views",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 122,
+        "follow_request_sent": false,
+        "followers_count": 196,
+        "following": false,
+        "friends_count": 536,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 888875911,
+        "id_str": "888875911",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Bangalore",
+        "name": "Unais Komath",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000147245953/GoNHn-ej.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000147245953/GoNHn-ej.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/888875911/1435230788",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/626678156984881152/Ike7DPba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/626678156984881152/Ike7DPba_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "unaiskomath",
+        "statuses_count": 471,
+        "time_zone": "Chennai",
+        "url": null,
+        "utc_offset": 19800,
+        "verified": false
+    }
+}
