@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 16 03:44:17 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19380829,
+                "id_str": "19380829",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Yahoo",
+                "screen_name": "Yahoo"
+            },
+            {
+                "id": 253266157,
+                "id_str": "253266157",
+                "indices": [
+                    7,
+                    19
+                ],
+                "name": "Yahoo Health",
+                "screen_name": "YahooHealth"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654865419124256768,
+    "id_str": "654865419124256768",
+    "in_reply_to_screen_name": "Yahoo",
+    "in_reply_to_status_id": 654864604951138304,
+    "in_reply_to_status_id_str": "654864604951138304",
+    "in_reply_to_user_id": 19380829,
+    "in_reply_to_user_id_str": "19380829",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.487651,
+                        37.886607
+                    ],
+                    [
+                        -74.986286,
+                        37.886607
+                    ],
+                    [
+                        -74.986286,
+                        39.723622
+                    ],
+                    [
+                        -79.487651,
+                        39.723622
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Maryland, USA",
+        "id": "dea1eac2d7ef8878",
+        "name": "Maryland",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/dea1eac2d7ef8878.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Yahoo @YahooHealth The study can't be extrapolated across most or all groups, though.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 25 02:25:00 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Also see my About.me page &/or email nickidewbear@aol.com. PS If you don't stand up to evil, evil will stand you down\u2014that is evil. #Notrollzone #NoTrumpzone",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/nickidewbear",
+                        "expanded_url": "http://about.me/nickidewbear",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/ZoJ45IxNOs"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9667,
+        "follow_request_sent": false,
+        "followers_count": 801,
+        "following": false,
+        "friends_count": 1391,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 257269240,
+        "id_str": "257269240",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 25,
+        "location": "The Jewish Diaspora",
+        "name": "N.V. Mara Czarnecki",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/209846881/Magen_David.JPG",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/209846881/Magen_David.JPG",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/257269240/1348849830",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/654495487437893632/lCIQhXpn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/654495487437893632/lCIQhXpn_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Nickidewbear",
+        "statuses_count": 76238,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/ZoJ45IxNOs",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
