@@ -1,0 +1,146 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 16 20:37:39 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 75691804,
+                "id_str": "75691804",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Microsoft Support",
+                "screen_name": "MicrosoftHelps"
+            },
+            {
+                "id": 2459371,
+                "id_str": "2459371",
+                "indices": [
+                    45,
+                    51
+                ],
+                "name": "Skype",
+                "screen_name": "Skype"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 655120443540639745,
+    "id_str": "655120443540639745",
+    "in_reply_to_screen_name": "MicrosoftHelps",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 75691804,
+    "in_reply_to_user_id_str": "75691804",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.310298,
+                        34.982924
+                    ],
+                    [
+                        -81.646901,
+                        34.982924
+                    ],
+                    [
+                        -81.646901,
+                        36.678119
+                    ],
+                    [
+                        -90.310298,
+                        36.678119
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Tennessee, USA",
+        "id": "7f7d58e5229c6b6c",
+        "name": "Tennessee",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7f7d58e5229c6b6c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@MicrosoftHelps I have been locked out of my @Skype account using my MS account credential can you help?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 08 23:51:19 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Productivity, technology, the home building industry, and my personal musings at large.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "RoyBarberi.com",
+                        "expanded_url": "http://RoyBarberi.com",
+                        "indices": [
+                            0,
+                            20
+                        ],
+                        "url": "http://t.co/d38LciWb"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8,
+        "follow_request_sent": false,
+        "followers_count": 410,
+        "following": false,
+        "friends_count": 673,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 23373165,
+        "id_str": "23373165",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Columbia, Tennessee",
+        "name": "Roy Barberi",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/473024492466212864/zMXcLGQz_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/473024492466212864/zMXcLGQz_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "rbarberi",
+        "statuses_count": 974,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/d38LciWb",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
