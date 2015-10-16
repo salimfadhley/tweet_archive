@@ -1,0 +1,135 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            35.3063518,
+            37.0187233
+        ],
+        "type": "Point"
+    },
+    "created_at": "Fri Oct 16 04:42:40 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            37.0187233,
+            35.3063518
+        ],
+        "type": "Point"
+    },
+    "id": 654880111653711872,
+    "id_str": "654880111653711872",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": 654781034437804032,
+    "in_reply_to_status_id_str": "654781034437804032",
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "tr",
+    "metadata": {
+        "iso_language_code": "tr",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        35.2353667,
+                        36.9397435
+                    ],
+                    [
+                        35.334393,
+                        36.9397435
+                    ],
+                    [
+                        35.334393,
+                        37.065909
+                    ],
+                    [
+                        35.2353667,
+                        37.065909
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "T\u00fcrkiye",
+        "country_code": "TR",
+        "full_name": "Adana, T\u00fcrkiye",
+        "id": "30a17644861c68d7",
+        "name": "Adana",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/30a17644861c68d7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Starbucks iste bu starbucks coffee simdi olsa yuruyus sonras\u0131 mis kokusuyla",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 16 17:46:36 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 903,
+        "follow_request_sent": false,
+        "followers_count": 23,
+        "following": false,
+        "friends_count": 31,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2981502472,
+        "id_str": "2981502472",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "tr",
+        "listed_count": 0,
+        "location": "",
+        "name": "nur \u00e7elikteny\u0131ld\u0131z",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/607775463927369728/XNp01Qtb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/607775463927369728/XNp01Qtb_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nurclktnyldz",
+        "statuses_count": 509,
+        "time_zone": "Bucharest",
+        "url": null,
+        "utc_offset": 10800,
+        "verified": false
+    }
+}
