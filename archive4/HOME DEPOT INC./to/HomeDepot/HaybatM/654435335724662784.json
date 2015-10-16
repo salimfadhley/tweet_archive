@@ -1,0 +1,175 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -121.823252,
+            37.353844
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Oct 14 23:15:17 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/fg0CNVcAkk",
+                "expanded_url": "http://twitter.com/HaybatM/status/654435335724662784/photo/1",
+                "id": 654435335582019584,
+                "id_str": "654435335582019584",
+                "indices": [
+                    51,
+                    73
+                ],
+                "media_url": "http://pbs.twimg.com/media/CRUFeGnUcAAGD69.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CRUFeGnUcAAGD69.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/fg0CNVcAkk"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14791918,
+                "id_str": "14791918",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "The Home Depot",
+                "screen_name": "HomeDepot"
+            }
+        ]
+    },
+    "favorite_count": 14,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            37.353844,
+            -121.823252
+        ],
+        "type": "Point"
+    },
+    "id": 654435335724662784,
+    "id_str": "654435335724662784",
+    "in_reply_to_screen_name": "HomeDepot",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14791918,
+    "in_reply_to_user_id_str": "14791918",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.035311,
+                        37.193164
+                    ],
+                    [
+                        -121.71215,
+                        37.193164
+                    ],
+                    [
+                        -121.71215,
+                        37.469154
+                    ],
+                    [
+                        -122.035311,
+                        37.469154
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Jose, CA",
+        "id": "7d62cffe6f98f349",
+        "name": "San Jose",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7d62cffe6f98f349.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "text": "@HomeDepot 6672 Rocking the Gray shirt Wednesday!! http://t.co/fg0CNVcAkk",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 26 01:47:25 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A proud Kurdis freedom fighter, Father of a 9 years old son (my world) and proud Home Depot store manager 6672",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3155,
+        "follow_request_sent": false,
+        "followers_count": 200,
+        "following": false,
+        "friends_count": 89,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3042041108,
+        "id_str": "3042041108",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Fremont Ca",
+        "name": "Haybat Mohabbati",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3042041108/1425107377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/582324772920381440/aL3jSAfv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/582324772920381440/aL3jSAfv_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HaybatM",
+        "statuses_count": 51,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
