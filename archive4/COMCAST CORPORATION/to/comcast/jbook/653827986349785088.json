@@ -1,0 +1,148 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 13 07:01:54 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "pic.twitter.com/6tnDlrPfG2",
+                "expanded_url": "http://twitter.com/jbook/status/653827986349785088/photo/1",
+                "indices": [
+                    29,
+                    51
+                ],
+                "url": "http://t.co/6tnDlrPfG2"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 89587925,
+                "id_str": "89587925",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Comcast",
+                "screen_name": "comcast"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653827986349785088,
+    "id_str": "653827986349785088",
+    "in_reply_to_screen_name": "comcast",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89587925,
+    "in_reply_to_user_id_str": "89587925",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -91.51308,
+                        36.970298
+                    ],
+                    [
+                        -87.019935,
+                        36.970298
+                    ],
+                    [
+                        -87.019935,
+                        42.508303
+                    ],
+                    [
+                        -91.51308,
+                        42.508303
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Illinois, USA",
+        "id": "f54a2170ff4b15f7",
+        "name": "Illinois",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/f54a2170ff4b15f7.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@comcast internet works like http://t.co/6tnDlrPfG2",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 20 18:17:45 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I like pie. ...and music. Instructions by Jeremy Rain is now on Pandora!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/illnoizrecords",
+                        "expanded_url": "http://www.facebook.com/illnoizrecords",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/jnhNqjYTNd"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 356,
+        "follow_request_sent": false,
+        "followers_count": 311,
+        "following": false,
+        "friends_count": 707,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15182620,
+        "id_str": "15182620",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Peoria, IL",
+        "name": "Jor\u266a\uf8ffn",
+        "notifications": false,
+        "profile_background_color": "050505",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/159732232/Twittback.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/159732232/Twittback.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15182620/1358116550",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/654416065582235648/GpSYl2k8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/654416065582235648/GpSYl2k8_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "0A0A0A",
+        "profile_sidebar_fill_color": "161715",
+        "profile_text_color": "8F8D8F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jbook",
+        "statuses_count": 1483,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/jnhNqjYTNd",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
