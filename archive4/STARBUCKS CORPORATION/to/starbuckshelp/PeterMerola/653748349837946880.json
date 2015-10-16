@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 13 01:45:27 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2917968139,
+                "id_str": "2917968139",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Starbucks Help",
+                "screen_name": "starbuckshelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653748349837946880,
+    "id_str": "653748349837946880",
+    "in_reply_to_screen_name": "starbuckshelp",
+    "in_reply_to_status_id": 653622354585763840,
+    "in_reply_to_status_id_str": "653622354585763840",
+    "in_reply_to_user_id": 2917968139,
+    "in_reply_to_user_id_str": "2917968139",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.457446,
+                        27.20569
+                    ],
+                    [
+                        -80.233079,
+                        27.20569
+                    ],
+                    [
+                        -80.233079,
+                        27.3953623
+                    ],
+                    [
+                        -80.457446,
+                        27.3953623
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Port St Lucie, FL",
+        "id": "11148050237800f2",
+        "name": "Port St Lucie",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/11148050237800f2.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@starbuckshelp I will call tomorrow. Thank you!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 23 08:47:51 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1518,
+        "follow_request_sent": false,
+        "followers_count": 335,
+        "following": false,
+        "friends_count": 680,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 615945559,
+        "id_str": "615945559",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "",
+        "name": "Peter Merola",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/615945559/1416720241",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/638554226503757824/D5FFDGgj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/638554226503757824/D5FFDGgj_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PeterMerola",
+        "statuses_count": 3462,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
