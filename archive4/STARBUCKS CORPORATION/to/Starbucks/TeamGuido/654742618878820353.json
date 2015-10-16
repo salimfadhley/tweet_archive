@@ -1,0 +1,182 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -106.37441942,
+            39.64122626
+        ],
+        "type": "Point"
+    },
+    "created_at": "Thu Oct 15 19:36:19 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    11,
+                    23
+                ],
+                "text": "vailvillage"
+            },
+            {
+                "indices": [
+                    61,
+                    70
+                ],
+                "text": "shopping"
+            },
+            {
+                "indices": [
+                    75,
+                    86
+                ],
+                "text": "winterwear"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "instagram.com/p/83sVK3RrV0/",
+                "expanded_url": "https://instagram.com/p/83sVK3RrV0/",
+                "indices": [
+                    102,
+                    125
+                ],
+                "url": "https://t.co/6jmEIFx5LM"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            39.64122626,
+            -106.37441942
+        ],
+        "type": "Point"
+    },
+    "id": 654742618878820353,
+    "id_str": "654742618878820353",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -106.448016,
+                        39.597192
+                    ],
+                    [
+                        -106.277578,
+                        39.597192
+                    ],
+                    [
+                        -106.277578,
+                        39.652462
+                    ],
+                    [
+                        -106.448016,
+                        39.652462
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Vail, CO",
+        "id": "00c8737f4ea96a4a",
+        "name": "Vail",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c8737f4ea96a4a.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "text": "@starbucks #vailvillage morning coffee and then some serious #shopping for #winterwear @ Vail Village https://t.co/6jmEIFx5LM",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 23 16:15:33 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "CBS Amazing Race All Star Contestant, First Gay couple featured on network television 2001",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/Teamguido",
+                        "expanded_url": "http://facebook.com/Teamguido",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/2nniMkvDMd"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 368,
+        "follow_request_sent": false,
+        "followers_count": 518,
+        "following": false,
+        "friends_count": 929,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 68175981,
+        "id_str": "68175981",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 20,
+        "location": "All Over the world!",
+        "name": "Bill Bartek",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68175981/1419611939",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1382077888/All_Stars_-_Usuhaia__Argentina_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1382077888/All_Stars_-_Usuhaia__Argentina_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TeamGuido",
+        "statuses_count": 886,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/2nniMkvDMd",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

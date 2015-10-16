@@ -1,0 +1,178 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 15 19:07:13 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    11,
+                    21
+                ],
+                "text": "starbucks"
+            },
+            {
+                "indices": [
+                    22,
+                    37
+                ],
+                "text": "starbuckschile"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/ii7js9ZG5k",
+                "expanded_url": "http://twitter.com/carialmendra/status/654735294453813248/photo/1",
+                "id": 654735274035908608,
+                "id_str": "654735274035908608",
+                "indices": [
+                    59,
+                    81
+                ],
+                "media_url": "http://pbs.twimg.com/media/CRYWQ0bUEAACvZm.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CRYWQ0bUEAACvZm.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 577
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 577
+                    },
+                    "small": {
+                        "h": 603,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/ii7js9ZG5k"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654735294453813248,
+    "id_str": "654735294453813248",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -70.9302147,
+                        -33.5717325
+                    ],
+                    [
+                        -70.71874,
+                        -33.5717325
+                    ],
+                    [
+                        -70.71874,
+                        -33.4584828
+                    ],
+                    [
+                        -70.9302147,
+                        -33.4584828
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Chile",
+        "country_code": "CL",
+        "full_name": "Maip\u00fa, Metropolitana de Santiago",
+        "id": "0113747966068613",
+        "name": "Maip\u00fa",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0113747966068613.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks #starbucks #starbuckschile es esto cierto?????? http://t.co/ii7js9ZG5k",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 29 15:25:27 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 32,
+        "follow_request_sent": false,
+        "followers_count": 147,
+        "following": false,
+        "friends_count": 723,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2653523589,
+        "id_str": "2653523589",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 0,
+        "location": "",
+        "name": "Carolina Garrido",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2653523589/1435548284",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615360211528847360/e4dbDLqF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/615360211528847360/e4dbDLqF_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "carialmendra",
+        "statuses_count": 340,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
