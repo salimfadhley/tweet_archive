@@ -1,0 +1,191 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 11 12:16:22 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    106,
+                    109
+                ],
+                "text": "ux"
+            },
+            {
+                "indices": [
+                    110,
+                    115
+                ],
+                "text": "fail"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Ewan5MRTXa",
+                "expanded_url": "http://twitter.com/Etienne_L/status/653182351384707072/photo/1",
+                "id": 653182348524167168,
+                "id_str": "653182348524167168",
+                "indices": [
+                    116,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/CRCR4qFWoAAatVB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CRCR4qFWoAAatVB.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 576
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 576
+                    },
+                    "small": {
+                        "h": 604,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/Ewan5MRTXa"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19709040,
+                "id_str": "19709040",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "eBay",
+                "screen_name": "eBay"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 653182351384707072,
+    "id_str": "653182351384707072",
+    "in_reply_to_screen_name": "eBay",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19709040,
+    "in_reply_to_user_id_str": "19709040",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.2020954,
+                        42.397429
+                    ],
+                    [
+                        -71.132174,
+                        42.397429
+                    ],
+                    [
+                        -71.132174,
+                        42.436652
+                    ],
+                    [
+                        -71.2020954,
+                        42.436652
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Arlington, MA",
+        "id": "47aff34722fae115",
+        "name": "Arlington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/47aff34722fae115.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@eBay signin request with a web form within your iOS app while I am already signed in in the app is a big #ux #fail http://t.co/Ewan5MRTXa",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 10 16:22:54 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Web entrepreneur in Cambridge, MA, Dad of 2, Founder @sharalike",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "sharalike.com",
+                        "expanded_url": "https://sharalike.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/gtygiwvfWf"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2638,
+        "follow_request_sent": false,
+        "followers_count": 794,
+        "following": false,
+        "friends_count": 1991,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 23611399,
+        "id_str": "23611399",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 70,
+        "location": "",
+        "name": "Leroy Etienne",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23611399/1398439844",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/482538061361053696/SxrTcFqX_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/482538061361053696/SxrTcFqX_normal.jpeg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Etienne_L",
+        "statuses_count": 1023,
+        "time_zone": null,
+        "url": "https://t.co/gtygiwvfWf",
+        "utc_offset": null,
+        "verified": false
+    }
+}
