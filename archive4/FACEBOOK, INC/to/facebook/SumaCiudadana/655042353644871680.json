@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 16 15:27:21 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 2252923388,
+                "id_str": "2252923388",
+                "indices": [
+                    55,
+                    68
+                ],
+                "name": "El Panfleto Per\u00fa",
+                "screen_name": "elpanfletope"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655042353644871680,
+    "id_str": "655042353644871680",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.3281479193672,
+                        -18.3497280290367
+                    ],
+                    [
+                        -68.6730880806328,
+                        -18.3497280290367
+                    ],
+                    [
+                        -68.6730880806328,
+                        -0.0388399739132714
+                    ],
+                    [
+                        -81.3281479193672,
+                        -0.0388399739132714
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Peru",
+        "country_code": "PE",
+        "full_name": "Peru",
+        "id": "2dfa9ecb0179a4e4",
+        "name": "Peru",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook ha inhabilitado la cuenta del medio sat\u00edrico @elpanfletope Tenemos derecho a saber por qu\u00e9 ya no tenemos acceso a dicha p\u00e1gina.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 12 20:51:55 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#participaci\u00f3nciudadana #citizenparticipation #engagementcitoyen",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "sumaciudadana.org",
+                        "expanded_url": "http://sumaciudadana.org",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/ldWqelm8iB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12,
+        "follow_request_sent": false,
+        "followers_count": 605,
+        "following": false,
+        "friends_count": 264,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 353912888,
+        "id_str": "353912888",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 36,
+        "location": "Lima, Per\u00fa",
+        "name": "Suma Ciudadana",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/353912888/1397227617",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/454421856158613504/cM-97pH1_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/454421856158613504/cM-97pH1_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SumaCiudadana",
+        "statuses_count": 2260,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/ldWqelm8iB",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
