@@ -1,0 +1,170 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 16 18:25:09 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    13,
+                    27
+                ],
+                "text": "TravelToTaste"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/GEX64AsABw",
+                "expanded_url": "http://twitter.com/jrobboz/status/655087096667869184/photo/1",
+                "id": 655087050572431360,
+                "id_str": "655087050572431360",
+                "indices": [
+                    68,
+                    90
+                ],
+                "media_url": "http://pbs.twimg.com/media/CRdWM6JUAAAoBHN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CRdWM6JUAAAoBHN.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/GEX64AsABw"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16365636,
+                "id_str": "16365636",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "TripAdvisor",
+                "screen_name": "TripAdvisor"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655087096667869184,
+    "id_str": "655087096667869184",
+    "in_reply_to_screen_name": "TripAdvisor",
+    "in_reply_to_status_id": 655065678106398720,
+    "in_reply_to_status_id_str": "655065678106398720",
+    "in_reply_to_user_id": 16365636,
+    "in_reply_to_user_id_str": "16365636",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -124.482003,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        42.009519
+                    ],
+                    [
+                        -124.482003,
+                        42.009519
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "California, USA",
+        "id": "fbd6d2f5a4e4a15e",
+        "name": "California",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TripAdvisor #TravelToTaste Roy's in Anaheim. Best scallops ever!!! http://t.co/GEX64AsABw",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 20 22:49:08 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 697,
+        "follow_request_sent": false,
+        "followers_count": 29,
+        "following": false,
+        "friends_count": 69,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 469734336,
+        "id_str": "469734336",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Loomis CA",
+        "name": "Jan Robinson",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3159879364/c8f37b3dc84ff7b44516a43a87ce99ea_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3159879364/c8f37b3dc84ff7b44516a43a87ce99ea_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jrobboz",
+        "statuses_count": 900,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}
