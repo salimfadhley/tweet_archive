@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 17 11:24:54 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655343726852575233,
+    "id_str": "655343726852575233",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        166.42614812538,
+                        -47.289992496792
+                    ],
+                    [
+                        178.57724377962,
+                        -47.289992496792
+                    ],
+                    [
+                        178.57724377962,
+                        -34.129423499108
+                    ],
+                    [
+                        166.42614812538,
+                        -34.129423499108
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "New Zealand",
+        "country_code": "NZ",
+        "full_name": "New Zealand",
+        "id": "0b039ce18ddf1cb9",
+        "name": "New Zealand",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/0b039ce18ddf1cb9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@twitter j/k u get enough from ur boss probably :- /",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 16 14:56:27 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The difficulty lies not so much in developing new ideas as in escaping from old ones.\n\n-John Maynard Keynes",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=cw8W1c\u2026",
+                        "expanded_url": "https://www.youtube.com/watch?v=cw8W1cEPcio",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/krvWDyXZgh"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3,
+        "follow_request_sent": false,
+        "followers_count": 1,
+        "following": false,
+        "friends_count": 17,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3914859380,
+        "id_str": "3914859380",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en-gb",
+        "listed_count": 2,
+        "location": "New Zealand - Gamer Tattooine",
+        "name": "Boom Headshot Studio",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3914859380/1445078884",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655179180196257792/SCcvNvbp_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655179180196257792/SCcvNvbp_normal.png",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Diluted_NZ",
+        "statuses_count": 91,
+        "time_zone": null,
+        "url": "https://t.co/krvWDyXZgh",
+        "utc_offset": null,
+        "verified": false
+    }
+}
