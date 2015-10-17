@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 15 23:22:03 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17842366,
+                "id_str": "17842366",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Discovery",
+                "screen_name": "Discovery"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654799428155342848,
+    "id_str": "654799428155342848",
+    "in_reply_to_screen_name": "Discovery",
+    "in_reply_to_status_id": 654794107248754688,
+    "in_reply_to_status_id_str": "654794107248754688",
+    "in_reply_to_user_id": 17842366,
+    "in_reply_to_user_id_str": "17842366",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.172219,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.934311
+                    ],
+                    [
+                        -77.172219,
+                        38.934311
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Arlington, VA",
+        "id": "319ee7b36c9149da",
+        "name": "Arlington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Discovery that's not a surprise. The UV telescope on Chang'e 3 has been listed as a payload since the beginning.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 22 17:20:00 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Harvard Alumnus. Space Policy junkie. Gold Star of Excellence: Founded Aug 18, 2009",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "JamesGAlver.com",
+                        "expanded_url": "http://www.JamesGAlver.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/VbWfyHs7wc"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 19015,
+        "follow_request_sent": false,
+        "followers_count": 861,
+        "following": false,
+        "friends_count": 1456,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 21579696,
+        "id_str": "21579696",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 17,
+        "location": "Florida, USA, Earth, Milky Way",
+        "name": "James Garcia Alver",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623308558159863808/qBmylu3Y.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623308558159863808/qBmylu3Y.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21579696/1402365443",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/490699108651634689/4ANkL0ng_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/490699108651634689/4ANkL0ng_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JayAlver",
+        "statuses_count": 24662,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/VbWfyHs7wc",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
