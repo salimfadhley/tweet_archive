@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 16 20:57:38 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655125471403749376,
+    "id_str": "655125471403749376",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.928935,
+                        30.127892
+                    ],
+                    [
+                        -97.5805133,
+                        30.127892
+                    ],
+                    [
+                        -97.5805133,
+                        30.5187994
+                    ],
+                    [
+                        -97.928935,
+                        30.5187994
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Austin, TX",
+        "id": "c3f37afa9efcf94b",
+        "name": "Austin",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@att your website and mobile app r sucking, and it isn't my Internet connection",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 05 16:35:17 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Hard core senior level database engineer, PL/SQL, PHP & Java programmer , Oracle, and MySQL.  Founder of Vulcan Apps - Profits through Partnerships",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "vulcanapps.co",
+                        "expanded_url": "http://www.vulcanapps.co",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/hXQr52l0Bv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7,
+        "follow_request_sent": false,
+        "followers_count": 33,
+        "following": false,
+        "friends_count": 64,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 329788601,
+        "id_str": "329788601",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Austin",
+        "name": "Tom Crider",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/581191876239179777/6mttsYwC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/581191876239179777/6mttsYwC_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TomDba",
+        "statuses_count": 593,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/hXQr52l0Bv",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
