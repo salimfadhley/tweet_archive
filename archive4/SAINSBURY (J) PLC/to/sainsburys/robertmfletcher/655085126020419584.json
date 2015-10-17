@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 16 18:17:19 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 80685646,
+                "id_str": "80685646",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Sainsbury's",
+                "screen_name": "sainsburys"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655085126020419584,
+    "id_str": "655085126020419584",
+    "in_reply_to_screen_name": "sainsburys",
+    "in_reply_to_status_id": 655080851101884416,
+    "in_reply_to_status_id_str": "655080851101884416",
+    "in_reply_to_user_id": 80685646,
+    "in_reply_to_user_id_str": "80685646",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.164786,
+                        52.546974
+                    ],
+                    [
+                        -2.048029,
+                        52.546974
+                    ],
+                    [
+                        -2.048029,
+                        52.637542
+                    ],
+                    [
+                        -2.164786,
+                        52.637542
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Wednesfield, England",
+        "id": "4f5e9c38e0de7f69",
+        "name": "Wednesfield",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4f5e9c38e0de7f69.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@sainsburys \u00a33.95 reduced to \u00a33",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 22 14:52:38 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I write things about sports, business, gambling, print and signs. PR administrator for @theprintshow. Pundit for @WWFCfancast. Engaged to @Darina11113659 #wwfc",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "fletchermediaservices.com",
+                        "expanded_url": "http://www.fletchermediaservices.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/dTpvk441YM"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 204,
+        "follow_request_sent": false,
+        "followers_count": 320,
+        "following": false,
+        "friends_count": 166,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 84343042,
+        "id_str": "84343042",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 14,
+        "location": "Perton, England",
+        "name": "Robert Fletcher",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/84343042/1408482624",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/626470948741480449/xEjFkVn__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/626470948741480449/xEjFkVn__normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "robertmfletcher",
+        "statuses_count": 3904,
+        "time_zone": "London",
+        "url": "http://t.co/dTpvk441YM",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
