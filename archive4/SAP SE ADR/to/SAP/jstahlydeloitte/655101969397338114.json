@@ -1,0 +1,362 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 16 19:24:15 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    60,
+                    67
+                ],
+                "text": "iwasme"
+            },
+            {
+                "indices": [
+                    75,
+                    80
+                ],
+                "text": "one4"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/sapcloud/statu\u2026",
+                "expanded_url": "https://twitter.com/sapcloud/status/653517203321552896",
+                "indices": [
+                    111,
+                    134
+                ],
+                "url": "https://t.co/5YVmiQsNUU"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 76117579,
+                "id_str": "76117579",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "SAP",
+                "screen_name": "SAP"
+            },
+            {
+                "id": 66515223,
+                "id_str": "66515223",
+                "indices": [
+                    5,
+                    12
+                ],
+                "name": "iTunes",
+                "screen_name": "iTunes"
+            },
+            {
+                "id": 75916180,
+                "id_str": "75916180",
+                "indices": [
+                    14,
+                    29
+                ],
+                "name": "Imagine Dragons",
+                "screen_name": "Imaginedragons"
+            },
+            {
+                "id": 226010706,
+                "id_str": "226010706",
+                "indices": [
+                    97,
+                    109
+                ],
+                "name": "DeloitteSAP",
+                "screen_name": "DeloitteSAP"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 655101969397338114,
+    "id_str": "655101969397338114",
+    "in_reply_to_screen_name": "SAP",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 76117579,
+    "in_reply_to_user_id_str": "76117579",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.228766,
+                        32.960365
+                    ],
+                    [
+                        -97.161943,
+                        32.960365
+                    ],
+                    [
+                        -97.161943,
+                        33.008158
+                    ],
+                    [
+                        -97.228766,
+                        33.008158
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Westlake, TX",
+        "id": "9443cffd2ab322c3",
+        "name": "Westlake",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/9443cffd2ab322c3.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Oct 12 10:26:57 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        58,
+                        65
+                    ],
+                    "text": "iwasme"
+                },
+                {
+                    "indices": [
+                        79,
+                        84
+                    ],
+                    "text": "One4"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/VYJOF5yhaT",
+                    "expanded_url": "http://twitter.com/SAPCloud/status/653517203321552896/photo/1",
+                    "id": 653517202906333185,
+                    "id_str": "653517202906333185",
+                    "indices": [
+                        118,
+                        140
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CRHCbv3WwAEBFbk.png",
+                    "media_url_https": "https://pbs.twimg.com/media/CRHCbv3WwAEBFbk.png",
+                    "sizes": {
+                        "large": {
+                            "h": 479,
+                            "resize": "fit",
+                            "w": 958
+                        },
+                        "medium": {
+                            "h": 300,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 170,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "http://t.co/VYJOF5yhaT"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "iTunes.com/IWasMe",
+                    "expanded_url": "http://www.iTunes.com/IWasMe",
+                    "indices": [
+                        95,
+                        117
+                    ],
+                    "url": "http://t.co/WVetrUrZwy"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 291181702,
+                    "id_str": "291181702",
+                    "indices": [
+                        24,
+                        32
+                    ],
+                    "name": "renejeffnold",
+                    "screen_name": "refugee"
+                }
+            ]
+        },
+        "favorite_count": 7,
+        "favorited": false,
+        "geo": null,
+        "id": 653517203321552896,
+        "id_str": "653517203321552896",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 20,
+        "retweeted": false,
+        "source": "<a href=\"http://www.ondemand.com/\" rel=\"nofollow\">SAPCloud</a>",
+        "text": "A simple way to give to @refugee relief efforts:\nDownload #iwasme and join the #One4 coalition http://t.co/WVetrUrZwy http://t.co/VYJOF5yhaT",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jan 03 19:10:19 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "The official Twitter feed of SAP Cloud Solutions. All Tweets by @DebCM or @jmhedrick unless otherwise noted.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "SAP.com/Cloud",
+                            "expanded_url": "http://www.SAP.com/Cloud",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/kvGbLSfKqg"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 4895,
+            "follow_request_sent": false,
+            "followers_count": 25525,
+            "following": false,
+            "friends_count": 5100,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 454219112,
+            "id_str": "454219112",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 399,
+            "location": "",
+            "name": "SAP Cloud Solutions",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/728242435/66c21cc5687eb33b0f1b645bbe2b19c1.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/728242435/66c21cc5687eb33b0f1b645bbe2b19c1.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/454219112/1444653250",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/537291596325076993/5D1DNO1U_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/537291596325076993/5D1DNO1U_normal.png",
+            "profile_link_color": "37BCE8",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "SAPCloud",
+            "statuses_count": 8330,
+            "time_zone": "Athens",
+            "url": "http://t.co/kvGbLSfKqg",
+            "utc_offset": 10800,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 653517203321552896,
+    "quoted_status_id_str": "653517203321552896",
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@SAP @iTunes  @Imaginedragons making a difference. Download #iwasme and be #one4 helping others. @DeloitteSAP  https://t.co/5YVmiQsNUU",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 13 13:58:05 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Deloitte Alliance Leader. Wife. Friend to many amazing women. Traveler. Wine Taster. Part-Time Pop Culture Junkie.  (Views are my own)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "deloitte.com/consulting",
+                        "expanded_url": "http://www.deloitte.com/consulting",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/a4kLr4TaBQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 25,
+        "following": false,
+        "friends_count": 77,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1425583273,
+        "id_str": "1425583273",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Jodie Stahly Payette",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/594115669068754944/g2FKAhwa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/594115669068754944/g2FKAhwa_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jstahlydeloitte",
+        "statuses_count": 12,
+        "time_zone": null,
+        "url": "http://t.co/a4kLr4TaBQ",
+        "utc_offset": null,
+        "verified": false
+    }
+}
