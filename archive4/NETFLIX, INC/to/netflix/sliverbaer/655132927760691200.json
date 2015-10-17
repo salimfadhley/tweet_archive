@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 16 21:27:16 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    57,
+                    66
+                ],
+                "text": "Defiance"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655132927760691200,
+    "id_str": "655132927760691200",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.465754,
+                        41.060128
+                    ],
+                    [
+                        -81.373636,
+                        41.060128
+                    ],
+                    [
+                        -81.373636,
+                        41.135788
+                    ],
+                    [
+                        -81.465754,
+                        41.135788
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Tallmadge, OH",
+        "id": "cdb98b233892e8af",
+        "name": "Tallmadge",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/cdb98b233892e8af.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@netflix So uh, have a need for a SciFi show to pick up? #Defiance",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 21 01:49:45 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Good Times",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "johnnybaer.net",
+                        "expanded_url": "http://www.johnnybaer.net",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/hjTINcZivz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 103,
+        "follow_request_sent": false,
+        "followers_count": 58,
+        "following": false,
+        "friends_count": 164,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 15926254,
+        "id_str": "15926254",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Tallmadge Ohio ",
+        "name": "Johnny Baer",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11983433/johnny_bg.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/11983433/johnny_bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15926254/1398741954",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/632707159738839040/Y57O7quw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/632707159738839040/Y57O7quw_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sliverbaer",
+        "statuses_count": 1814,
+        "time_zone": "America/Detroit",
+        "url": "http://t.co/hjTINcZivz",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
