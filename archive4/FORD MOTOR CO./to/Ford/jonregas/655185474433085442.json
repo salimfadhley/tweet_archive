@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 17 00:56:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15676492,
+                "id_str": "15676492",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Ford Motor Company",
+                "screen_name": "Ford"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655185474433085442,
+    "id_str": "655185474433085442",
+    "in_reply_to_screen_name": "Ford",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15676492,
+    "in_reply_to_user_id_str": "15676492",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -119.953849,
+                        39.350749
+                    ],
+                    [
+                        -119.700515,
+                        39.350749
+                    ],
+                    [
+                        -119.700515,
+                        39.674123
+                    ],
+                    [
+                        -119.953849,
+                        39.674123
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Reno, NV",
+        "id": "4b25aded08900fd8",
+        "name": "Reno",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4b25aded08900fd8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Ford ford commercial:  wheels up, flaps down.   tell me what that means, oh and I'm a pilot",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 16 03:46:57 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "aerospace philosopher/aviation expert,   airline pilot, loves  Lawrence Welk show, ace drummer, tv historian, . all opinions are my own!a modern day cassandra!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 22,
+        "follow_request_sent": false,
+        "followers_count": 135,
+        "following": false,
+        "friends_count": 208,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1674723290,
+        "id_str": "1674723290",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "where the sky is bluer .",
+        "name": "jon regas",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674723290/1379301147",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000462535192/2cf37c1ecc0f4686fc25e851a0305b13_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000462535192/2cf37c1ecc0f4686fc25e851a0305b13_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jonregas",
+        "statuses_count": 9991,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}
