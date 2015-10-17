@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 16 18:03:53 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655081744656420864,
+    "id_str": "655081744656420864",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "pt",
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -48.285982,
+                        -16.0524045
+                    ],
+                    [
+                        -47.307264,
+                        -16.0524045
+                    ],
+                    [
+                        -47.307264,
+                        -15.5001029
+                    ],
+                    [
+                        -48.285982,
+                        -15.5001029
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Bras\u00edlia, Distrito Federal",
+        "id": "5722ff20ba67083b",
+        "name": "Bras\u00edlia",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5722ff20ba67083b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook melhor rede social",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 01 11:53:01 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "para de procurar onda nessa cachoeira",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 27348,
+        "follow_request_sent": false,
+        "followers_count": 1107,
+        "following": false,
+        "friends_count": 801,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 245754086,
+        "id_str": "245754086",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 0,
+        "location": "snap: gcarolis",
+        "name": "Carol",
+        "notifications": false,
+        "profile_background_color": "F5ABB5",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/504064619573293056/Swh9GMlG.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/504064619573293056/Swh9GMlG.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/245754086/1444476810",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/653275250831032320/T1IVFe8a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/653275250831032320/T1IVFe8a_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "gcaroliss",
+        "statuses_count": 61559,
+        "time_zone": "Brasilia",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}
