@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 16 21:34:11 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14462333,
+                "id_str": "14462333",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Nike Support",
+                "screen_name": "NikeSupport"
+            },
+            {
+                "id": 17852550,
+                "id_str": "17852550",
+                "indices": [
+                    13,
+                    27
+                ],
+                "name": "Garmin Fitness",
+                "screen_name": "GarminFitness"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655134670250639360,
+    "id_str": "655134670250639360",
+    "in_reply_to_screen_name": "NikeSupport",
+    "in_reply_to_status_id": 655134323914461184,
+    "in_reply_to_status_id_str": "655134323914461184",
+    "in_reply_to_user_id": 14462333,
+    "in_reply_to_user_id_str": "14462333",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -112.3239143,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.8154652
+                    ],
+                    [
+                        -112.3239143,
+                        33.8154652
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Phoenix, AZ",
+        "id": "5c62ffb0f0f3479d",
+        "name": "Phoenix",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@NikeSupport @GarminFitness Whaaaaat. This looks promising.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 19 21:53:58 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Director of Marketing - Digital Technology @SocialWhirled. Pro wrestling nerd @TheSteelCage. Committee member @FiestaBowl. Likes coffee and beer. #BTFD",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "schlagging.com",
+                        "expanded_url": "http://schlagging.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Wpj6OkR6Or"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2921,
+        "follow_request_sent": false,
+        "followers_count": 1466,
+        "following": false,
+        "friends_count": 815,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1559741,
+        "id_str": "1559741",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 81,
+        "location": "PHX",
+        "name": "Joshua Schlag",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1559741/1439240842",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/654774444997480448/4hgpv7sf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/654774444997480448/4hgpv7sf_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "schlizzag",
+        "statuses_count": 25349,
+        "time_zone": "Arizona",
+        "url": "http://t.co/Wpj6OkR6Or",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}
