@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 18 03:36:25 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 82151473,
+                "id_str": "82151473",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Citi",
+                "screen_name": "AskCiti"
+            },
+            {
+                "id": 80374332,
+                "id_str": "80374332",
+                "indices": [
+                    9,
+                    18
+                ],
+                "name": "Citibank",
+                "screen_name": "Citibank"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655588214061838336,
+    "id_str": "655588214061838336",
+    "in_reply_to_screen_name": "AskCiti",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 82151473,
+    "in_reply_to_user_id_str": "82151473",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.191505,
+                        42.227797
+                    ],
+                    [
+                        -70.986004,
+                        42.227797
+                    ],
+                    [
+                        -70.986004,
+                        42.399542
+                    ],
+                    [
+                        -71.191505,
+                        42.399542
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Boston, MA",
+        "id": "67b98f17fdcf20be",
+        "name": "Boston",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/67b98f17fdcf20be.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AskCiti @Citibank I've never been so displeased with your bank as I am now",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 10 04:45:12 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Everyday I wake up and realize I'm not in Boston anymore......\nhttp://t.co/VATWwh8cRq\r\n\r\nAndrae Brashear",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/dre117",
+                        "expanded_url": "http://facebook.com/dre117",
+                        "indices": [
+                            63,
+                            85
+                        ],
+                        "url": "http://t.co/VATWwh8cRq"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "dreizme.com",
+                        "expanded_url": "http://dreizme.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/LNlG9hrVpC"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1191,
+        "follow_request_sent": false,
+        "followers_count": 6056,
+        "following": false,
+        "friends_count": 1318,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 200757126,
+        "id_str": "200757126",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 26,
+        "location": "Everywhere",
+        "name": "andrae brashear",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/686531132/815df192b06db257892d87cf255c4822.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/686531132/815df192b06db257892d87cf255c4822.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/200757126/1387913605",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/643861346082230273/tPcAoIIg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/643861346082230273/tPcAoIIg_normal.jpg",
+        "profile_link_color": "980A0A",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "0F0F0F",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DreIzMe",
+        "statuses_count": 26334,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/LNlG9hrVpC",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

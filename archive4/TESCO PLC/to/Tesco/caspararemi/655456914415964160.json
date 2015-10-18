@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 17 18:54:40 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271986064,
+                "id_str": "271986064",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Tesco",
+                "screen_name": "Tesco"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655456914415964160,
+    "id_str": "655456914415964160",
+    "in_reply_to_screen_name": "Tesco",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 271986064,
+    "in_reply_to_user_id_str": "271986064",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.2285894,
+                        51.4772246
+                    ],
+                    [
+                        -0.1497908,
+                        51.4772246
+                    ],
+                    [
+                        -0.1497908,
+                        51.5303477
+                    ],
+                    [
+                        -0.2285894,
+                        51.5303477
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Kensington, London",
+        "id": "01c7ed8caf11e8b2",
+        "name": "Kensington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01c7ed8caf11e8b2.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@Tesco I used the clubcard app to use a coupon at a self service till but then it makes you insert one before you can complete your payment",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 12 10:46:01 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Scottish Londoner. Founder of @SoSoGay magazine. Social Media Community Manager at @HavasPeople. Usually in Soho.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/CasparAremi",
+                        "expanded_url": "http://instagram.com/CasparAremi",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/OnPbyAW3a1"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 22940,
+        "follow_request_sent": false,
+        "followers_count": 6947,
+        "following": false,
+        "friends_count": 3857,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1000531,
+        "id_str": "1000531",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 251,
+        "location": "London, UK",
+        "name": "Caspar Aremi ",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/594115456065097728/dZ5gbQzs.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/594115456065097728/dZ5gbQzs.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1000531/1441338128",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/642361957237026816/ByhYzfbC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/642361957237026816/ByhYzfbC_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "caspararemi",
+        "statuses_count": 67944,
+        "time_zone": "London",
+        "url": "http://t.co/OnPbyAW3a1",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 17 22:13:23 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 80685646,
+                "id_str": "80685646",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Sainsbury's",
+                "screen_name": "sainsburys"
+            },
+            {
+                "id": 271986064,
+                "id_str": "271986064",
+                "indices": [
+                    49,
+                    55
+                ],
+                "name": "Tesco",
+                "screen_name": "Tesco"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655506923576557568,
+    "id_str": "655506923576557568",
+    "in_reply_to_screen_name": "sainsburys",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 80685646,
+    "in_reply_to_user_id_str": "80685646",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.273279,
+                        51.5954519
+                    ],
+                    [
+                        -1.2208434,
+                        51.5954519
+                    ],
+                    [
+                        -1.2208434,
+                        51.6232637
+                    ],
+                    [
+                        -1.273279,
+                        51.6232637
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Didcot, England",
+        "id": "62cb2232e6a0a457",
+        "name": "Didcot",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/62cb2232e6a0a457.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@sainsburys own onion ring crops are better than @Tesco 's own onion ring crisps",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 12 12:45:08 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A horrible person - Funktioning Drummer in @LIGHTSPILL and @FINDINGHENRY 18, Didcot",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/channel/UCtsBA\u2026",
+                        "expanded_url": "https://www.youtube.com/channel/UCtsBAwPtxZ9qbxRrIUrt2GA",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ugbxLn6kxt"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3773,
+        "follow_request_sent": false,
+        "followers_count": 408,
+        "following": false,
+        "friends_count": 941,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 96336128,
+        "id_str": "96336128",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "England, Oxfordshire",
+        "name": "Charlie",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/457815540564623360/X4UgwCad.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/457815540564623360/X4UgwCad.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/96336128/1444139501",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655506681510633472/w8yhdjz3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655506681510633472/w8yhdjz3_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JurassicGarden",
+        "statuses_count": 7391,
+        "time_zone": "London",
+        "url": "https://t.co/ugbxLn6kxt",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

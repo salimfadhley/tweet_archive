@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 17 17:03:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    34,
+                    41
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 655429059426521088,
+    "id_str": "655429059426521088",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": 651458103905390592,
+    "in_reply_to_status_id_str": "651458103905390592",
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.041878,
+                        40.570842
+                    ],
+                    [
+                        -73.855673,
+                        40.570842
+                    ],
+                    [
+                        -73.855673,
+                        40.739434
+                    ],
+                    [
+                        -74.041878,
+                        40.739434
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Brooklyn, NY",
+        "id": "011add077f4d2da3",
+        "name": "Brooklyn",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "why do you need promoted tweets.. @google",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 06 16:48:59 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Designer + Dreads",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "kendallhenderson.com",
+                        "expanded_url": "http://kendallhenderson.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/EnvSSWlER0"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1461,
+        "follow_request_sent": false,
+        "followers_count": 725,
+        "following": false,
+        "friends_count": 566,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 38220780,
+        "id_str": "38220780",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 26,
+        "location": "New York City",
+        "name": "Kendall Henderson",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/560857500396691457/FrdIHPx0.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/560857500396691457/FrdIHPx0.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38220780/1408570076",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/477826998715174913/wETaNdxs_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/477826998715174913/wETaNdxs_normal.jpeg",
+        "profile_link_color": "4F4F4F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KendallHendersn",
+        "statuses_count": 4377,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/EnvSSWlER0",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 17 13:26:00 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655374202921492482,
+    "id_str": "655374202921492482",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -179.231086,
+                        13.182335
+                    ],
+                    [
+                        179.859685,
+                        13.182335
+                    ],
+                    [
+                        179.859685,
+                        71.434357
+                    ],
+                    [
+                        -179.231086,
+                        71.434357
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "United States",
+        "id": "96683cc9126741d1",
+        "name": "United States",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/96683cc9126741d1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@British_Airways and customer services is not working on weekends! any help please, can you tell me what are my rights/ compensations?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 27 18:29:54 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Walking-Around.com",
+                        "expanded_url": "http://www.Walking-Around.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/W80mwfy7kr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6,
+        "follow_request_sent": false,
+        "followers_count": 46,
+        "following": false,
+        "friends_count": 84,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 476052049,
+        "id_str": "476052049",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 2,
+        "location": "",
+        "name": "Walking Around",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/476052049/1417213906",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/538460447083479040/4LjneQIS_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/538460447083479040/4LjneQIS_normal.jpeg",
+        "profile_link_color": "00CC99",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "_WalkingAround_",
+        "statuses_count": 904,
+        "time_zone": "Amsterdam",
+        "url": "http://t.co/W80mwfy7kr",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

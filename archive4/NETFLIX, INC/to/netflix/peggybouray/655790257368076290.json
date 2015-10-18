@@ -1,0 +1,289 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 18 16:59:16 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    40,
+                    48
+                ],
+                "text": "Netflix"
+            },
+            {
+                "indices": [
+                    104,
+                    117
+                ],
+                "text": "Savedominion"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/Kelyda/status/\u2026",
+                "expanded_url": "https://twitter.com/Kelyda/status/655752607407951872",
+                "indices": [
+                    118,
+                    141
+                ],
+                "url": "https://t.co/4RYS7vHQWV"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655790257368076290,
+    "id_str": "655790257368076290",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.7071748,
+                        38.293241
+                    ],
+                    [
+                        -81.560235,
+                        38.293241
+                    ],
+                    [
+                        -81.560235,
+                        38.401731
+                    ],
+                    [
+                        -81.7071748,
+                        38.401731
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Charleston, WV",
+        "id": "71f2805dd75bc147",
+        "name": "Charleston",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/71f2805dd75bc147.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Oct 18 14:29:39 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        60,
+                        69
+                    ],
+                    "text": "Dominion"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/3XRe2hQWS4",
+                    "expanded_url": "http://twitter.com/Kelyda/status/655752607407951872/photo/1",
+                    "id": 655752606975971328,
+                    "id_str": "655752606975971328",
+                    "indices": [
+                        116,
+                        138
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CRmzhY9W0AAoMxF.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CRmzhY9W0AAoMxF.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 211,
+                            "resize": "fit",
+                            "w": 538
+                        },
+                        "medium": {
+                            "h": 211,
+                            "resize": "fit",
+                            "w": 538
+                        },
+                        "small": {
+                            "h": 133,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "http://t.co/3XRe2hQWS4"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 16573941,
+                    "id_str": "16573941",
+                    "indices": [
+                        0,
+                        8
+                    ],
+                    "name": "Netflix US",
+                    "screen_name": "netflix"
+                }
+            ]
+        },
+        "favorite_count": 20,
+        "favorited": false,
+        "geo": null,
+        "id": 655752607407951872,
+        "id_str": "655752607407951872",
+        "in_reply_to_screen_name": "netflix",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 16573941,
+        "in_reply_to_user_id_str": "16573941",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 17,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "@netflix Not a current subscriber but if you do Season 3 of #Dominion, I'll be one of the 1st to sign up. And STAY. http://t.co/3XRe2hQWS4",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jan 31 02:06:05 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Liberal, avid #Dominion and #Blacklist fan, #FooFighters as well.",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 407,
+            "follow_request_sent": false,
+            "followers_count": 15,
+            "following": false,
+            "friends_count": 79,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 245174597,
+            "id_str": "245174597",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 0,
+            "location": "Virginia",
+            "name": "Kelly D",
+            "notifications": false,
+            "profile_background_color": "642D8B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/245174597/1443753039",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/574882872382910465/mrf9Kv9K_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/574882872382910465/mrf9Kv9K_normal.jpeg",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "65B0DA",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Kelyda",
+            "statuses_count": 499,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": null,
+            "utc_offset": -14400,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 655752607407951872,
+    "quoted_status_id_str": "655752607407951872",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Netflix  I will follow in line and get #Netflix also. We back our creator cast &amp; crew very highly. #Savedominion https://t.co/4RYS7vHQWV",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 03 04:08:40 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "ALL OF MY NEW FRIENDS FROM AROUND THE WORLD WE MUST UNITE TO\n      #SAVEDOMINION\nlet's boycott SYFY",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 375,
+        "follow_request_sent": false,
+        "followers_count": 60,
+        "following": false,
+        "friends_count": 117,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3848975133,
+        "id_str": "3848975133",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Charleston, WV. US",
+        "name": "Peggy Bouray ( US )",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "peggybouray",
+        "statuses_count": 245,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

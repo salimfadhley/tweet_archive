@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 18 09:58:52 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16696296,
+                "id_str": "16696296",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Costa Coffee",
+                "screen_name": "CostaCoffee"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655684462026629120,
+    "id_str": "655684462026629120",
+    "in_reply_to_screen_name": "CostaCoffee",
+    "in_reply_to_status_id": 655682582219235330,
+    "in_reply_to_status_id_str": "655682582219235330",
+    "in_reply_to_user_id": 16696296,
+    "in_reply_to_user_id_str": "16696296",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.353808,
+                        52.0924673
+                    ],
+                    [
+                        -2.286305,
+                        52.0924673
+                    ],
+                    [
+                        -2.286305,
+                        52.1462783
+                    ],
+                    [
+                        -2.353808,
+                        52.1462783
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Great Malvern, England",
+        "id": "1cea65b77bc560b3",
+        "name": "Great Malvern",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1cea65b77bc560b3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CostaCoffee don't like the look of the 'Limited Edition' tag line though :-(",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 07 05:54:38 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Father of four, working in sales, living in Malvern, England.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1786,
+        "follow_request_sent": false,
+        "followers_count": 228,
+        "following": false,
+        "friends_count": 141,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1333282208,
+        "id_str": "1333282208",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 16,
+        "location": "Malvern ",
+        "name": "Steve Hayman",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615255879831695360/YQzY4YjN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/615255879831695360/YQzY4YjN_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hayman_steve",
+        "statuses_count": 4207,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

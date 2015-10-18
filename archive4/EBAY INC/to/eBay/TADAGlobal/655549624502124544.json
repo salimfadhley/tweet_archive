@@ -1,0 +1,176 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 18 01:03:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/mqUjKeJpqo",
+                "expanded_url": "http://twitter.com/TADAGlobal/status/655549624502124544/photo/1",
+                "id": 655549618625904640,
+                "id_str": "655549618625904640",
+                "indices": [
+                    6,
+                    28
+                ],
+                "media_url": "http://pbs.twimg.com/media/CRj656bXAAAGuVp.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CRj656bXAAAGuVp.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/mqUjKeJpqo"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19709040,
+                "id_str": "19709040",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "eBay",
+                "screen_name": "eBay"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655549624502124544,
+    "id_str": "655549624502124544",
+    "in_reply_to_screen_name": "eBay",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19709040,
+    "in_reply_to_user_id_str": "19709040",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.639319,
+                        43.403221
+                    ],
+                    [
+                        -78.90582,
+                        43.403221
+                    ],
+                    [
+                        -78.90582,
+                        43.855401
+                    ],
+                    [
+                        -79.639319,
+                        43.855401
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Toronto, Ontario",
+        "id": "3797791ff9c0e4c6",
+        "name": "Toronto",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3797791ff9c0e4c6.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@eBay http://t.co/mqUjKeJpqo",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 13 10:37:09 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "THE REMIX MUSIC SEARCH ENGINE",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/channel/UCJPY_\u2026",
+                        "expanded_url": "https://www.youtube.com/channel/UCJPY_A1hUhH8oBAVmwyq23A",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Vz67MW0whM"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1,
+        "follow_request_sent": false,
+        "followers_count": 113,
+        "following": false,
+        "friends_count": 407,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2289475849,
+        "id_str": "2289475849",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "YOUR PLAYLIST",
+        "name": "REMIXHIT",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2289475849/1443997659",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/651592386292772865/mBpgRDmI_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/651592386292772865/mBpgRDmI_normal.png",
+        "profile_link_color": "F20C59",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "TADAGlobal",
+        "statuses_count": 291,
+        "time_zone": null,
+        "url": "https://t.co/Vz67MW0whM",
+        "utc_offset": null,
+        "verified": false
+    }
+}

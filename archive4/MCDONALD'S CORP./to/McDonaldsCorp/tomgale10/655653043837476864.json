@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 18 07:54:01 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    93,
+                    101
+                ],
+                "text": "Athlone"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 111679943,
+                "id_str": "111679943",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonaldsCorp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655653043837476864,
+    "id_str": "655653043837476864",
+    "in_reply_to_screen_name": "McDonaldsCorp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 111679943,
+    "in_reply_to_user_id_str": "111679943",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -8.0838167,
+                        52.8481614
+                    ],
+                    [
+                        -6.9777977,
+                        52.8481614
+                    ],
+                    [
+                        -6.9777977,
+                        53.4248335
+                    ],
+                    [
+                        -8.0838167,
+                        53.4248335
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ireland",
+        "country_code": "IE",
+        "full_name": "Offaly, Ireland",
+        "id": "ca4ec012d10f309f",
+        "name": "Offaly",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ca4ec012d10f309f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@McDonaldsCorp I was served by possibly the rudest two people on your drive thru last night! #Athlone",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 01 17:45:58 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "You are confined only by the walls you build yourself. \u270c\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 301,
+        "follow_request_sent": false,
+        "followers_count": 270,
+        "following": false,
+        "friends_count": 916,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 245888202,
+        "id_str": "245888202",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "ireland.",
+        "name": "Tom Gale",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/245888202/1385310482",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/536111004925853696/bMPcouAs_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/536111004925853696/bMPcouAs_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tomgale10",
+        "statuses_count": 2894,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

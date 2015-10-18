@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 18 03:26:19 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17842366,
+                "id_str": "17842366",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Discovery",
+                "screen_name": "Discovery"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655585673290711040,
+    "id_str": "655585673290711040",
+    "in_reply_to_screen_name": "Discovery",
+    "in_reply_to_status_id": 655579404278616064,
+    "in_reply_to_status_id_str": "655579404278616064",
+    "in_reply_to_user_id": 17842366,
+    "in_reply_to_user_id_str": "17842366",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -115.2092535,
+                        35.984784
+                    ],
+                    [
+                        -115.0610763,
+                        35.984784
+                    ],
+                    [
+                        -115.0610763,
+                        36.137145
+                    ],
+                    [
+                        -115.2092535,
+                        36.137145
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Paradise, NV",
+        "id": "8fa6d7a33b83ef26",
+        "name": "Paradise",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8fa6d7a33b83ef26.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Discovery this rhino is a beautiful animal.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 05 21:22:29 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Bates International is a leader in RV rentals in North America, offers an income-producing program, and assists partners in RV purchases for fleet.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "batesintl.com",
+                        "expanded_url": "http://www.batesintl.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/mExrrVoB61"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 507,
+        "follow_request_sent": false,
+        "followers_count": 534,
+        "following": false,
+        "friends_count": 719,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 94870882,
+        "id_str": "94870882",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 19,
+        "location": "Headquarters - Las Vegas, NV",
+        "name": "Bates International",
+        "notifications": false,
+        "profile_background_color": "5D2D87",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/58191457/twitter_background.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/58191457/twitter_background.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/94870882/1420584308",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/561927314/icon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/561927314/icon_normal.jpg",
+        "profile_link_color": "8641C3",
+        "profile_sidebar_border_color": "F1C132",
+        "profile_sidebar_fill_color": "F1C132",
+        "profile_text_color": "3A1C54",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bateshome",
+        "statuses_count": 4506,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mExrrVoB61",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

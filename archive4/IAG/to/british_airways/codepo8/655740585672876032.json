@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 18 13:41:53 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655740585672876032,
+    "id_str": "655740585672876032",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": 655738279883636736,
+    "in_reply_to_status_id_str": "655738279883636736",
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.326102,
+                        47.396426
+                    ],
+                    [
+                        -122.2668746,
+                        47.396426
+                    ],
+                    [
+                        -122.2668746,
+                        47.4887404
+                    ],
+                    [
+                        -122.326102,
+                        47.4887404
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "SeaTac, WA",
+        "id": "c8b06a459cc8f78a",
+        "name": "SeaTac",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c8b06a459cc8f78a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@British_Airways next Saturday I will unfold",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 21 17:20:09 +0000 2006",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Developer Evangelist - all things open web, HTML5, writing and working together. Works at Microsoft on Edge, opinions totally my own. #nofilter",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "christianheilmann.com/2013/02/11/hel\u2026",
+                        "expanded_url": "http://christianheilmann.com/2013/02/11/hello-it-is-me-on-twitter/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/fQKlvTCkqN"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 278,
+        "follow_request_sent": false,
+        "followers_count": 49957,
+        "following": false,
+        "friends_count": 1459,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 13567,
+        "id_str": "13567",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3678,
+        "location": "London, UK",
+        "name": "Christian Heilmann ",
+        "notifications": false,
+        "profile_background_color": "336699",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/64650857/twitterbackground.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/64650857/twitterbackground.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13567/1409269429",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1666904408/codepo8_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1666904408/codepo8_normal.png",
+        "profile_link_color": "13456B",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "B7CCBB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "codepo8",
+        "statuses_count": 104555,
+        "time_zone": "London",
+        "url": "http://t.co/fQKlvTCkqN",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

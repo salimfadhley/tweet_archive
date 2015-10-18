@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 18 03:03:06 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    73,
+                    92
+                ],
+                "text": "badcustomerservice"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 655579830084222977,
+    "id_str": "655579830084222977",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -121.576613,
+                        38.43792
+                    ],
+                    [
+                        -121.362715,
+                        38.43792
+                    ],
+                    [
+                        -121.362715,
+                        38.685512
+                    ],
+                    [
+                        -121.576613,
+                        38.685512
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Sacramento, CA",
+        "id": "b71fac2ee9792cbe",
+        "name": "Sacramento",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b71fac2ee9792cbe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ATT it's Saturday night at 8:00pm. Why are you calling me for a survey. #badcustomerservice",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 20 16:09:51 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Me in six words: I'm the sum of my experiences. #PublicRelations #Travel #SiliconValley #SocialMedia #Foodie #Planner",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 62,
+        "follow_request_sent": false,
+        "followers_count": 282,
+        "following": false,
+        "friends_count": 1016,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2749508263,
+        "id_str": "2749508263",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "San Jose,CA",
+        "name": "Hillary Conlin",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2749508263/1444941905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/654759886597656576/SwImiNro_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/654759886597656576/SwImiNro_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Hillaryconlin",
+        "statuses_count": 464,
+        "time_zone": "Arizona",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 17 01:31:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655194412339695616,
+    "id_str": "655194412339695616",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.415272,
+                        39.203372
+                    ],
+                    [
+                        -84.354854,
+                        39.203372
+                    ],
+                    [
+                        -84.354854,
+                        39.28067
+                    ],
+                    [
+                        -84.415272,
+                        39.28067
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Blue Ash, OH",
+        "id": "137e9418bbb125f5",
+        "name": "Blue Ash",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/137e9418bbb125f5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ATT I've bought a 1 GB plan but it stops after 100MB. How to fix this?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 28 11:05:26 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Founder and Chief @DutchMudMen. Founder and blogger @Obstakels. Vegetarian ultrarunner with a love for OCR and minimalism. Living in Amsterdam and Hamburg.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "dirkschrama.com",
+                        "expanded_url": "http://www.dirkschrama.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/9D9yJa4tmk"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 419,
+        "follow_request_sent": false,
+        "followers_count": 734,
+        "following": false,
+        "friends_count": 228,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2641341,
+        "id_str": "2641341",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 19,
+        "location": "Amsterdam, Netherlands",
+        "name": "Dirk Schrama",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000085328674/edeeac79b57a19f15a3e0ccd2e72b796.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000085328674/edeeac79b57a19f15a3e0ccd2e72b796.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2641341/1395823932",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/517660106968662016/tZIdRXG8_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/517660106968662016/tZIdRXG8_normal.jpeg",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dirkschrama",
+        "statuses_count": 4389,
+        "time_zone": "Amsterdam",
+        "url": "http://t.co/9D9yJa4tmk",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

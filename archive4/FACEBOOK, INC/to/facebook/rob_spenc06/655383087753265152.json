@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 17 14:01:19 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    13,
+                    22
+                ],
+                "text": "Facebook"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655383087753265152,
+    "id_str": "655383087753265152",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -112.0383105,
+                        40.6998952
+                    ],
+                    [
+                        -111.795741,
+                        40.6998952
+                    ],
+                    [
+                        -111.795741,
+                        40.8317151
+                    ],
+                    [
+                        -112.0383105,
+                        40.8317151
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Salt Lake City, UT",
+        "id": "bd7c511e9f8bc5da",
+        "name": "Salt Lake City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/bd7c511e9f8bc5da.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook Is #Facebook's website down or something?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 23 03:20:07 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Recent #BYUI grad. Studied #Communication & #PR. Diehard #Auburn fan. Ballroom Dancer. #Mormon",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "robspencer.org",
+                        "expanded_url": "http://www.robspencer.org",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/fep6AvTHkl"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 565,
+        "follow_request_sent": false,
+        "followers_count": 237,
+        "following": false,
+        "friends_count": 318,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1029764509,
+        "id_str": "1029764509",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 17,
+        "location": "Salt Lake City, UT",
+        "name": "Robert Spencer",
+        "notifications": false,
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/579876715385593857/oY25Pe8y.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/579876715385593857/oY25Pe8y.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1029764509/1438059687",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/625892828049051649/VqGMaw_M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/625892828049051649/VqGMaw_M_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "0D0806",
+        "profile_text_color": "544C45",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rob_spenc06",
+        "statuses_count": 1610,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": "http://t.co/fep6AvTHkl",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

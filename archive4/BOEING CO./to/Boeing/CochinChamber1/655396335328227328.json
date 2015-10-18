@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 17 14:53:57 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    40,
+                    52
+                ],
+                "text": "MakeInIndia"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 25103967,
+                "id_str": "25103967",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "The Boeing Company",
+                "screen_name": "Boeing"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655396335328227328,
+    "id_str": "655396335328227328",
+    "in_reply_to_screen_name": "Boeing",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 25103967,
+    "in_reply_to_user_id_str": "25103967",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        76.2312365,
+                        9.8221529
+                    ],
+                    [
+                        76.4706725,
+                        9.8221529
+                    ],
+                    [
+                        76.4706725,
+                        10.0723946
+                    ],
+                    [
+                        76.2312365,
+                        10.0723946
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Kanayannur, Kerala",
+        "id": "7a01d1cbca786e81",
+        "name": "Kanayannur",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7a01d1cbca786e81.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Boeing to manufacture flights in India #MakeInIndia",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 31 08:10:49 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The Cochin Chamber of Commerce & Industry, established in the year 1857, is one of the oldest Chambers of Commerce in the country",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "cochinchamber.org",
+                        "expanded_url": "http://www.cochinchamber.org",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/14wmKddKYU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 22,
+        "follow_request_sent": false,
+        "followers_count": 125,
+        "following": false,
+        "friends_count": 266,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 793374805,
+        "id_str": "793374805",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Willingdon Island",
+        "name": "The Cochin Chamber",
+        "notifications": false,
+        "profile_background_color": "6B7A82",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/647450264/sc0dow1mrz6zidmjs4r1.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/647450264/sc0dow1mrz6zidmjs4r1.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/793374805/1443244671",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2561668415/cochin_chamber_logo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2561668415/cochin_chamber_logo_normal.jpg",
+        "profile_link_color": "0DE30D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CochinChamber1",
+        "statuses_count": 540,
+        "time_zone": "Chennai",
+        "url": "http://t.co/14wmKddKYU",
+        "utc_offset": 19800,
+        "verified": false
+    }
+}
