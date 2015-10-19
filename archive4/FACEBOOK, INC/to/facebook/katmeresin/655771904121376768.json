@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 18 15:46:20 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655771904121376768,
+    "id_str": "655771904121376768",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -72.998069,
+                        41.246404
+                    ],
+                    [
+                        -72.860248,
+                        41.246404
+                    ],
+                    [
+                        -72.860248,
+                        41.350384
+                    ],
+                    [
+                        -72.998069,
+                        41.350384
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "New Haven, CT",
+        "id": "795003fb11ee9829",
+        "name": "New Haven",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/795003fb11ee9829.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook I'd appreciate some more varied stickers in chat. Things with fine filigree, thin lines, etc. Something I could term delicate\u2014thx!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 11 15:42:27 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Interested in regulatory design for a new economy | Building a better world through fair competition | Law & Public Policy | I believe in social justice",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/katmeresin",
+                        "expanded_url": "http://about.me/katmeresin",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/6AN9frTbu2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12285,
+        "follow_request_sent": false,
+        "followers_count": 1158,
+        "following": false,
+        "friends_count": 1981,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 154562655,
+        "id_str": "154562655",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 115,
+        "location": "Washington, DC",
+        "name": "Kate Mereand-Sinha",
+        "notifications": false,
+        "profile_background_color": "93939C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/344511763024995133/4525cab434343f54bfd83cf693e6f6df.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/344511763024995133/4525cab434343f54bfd83cf693e6f6df.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/154562655/1427459930",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/637685661634400256/bDq1rkT1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/637685661634400256/bDq1rkT1_normal.jpg",
+        "profile_link_color": "333333",
+        "profile_sidebar_border_color": "A7ADB0",
+        "profile_sidebar_fill_color": "E6EAEB",
+        "profile_text_color": "00B3B3",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "katmeresin",
+        "statuses_count": 15997,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/6AN9frTbu2",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

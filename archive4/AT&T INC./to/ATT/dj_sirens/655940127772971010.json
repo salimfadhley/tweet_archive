@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 19 02:54:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655940127772971010,
+    "id_str": "655940127772971010",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.666435,
+                        32.670028
+                    ],
+                    [
+                        -97.592444,
+                        32.670028
+                    ],
+                    [
+                        -97.592444,
+                        32.7038285
+                    ],
+                    [
+                        -97.666435,
+                        32.7038285
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Aledo, TX",
+        "id": "010891b30e635705",
+        "name": "Aledo",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/010891b30e635705.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ATT is literally the cause of every family argument..",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 09 00:38:23 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "welcome to good burger",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "deeznuts2016.com",
+                        "expanded_url": "http://deeznuts2016.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/w6ynJiicZa"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 14491,
+        "follow_request_sent": false,
+        "followers_count": 450,
+        "following": false,
+        "friends_count": 306,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2555764812,
+        "id_str": "2555764812",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Aledo, TX",
+        "name": "dj",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2555764812/1444879916",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655614649086291969/NkvhWVqa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655614649086291969/NkvhWVqa_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dj_sirens",
+        "statuses_count": 11800,
+        "time_zone": null,
+        "url": "http://t.co/w6ynJiicZa",
+        "utc_offset": null,
+        "verified": false
+    }
+}

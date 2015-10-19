@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 19 01:56:11 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    128,
+                    133
+                ],
+                "text": "fail"
+            },
+            {
+                "indices": [
+                    134,
+                    139
+                ],
+                "text": "done"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 64510593,
+                "id_str": "64510593",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Hilton Hotels",
+                "screen_name": "HiltonHotels"
+            },
+            {
+                "id": 562190552,
+                "id_str": "562190552",
+                "indices": [
+                    14,
+                    25
+                ],
+                "name": "Hilton Help",
+                "screen_name": "HiltonHelp"
+            },
+            {
+                "id": 57018084,
+                "id_str": "57018084",
+                "indices": [
+                    26,
+                    40
+                ],
+                "name": "Hilton HHonors",
+                "screen_name": "HiltonHHonors"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655925380918984704,
+    "id_str": "655925380918984704",
+    "in_reply_to_screen_name": "HiltonHotels",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 64510593,
+    "in_reply_to_user_id_str": "64510593",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.67529,
+                        36.540739
+                    ],
+                    [
+                        -75.16644,
+                        36.540739
+                    ],
+                    [
+                        -75.16644,
+                        39.466012
+                    ],
+                    [
+                        -83.67529,
+                        39.466012
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Virginia, USA",
+        "id": "5635c19c2b5078d1",
+        "name": "Virginia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@HiltonHotels @HiltonHelp @HiltonHHonors flight issues happen, how you treat HHgold members when flights get cancelled matters. #fail #done",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 30 20:48:02 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Broadband nerd, lover of wireless gear and tech. Beer is ok too.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ruckuswireless.com",
+                        "expanded_url": "http://www.ruckuswireless.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/uw9beawAzW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 43,
+        "follow_request_sent": false,
+        "followers_count": 59,
+        "following": false,
+        "friends_count": 71,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2269420405,
+        "id_str": "2269420405",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Eric Albert",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/417766378095931394/PFjQFvzN_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/417766378095931394/PFjQFvzN_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "broadband_eric",
+        "statuses_count": 383,
+        "time_zone": null,
+        "url": "http://t.co/uw9beawAzW",
+        "utc_offset": null,
+        "verified": false
+    }
+}
