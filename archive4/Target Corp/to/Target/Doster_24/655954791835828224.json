@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 19 03:53:04 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    95,
+                    114
+                ],
+                "text": "FalseAdvertisement"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/S4Oh6mZjBO",
+                "expanded_url": "http://twitter.com/Doster_24/status/655954791835828224/photo/1",
+                "id": 655954766795706369,
+                "id_str": "655954766795706369",
+                "indices": [
+                    115,
+                    137
+                ],
+                "media_url": "http://pbs.twimg.com/media/CRprYo-VEAEgr8N.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CRprYo-VEAEgr8N.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 577
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 577
+                    },
+                    "small": {
+                        "h": 603,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/S4Oh6mZjBO"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655954791835828224,
+    "id_str": "655954791835828224",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.342625,
+                        41.906474
+                    ],
+                    [
+                        -83.317784,
+                        41.906474
+                    ],
+                    [
+                        -83.317784,
+                        41.939387
+                    ],
+                    [
+                        -83.342625,
+                        41.939387
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Detroit Beach, MI",
+        "id": "018864367d6cf2fb",
+        "name": "Detroit Beach",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/018864367d6cf2fb.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Target posted on your app but when I tried to pick one up in store they wouldn't sell me it.. #FalseAdvertisement http://t.co/S4Oh6mZjBO",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 15 23:05:34 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ironic you've been sleepin on the one that you've been dreamin bout.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 14170,
+        "follow_request_sent": false,
+        "followers_count": 306,
+        "following": false,
+        "friends_count": 237,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 238743008,
+        "id_str": "238743008",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Michigan, USA",
+        "name": "Not Your Average Joe",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/645680216/nvnewenglandpats.br.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/645680216/nvnewenglandpats.br.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/238743008/1443070282",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649835297983885312/PdF0JQOP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/649835297983885312/PdF0JQOP_normal.jpg",
+        "profile_link_color": "173197",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "CACCCE",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Doster_24",
+        "statuses_count": 16913,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
