@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 18 18:02:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 67418441,
+                "id_str": "67418441",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Disney",
+                "screen_name": "Disney"
+            },
+            {
+                "id": 20106852,
+                "id_str": "20106852",
+                "indices": [
+                    8,
+                    17
+                ],
+                "name": "Star Wars",
+                "screen_name": "starwars"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655806052256972800,
+    "id_str": "655806052256972800",
+    "in_reply_to_screen_name": "Disney",
+    "in_reply_to_status_id": 655805565147459584,
+    "in_reply_to_status_id_str": "655805565147459584",
+    "in_reply_to_user_id": 67418441,
+    "in_reply_to_user_id_str": "67418441",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -111.960775,
+                        33.4358637
+                    ],
+                    [
+                        -111.756022,
+                        33.4358637
+                    ],
+                    [
+                        -111.756022,
+                        33.842816
+                    ],
+                    [
+                        -111.960775,
+                        33.842816
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Scottsdale, AZ",
+        "id": "0a0de7bd49ef942d",
+        "name": "Scottsdale",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0a0de7bd49ef942d.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Disney @starwars Where the hell is Luke??",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 17 11:50:41 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Gets your hands up, live from the Valley of the Sun (NF, NY via satellite). #Greenmachine #FocusEV",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 415,
+        "follow_request_sent": false,
+        "followers_count": 82,
+        "following": false,
+        "friends_count": 176,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 134080890,
+        "id_str": "134080890",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Cave Creek, AZ",
+        "name": "Michael C",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/563172660/Grand_Canyon.JPG",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/563172660/Grand_Canyon.JPG",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/134080890/1407696790",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3070735968/a46516a10c8743da8900e39f9309c241_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3070735968/a46516a10c8743da8900e39f9309c241_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "mikey7mc",
+        "statuses_count": 2441,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

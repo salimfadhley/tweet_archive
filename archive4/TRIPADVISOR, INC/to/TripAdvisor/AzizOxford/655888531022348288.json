@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 18 23:29:46 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    13,
+                    21
+                ],
+                "text": "skynews"
+            },
+            {
+                "indices": [
+                    56,
+                    63
+                ],
+                "text": "oxford"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "news.sky.com/story/1571496/\u2026",
+                "expanded_url": "http://news.sky.com/story/1571496/amazon-sues-1114-fake-reviewers-for-hire",
+                "indices": [
+                    116,
+                    138
+                ],
+                "url": "http://t.co/H0vCU2nNUv"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16365636,
+                "id_str": "16365636",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "TripAdvisor",
+                "screen_name": "TripAdvisor"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655888531022348288,
+    "id_str": "655888531022348288",
+    "in_reply_to_screen_name": "TripAdvisor",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16365636,
+    "in_reply_to_user_id_str": "16365636",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.95729593780907,
+                        50.5746064789388
+                    ],
+                    [
+                        1.45178800018019,
+                        50.5746064789388
+                    ],
+                    [
+                        1.45178800018019,
+                        52.1962850088601
+                    ],
+                    [
+                        -1.95729593780907,
+                        52.1962850088601
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "South East, England",
+        "id": "06168d1feda43857",
+        "name": "South East",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TripAdvisor #skynews covered about the fake reviews in #oxford change in the system to give accuracy transparency  http://t.co/H0vCU2nNUv",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 17 02:49:57 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Established in 1990 - Awarding winning indian Restaurant & Caterer in Oxford. In the heart of East Oxford Cowley Road #LoveAziz #Oxford Tel: 01865 794945",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "aziz.uk.com",
+                        "expanded_url": "http://www.aziz.uk.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/KkW3ei2LOi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 216,
+        "follow_request_sent": false,
+        "followers_count": 1055,
+        "following": false,
+        "friends_count": 1870,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 227536047,
+        "id_str": "227536047",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 31,
+        "location": "Oxford",
+        "name": "Aziz Restaurant",
+        "notifications": false,
+        "profile_background_color": "8A412B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/764442738/08481c5f52fde2df66cbc7655c233ebc.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/764442738/08481c5f52fde2df66cbc7655c233ebc.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/227536047/1445030698",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/646023888128843780/gYw_sAs1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/646023888128843780/gYw_sAs1_normal.jpg",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AzizOxford",
+        "statuses_count": 1912,
+        "time_zone": "London",
+        "url": "http://t.co/KkW3ei2LOi",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

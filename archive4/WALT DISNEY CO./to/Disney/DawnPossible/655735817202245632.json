@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 18 13:22:56 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 67418441,
+                "id_str": "67418441",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Disney",
+                "screen_name": "Disney"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655735817202245632,
+    "id_str": "655735817202245632",
+    "in_reply_to_screen_name": "Disney",
+    "in_reply_to_status_id": 655730063724445696,
+    "in_reply_to_status_id_str": "655730063724445696",
+    "in_reply_to_user_id": 67418441,
+    "in_reply_to_user_id_str": "67418441",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.347775,
+                        28.738984
+                    ],
+                    [
+                        -81.218468,
+                        28.738984
+                    ],
+                    [
+                        -81.218468,
+                        28.829384
+                    ],
+                    [
+                        -81.347775,
+                        28.829384
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Sanford, FL",
+        "id": "e55e8f90b3127585",
+        "name": "Sanford",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e55e8f90b3127585.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Disney \ud83c\udfb6Forget about your worries and your strife\ud83c\udfb6",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 10 16:59:48 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm just a girl in the world, full of sarcasm and humor. Proud nerd. Disney fanatic. Marvel lover. Baker of cupcakes.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/dawnbrown81",
+                        "expanded_url": "http://www.facebook.com/dawnbrown81",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/LgnGZ8KG8B"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3010,
+        "follow_request_sent": false,
+        "followers_count": 186,
+        "following": false,
+        "friends_count": 352,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 550268189,
+        "id_str": "550268189",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Sanford, FL",
+        "name": "Dawn Brown",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627858979855671296/gHwjkS45_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/627858979855671296/gHwjkS45_normal.jpg",
+        "profile_link_color": "009AB9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "DawnPossible",
+        "statuses_count": 16735,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/LgnGZ8KG8B",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
