@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 18 20:45:37 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655847222546989056,
+    "id_str": "655847222546989056",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.15191,
+                        51.410792
+                    ],
+                    [
+                        -0.078902,
+                        51.410792
+                    ],
+                    [
+                        -0.078902,
+                        51.509887
+                    ],
+                    [
+                        -0.15191,
+                        51.509887
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Lambeth, London",
+        "id": "4393349f368f67a1",
+        "name": "Lambeth",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4393349f368f67a1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@British_Airways I have accidentally booked a ticket travelling the wrong way between London &amp; Edinburgh. How can I cancel please.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 09 16:20:17 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "User experience consultant with an unhealthy need to add new strings to my bow and set myself and complete cycling adventures",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mijlee.com",
+                        "expanded_url": "http://mijlee.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/zv5jY7Wqfv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 152,
+        "follow_request_sent": false,
+        "followers_count": 349,
+        "following": false,
+        "friends_count": 632,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 836051,
+        "id_str": "836051",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "London",
+        "name": "Martin Lee",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/74545746/bg.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/74545746/bg.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/836051/1348058311",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2626559082/3yytrpufbwixxstc8e35_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2626559082/3yytrpufbwixxstc8e35_normal.png",
+        "profile_link_color": "71A164",
+        "profile_sidebar_border_color": "D7EFD1",
+        "profile_sidebar_fill_color": "EDFFDC",
+        "profile_text_color": "405E37",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mijlee",
+        "statuses_count": 2041,
+        "time_zone": "London",
+        "url": "http://t.co/zv5jY7Wqfv",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
