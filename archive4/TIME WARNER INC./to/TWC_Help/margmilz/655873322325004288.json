@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 18 22:29:20 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 110782268,
+                "id_str": "110782268",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "TWC Help",
+                "screen_name": "TWC_Help"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655873322325004288,
+    "id_str": "655873322325004288",
+    "in_reply_to_screen_name": "TWC_Help",
+    "in_reply_to_status_id": 655868872730370049,
+    "in_reply_to_status_id_str": "655868872730370049",
+    "in_reply_to_user_id": 110782268,
+    "in_reply_to_user_id_str": "110782268",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.820272,
+                        38.403186
+                    ],
+                    [
+                        -80.518626,
+                        38.403186
+                    ],
+                    [
+                        -80.518626,
+                        42.327133
+                    ],
+                    [
+                        -84.820272,
+                        42.327133
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Ohio, USA",
+        "id": "de599025180e2ee7",
+        "name": "Ohio",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/de599025180e2ee7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TWC_Help I figured it out thank you though!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 31 22:32:40 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "pudding shot queen",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/margmilz",
+                        "expanded_url": "http://instagram.com/margmilz",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/udl4rvHDDL"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 30965,
+        "follow_request_sent": false,
+        "followers_count": 294,
+        "following": false,
+        "friends_count": 252,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 100856100,
+        "id_str": "100856100",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Kent\u27a1CLE",
+        "name": "Margarita",
+        "notifications": false,
+        "profile_background_color": "0BB345",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/559392323910385664/hos7g5RW.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/559392323910385664/hos7g5RW.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/100856100/1445264113",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655779700330090496/w5ESJKqj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655779700330090496/w5ESJKqj_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "78C0A8",
+        "profile_text_color": "5E412F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "margmilz",
+        "statuses_count": 32701,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/udl4rvHDDL",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

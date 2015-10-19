@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 19 12:41:02 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 80685646,
+                "id_str": "80685646",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Sainsbury's",
+                "screen_name": "sainsburys"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 656087659417325568,
+    "id_str": "656087659417325568",
+    "in_reply_to_screen_name": "sainsburys",
+    "in_reply_to_status_id": 656022956989108224,
+    "in_reply_to_status_id_str": "656022956989108224",
+    "in_reply_to_user_id": 80685646,
+    "in_reply_to_user_id_str": "80685646",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.706057,
+                        53.7363694
+                    ],
+                    [
+                        -1.424923,
+                        53.7363694
+                    ],
+                    [
+                        -1.424923,
+                        53.867543
+                    ],
+                    [
+                        -1.706057,
+                        53.867543
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Leeds, England",
+        "id": "6863fd050de21120",
+        "name": "Leeds",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6863fd050de21120.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@sainsburys Hey Lori, the product was bought from the megastore in Cheltenham. Upon further inspection it seems to be a sharp wooden object.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 05 13:33:39 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "22. I play drums in bands. /@redseasfire/@myprojectghost/badnews/",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 923,
+        "follow_request_sent": false,
+        "followers_count": 379,
+        "following": false,
+        "friends_count": 224,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 71801732,
+        "id_str": "71801732",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Cheltenham",
+        "name": "Jake Fogarty",
+        "notifications": false,
+        "profile_background_color": "07090B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/506182293/Crooks_Crowd.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/506182293/Crooks_Crowd.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/71801732/1368137789",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000435286430/810ac33c5273fa94ff2c03647b41b6e6_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000435286430/810ac33c5273fa94ff2c03647b41b6e6_normal.jpeg",
+        "profile_link_color": "C34242",
+        "profile_sidebar_border_color": "BFBFBF",
+        "profile_sidebar_fill_color": "C9C9C9",
+        "profile_text_color": "1C1F23",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Jake_Fogarty",
+        "statuses_count": 11859,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

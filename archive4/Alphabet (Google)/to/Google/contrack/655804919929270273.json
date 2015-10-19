@@ -1,0 +1,135 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            36.819318,
+            -1.2709682
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sun Oct 18 17:57:31 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            -1.2709682,
+            36.819318
+        ],
+        "type": "Point"
+    },
+    "id": 655804919929270273,
+    "id_str": "655804919929270273",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        36.6645733,
+                        -1.4446849
+                    ],
+                    [
+                        37.1050092,
+                        -1.4446849
+                    ],
+                    [
+                        37.1050092,
+                        -1.1606735
+                    ],
+                    [
+                        36.6645733,
+                        -1.1606735
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Kenya",
+        "country_code": "KE",
+        "full_name": "Nairobi, Kenya",
+        "id": "01b1358f7eda7605",
+        "name": "Nairobi",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/01b1358f7eda7605.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@google you google have dominated everything cant up/download anything without using your search engines, you block all ?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 21 12:25:17 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": true,
+        "description": "I take contracts",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4,
+        "follow_request_sent": false,
+        "followers_count": 16,
+        "following": false,
+        "friends_count": 32,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 49303113,
+        "id_str": "49303113",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Nairobi",
+        "name": "ken",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "contrack",
+        "statuses_count": 197,
+        "time_zone": "Nairobi",
+        "url": null,
+        "utc_offset": 10800,
+        "verified": false
+    }
+}
