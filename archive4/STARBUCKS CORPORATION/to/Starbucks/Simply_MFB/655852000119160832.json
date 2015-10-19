@@ -1,0 +1,131 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 18 21:04:36 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    108,
+                    126
+                ],
+                "text": "iheartmobileorder"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 655852000119160832,
+    "id_str": "655852000119160832",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.114609,
+                        47.558606
+                    ],
+                    [
+                        -122.114609,
+                        47.558606
+                    ],
+                    [
+                        -122.114609,
+                        47.558606
+                    ],
+                    [
+                        -122.114609,
+                        47.558606
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Starbucks",
+        "id": "07d9c92a4a086001",
+        "name": "Starbucks",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9c92a4a086001.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks - mobile order disappeared on my app! Reinstalled app 2x and still no luck. Can you please help?!#iheartmobileorder",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 21 03:42:10 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wino, skier, foodie, sucker for start-ups, UW alum, and crazy mom of 2. VP of Account Services & Customer Success @simplymeasured",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 245,
+        "follow_request_sent": false,
+        "followers_count": 241,
+        "following": false,
+        "friends_count": 442,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1687306902,
+        "id_str": "1687306902",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 29,
+        "location": "Seattle",
+        "name": "Mari Bentvelzen",
+        "notifications": false,
+        "profile_background_color": "635C64",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000164533863/O7UE5TfA.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000164533863/O7UE5TfA.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000332158404/58c4295e3fdc08d61901ec731fbab63d_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000332158404/58c4295e3fdc08d61901ec731fbab63d_normal.jpeg",
+        "profile_link_color": "835468",
+        "profile_sidebar_border_color": "2A292F",
+        "profile_sidebar_fill_color": "BB5E70",
+        "profile_text_color": "6D4658",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Simply_MFB",
+        "statuses_count": 294,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

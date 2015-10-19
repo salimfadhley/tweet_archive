@@ -1,0 +1,153 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 19 03:44:46 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    64,
+                    84
+                ],
+                "text": "OrangeSleeveSociety"
+            },
+            {
+                "indices": [
+                    89,
+                    102
+                ],
+                "text": "pumpkinlatte"
+            },
+            {
+                "indices": [
+                    103,
+                    110
+                ],
+                "text": "Coffee"
+            },
+            {
+                "indices": [
+                    111,
+                    115
+                ],
+                "text": "PSL"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655952704372613120,
+    "id_str": "655952704372613120",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.911271,
+                        40.900789
+                    ],
+                    [
+                        -73.810443,
+                        40.900789
+                    ],
+                    [
+                        -73.810443,
+                        40.988346
+                    ],
+                    [
+                        -73.911271,
+                        40.988346
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Yonkers, NY",
+        "id": "b87b05856ab8dbd8",
+        "name": "Yonkers",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b87b05856ab8dbd8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks Guys will there be another chance to be apart of the #OrangeSleeveSociety ??? #pumpkinlatte #Coffee #PSL",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 18 14:53:02 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Operations Coordinator for The Salvation Army's Emergency Services Department in Greater New York. Love Snowboarding,Mountain Biking, NYK, LFC, NYG and Tattoos.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 376,
+        "follow_request_sent": false,
+        "followers_count": 553,
+        "following": false,
+        "friends_count": 1999,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 106111551,
+        "id_str": "106111551",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 15,
+        "location": "Yonkers NYC",
+        "name": "Craig Finikin",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106111551/1442319977",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/643762759956570112/qWDwAIhl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/643762759956570112/qWDwAIhl_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "VDUBNYC",
+        "statuses_count": 4175,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

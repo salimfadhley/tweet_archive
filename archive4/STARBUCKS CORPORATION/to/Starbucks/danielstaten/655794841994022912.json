@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 18 17:17:29 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655794841994022912,
+    "id_str": "655794841994022912",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.8487035,
+                        35.1483881
+                    ],
+                    [
+                        -80.824637,
+                        35.1483881
+                    ],
+                    [
+                        -80.824637,
+                        35.1782885
+                    ],
+                    [
+                        -80.8487035,
+                        35.1782885
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Barclay Downs, Charlotte",
+        "id": "48cb9e0dfe7ca3dd",
+        "name": "Barclay Downs",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/48cb9e0dfe7ca3dd.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@Starbucks I\u2019m trying to tip for the fantastic iced coffee at the SouthPark location in Charlotte and the app keeps crashing! \ud83d\ude01",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 30 01:42:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Disney Parks | Food | Technology | Lifestyle",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "statenthefacts.com",
+                        "expanded_url": "http://www.statenthefacts.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/t86y5Mi1V9"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 10499,
+        "follow_request_sent": false,
+        "followers_count": 612,
+        "following": false,
+        "friends_count": 998,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 184621773,
+        "id_str": "184621773",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 39,
+        "location": "Charlotte, NC",
+        "name": "Daniel Staten",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/184621773/1400204655",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/625124328091336704/tkRGD-EE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/625124328091336704/tkRGD-EE_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "danielstaten",
+        "statuses_count": 20409,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/t86y5Mi1V9",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

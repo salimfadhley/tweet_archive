@@ -1,0 +1,427 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 19 02:10:08 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/02d16b8d4c0846\u2026",
+                "expanded_url": "https://twitter.com/02d16b8d4c0846a/status/655517537048928256",
+                "indices": [
+                    110,
+                    133
+                ],
+                "url": "https://t.co/YH9GNCwvZK"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            },
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    9,
+                    18
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 20600214,
+                "id_str": "20600214",
+                "indices": [
+                    19,
+                    33
+                ],
+                "name": "National Guard",
+                "screen_name": "NationalGuard"
+            },
+            {
+                "id": 8775672,
+                "id_str": "8775672",
+                "indices": [
+                    34,
+                    41
+                ],
+                "name": "U.S. Army",
+                "screen_name": "USArmy"
+            },
+            {
+                "id": 77273,
+                "id_str": "77273",
+                "indices": [
+                    42,
+                    56
+                ],
+                "name": "Prince Charles",
+                "screen_name": "PrinceCharles"
+            },
+            {
+                "id": 81172502,
+                "id_str": "81172502",
+                "indices": [
+                    57,
+                    73
+                ],
+                "name": "David Robinson",
+                "screen_name": "DavidtheAdmiral"
+            },
+            {
+                "id": 17061263,
+                "id_str": "17061263",
+                "indices": [
+                    74,
+                    84
+                ],
+                "name": "Benjamin Netanyahu",
+                "screen_name": "netanyahu"
+            },
+            {
+                "id": 15602091,
+                "id_str": "15602091",
+                "indices": [
+                    85,
+                    92
+                ],
+                "name": "BBB | US",
+                "screen_name": "bbb_us"
+            },
+            {
+                "id": 23083306,
+                "id_str": "23083306",
+                "indices": [
+                    93,
+                    104
+                ],
+                "name": "Chicago BBB",
+                "screen_name": "ChicagoBBB"
+            },
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    105,
+                    109
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 655928889953222656,
+    "id_str": "655928889953222656",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Oct 17 22:55:34 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/pGpP3cgm3G",
+                    "expanded_url": "http://twitter.com/02d16b8d4c0846a/status/655517537048928256/photo/1",
+                    "id": 655517536721739778,
+                    "id_str": "655517536721739778",
+                    "indices": [
+                        113,
+                        135
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CRjdugBWoAILaBD.png",
+                    "media_url_https": "https://pbs.twimg.com/media/CRjdugBWoAILaBD.png",
+                    "sizes": {
+                        "large": {
+                            "h": 785,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 460,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 260,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "http://t.co/pGpP3cgm3G"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 2733598104,
+                    "id_str": "2733598104",
+                    "indices": [
+                        0,
+                        15
+                    ],
+                    "name": "TheGanjaQueen",
+                    "screen_name": "realganjaqueen"
+                },
+                {
+                    "id": 3116244577,
+                    "id_str": "3116244577",
+                    "indices": [
+                        16,
+                        30
+                    ],
+                    "name": "Empress of Hemp",
+                    "screen_name": "empressofhemp"
+                },
+                {
+                    "id": 127071678,
+                    "id_str": "127071678",
+                    "indices": [
+                        33,
+                        49
+                    ],
+                    "name": "Hemp History Week",
+                    "screen_name": "HempHistoryWeek"
+                },
+                {
+                    "id": 989008308,
+                    "id_str": "989008308",
+                    "indices": [
+                        50,
+                        66
+                    ],
+                    "name": "hempy",
+                    "screen_name": "hempy_hunnytung"
+                },
+                {
+                    "id": 2547036072,
+                    "id_str": "2547036072",
+                    "indices": [
+                        67,
+                        79
+                    ],
+                    "name": "hempforfood.org",
+                    "screen_name": "hempforfood"
+                },
+                {
+                    "id": 39286163,
+                    "id_str": "39286163",
+                    "indices": [
+                        80,
+                        87
+                    ],
+                    "name": "The HIA",
+                    "screen_name": "thehia"
+                },
+                {
+                    "id": 165771211,
+                    "id_str": "165771211",
+                    "indices": [
+                        88,
+                        102
+                    ],
+                    "name": "Hemp Hemp Hooray!",
+                    "screen_name": "JackHererHemp"
+                },
+                {
+                    "id": 2436671834,
+                    "id_str": "2436671834",
+                    "indices": [
+                        103,
+                        112
+                    ],
+                    "name": "Legalize It CA 2016",
+                    "screen_name": "cchi2016"
+                }
+            ]
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "geo": null,
+        "id": 655517537048928256,
+        "id_str": "655517537048928256",
+        "in_reply_to_screen_name": "realganjaqueen",
+        "in_reply_to_status_id": 630886067567104000,
+        "in_reply_to_status_id_str": "630886067567104000",
+        "in_reply_to_user_id": 2733598104,
+        "in_reply_to_user_id_str": "2733598104",
+        "is_quote_status": false,
+        "lang": "und",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "@realganjaqueen @empressofhemp   @HempHistoryWeek @hempy_hunnytung @hempforfood @thehia @JackHererHemp @cchi2016 http://t.co/pGpP3cgm3G",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Apr 14 05:12:27 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 3,
+            "follow_request_sent": false,
+            "followers_count": 7,
+            "following": false,
+            "friends_count": 27,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 3165614337,
+            "id_str": "3165614337",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 0,
+            "location": "",
+            "name": "George Washington",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3165614337/1444038137",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/650969251222814721/jdU4ULJ__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/650969251222814721/jdU4ULJ__normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "02d16b8d4c0846a",
+            "statuses_count": 3431,
+            "time_zone": null,
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 655517537048928256,
+    "quoted_status_id_str": "655517537048928256",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@twitter @facebook @NationalGuard @USArmy @PrinceCharles @DavidtheAdmiral @netanyahu @bbb_us @ChicagoBBB @cnn https://t.co/YH9GNCwvZK",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 02 15:18:45 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "where is my spirit? I'm always infinite ft @ light speed. let's exercise growing after age 21 law",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 15379,
+        "follow_request_sent": false,
+        "followers_count": 400,
+        "following": false,
+        "friends_count": 2001,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 403481070,
+        "id_str": "403481070",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 51,
+        "location": "5027 S.Drexel Blvd.Chicago, IL",
+        "name": "MR. TWITT3R",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/403481070/1445231576",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/650433988914380800/HBtxf-Hv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/650433988914380800/HBtxf-Hv_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GIrardisGOD",
+        "statuses_count": 56952,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

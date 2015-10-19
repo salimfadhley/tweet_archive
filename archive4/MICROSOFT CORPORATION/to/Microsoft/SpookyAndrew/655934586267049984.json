@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 19 02:32:46 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655934586267049984,
+    "id_str": "655934586267049984",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.7778492,
+                        39.483806
+                    ],
+                    [
+                        -84.7069553,
+                        39.483806
+                    ],
+                    [
+                        -84.7069553,
+                        39.5302302
+                    ],
+                    [
+                        -84.7778492,
+                        39.5302302
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Oxford, OH",
+        "id": "cc1a67e451c6db3c",
+        "name": "Oxford",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/cc1a67e451c6db3c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Microsoft how do I shut off the fucking auto-restart fuck you",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 21 19:02:38 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I speak for the animals TYBG",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/SpookyAndrew",
+                        "expanded_url": "http://twitter.com/SpookyAndrew",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/kc86a1sg4V"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6296,
+        "follow_request_sent": false,
+        "followers_count": 230,
+        "following": false,
+        "friends_count": 440,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 241219352,
+        "id_str": "241219352",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "everywhere",
+        "name": "Spook",
+        "notifications": false,
+        "profile_background_color": "F52CBF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/650619317/zmggd9okda8hk8mnwlh5.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/650619317/zmggd9okda8hk8mnwlh5.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/241219352/1377096849",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/610914178056896513/LL5fuyko_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/610914178056896513/LL5fuyko_normal.jpg",
+        "profile_link_color": "F235DF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SpookyAndrew",
+        "statuses_count": 18891,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/kc86a1sg4V",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
