@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 19 15:44:15 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    57,
+                    65
+                ],
+                "text": "awesome"
+            },
+            {
+                "indices": [
+                    66,
+                    73
+                ],
+                "text": "Monday"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 545087869,
+                "id_str": "545087869",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Boots",
+                "screen_name": "BootsUK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 656133769301237760,
+    "id_str": "656133769301237760",
+    "in_reply_to_screen_name": "BootsUK",
+    "in_reply_to_status_id": 656132554895040512,
+    "in_reply_to_status_id_str": "656132554895040512",
+    "in_reply_to_user_id": 545087869,
+    "in_reply_to_user_id_str": "545087869",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.706057,
+                        53.7363694
+                    ],
+                    [
+                        -1.424923,
+                        53.7363694
+                    ],
+                    [
+                        -1.424923,
+                        53.867543
+                    ],
+                    [
+                        -1.706057,
+                        53.867543
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Leeds, England",
+        "id": "6863fd050de21120",
+        "name": "Leeds",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6863fd050de21120.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@BootsUK so far yesterday has been feeling quite jealous #awesome #Monday :)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 05 22:51:00 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Business Start Up Superhero! Host of #EnterpriseHubChat every Friday 12-1 Join us over lunch :)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "leedsbeckett.ac.uk/eiahub",
+                        "expanded_url": "http://www.leedsbeckett.ac.uk/eiahub",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/wD2OZGdfWt"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6998,
+        "follow_request_sent": false,
+        "followers_count": 1582,
+        "following": false,
+        "friends_count": 2118,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 111716862,
+        "id_str": "111716862",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 126,
+        "location": "",
+        "name": "Fran Parkinson",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/111716862/1442332520",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/651647462843805696/tFEQ6Fwu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/651647462843805696/tFEQ6Fwu_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "franparkinson1",
+        "statuses_count": 8618,
+        "time_zone": "Hawaii",
+        "url": "http://t.co/wD2OZGdfWt",
+        "utc_offset": -36000,
+        "verified": false
+    }
+}

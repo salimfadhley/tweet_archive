@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 19 19:41:44 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271516607,
+                "id_str": "271516607",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "UPS Customer Support",
+                "screen_name": "UPSHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 656193532424790016,
+    "id_str": "656193532424790016",
+    "in_reply_to_screen_name": "UPSHelp",
+    "in_reply_to_status_id": 656193474648240128,
+    "in_reply_to_status_id_str": "656193474648240128",
+    "in_reply_to_user_id": 271516607,
+    "in_reply_to_user_id_str": "271516607",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.496927,
+                        42.257263
+                    ],
+                    [
+                        -71.374193,
+                        42.257263
+                    ],
+                    [
+                        -71.374193,
+                        42.352931
+                    ],
+                    [
+                        -71.496927,
+                        42.352931
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Framingham, MA",
+        "id": "dbd1411661903bb0",
+        "name": "Framingham",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/dbd1411661903bb0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "@UPSHelp Thanks!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 26 14:01:31 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Likes shiny toys.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "psyton.com",
+                        "expanded_url": "http://www.psyton.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/HccJOojxPD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2,
+        "follow_request_sent": false,
+        "followers_count": 139,
+        "following": false,
+        "friends_count": 255,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 7089822,
+        "id_str": "7089822",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Boston, MA",
+        "name": "Dave Goldblatt",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1997244495/D373E835-3313-49E3-8F0E-717A9F7E5BDB_normal",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1997244495/D373E835-3313-49E3-8F0E-717A9F7E5BDB_normal",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "psyton",
+        "statuses_count": 2653,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/HccJOojxPD",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
