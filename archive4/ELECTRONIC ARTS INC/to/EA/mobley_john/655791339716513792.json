@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 18 17:03:34 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15234657,
+                "id_str": "15234657",
+                "indices": [
+                    0,
+                    3
+                ],
+                "name": "Electronic Arts",
+                "screen_name": "EA"
+            },
+            {
+                "id": 31122496,
+                "id_str": "31122496",
+                "indices": [
+                    4,
+                    9
+                ],
+                "name": "NCAA",
+                "screen_name": "NCAA"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 655791339716513792,
+    "id_str": "655791339716513792",
+    "in_reply_to_screen_name": "EA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15234657,
+    "in_reply_to_user_id_str": "15234657",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.937783,
+                        33.081206
+                    ],
+                    [
+                        -96.7327146,
+                        33.081206
+                    ],
+                    [
+                        -96.7327146,
+                        33.219073
+                    ],
+                    [
+                        -96.937783,
+                        33.219073
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Frisco, TX",
+        "id": "00c3e46c3d0cac08",
+        "name": "Frisco",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c3e46c3d0cac08.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@EA @NCAA you both need to stop being childish, put your differences aside and bring back NCAA Football for 2016. That is all",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 07 01:47:00 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "John Mobley IV Class of 2016. #titannation JM3 3-1 FTF II TTU20",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5536,
+        "follow_request_sent": false,
+        "followers_count": 481,
+        "following": false,
+        "friends_count": 249,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 430337206,
+        "id_str": "430337206",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "\u303d\ufe0fobs",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/430337206/1444331790",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655904157937741824/0WaLggcm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655904157937741824/0WaLggcm_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mobley_john",
+        "statuses_count": 8988,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
