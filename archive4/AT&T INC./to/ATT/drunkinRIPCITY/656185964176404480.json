@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 19 19:11:39 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 656185964176404480,
+    "id_str": "656185964176404480",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -124.703541,
+                        41.991795
+                    ],
+                    [
+                        -116.463262,
+                        41.991795
+                    ],
+                    [
+                        -116.463262,
+                        46.2991
+                    ],
+                    [
+                        -124.703541,
+                        46.2991
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Oregon, USA",
+        "id": "df7fd3a3b9eff7ee",
+        "name": "Oregon",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/df7fd3a3b9eff7ee.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ATT probably has the worst wireless coverage in the Pacific Northwest! It's garbage",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 08 05:37:04 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm that guy who drinks too much at parties and always talks too much about the Blazers and bands you don't care about.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3148,
+        "follow_request_sent": false,
+        "followers_count": 111,
+        "following": false,
+        "friends_count": 518,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 29649961,
+        "id_str": "29649961",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Portland, OR",
+        "name": ".",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/559335603/210701_10150162696492278_565567277_6386409_6045812_o.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/559335603/210701_10150162696492278_565567277_6386409_6045812_o.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29649961/1393784010",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/440188159247130624/dpYwzaB9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/440188159247130624/dpYwzaB9_normal.jpeg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "drunkinRIPCITY",
+        "statuses_count": 4632,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}
