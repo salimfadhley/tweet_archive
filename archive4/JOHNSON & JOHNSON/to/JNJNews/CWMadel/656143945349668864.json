@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 19 16:24:41 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/cVXitpIFa1",
+                "expanded_url": "http://twitter.com/CWMadel/status/656143945349668864/photo/1",
+                "id": 656143935191019520,
+                "id_str": "656143935191019520",
+                "indices": [
+                    72,
+                    94
+                ],
+                "media_url": "http://pbs.twimg.com/media/CRsXbsKWcAANo_f.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CRsXbsKWcAANo_f.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1818,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 1065,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 603,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/cVXitpIFa1"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20457806,
+                "id_str": "20457806",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Johnson & Johnson",
+                "screen_name": "JNJNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 656143945349668864,
+    "id_str": "656143945349668864",
+    "in_reply_to_screen_name": "JNJNews",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20457806,
+    "in_reply_to_user_id_str": "20457806",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.605166,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        35.000771
+                    ],
+                    [
+                        -85.605166,
+                        35.000771
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Georgia, USA",
+        "id": "7142eb97ae21e839",
+        "name": "Georgia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@JNJNews, you peeps need to invent a band-aid that doesn't do this, yo. http://t.co/cVXitpIFa1",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 21 22:03:09 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ummm... Yeah.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 54,
+        "follow_request_sent": false,
+        "followers_count": 72,
+        "following": false,
+        "friends_count": 66,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2667318181,
+        "id_str": "2667318181",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Minneapolis, MN",
+        "name": "Chris Madel",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/491347651795771392/ZymE7jgN_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/491347651795771392/ZymE7jgN_normal.jpeg",
+        "profile_link_color": "B5C0C4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CWMadel",
+        "statuses_count": 245,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
