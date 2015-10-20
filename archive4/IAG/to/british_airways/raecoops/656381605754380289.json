@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 20 08:09:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 656381605754380289,
+    "id_str": "656381605754380289",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": 656235573292716032,
+    "in_reply_to_status_id_str": "656235573292716032",
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        4.7288999,
+                        52.2782266
+                    ],
+                    [
+                        5.0792072,
+                        52.2782266
+                    ],
+                    [
+                        5.0792072,
+                        52.4312289
+                    ],
+                    [
+                        4.7288999,
+                        52.4312289
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Nederland",
+        "country_code": "NL",
+        "full_name": "Amsterdam, North Holland",
+        "id": "99cdab25eddd6bce",
+        "name": "Amsterdam",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@British_Airways Still won't let me check in - either on your website or through the app. Really frustrating.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 04 22:47:26 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 683,
+        "follow_request_sent": false,
+        "followers_count": 154,
+        "following": false,
+        "friends_count": 437,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 428570284,
+        "id_str": "428570284",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Camden Town, London",
+        "name": "Rachel Cooper",
+        "notifications": false,
+        "profile_background_color": "395752",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/808877985/41fd2d07eb95175f7a07adcc91f67efe.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/808877985/41fd2d07eb95175f7a07adcc91f67efe.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/428570284/1441231244",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/639195823578943488/jCMCTE2-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/639195823578943488/jCMCTE2-_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "raecoops",
+        "statuses_count": 1234,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

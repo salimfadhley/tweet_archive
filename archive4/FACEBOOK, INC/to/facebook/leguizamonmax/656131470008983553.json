@@ -1,0 +1,328 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 19 15:35:07 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/C5N/status/656\u2026",
+                "expanded_url": "https://twitter.com/C5N/status/656128229648957440",
+                "indices": [
+                    51,
+                    74
+                ],
+                "url": "https://t.co/onH7EJbYs1"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 656131470008983553,
+    "id_str": "656131470008983553",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -60.5735164,
+                        -31.814192
+                    ],
+                    [
+                        -60.452815,
+                        -31.814192
+                    ],
+                    [
+                        -60.452815,
+                        -31.706162
+                    ],
+                    [
+                        -60.5735164,
+                        -31.706162
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Argentina",
+        "country_code": "AR",
+        "full_name": "Paran\u00e1, Argentina",
+        "id": "01d13f2529da75c4",
+        "name": "Paran\u00e1",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01d13f2529da75c4.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Oct 19 15:22:14 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/40BQVzI7OY",
+                    "expanded_url": "http://twitter.com/C5N/status/656128229648957440/photo/1",
+                    "id": 656127794271952896,
+                    "id_str": "656127794271952896",
+                    "indices": [
+                        74,
+                        96
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CRsIwKjXIAA43lJ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CRsIwKjXIAA43lJ.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 508,
+                            "resize": "fit",
+                            "w": 678
+                        },
+                        "medium": {
+                            "h": 449,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 254,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "http://t.co/40BQVzI7OY"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "goo.gl/IUoXv9",
+                    "expanded_url": "http://goo.gl/IUoXv9",
+                    "indices": [
+                        51,
+                        73
+                    ],
+                    "url": "http://t.co/DoiVSXjTj1"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 2425151,
+                    "id_str": "2425151",
+                    "indices": [
+                        1,
+                        10
+                    ],
+                    "name": "Facebook",
+                    "screen_name": "facebook"
+                },
+                {
+                    "id": 2248872301,
+                    "id_str": "2248872301",
+                    "indices": [
+                        25,
+                        32
+                    ],
+                    "name": "NSA/CSS",
+                    "screen_name": "NSAGov"
+                }
+            ]
+        },
+        "favorite_count": 29,
+        "favorited": false,
+        "geo": null,
+        "id": 656128229648957440,
+        "id_str": "656128229648957440",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "es",
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 9,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": ".@facebook avisar\u00e1 si la @NSAGov te est\u00e1 hackeando http://t.co/DoiVSXjTj1 http://t.co/40BQVzI7OY",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jun 05 16:52:32 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "El protagonista sos vos. 24 hs en vivo |\nhttp://t.co/RBORPgEtSb | http://t.co/bRniCQ0bJP | http://t.co/0zjSBV4iB0",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "facebook.com/C5N.Noticias",
+                            "expanded_url": "http://www.facebook.com/C5N.Noticias",
+                            "indices": [
+                                41,
+                                63
+                            ],
+                            "url": "http://t.co/RBORPgEtSb"
+                        },
+                        {
+                            "display_url": "youtube.com/C5N",
+                            "expanded_url": "http://www.youtube.com/C5N",
+                            "indices": [
+                                66,
+                                88
+                            ],
+                            "url": "http://t.co/bRniCQ0bJP"
+                        },
+                        {
+                            "display_url": "Instagram.com/C5N.Noticias",
+                            "expanded_url": "http://www.Instagram.com/C5N.Noticias",
+                            "indices": [
+                                91,
+                                113
+                            ],
+                            "url": "http://t.co/0zjSBV4iB0"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "c5n.com",
+                            "expanded_url": "http://www.c5n.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/JdeWfkRJau"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 49617,
+            "follow_request_sent": false,
+            "followers_count": 1272388,
+            "following": false,
+            "friends_count": 27073,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 152325528,
+            "id_str": "152325528",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "es",
+            "listed_count": 3212,
+            "location": "Buenos Aires, Argentina",
+            "name": "C5N",
+            "notifications": false,
+            "profile_background_color": "F2CAA9",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/664066588/dea4c510ba18d6036011ffa656d0f982.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/664066588/dea4c510ba18d6036011ffa656d0f982.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/152325528/1429913749",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/584675418072096768/TXlaH8v3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/584675418072096768/TXlaH8v3_normal.jpg",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "C5N",
+            "statuses_count": 182110,
+            "time_zone": "Buenos Aires",
+            "url": "http://t.co/JdeWfkRJau",
+            "utc_offset": -10800,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 656128229648957440,
+    "quoted_status_id_str": "656128229648957440",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook ser\u00e1 verdad?  Que realmente intervengan  https://t.co/onH7EJbYs1",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 09 16:26:17 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Analyst. Practicante Web. Profesional entusiasta de los medios de comunicaci\u00f3n social.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1222,
+        "follow_request_sent": false,
+        "followers_count": 683,
+        "following": false,
+        "friends_count": 85,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 131214795,
+        "id_str": "131214795",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 5,
+        "location": "Entre R\u00edos, Argentina",
+        "name": "Maximiliano",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/131214795/1418052657",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655930334933065728/SoWJgsvd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655930334933065728/SoWJgsvd_normal.jpg",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "leguizamonmax",
+        "statuses_count": 1934,
+        "time_zone": "Buenos Aires",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}
