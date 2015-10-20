@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 20 01:20:02 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 67418441,
+                "id_str": "67418441",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Disney",
+                "screen_name": "Disney"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 656278668151357440,
+    "id_str": "656278668151357440",
+    "in_reply_to_screen_name": "Disney",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 67418441,
+    "in_reply_to_user_id_str": "67418441",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -120.641299,
+                        37.325641
+                    ],
+                    [
+                        -120.555357,
+                        37.325641
+                    ],
+                    [
+                        -120.555357,
+                        37.374957
+                    ],
+                    [
+                        -120.641299,
+                        37.374957
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Atwater, CA",
+        "id": "676c3e6a1e0642db",
+        "name": "Atwater",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/676c3e6a1e0642db.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Disney releases too many damn trailers for movies",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 04 11:13:17 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "thrill seeker",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 12516,
+        "follow_request_sent": false,
+        "followers_count": 96,
+        "following": false,
+        "friends_count": 700,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 79708175,
+        "id_str": "79708175",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "CALI",
+        "name": "Theme Park Lunatic",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/79708175/1444623907",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/648070286407892992/9E0We8vj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/648070286407892992/9E0We8vj_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PRINCEPINOY",
+        "statuses_count": 15960,
+        "time_zone": "Alaska",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

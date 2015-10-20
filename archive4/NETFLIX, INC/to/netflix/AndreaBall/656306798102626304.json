@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 20 03:11:48 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    32,
+                    40
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            },
+            {
+                "id": 19494203,
+                "id_str": "19494203",
+                "indices": [
+                    41,
+                    57
+                ],
+                "name": "Anthony Jeselnik",
+                "screen_name": "anthonyjeselnik"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 656306798102626304,
+    "id_str": "656306798102626304",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": 655831375593893888,
+    "in_reply_to_status_id_str": "655831375593893888",
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "The new love of my life, thanks @netflix @anthonyjeselnik",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 18 05:28:39 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "International commercial director, writing, and dancing till dawn",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "andreaball.com",
+                        "expanded_url": "http://andreaball.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/DUz0je7JK4"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1285,
+        "follow_request_sent": false,
+        "followers_count": 2217,
+        "following": false,
+        "friends_count": 828,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14430075,
+        "id_str": "14430075",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 62,
+        "location": "Los Angeles",
+        "name": "Andrea Ball",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14430075/1437711561",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/624438643126464513/1pK7dB60_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/624438643126464513/1pK7dB60_normal.jpg",
+        "profile_link_color": "00FFFF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AndreaBall",
+        "statuses_count": 1088,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/DUz0je7JK4",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}
