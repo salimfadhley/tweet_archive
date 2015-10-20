@@ -1,0 +1,141 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 19 20:00:41 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    60,
+                    73
+                ],
+                "text": "FactOfTheDay"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20123366,
+                "id_str": "20123366",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Asda",
+                "screen_name": "asda"
+            },
+            {
+                "id": 271986064,
+                "id_str": "271986064",
+                "indices": [
+                    40,
+                    46
+                ],
+                "name": "Tesco",
+                "screen_name": "Tesco"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 656198301642047488,
+    "id_str": "656198301642047488",
+    "in_reply_to_screen_name": "asda",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20123366,
+    "in_reply_to_user_id_str": "20123366",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.013326,
+                        50.682612
+                    ],
+                    [
+                        -1.891233,
+                        50.682612
+                    ],
+                    [
+                        -1.891233,
+                        50.774097
+                    ],
+                    [
+                        -2.013326,
+                        50.774097
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Poole, England",
+        "id": "1c4cd8e4ae3a1959",
+        "name": "Poole",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1c4cd8e4ae3a1959.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@asda home delivery service is rubbish. @Tesco was amazing! #FactOfTheDay",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 30 17:32:44 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Very much in love with my beautiful partner Proud father of Grace Louise, Supporter of Saints FC",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1263,
+        "follow_request_sent": false,
+        "followers_count": 355,
+        "following": false,
+        "friends_count": 521,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 478793475,
+        "id_str": "478793475",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Poole",
+        "name": "Shaun",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2963159345/d2ad8ecf515660a8fab822dc53875e5d_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2963159345/d2ad8ecf515660a8fab822dc53875e5d_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LoveysShaun",
+        "statuses_count": 2902,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
