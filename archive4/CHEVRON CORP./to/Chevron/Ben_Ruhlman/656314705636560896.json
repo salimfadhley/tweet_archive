@@ -1,0 +1,315 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 20 03:43:14 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    47,
+                    56
+                ],
+                "text": "teachers"
+            },
+            {
+                "indices": [
+                    61,
+                    66
+                ],
+                "text": "STEM"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/fuelyourschool\u2026",
+                "expanded_url": "https://twitter.com/fuelyourschool/status/656313678992510976",
+                "indices": [
+                    68,
+                    91
+                ],
+                "url": "https://t.co/1K8TnTD6Id"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 21021891,
+                "id_str": "21021891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Chevron",
+                "screen_name": "Chevron"
+            },
+            {
+                "id": 1897963201,
+                "id_str": "1897963201",
+                "indices": [
+                    9,
+                    24
+                ],
+                "name": "Fuel Your School",
+                "screen_name": "FuelYourSchool"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 656314705636560896,
+    "id_str": "656314705636560896",
+    "in_reply_to_screen_name": "Chevron",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 21021891,
+    "in_reply_to_user_id_str": "21021891",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.004255,
+                        37.721286
+                    ],
+                    [
+                        -121.8789037,
+                        37.721286
+                    ],
+                    [
+                        -121.8789037,
+                        37.795164
+                    ],
+                    [
+                        -122.004255,
+                        37.795164
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Ramon, CA",
+        "id": "4ccb1b26b2b91248",
+        "name": "San Ramon",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4ccb1b26b2b91248.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Oct 20 03:39:09 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/4ObhlNkiHz",
+                    "expanded_url": "http://twitter.com/FuelYourSchool/status/656313678992510976/photo/1",
+                    "id": 656313677390344192,
+                    "id_str": "656313677390344192",
+                    "indices": [
+                        115,
+                        138
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CRuxz_IU8AAjRmc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CRuxz_IU8AAjRmc.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 600,
+                            "resize": "fit",
+                            "w": 900
+                        },
+                        "medium": {
+                            "h": 400,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 226,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/4ObhlNkiHz"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 21021891,
+                    "id_str": "21021891",
+                    "indices": [
+                        73,
+                        81
+                    ],
+                    "name": "Chevron",
+                    "screen_name": "Chevron"
+                },
+                {
+                    "id": 17232815,
+                    "id_str": "17232815",
+                    "indices": [
+                        88,
+                        101
+                    ],
+                    "name": "DonorsChoose",
+                    "screen_name": "DonorsChoose"
+                }
+            ]
+        },
+        "favorite_count": 29,
+        "favorited": false,
+        "geo": null,
+        "id": 656313678992510976,
+        "id_str": "656313678992510976",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 18,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Congratulations to the well deserving teachers who received funding from @Chevron &amp; @DonorsChoose &amp; today! https://t.co/4ObhlNkiHz",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Sep 23 17:33:23 +0000 2013",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Chevron Fuel Your School is committed to supporting teachers, students and schools by helping to provide the classroom supplies they need.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "fuelyourschool.com",
+                            "expanded_url": "http://www.fuelyourschool.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/L16SY611bS"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1471,
+            "follow_request_sent": false,
+            "followers_count": 4395,
+            "following": false,
+            "friends_count": 1302,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1897963201,
+            "id_str": "1897963201",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 47,
+            "location": "",
+            "name": "Fuel Your School",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000095979257/84978ee3ef33c273d0efaeef9dbbdb4f.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000095979257/84978ee3ef33c273d0efaeef9dbbdb4f.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897963201/1441750556",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/639102815265140736/dGqs0YEh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/639102815265140736/dGqs0YEh_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "FuelYourSchool",
+            "statuses_count": 1313,
+            "time_zone": null,
+            "url": "http://t.co/L16SY611bS",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 656313678992510976,
+    "quoted_status_id_str": "656313678992510976",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Chevron @FuelYourSchool thanks for supporting #teachers and #STEM  https://t.co/1K8TnTD6Id",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 17 18:13:41 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Government and Public Affairs @Chevron (views expressed are my own)  Family first, fun always. I wish I was down in Houston Town tonight.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 15,
+        "follow_request_sent": false,
+        "followers_count": 23,
+        "following": false,
+        "friends_count": 79,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2933829818,
+        "id_str": "2933829818",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "San Ramon, CA",
+        "name": "Ben",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2933829818/1429805523",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/591263540629020672/pDR57wka_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/591263540629020672/pDR57wka_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Ben_Ruhlman",
+        "statuses_count": 80,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}
