@@ -1,0 +1,339 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 20 07:53:39 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    60,
+                    71
+                ],
+                "text": "dieselgate"
+            },
+            {
+                "indices": [
+                    108,
+                    113
+                ],
+                "text": "fail"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/carscoop/statu\u2026",
+                "expanded_url": "https://twitter.com/carscoop/status/656146560149925888",
+                "indices": [
+                    114,
+                    137
+                ],
+                "url": "https://t.co/qraDoPh9Lg"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 247026381,
+                "id_str": "247026381",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Volkswagen",
+                "screen_name": "Volkswagen"
+            },
+            {
+                "id": 85981898,
+                "id_str": "85981898",
+                "indices": [
+                    73,
+                    83
+                ],
+                "name": "ACCC",
+                "screen_name": "acccgovau"
+            },
+            {
+                "id": 18749677,
+                "id_str": "18749677",
+                "indices": [
+                    84,
+                    98
+                ],
+                "name": "Brisbane Times",
+                "screen_name": "brisbanetimes"
+            },
+            {
+                "id": 2768501,
+                "id_str": "2768501",
+                "indices": [
+                    99,
+                    107
+                ],
+                "name": "ABC News",
+                "screen_name": "abcnews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 656377726077546497,
+    "id_str": "656377726077546497",
+    "in_reply_to_screen_name": "Volkswagen",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 247026381,
+    "in_reply_to_user_id_str": "247026381",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        152.668522848,
+                        -27.767440994
+                    ],
+                    [
+                        153.31787024,
+                        -27.767440994
+                    ],
+                    [
+                        153.31787024,
+                        -26.996844991
+                    ],
+                    [
+                        152.668522848,
+                        -26.996844991
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Australia",
+        "country_code": "AU",
+        "full_name": "Brisbane, Queensland",
+        "id": "004ec16c62325149",
+        "name": "Brisbane",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/004ec16c62325149.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Oct 19 16:35:05 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        0,
+                        3
+                    ],
+                    "text": "VW"
+                },
+                {
+                    "indices": [
+                        75,
+                        82
+                    ],
+                    "text": "Diesel"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/oluWdchZKV",
+                    "expanded_url": "http://twitter.com/Carscoop/status/656146560149925888/photo/1",
+                    "id": 656146560036671488,
+                    "id_str": "656146560036671488",
+                    "indices": [
+                        113,
+                        135
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CRsZ0eeUkAAUek0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CRsZ0eeUkAAUek0.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 406,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "medium": {
+                            "h": 324,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 184,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "http://t.co/oluWdchZKV"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "carscoops.com/2015/10/vw-rep\u2026",
+                    "expanded_url": "http://www.carscoops.com/2015/10/vw-reportedly-developed-several-defeat.html",
+                    "indices": [
+                        90,
+                        112
+                    ],
+                    "url": "http://t.co/G1Ovem7txp"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "geo": null,
+        "id": 656146560149925888,
+        "id_str": "656146560149925888",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+        "text": "#VW Reportedly Developed Several Defeat Devices, Including For Newer EA288 #Diesel Engine http://t.co/G1Ovem7txp http://t.co/oluWdchZKV",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Oct 09 18:49:25 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "We're absolutely passionate about cars",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "carscoops.com",
+                            "expanded_url": "http://www.carscoops.com/",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/tNBSkK24pP"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 3,
+            "follow_request_sent": false,
+            "followers_count": 32583,
+            "following": false,
+            "friends_count": 315,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 16670983,
+            "id_str": "16670983",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 578,
+            "location": "Everywhere",
+            "name": "Carscoops",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16670983/1432311427",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/599709666017435648/r0vhT_9C_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/599709666017435648/r0vhT_9C_normal.png",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Carscoop",
+            "statuses_count": 35059,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/tNBSkK24pP",
+            "utc_offset": -14400,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 656146560149925888,
+    "quoted_status_id_str": "656146560149925888",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Volkswagen comment please?! Ea288 engines also affected by #dieselgate? @acccgovau @brisbanetimes @abcnews #fail https://t.co/qraDoPh9Lg",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 31 10:50:15 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Critic. World experienced. Open minded. Views and opinions are mine.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 161,
+        "follow_request_sent": false,
+        "followers_count": 50,
+        "following": false,
+        "friends_count": 178,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 728119158,
+        "id_str": "728119158",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Australia",
+        "name": "kakl82",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/728119158/1406178177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/492175432981028866/PLFgg7al_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/492175432981028866/PLFgg7al_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kakl82",
+        "statuses_count": 2355,
+        "time_zone": "Brisbane",
+        "url": null,
+        "utc_offset": 36000,
+        "verified": false
+    }
+}

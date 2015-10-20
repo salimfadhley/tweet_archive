@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 20 07:52:56 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 42712551,
+                "id_str": "42712551",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "American Express",
+                "screen_name": "AmericanExpress"
+            },
+            {
+                "id": 14230833,
+                "id_str": "14230833",
+                "indices": [
+                    50,
+                    57
+                ],
+                "name": "Boingo Wireless",
+                "screen_name": "boingo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 656377544824987648,
+    "id_str": "656377544824987648",
+    "in_reply_to_screen_name": "AmericanExpress",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 42712551,
+    "in_reply_to_user_id_str": "42712551",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        9.040628,
+                        45.3867262
+                    ],
+                    [
+                        9.2780451,
+                        45.3867262
+                    ],
+                    [
+                        9.2780451,
+                        45.5359644
+                    ],
+                    [
+                        9.040628,
+                        45.5359644
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Italia",
+        "country_code": "IT",
+        "full_name": "Milan, Lombardy",
+        "id": "1ea588c12abd39d7",
+        "name": "Milan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1ea588c12abd39d7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanExpress Platinum Card benefits with free @boingo wireless connections make it too easy to travel!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 27 20:42:09 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "An #Automation and #Simplification powerhouse. We LOVE #SystemCenter products and solutions including #ConfigurationManager  #MakingITEasier",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "vividrock.com",
+                        "expanded_url": "http://www.vividrock.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/9mORDeMCBt"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3,
+        "follow_request_sent": false,
+        "followers_count": 18,
+        "following": false,
+        "friends_count": 124,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2528247835,
+        "id_str": "2528247835",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "The Woodlands, TX",
+        "name": "VividRock",
+        "notifications": false,
+        "profile_background_color": "E64D3B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2528247835/1431702889",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/489223185741524992/7dTw9Phv_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/489223185741524992/7dTw9Phv_normal.png",
+        "profile_link_color": "989898",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "VividRockCorp",
+        "statuses_count": 68,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/9mORDeMCBt",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

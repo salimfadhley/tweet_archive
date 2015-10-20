@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 19 15:26:32 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 42712551,
+                "id_str": "42712551",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "American Express",
+                "screen_name": "AmericanExpress"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 656129311414480896,
+    "id_str": "656129311414480896",
+    "in_reply_to_screen_name": "AmericanExpress",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 42712551,
+    "in_reply_to_user_id_str": "42712551",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.436232,
+                        47.4953154
+                    ],
+                    [
+                        -122.2249728,
+                        47.4953154
+                    ],
+                    [
+                        -122.2249728,
+                        47.734561
+                    ],
+                    [
+                        -122.436232,
+                        47.734561
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Seattle, WA",
+        "id": "300bcc6e23a88361",
+        "name": "Seattle",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/300bcc6e23a88361.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanExpress now accepted at Sam's club! That's a nice change...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 28 03:35:28 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Christ Follower, Aviation Geek, NYCT Geek, Air Traffic Control/Airline Dispatch student;\nI'd rather be at FL350...",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/jjeremynyc",
+                        "expanded_url": "http://www.facebook.com/jjeremynyc",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/1o6v4Fy2zL"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 852,
+        "follow_request_sent": false,
+        "followers_count": 251,
+        "following": false,
+        "friends_count": 228,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 35976227,
+        "id_str": "35976227",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 18,
+        "location": "New York, NY",
+        "name": "Jeremy",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/35976227/1436835197",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/642721890214248448/sGXKU_mz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/642721890214248448/sGXKU_mz_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jjeremynyc",
+        "statuses_count": 4687,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/1o6v4Fy2zL",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}
