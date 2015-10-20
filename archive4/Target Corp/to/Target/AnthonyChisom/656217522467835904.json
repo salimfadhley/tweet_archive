@@ -1,0 +1,178 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 19 21:17:03 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    34,
+                    42
+                ],
+                "text": "NuShooz"
+            },
+            {
+                "indices": [
+                    43,
+                    53
+                ],
+                "text": "ICantWait"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/GCIBFdZyzz",
+                "expanded_url": "http://twitter.com/AnthonyChisom/status/656217522467835904/photo/1",
+                "id": 656217519212990464,
+                "id_str": "656217519212990464",
+                "indices": [
+                    55,
+                    78
+                ],
+                "media_url": "http://pbs.twimg.com/media/CRtaW2AUEAAY56x.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CRtaW2AUEAAY56x.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "medium": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/GCIBFdZyzz"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 656217522467835904,
+    "id_str": "656217522467835904",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.977527,
+                        32.620678
+                    ],
+                    [
+                        -96.54598,
+                        32.620678
+                    ],
+                    [
+                        -96.54598,
+                        33.019039
+                    ],
+                    [
+                        -96.977527,
+                        33.019039
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Dallas, TX",
+        "id": "18810aa5b43e76c7",
+        "name": "Dallas",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/18810aa5b43e76c7.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Target has the best commercials. #NuShooz #ICantWait. https://t.co/GCIBFdZyzz",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 13 01:15:03 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Spiritually attuned being, Designer, & Writer, CEO/Creative Director Anthony Chisom Enterprises, Anthony Chisom Interiors Floral & Events, Internet Radio Show.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 194,
+        "follow_request_sent": false,
+        "followers_count": 811,
+        "following": false,
+        "friends_count": 2002,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 354030771,
+        "id_str": "354030771",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 19,
+        "location": "Dallas, Texas",
+        "name": "Anthony Chisom",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/310403341/Anthony_Headshot_Photo.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/310403341/Anthony_Headshot_Photo.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/354030771/1399566402",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1492423939/Anthony_Headshot_Photo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1492423939/Anthony_Headshot_Photo_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AnthonyChisom",
+        "statuses_count": 3358,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
