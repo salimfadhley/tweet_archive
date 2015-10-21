@@ -1,0 +1,109 @@
+{
+  "selftext": "If you're a SSD owner, you want to conserve your relatively limited capacity. Last year [this article](http://www.gameplayinside.com/optimize/cleaning-up-old-nvidia-driver-files-to-save-disk-space/) was posted that detailed 3 locations where Nvidia keeps temp/installer files that can take up several GB of space.\n\nI figure going through each of these and removing the files is a little bothersome, especially since you need to do it periodically. So I created a simple bat script to do it for you! I was surprised to find no one else has done this (that I could find, at least).\n\n**EDIT: See my CCleaner option at the bottom.**\n\n[Download the .bat file here\n](http://www.mediafire.com/view/ulslqepg4jb6bu1/NvidiaCleaner.bat)\n\nOr copy-paste it into your own .bat file from the text here:\n\n    @echo off\n    echo.\n    title Nvidia Driver Leftovers Cleaner by WhiteZero\n    echo.\n    echo Welcome to the Nvidia Driver Leftovers Cleaner script! Created by WhiteZero\n    echo.\n    echo Continue to cleaning files?\n    PAUSE\n    echo.\n    echo.\n    echo Removing Directory %SYSTEMDRIVE%\\NVIDIA\n    rmdir /S /Q %SYSTEMDRIVE%\\NVIDIA\n    echo.\n    echo Removing Directory %ProgramFiles%\\Nvidia Corporation\\Installer2\n    rmdir /S /Q \"%ProgramFiles%\\Nvidia Corporation\\Installer2\"\n    echo.\n    echo Removing EXEs from %ALLUSERSPROFILE%\\NVIDIA Corporation\\NetService\n    del /Q \"%ALLUSERSPROFILE%\\NVIDIA Corporation\\NetService\\*.exe\"\n    echo.\n    echo.\n    echo Finished!\n    PAUSE\n\n**NOTE**: The script has to be Run as Administrator\n\n**Standard Disclaimer**: Use at your own risk. I'm not responsible for any problems caused by running deletion scripts. Though I've tested this on my own PC and it works fine.\n\nIf you want to get automated, open up Task Scheduler and create a task to run it every month. \n\nEnjoy!\n\n---\n\n**EDIT**: /u/partyboy690 got me thinking, with a couple tweaks [CCleaner](https://www.piriform.com/ccleaner) can do this for you as well. By default, CCleaner only cleans the C:\\Nvidia folder. So just follow [these instructions](https://www.piriform.com/docs/ccleaner/using-ccleaner/including-files-and-folders-for-cleaning) to add the other items:\n\n1. Under the **Cleaner** tab, check the **Advanced** > **Custom Files and Folders** option\n1. Go to **Options** > **Include** and click **Add**\n1. Under **Drive or Folder** paste *%ALLUSERSPROFILE%\\NVIDIA Corporation\\NetService*\n1. Select **File types** and put in **\\*.exe**\n1. Click **OK** and **Add** again\n1. For the **Drive or Folder path** paste *%ProgramFiles%\\Nvidia Corporation\\Installer2*\n1. Select **All files** and under **Options** select **Include Files and Subfolders**\n\nBoom, CCleaner will now clean out these extra Nvidia directories. ",
+  "gilded": 0,
+  "score": 251,
+  "removal_reason": null,
+  "approved_by": null,
+  "created_utc": 1428669726.0,
+  "is_self": true,
+  "stickied": false,
+  "edited": 1428693083.0,
+  "distinguished": null,
+  "permalink": "https://www.reddit.com/r/pcgaming/comments/324452/i_made_a_script_to_cleanup_nvidias_leftover/?ref=search_posts",
+  "banned_by": null,
+  "from_id": null,
+  "likes": null,
+  "_underscore_names": null,
+  "num_reports": null,
+  "link_flair_css_class": null,
+  "_info_url": "https://api.reddit.com/api/info/",
+  "id": "324452",
+  "archived": true,
+  "secure_media": null,
+  "post_hint": "self",
+  "from_kind": null,
+  "saved": false,
+  "domain": "self.pcgaming",
+  "ups": 251,
+  "suggested_sort": null,
+  "quarantine": false,
+  "over_18": false,
+  "hide_score": false,
+  "url": "https://www.reddit.com/r/pcgaming/comments/324452/i_made_a_script_to_cleanup_nvidias_leftover/",
+  "subreddit_id": "t5_2qhfg",
+  "_params": {},
+  "_comments": null,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "width": 1280,
+          "url": "https://i.redditmedia.com/upvCQpdhjE7O14DDGgldREWvCmzPW1D8ho1i2AaKY6o.jpg?s=21060e80befe88fc58cc85aa758860aa",
+          "height": 720
+        },
+        "resolutions": [
+          {
+            "width": 108,
+            "url": "https://i.redditmedia.com/upvCQpdhjE7O14DDGgldREWvCmzPW1D8ho1i2AaKY6o.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=0a6f90cfb4de89e9f1f3c236bbc95d30",
+            "height": 60
+          },
+          {
+            "width": 216,
+            "url": "https://i.redditmedia.com/upvCQpdhjE7O14DDGgldREWvCmzPW1D8ho1i2AaKY6o.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=eda3f9bac9ff06cda691957a6f1a699b",
+            "height": 121
+          },
+          {
+            "width": 320,
+            "url": "https://i.redditmedia.com/upvCQpdhjE7O14DDGgldREWvCmzPW1D8ho1i2AaKY6o.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=38444a838a927ee8e2b9b89bfaecabb3",
+            "height": 180
+          },
+          {
+            "width": 640,
+            "url": "https://i.redditmedia.com/upvCQpdhjE7O14DDGgldREWvCmzPW1D8ho1i2AaKY6o.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=c278ea581e3dc5391ae4cbb96858a7df",
+            "height": 360
+          },
+          {
+            "width": 960,
+            "url": "https://i.redditmedia.com/upvCQpdhjE7O14DDGgldREWvCmzPW1D8ho1i2AaKY6o.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=6916c79aeed7234d5c9492ac1fefd0aa",
+            "height": 540
+          },
+          {
+            "width": 1080,
+            "url": "https://i.redditmedia.com/upvCQpdhjE7O14DDGgldREWvCmzPW1D8ho1i2AaKY6o.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=39f3714a90bbf6b190838e83fd5bd209",
+            "height": 607
+          }
+        ],
+        "id": "fB2HNODq5vyZek_U-Mx8LC1OSD5IuwETLyoZ6I5UWiI",
+        "variants": {}
+      }
+    ]
+  },
+  "_replaced_more": false,
+  "_comments_by_id": {},
+  "user_reports": [],
+  "media_embed": {},
+  "created": 1428673326.0,
+  "author_flair_text": "i7-4770K @4.4Ghz, 16GB DDR3-1866, GTX 770 2GB",
+  "visited": false,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>If you&#39;re a SSD owner, you want to conserve your relatively limited capacity. Last year <a href=\"http://www.gameplayinside.com/optimize/cleaning-up-old-nvidia-driver-files-to-save-disk-space/\">this article</a> was posted that detailed 3 locations where Nvidia keeps temp/installer files that can take up several GB of space.</p>\n\n<p>I figure going through each of these and removing the files is a little bothersome, especially since you need to do it periodically. So I created a simple bat script to do it for you! I was surprised to find no one else has done this (that I could find, at least).</p>\n\n<p><strong>EDIT: See my CCleaner option at the bottom.</strong></p>\n\n<p><a href=\"http://www.mediafire.com/view/ulslqepg4jb6bu1/NvidiaCleaner.bat\">Download the .bat file here\n</a></p>\n\n<p>Or copy-paste it into your own .bat file from the text here:</p>\n\n<pre><code>@echo off\necho.\ntitle Nvidia Driver Leftovers Cleaner by WhiteZero\necho.\necho Welcome to the Nvidia Driver Leftovers Cleaner script! Created by WhiteZero\necho.\necho Continue to cleaning files?\nPAUSE\necho.\necho.\necho Removing Directory %SYSTEMDRIVE%\\NVIDIA\nrmdir /S /Q %SYSTEMDRIVE%\\NVIDIA\necho.\necho Removing Directory %ProgramFiles%\\Nvidia Corporation\\Installer2\nrmdir /S /Q &quot;%ProgramFiles%\\Nvidia Corporation\\Installer2&quot;\necho.\necho Removing EXEs from %ALLUSERSPROFILE%\\NVIDIA Corporation\\NetService\ndel /Q &quot;%ALLUSERSPROFILE%\\NVIDIA Corporation\\NetService\\*.exe&quot;\necho.\necho.\necho Finished!\nPAUSE\n</code></pre>\n\n<p><strong>NOTE</strong>: The script has to be Run as Administrator</p>\n\n<p><strong>Standard Disclaimer</strong>: Use at your own risk. I&#39;m not responsible for any problems caused by running deletion scripts. Though I&#39;ve tested this on my own PC and it works fine.</p>\n\n<p>If you want to get automated, open up Task Scheduler and create a task to run it every month. </p>\n\n<p>Enjoy!</p>\n\n<hr/>\n\n<p><strong>EDIT</strong>: <a href=\"/u/partyboy690\">/u/partyboy690</a> got me thinking, with a couple tweaks <a href=\"https://www.piriform.com/ccleaner\">CCleaner</a> can do this for you as well. By default, CCleaner only cleans the C:\\Nvidia folder. So just follow <a href=\"https://www.piriform.com/docs/ccleaner/using-ccleaner/including-files-and-folders-for-cleaning\">these instructions</a> to add the other items:</p>\n\n<ol>\n<li>Under the <strong>Cleaner</strong> tab, check the <strong>Advanced</strong> &gt; <strong>Custom Files and Folders</strong> option</li>\n<li>Go to <strong>Options</strong> &gt; <strong>Include</strong> and click <strong>Add</strong></li>\n<li>Under <strong>Drive or Folder</strong> paste <em>%ALLUSERSPROFILE%\\NVIDIA Corporation\\NetService</em></li>\n<li>Select <strong>File types</strong> and put in <strong>*.exe</strong></li>\n<li>Click <strong>OK</strong> and <strong>Add</strong> again</li>\n<li>For the <strong>Drive or Folder path</strong> paste <em>%ProgramFiles%\\Nvidia Corporation\\Installer2</em></li>\n<li>Select <strong>All files</strong> and under <strong>Options</strong> select <strong>Include Files and Subfolders</strong></li>\n</ol>\n\n<p>Boom, CCleaner will now clean out these extra Nvidia directories. </p>\n</div><!-- SC_ON -->",
+  "downs": 0,
+  "_comment_sort": null,
+  "report_reasons": null,
+  "name": "t3_324452",
+  "from": null,
+  "hidden": false,
+  "clicked": false,
+  "media": null,
+  "json_dict": null,
+  "_api_link": "https://api.reddit.com/r/pcgaming/comments/324452/i_made_a_script_to_cleanup_nvidias_leftover/?ref=search_posts",
+  "secure_media_embed": {},
+  "mod_reports": [],
+  "_orphaned": {},
+  "_uniq": null,
+  "num_comments": 55,
+  "link_flair_text": null,
+  "title": "I made a script to cleanup Nvidia's leftover installer files. Useful for those with limited space, such as on a SSD",
+  "_has_fetched": true,
+  "author_flair_css_class": "IntelNvidia",
+  "thumbnail": "self"
+}

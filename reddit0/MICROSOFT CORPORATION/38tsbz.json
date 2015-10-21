@@ -1,0 +1,99 @@
+{
+  "selftext": "Alright, so I am utterly stumped. My PC crashes http://i.imgur.com/wQy5Wg3.png?1 everytime I play a game (mostly fullscreen games but other games are affected as well). Temps are fine and normal, no drivers crash, no blue screens, I've reinstalled, restored from restore point, the GPU isn't artifacting, fan noises are normal, I've reinstalled, restored from restore point, and refreshed the OS, drivers, and games. No luck. User benchmark and Furmark crash as soon as they start doing the graphical parts. Games crash as soon as they load. However some borderless games crash after around 3 minutes or so. So, I turn to you PCMR, and to sweeten the deal I will gift a $25 Steam card to the first person who can fix my problem. Good luck! Also, if you could be as kind to upvote so others can see that would be great. Thank you.\n\n\nEDIT: My parents thought it would be a good idea to go to Chicago, so I'll be away for a week. When I get back I will try out your suggestions and award the winner! I will try to respond when I can. Sorry for the inconvenience and thank you for helping me! :)\n\n\n\nMINI DUMP: http://i.imgur.com/eASAeII.png?1\n\n\nMOST RECENT CRASH: http://i.imgur.com/T964wye.png?1\n\n\nMicrosoft (R) Windows Debugger Version 6.3.9600.17336 AMD64\nCopyright (c) Microsoft Corporation. All rights reserved.\n\n\nLoading Dump File [C:\\Users\\Andrew\\Desktop\\061015-33109-01.dmp]\nMini Kernel Dump File: Only registers and stack trace are available\n\n\n************* Symbol Path validation summary **************\nResponse                         Time (ms)     Location\nDeferred                                       SRV*C:\\Windows\\symbol_cache*http://msdl.microsoft.com/download/symbols\nSymbol search path is: SRV*C:\\Windows\\symbol_cache*http://msdl.microsoft.com/download/symbols\nExecutable search path is: \nWindows 8 Kernel Version 9600 MP (4 procs) Free x64\nProduct: WinNt, suite: TerminalServer SingleUserTS Personal\nBuilt by: 9600.16384.amd64fre.winblue_rtm.130821-1623\nMachine Name:\nKernel base = 0xfffff803`78817000 PsLoadedModuleList = 0xfffff803`78ade9b0\nDebug session time: Wed Jun 10 18:37:13.548 2015 (UTC - 4:00)\nSystem Uptime: 0 days 0:00:09.253\nLoading Kernel Symbols\n..\n\nPress ctrl-c (cdb, kd, ntsd) or ctrl-break (windbg) to abort symbol loads that take too long.\nRun !sym noisy before .reload to track down problems loading symbols.\n\n.........................................................\nLoading User Symbols\nMini Kernel Dump does not contain unloaded driver list\n*******************************************************************************\n*                                                                             *\n*                        Bugcheck Analysis                                    *\n*                                                                             *\n*******************************************************************************\n\nUse !analyze -v to get detailed debugging information.\n\nBugCheck 124, {0, ffffe0000306e8f8, 0, 0}\n\nProbably caused by : AuthenticAMD\n\nFollowup: MachineOwner\n---------\n",
+  "gilded": 0,
+  "score": 107,
+  "removal_reason": null,
+  "approved_by": null,
+  "created_utc": 1433618747.0,
+  "is_self": true,
+  "stickied": false,
+  "edited": 1433982581.0,
+  "distinguished": null,
+  "permalink": "https://www.reddit.com/r/pcmasterrace/comments/38tsbz/25_steam_card_for_whoever_can_fix_my_pc/?ref=search_posts",
+  "banned_by": null,
+  "from_id": null,
+  "likes": null,
+  "_underscore_names": null,
+  "num_reports": null,
+  "link_flair_css_class": "green",
+  "_info_url": "https://api.reddit.com/api/info/",
+  "id": "38tsbz",
+  "archived": false,
+  "secure_media": null,
+  "post_hint": "self",
+  "from_kind": null,
+  "saved": false,
+  "domain": "self.pcmasterrace",
+  "ups": 107,
+  "suggested_sort": null,
+  "quarantine": false,
+  "over_18": false,
+  "hide_score": false,
+  "url": "https://www.reddit.com/r/pcmasterrace/comments/38tsbz/25_steam_card_for_whoever_can_fix_my_pc/",
+  "subreddit_id": "t5_2sgp1",
+  "_params": {},
+  "_comments": null,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "width": 881,
+          "url": "https://i.redditmedia.com/biyLqoqZSzOR1ouHaRJ4Y5btOZL-KwDnLhF1xWfMLqs.jpg?s=08f61c25cbee0b26535e5e8f7c223641",
+          "height": 245
+        },
+        "resolutions": [
+          {
+            "width": 108,
+            "url": "https://i.redditmedia.com/biyLqoqZSzOR1ouHaRJ4Y5btOZL-KwDnLhF1xWfMLqs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=734fc6a1ac5f2a7f542e2c8bdaa80087",
+            "height": 30
+          },
+          {
+            "width": 216,
+            "url": "https://i.redditmedia.com/biyLqoqZSzOR1ouHaRJ4Y5btOZL-KwDnLhF1xWfMLqs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=34a0160410d5487ec164aaad2e504d34",
+            "height": 60
+          },
+          {
+            "width": 320,
+            "url": "https://i.redditmedia.com/biyLqoqZSzOR1ouHaRJ4Y5btOZL-KwDnLhF1xWfMLqs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=3ea2de1822e299ff0465a0fb2839af02",
+            "height": 88
+          },
+          {
+            "width": 640,
+            "url": "https://i.redditmedia.com/biyLqoqZSzOR1ouHaRJ4Y5btOZL-KwDnLhF1xWfMLqs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=f8f057c222116708127e74252899426e",
+            "height": 177
+          }
+        ],
+        "id": "sIxrSoHGhPHdkzCZ7X3lyBrid6Qr6zkM1aOI77AMhbc",
+        "variants": {}
+      }
+    ]
+  },
+  "_replaced_more": false,
+  "_comments_by_id": {},
+  "user_reports": [],
+  "media_embed": {},
+  "created": 1433622347.0,
+  "author_flair_text": "pkandrw GTX 960 | FX 6300 | 970A SLI Krait | 8GB DDR3 | CX750",
+  "visited": false,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Alright, so I am utterly stumped. My PC crashes <a href=\"http://i.imgur.com/wQy5Wg3.png?1\">http://i.imgur.com/wQy5Wg3.png?1</a> everytime I play a game (mostly fullscreen games but other games are affected as well). Temps are fine and normal, no drivers crash, no blue screens, I&#39;ve reinstalled, restored from restore point, the GPU isn&#39;t artifacting, fan noises are normal, I&#39;ve reinstalled, restored from restore point, and refreshed the OS, drivers, and games. No luck. User benchmark and Furmark crash as soon as they start doing the graphical parts. Games crash as soon as they load. However some borderless games crash after around 3 minutes or so. So, I turn to you PCMR, and to sweeten the deal I will gift a $25 Steam card to the first person who can fix my problem. Good luck! Also, if you could be as kind to upvote so others can see that would be great. Thank you.</p>\n\n<p>EDIT: My parents thought it would be a good idea to go to Chicago, so I&#39;ll be away for a week. When I get back I will try out your suggestions and award the winner! I will try to respond when I can. Sorry for the inconvenience and thank you for helping me! :)</p>\n\n<p>MINI DUMP: <a href=\"http://i.imgur.com/eASAeII.png?1\">http://i.imgur.com/eASAeII.png?1</a></p>\n\n<p>MOST RECENT CRASH: <a href=\"http://i.imgur.com/T964wye.png?1\">http://i.imgur.com/T964wye.png?1</a></p>\n\n<p>Microsoft (R) Windows Debugger Version 6.3.9600.17336 AMD64\nCopyright (c) Microsoft Corporation. All rights reserved.</p>\n\n<p>Loading Dump File [C:\\Users\\Andrew\\Desktop\\061015-33109-01.dmp]\nMini Kernel Dump File: Only registers and stack trace are available</p>\n\n<p>************* Symbol Path validation summary **************\nResponse                         Time (ms)     Location\nDeferred                                       SRV<em>C:\\Windows\\symbol_cache</em><a href=\"http://msdl.microsoft.com/download/symbols\">http://msdl.microsoft.com/download/symbols</a>\nSymbol search path is: SRV<em>C:\\Windows\\symbol_cache</em><a href=\"http://msdl.microsoft.com/download/symbols\">http://msdl.microsoft.com/download/symbols</a>\nExecutable search path is: \nWindows 8 Kernel Version 9600 MP (4 procs) Free x64\nProduct: WinNt, suite: TerminalServer SingleUserTS Personal\nBuilt by: 9600.16384.amd64fre.winblue_rtm.130821-1623\nMachine Name:\nKernel base = 0xfffff803<code>78817000 PsLoadedModuleList = 0xfffff803</code>78ade9b0\nDebug session time: Wed Jun 10 18:37:13.548 2015 (UTC - 4:00)\nSystem Uptime: 0 days 0:00:09.253\nLoading Kernel Symbols\n..</p>\n\n<p>Press ctrl-c (cdb, kd, ntsd) or ctrl-break (windbg) to abort symbol loads that take too long.\nRun !sym noisy before .reload to track down problems loading symbols.</p>\n\n<p>.........................................................\nLoading User Symbols\nMini Kernel Dump does not contain unloaded driver list</p>\n\n<hr/>\n\n<ul>\n<li>                                                                            *</li>\n<li>                       Bugcheck Analysis                                    *</li>\n<li>                                                                            *\n*******************************************************************************</li>\n</ul>\n\n<p>Use !analyze -v to get detailed debugging information.</p>\n\n<p>BugCheck 124, {0, ffffe0000306e8f8, 0, 0}</p>\n\n<p>Probably caused by : AuthenticAMD</p>\n\n<h2>Followup: MachineOwner</h2>\n</div><!-- SC_ON -->",
+  "downs": 0,
+  "_comment_sort": null,
+  "report_reasons": null,
+  "name": "t3_38tsbz",
+  "from": null,
+  "hidden": false,
+  "clicked": false,
+  "media": null,
+  "json_dict": null,
+  "_api_link": "https://api.reddit.com/r/pcmasterrace/comments/38tsbz/25_steam_card_for_whoever_can_fix_my_pc/?ref=search_posts",
+  "secure_media_embed": {},
+  "mod_reports": [],
+  "_orphaned": {},
+  "_uniq": null,
+  "num_comments": 155,
+  "link_flair_text": "Giveaway",
+  "title": "$25 Steam card for whoever can fix my PC!",
+  "_has_fetched": true,
+  "author_flair_css_class": "text-pcmr color-pcmr icon-steam",
+  "thumbnail": "self"
+}
