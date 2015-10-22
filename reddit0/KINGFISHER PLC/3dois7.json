@@ -1,0 +1,87 @@
+{
+  "clicked": false,
+  "_replaced_more": false,
+  "archived": false,
+  "post_hint": "self",
+  "num_comments": 2,
+  "created": 1437178890.0,
+  "saved": false,
+  "selftext": "**Problem**\nWashing machine beeps every second.\n\n**Try this first!**\nThe manual suggests that there could be something wrong with the balance of the machine.  As the manual says, try turning the machine off, rest for about 60 seconds, then turn back on.  If it still makes the beeping noise, make certain that the machine is level (my machine had been in the same spot for six months, so this wasn't likely to be my problem, but I still tried).  I even tried shaking the machine a little, in case something is a little \"stuck\" inside the machine.\n\n**Still beeps?**\nAlright, you probably need to replace the controller module.  To make certain you need to go to the diagnosis part.\n\nYou need to get a copy of the service manual.  You can get a copy of it from [here](http://www.instructables.com/files/orig/FSJ/Q52U/GLWR2CEI/FSJQ52UGLWR2CEI.pdf).  This service manual didn't have my exact model (MW512), but it was still very useful.\n\nWhen my washing machine started beeping, it looked like [this](http://i.imgur.com/0iprk4x.jpg).  Apologies for the very bad quality!  Notice that the three lights next to each other (LED one is off, but lights 2, 3 and 4 are on, and lights 5, 6, 7 and 8 are off).  This is not the error code in the manual.  \n\nTo find the error code, turn the machine on by holding down the pause button button and pressing the power button on the top of the machine.  The lights on the machine look like [this](http://i.imgur.com/B8aKsoc.jpg).  The code in the service manual is 00000011 (i.e. the last two lights are on).  The manual says that the controller module needs to be replaced.  (I called a repairman and told them the problem, and asked for a quote.  They confirmed that it was the controller module and said that the price to fix it would be about half the price of a new machine!).\n\n**Getting the part**\nThe easiest way to find the model part number for the controller module is to open the panel.  First, fully open the lid then pull it up (the lid to the washing machine should pull off).  Then get a screw driver and undo the two screws at the [back](http://i.imgur.com/JPchQkg.jpg).  The model number of the controller module (421297NAP) can be clearly seen in this [picture](http://i.imgur.com/OpFhw3m.jpg).  \n\nThere are a number of places to get the module.  Ebay had a few sellers, but I found Online Appliance Spares (https://shop.onlineappliancespares.com.au/) the cheapest (they were also recommended to me by a couple of people).  They said they didn't have the item in stock, but I received the module the following day anyway using express post.  (I don't know anyone who works there or anything like that, so this isn't an ad).\n\n**Removing the old module**\nBefore doing anything further, take pictures.  It is easier to try and figure out from a picture what it looked like than to try and remember.\n\nUndo the screw at the bottom of the unit.  \n\nTaking out most of the cables for the old module was simple.  If you've ever replaced a component in a computer, it's pretty much the same thing.  The two connections that looked the [most difficult](http://i.imgur.com/SDz3tjm.jpg), were actually the easiest.  They simply pull apart.  Take one of the connections, hold onto the metal part firmly and pull using your fingers.  It should come apart easily.  \n\nWhen removing the water connection, make certain to squeeze the clamp before removing [picture](http://i.imgur.com/OpFhw3m.jpg).  This is probably stuck after being in the same position for years.  \n\nRemoving the module after all the connections have been disconnected is a little tricky.  Just to reiterate, make certain that the screw at the bottom of unit is removed before attempting.  My module was in pretty firmly.  There are two hooks on the top of the module that loop through the metal back of the washing machine.  These hold the controller module in place.\n\nDraw the bottom left hand corner of module towards the front.  Do this without pulling up or pushing down.  That is, keep the angle the same as the module sits in.  This will allow the left hook of the module to come through the hole, freeing that side of the module.  It should be easy now to remove the right hand side. The module should just lift out once the right hand side is free.\n\n**Inserting the new module**\nIf you've gotten this far, everything from here is easy.  Inserting the module should be pretty straightforward.  Just make certain that everything connects as it did before (use the pictures you took before to double check).\n\nOnce the module is in place and everything is connected, put the top back on as well as the lid.\n\n**Resetting the module**\nStart the washing machine.  The machine will appear at first to start normally (no beeps!).  Enter a cycle.  In my case the machine will not work.  This is because the controller module is the same for 5.5kg and 6.5kg machines.  The module doesn't know what sort of machine it is in.  \n\nSo, start the machine again by holding down the pause button and pressing start.  The lights should show 00001001.  This is where the service manual helps. [Link from earlier](http://www.instructables.com/files/orig/FSJ/Q52U/GLWR2CEI/FSJQ52UGLWR2CEI.pdf).  In my case, the action for Phase 4 machines worked.  That is, start the machine by holding water temp down.  When the machine restarts the water temp, water level and spin speed lights should be on and set to the middle.\n\nTo select the machine type, set the water temp to cold for 5.5kg machines.  For 6.5kg machines set the water level to low.  \n\nTurn the washing machine off using the power button.  Turn on the washing machine normally. The washing machine should be working now and ready to wash clothes. \n\nEdit: I forgot to mention that when the part arrived, it also contained instructions on how to install it properly.  So if your machine isn't in the manual, don't worry.",
+  "mod_reports": [],
+  "secure_media_embed": {},
+  "edited": 1438576105.0,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><strong>Problem</strong>\nWashing machine beeps every second.</p>\n\n<p><strong>Try this first!</strong>\nThe manual suggests that there could be something wrong with the balance of the machine.  As the manual says, try turning the machine off, rest for about 60 seconds, then turn back on.  If it still makes the beeping noise, make certain that the machine is level (my machine had been in the same spot for six months, so this wasn&#39;t likely to be my problem, but I still tried).  I even tried shaking the machine a little, in case something is a little &quot;stuck&quot; inside the machine.</p>\n\n<p><strong>Still beeps?</strong>\nAlright, you probably need to replace the controller module.  To make certain you need to go to the diagnosis part.</p>\n\n<p>You need to get a copy of the service manual.  You can get a copy of it from <a href=\"http://www.instructables.com/files/orig/FSJ/Q52U/GLWR2CEI/FSJQ52UGLWR2CEI.pdf\">here</a>.  This service manual didn&#39;t have my exact model (MW512), but it was still very useful.</p>\n\n<p>When my washing machine started beeping, it looked like <a href=\"http://i.imgur.com/0iprk4x.jpg\">this</a>.  Apologies for the very bad quality!  Notice that the three lights next to each other (LED one is off, but lights 2, 3 and 4 are on, and lights 5, 6, 7 and 8 are off).  This is not the error code in the manual.  </p>\n\n<p>To find the error code, turn the machine on by holding down the pause button button and pressing the power button on the top of the machine.  The lights on the machine look like <a href=\"http://i.imgur.com/B8aKsoc.jpg\">this</a>.  The code in the service manual is 00000011 (i.e. the last two lights are on).  The manual says that the controller module needs to be replaced.  (I called a repairman and told them the problem, and asked for a quote.  They confirmed that it was the controller module and said that the price to fix it would be about half the price of a new machine!).</p>\n\n<p><strong>Getting the part</strong>\nThe easiest way to find the model part number for the controller module is to open the panel.  First, fully open the lid then pull it up (the lid to the washing machine should pull off).  Then get a screw driver and undo the two screws at the <a href=\"http://i.imgur.com/JPchQkg.jpg\">back</a>.  The model number of the controller module (421297NAP) can be clearly seen in this <a href=\"http://i.imgur.com/OpFhw3m.jpg\">picture</a>.  </p>\n\n<p>There are a number of places to get the module.  Ebay had a few sellers, but I found Online Appliance Spares (<a href=\"https://shop.onlineappliancespares.com.au/\">https://shop.onlineappliancespares.com.au/</a>) the cheapest (they were also recommended to me by a couple of people).  They said they didn&#39;t have the item in stock, but I received the module the following day anyway using express post.  (I don&#39;t know anyone who works there or anything like that, so this isn&#39;t an ad).</p>\n\n<p><strong>Removing the old module</strong>\nBefore doing anything further, take pictures.  It is easier to try and figure out from a picture what it looked like than to try and remember.</p>\n\n<p>Undo the screw at the bottom of the unit.  </p>\n\n<p>Taking out most of the cables for the old module was simple.  If you&#39;ve ever replaced a component in a computer, it&#39;s pretty much the same thing.  The two connections that looked the <a href=\"http://i.imgur.com/SDz3tjm.jpg\">most difficult</a>, were actually the easiest.  They simply pull apart.  Take one of the connections, hold onto the metal part firmly and pull using your fingers.  It should come apart easily.  </p>\n\n<p>When removing the water connection, make certain to squeeze the clamp before removing <a href=\"http://i.imgur.com/OpFhw3m.jpg\">picture</a>.  This is probably stuck after being in the same position for years.  </p>\n\n<p>Removing the module after all the connections have been disconnected is a little tricky.  Just to reiterate, make certain that the screw at the bottom of unit is removed before attempting.  My module was in pretty firmly.  There are two hooks on the top of the module that loop through the metal back of the washing machine.  These hold the controller module in place.</p>\n\n<p>Draw the bottom left hand corner of module towards the front.  Do this without pulling up or pushing down.  That is, keep the angle the same as the module sits in.  This will allow the left hook of the module to come through the hole, freeing that side of the module.  It should be easy now to remove the right hand side. The module should just lift out once the right hand side is free.</p>\n\n<p><strong>Inserting the new module</strong>\nIf you&#39;ve gotten this far, everything from here is easy.  Inserting the module should be pretty straightforward.  Just make certain that everything connects as it did before (use the pictures you took before to double check).</p>\n\n<p>Once the module is in place and everything is connected, put the top back on as well as the lid.</p>\n\n<p><strong>Resetting the module</strong>\nStart the washing machine.  The machine will appear at first to start normally (no beeps!).  Enter a cycle.  In my case the machine will not work.  This is because the controller module is the same for 5.5kg and 6.5kg machines.  The module doesn&#39;t know what sort of machine it is in.  </p>\n\n<p>So, start the machine again by holding down the pause button and pressing start.  The lights should show 00001001.  This is where the service manual helps. <a href=\"http://www.instructables.com/files/orig/FSJ/Q52U/GLWR2CEI/FSJQ52UGLWR2CEI.pdf\">Link from earlier</a>.  In my case, the action for Phase 4 machines worked.  That is, start the machine by holding water temp down.  When the machine restarts the water temp, water level and spin speed lights should be on and set to the middle.</p>\n\n<p>To select the machine type, set the water temp to cold for 5.5kg machines.  For 6.5kg machines set the water level to low.  </p>\n\n<p>Turn the washing machine off using the power button.  Turn on the washing machine normally. The washing machine should be working now and ready to wash clothes. </p>\n\n<p>Edit: I forgot to mention that when the part arrived, it also contained instructions on how to install it properly.  So if your machine isn&#39;t in the manual, don&#39;t worry.</p>\n</div><!-- SC_ON -->",
+  "downs": 0,
+  "user_reports": [],
+  "over_18": false,
+  "score": 7,
+  "stickied": false,
+  "domain": "self.DIY",
+  "is_self": true,
+  "hidden": false,
+  "_orphaned": {},
+  "_api_link": "https://api.reddit.com/r/DIY/comments/3dois7/fisher_and_paykel_washing_machine_beeps_every/?ref=search_posts",
+  "_comments_by_id": {},
+  "visited": false,
+  "thumbnail": "self",
+  "_has_fetched": true,
+  "gilded": 0,
+  "hide_score": false,
+  "_info_url": "https://api.reddit.com/api/info/",
+  "created_utc": 1437178890.0,
+  "subreddit_id": "t5_2qh7d",
+  "id": "3dois7",
+  "_params": {},
+  "media_embed": {},
+  "name": "t3_3dois7",
+  "quarantine": false,
+  "permalink": "https://www.reddit.com/r/DIY/comments/3dois7/fisher_and_paykel_washing_machine_beeps_every/?ref=search_posts",
+  "ups": 7,
+  "url": "https://www.reddit.com/r/DIY/comments/3dois7/fisher_and_paykel_washing_machine_beeps_every/",
+  "title": "Fisher and Paykel washing machine - beeps every second / replace controller module",
+  "preview": {
+    "images": [
+      {
+        "resolutions": [
+          {
+            "width": 108,
+            "height": 81,
+            "url": "https://i.redditmedia.com/gI59ChTspv6m8MYft-vqd4Mo4Rl8OPn444gwn1lFVPs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=1a621932385273ae190d798f6d2d3c37"
+          },
+          {
+            "width": 216,
+            "height": 162,
+            "url": "https://i.redditmedia.com/gI59ChTspv6m8MYft-vqd4Mo4Rl8OPn444gwn1lFVPs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=6e082c9593c1c4f2ce851515304d5f0c"
+          },
+          {
+            "width": 320,
+            "height": 240,
+            "url": "https://i.redditmedia.com/gI59ChTspv6m8MYft-vqd4Mo4Rl8OPn444gwn1lFVPs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6ca837b88ef4452e95e094e5dbaeddba"
+          },
+          {
+            "width": 640,
+            "height": 480,
+            "url": "https://i.redditmedia.com/gI59ChTspv6m8MYft-vqd4Mo4Rl8OPn444gwn1lFVPs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=74a2319af542afdc22a9549b7cfd9586"
+          },
+          {
+            "width": 960,
+            "height": 720,
+            "url": "https://i.redditmedia.com/gI59ChTspv6m8MYft-vqd4Mo4Rl8OPn444gwn1lFVPs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=abcd4f15b5162e4a31b655196131ebb6"
+          },
+          {
+            "width": 1080,
+            "height": 810,
+            "url": "https://i.redditmedia.com/gI59ChTspv6m8MYft-vqd4Mo4Rl8OPn444gwn1lFVPs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=3637bbab5a547315e9657a2762560f81"
+          }
+        ],
+        "id": "05J7exc3pKFsnUXUmTcVxz3fhxSM4r-ZYg68YIM6b4k",
+        "variants": {},
+        "source": {
+          "width": 3264,
+          "height": 2448,
+          "url": "https://i.redditmedia.com/gI59ChTspv6m8MYft-vqd4Mo4Rl8OPn444gwn1lFVPs.jpg?s=7c403624fa909d83c84fb5294c6e9bbd"
+        }
+      }
+    ]
+  }
+}

@@ -1,104 +1,84 @@
 {
-  "selftext": "GeForce Experience causes a lot of headaches around here. I personally only ever used it for the sake of controlling the LED on my GPU. It only occurred to me earlier today when /u/limitz posted asking if there's a way to use visualizer without GFE that it might be possible - [and it is.](http://i.imgur.com/TgQIjkx.png)\n\nSo for anyone like us that wants to control their LED's *without* that bloaty, problem causing software read on.\n\n\n\n* **If you already have GeForce Experience installed,** copy the folder titled 'LED Visualizer' found by default at \"C:\\Program Files (x86)\\NVIDIA Corporation\\LED Visualizer\" and copy it to a location of your choice. Uninstall GeForce Experience, then run NvLedVisualizer.exe and set up your LEDs.\n\n* **If you DON'T have GeForce Experience Installed,** you can download the files [here.](http://www.mediafire.com/download/ccv8u5wu5xfhbie/LED_Visualizer.rar) [\\(VirusTotal link\\)](https://www.virustotal.com/en/file/8ad232116100904ea5fddf514cbcfe1b7c659db0883d5cb750148a84f3373619/analysis/) Put the folder wherever you like and run NvLedVisualizer.exe.\n\n\n**Note:** I had to disable then re-enable the 'Run LED effects at Windows startup' setting for it to create a startup entry from the new location for it to continue working after a restart. If you had Geforce Experience installed and configured already, this will most likely be the same for you.\n\nIf you get stuck or the link expires, give me a shout.\n\n**Edit**: added Mediafire link due to PM requests, hopefully this one will stay up longer.",
-  "gilded": 0,
-  "score": 44,
-  "removal_reason": null,
-  "approved_by": null,
-  "created_utc": 1437866740.0,
-  "is_self": true,
-  "stickied": false,
-  "edited": 1440409099.0,
-  "distinguished": null,
-  "permalink": "https://www.reddit.com/r/nvidia/comments/3elvsw/guidehow_to_use_nvidia_led_visualizer_without/?ref=search_posts",
-  "banned_by": null,
-  "from_id": null,
-  "likes": null,
-  "_underscore_names": null,
-  "num_reports": null,
-  "link_flair_css_class": null,
-  "_info_url": "https://api.reddit.com/api/info/",
-  "id": "3elvsw",
+  "clicked": false,
+  "_replaced_more": false,
   "archived": false,
-  "secure_media": null,
   "post_hint": "self",
-  "from_kind": null,
+  "num_comments": 22,
+  "created": 1437870340.0,
   "saved": false,
-  "domain": "self.nvidia",
-  "ups": 44,
-  "suggested_sort": null,
-  "quarantine": false,
+  "selftext": "GeForce Experience causes a lot of headaches around here. I personally only ever used it for the sake of controlling the LED on my GPU. It only occurred to me earlier today when /u/limitz posted asking if there's a way to use visualizer without GFE that it might be possible - [and it is.](http://i.imgur.com/TgQIjkx.png)\n\nSo for anyone like us that wants to control their LED's *without* that bloaty, problem causing software read on.\n\n\n\n* **If you already have GeForce Experience installed,** copy the folder titled 'LED Visualizer' found by default at \"C:\\Program Files (x86)\\NVIDIA Corporation\\LED Visualizer\" and copy it to a location of your choice. Uninstall GeForce Experience, then run NvLedVisualizer.exe and set up your LEDs.\n\n* **If you DON'T have GeForce Experience Installed,** you can download the files [here.](http://www.mediafire.com/download/ccv8u5wu5xfhbie/LED_Visualizer.rar) [\\(VirusTotal link\\)](https://www.virustotal.com/en/file/8ad232116100904ea5fddf514cbcfe1b7c659db0883d5cb750148a84f3373619/analysis/) Put the folder wherever you like and run NvLedVisualizer.exe.\n\n\n**Note:** I had to disable then re-enable the 'Run LED effects at Windows startup' setting for it to create a startup entry from the new location for it to continue working after a restart. If you had Geforce Experience installed and configured already, this will most likely be the same for you.\n\nIf you get stuck or the link expires, give me a shout.\n\n**Edit**: added Mediafire link due to PM requests, hopefully this one will stay up longer.",
+  "mod_reports": [],
+  "secure_media_embed": {},
+  "author_flair_css_class": "user nvidia",
+  "edited": 1440409099.0,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>GeForce Experience causes a lot of headaches around here. I personally only ever used it for the sake of controlling the LED on my GPU. It only occurred to me earlier today when <a href=\"/u/limitz\">/u/limitz</a> posted asking if there&#39;s a way to use visualizer without GFE that it might be possible - <a href=\"http://i.imgur.com/TgQIjkx.png\">and it is.</a></p>\n\n<p>So for anyone like us that wants to control their LED&#39;s <em>without</em> that bloaty, problem causing software read on.</p>\n\n<ul>\n<li><p><strong>If you already have GeForce Experience installed,</strong> copy the folder titled &#39;LED Visualizer&#39; found by default at &quot;C:\\Program Files (x86)\\NVIDIA Corporation\\LED Visualizer&quot; and copy it to a location of your choice. Uninstall GeForce Experience, then run NvLedVisualizer.exe and set up your LEDs.</p></li>\n<li><p><strong>If you DON&#39;T have GeForce Experience Installed,</strong> you can download the files <a href=\"http://www.mediafire.com/download/ccv8u5wu5xfhbie/LED_Visualizer.rar\">here.</a> <a href=\"https://www.virustotal.com/en/file/8ad232116100904ea5fddf514cbcfe1b7c659db0883d5cb750148a84f3373619/analysis/\">(VirusTotal link)</a> Put the folder wherever you like and run NvLedVisualizer.exe.</p></li>\n</ul>\n\n<p><strong>Note:</strong> I had to disable then re-enable the &#39;Run LED effects at Windows startup&#39; setting for it to create a startup entry from the new location for it to continue working after a restart. If you had Geforce Experience installed and configured already, this will most likely be the same for you.</p>\n\n<p>If you get stuck or the link expires, give me a shout.</p>\n\n<p><strong>Edit</strong>: added Mediafire link due to PM requests, hopefully this one will stay up longer.</p>\n</div><!-- SC_ON -->",
+  "downs": 0,
+  "user_reports": [],
+  "author_flair_text": "5930K | Gigabyte 970 G1 | ",
   "over_18": false,
+  "score": 43,
+  "stickied": false,
+  "domain": "self.nvidia",
+  "is_self": true,
+  "hidden": false,
+  "_orphaned": {},
+  "_api_link": "https://api.reddit.com/r/nvidia/comments/3elvsw/guidehow_to_use_nvidia_led_visualizer_without/?ref=search_posts",
+  "_comments_by_id": {},
+  "visited": false,
+  "thumbnail": "self",
+  "_has_fetched": true,
+  "gilded": 0,
   "hide_score": false,
-  "url": "https://www.reddit.com/r/nvidia/comments/3elvsw/guidehow_to_use_nvidia_led_visualizer_without/",
+  "_info_url": "https://api.reddit.com/api/info/",
+  "created_utc": 1437866740.0,
   "subreddit_id": "t5_2rlgy",
+  "id": "3elvsw",
   "_params": {},
-  "_comments": null,
+  "media_embed": {},
+  "name": "t3_3elvsw",
+  "quarantine": false,
+  "permalink": "https://www.reddit.com/r/nvidia/comments/3elvsw/guidehow_to_use_nvidia_led_visualizer_without/?ref=search_posts",
+  "ups": 43,
+  "url": "https://www.reddit.com/r/nvidia/comments/3elvsw/guidehow_to_use_nvidia_led_visualizer_without/",
+  "title": "[Guide]How to use Nvidia LED visualizer without GeForce Experience",
   "preview": {
     "images": [
       {
-        "source": {
-          "width": 1044,
-          "url": "https://i.redditmedia.com/otedV9N-nwFLpZngw46SIorwaJEheQ1VLsaixvGvUqs.jpg?s=e4735ad2bc1eadabe77197facd739862",
-          "height": 633
-        },
         "resolutions": [
           {
             "width": 108,
-            "url": "https://i.redditmedia.com/otedV9N-nwFLpZngw46SIorwaJEheQ1VLsaixvGvUqs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=071d591e0e312bb102885ca070016e8f",
-            "height": 65
+            "height": 65,
+            "url": "https://i.redditmedia.com/otedV9N-nwFLpZngw46SIorwaJEheQ1VLsaixvGvUqs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=071d591e0e312bb102885ca070016e8f"
           },
           {
             "width": 216,
-            "url": "https://i.redditmedia.com/otedV9N-nwFLpZngw46SIorwaJEheQ1VLsaixvGvUqs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a1c3be6721ef7cb0145d4503dc76e2d7",
-            "height": 130
+            "height": 130,
+            "url": "https://i.redditmedia.com/otedV9N-nwFLpZngw46SIorwaJEheQ1VLsaixvGvUqs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=a1c3be6721ef7cb0145d4503dc76e2d7"
           },
           {
             "width": 320,
-            "url": "https://i.redditmedia.com/otedV9N-nwFLpZngw46SIorwaJEheQ1VLsaixvGvUqs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6d04decaf0f7afdfb79f2158c01f0027",
-            "height": 194
+            "height": 194,
+            "url": "https://i.redditmedia.com/otedV9N-nwFLpZngw46SIorwaJEheQ1VLsaixvGvUqs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=6d04decaf0f7afdfb79f2158c01f0027"
           },
           {
             "width": 640,
-            "url": "https://i.redditmedia.com/otedV9N-nwFLpZngw46SIorwaJEheQ1VLsaixvGvUqs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=8379c6b9b482dfd7a836372ec47dbdee",
-            "height": 388
+            "height": 388,
+            "url": "https://i.redditmedia.com/otedV9N-nwFLpZngw46SIorwaJEheQ1VLsaixvGvUqs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=8379c6b9b482dfd7a836372ec47dbdee"
           },
           {
             "width": 960,
-            "url": "https://i.redditmedia.com/otedV9N-nwFLpZngw46SIorwaJEheQ1VLsaixvGvUqs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=fa413e44cd7ca21c521cfe4ea999ebd7",
-            "height": 582
+            "height": 582,
+            "url": "https://i.redditmedia.com/otedV9N-nwFLpZngw46SIorwaJEheQ1VLsaixvGvUqs.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=fa413e44cd7ca21c521cfe4ea999ebd7"
           }
         ],
         "id": "RvW5mjg-eoIwV7WYYgMGR_U3o5tCqRi58QkEFvYV3dw",
-        "variants": {}
+        "variants": {},
+        "source": {
+          "width": 1044,
+          "height": 633,
+          "url": "https://i.redditmedia.com/otedV9N-nwFLpZngw46SIorwaJEheQ1VLsaixvGvUqs.jpg?s=e4735ad2bc1eadabe77197facd739862"
+        }
       }
     ]
-  },
-  "_replaced_more": false,
-  "_comments_by_id": {},
-  "user_reports": [],
-  "media_embed": {},
-  "created": 1437870340.0,
-  "author_flair_text": "5930K | Gigabyte 970 G1 | ",
-  "visited": false,
-  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>GeForce Experience causes a lot of headaches around here. I personally only ever used it for the sake of controlling the LED on my GPU. It only occurred to me earlier today when <a href=\"/u/limitz\">/u/limitz</a> posted asking if there&#39;s a way to use visualizer without GFE that it might be possible - <a href=\"http://i.imgur.com/TgQIjkx.png\">and it is.</a></p>\n\n<p>So for anyone like us that wants to control their LED&#39;s <em>without</em> that bloaty, problem causing software read on.</p>\n\n<ul>\n<li><p><strong>If you already have GeForce Experience installed,</strong> copy the folder titled &#39;LED Visualizer&#39; found by default at &quot;C:\\Program Files (x86)\\NVIDIA Corporation\\LED Visualizer&quot; and copy it to a location of your choice. Uninstall GeForce Experience, then run NvLedVisualizer.exe and set up your LEDs.</p></li>\n<li><p><strong>If you DON&#39;T have GeForce Experience Installed,</strong> you can download the files <a href=\"http://www.mediafire.com/download/ccv8u5wu5xfhbie/LED_Visualizer.rar\">here.</a> <a href=\"https://www.virustotal.com/en/file/8ad232116100904ea5fddf514cbcfe1b7c659db0883d5cb750148a84f3373619/analysis/\">(VirusTotal link)</a> Put the folder wherever you like and run NvLedVisualizer.exe.</p></li>\n</ul>\n\n<p><strong>Note:</strong> I had to disable then re-enable the &#39;Run LED effects at Windows startup&#39; setting for it to create a startup entry from the new location for it to continue working after a restart. If you had Geforce Experience installed and configured already, this will most likely be the same for you.</p>\n\n<p>If you get stuck or the link expires, give me a shout.</p>\n\n<p><strong>Edit</strong>: added Mediafire link due to PM requests, hopefully this one will stay up longer.</p>\n</div><!-- SC_ON -->",
-  "downs": 0,
-  "_comment_sort": null,
-  "report_reasons": null,
-  "name": "t3_3elvsw",
-  "from": null,
-  "hidden": false,
-  "clicked": false,
-  "media": null,
-  "json_dict": null,
-  "_api_link": "https://api.reddit.com/r/nvidia/comments/3elvsw/guidehow_to_use_nvidia_led_visualizer_without/?ref=search_posts",
-  "secure_media_embed": {},
-  "mod_reports": [],
-  "_orphaned": {},
-  "_uniq": null,
-  "num_comments": 22,
-  "link_flair_text": null,
-  "title": "[Guide]How to use Nvidia LED visualizer without GeForce Experience",
-  "_has_fetched": true,
-  "author_flair_css_class": "user nvidia",
-  "thumbnail": "self"
+  }
 }

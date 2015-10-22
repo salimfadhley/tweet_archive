@@ -1,0 +1,89 @@
+{
+  "clicked": false,
+  "_replaced_more": false,
+  "archived": false,
+  "post_hint": "self",
+  "num_comments": 493,
+  "created": 1442369826.0,
+  "saved": false,
+  "selftext": "Pre-Update values are on the left, Post-Update are on the right\n***\n**M4A1-S**\n\n    in game price 3200 -> 3100\n\n    armor ratio 1.4 -> 1.25 (BUGGED, THIS IS UNCHANGED)\n    \n    cycletime 0.09 -> 0.10\n    \n    spread alt 0.45 -> 0.50\n\n**Analysis**:  Basically, Firerate went from 667 RPM to 600 RPM (same as the AK-47), and spread was slightly increased.  The changes to accuracy are incredibly minor with total standing inaccuracy increasing from 5.35 to 5.40.  It's nearly unnoticeable.  What isn't unnoticeable is the change to firerate.  The decrease in firerate greatly hurts the damage output of the M4A1-S at close range.  Due to how recoil works, recoil will decay more between each shot, meaning that the recoil pattern of the M4A1-S is actually smaller than previously which seems like an odd choice as recoil on the M4A1-S was already significantly easier than the M4A4.\n\nBoth the patch notes and the weapon file reflect a change to armor penetration 70% -> 62.5%.  This is NOT IN THE GAME.  Armor ratio is bugged in items_game.txt and does not properly overwrite the value used by the M4A4.  I ran into this myself when trying to give the CZ a different armor penetration amount in my weapon balance mod and had to find a workaround.\n\nOverall, the M4A1-S will be about as useful as it was previously in long range engagements due to fire rate having little effect on tapping, though in close range fights, I imagine the M4A4 will outshine the M4A1-S.\n\nWhat really surprises me is that Valve thought it would be okay to nerf the armor penetration of the M4A1-S and expect it to still be viable.  If it actually occurred, after 1500 units (long range) the M4A1-S would have required 1 headshot and 2 chest shots to kill a full health armored opponent making the gun completely unusable.\n***\n\n**Dualies**\n\n    WeaponArmorRatio 1.05 -> 1.15\n    \n    RangeModifier 0.75 -> 0.79\n\n**Analysis**: These changes should make the Dualies a safer buy on pistol round.  They'll one hit headshot a player without a helmet at nearly any range and there is more armor penetration insurance if they decided to buy a vest.  I'd still avoid using this on eco rounds as it lacks the one hit helmet kill headshot of the P250, Fiveseven, and Tec-9.  This is a harmless change that could actually vary pistol buys slightly though time will tell if it was enough.\n\n***\n\n**Taser**\n\n    WeaponPrice 400 -> 100\n\n**Analysis**: Self explanatory.  It's silly, though the taser never really served much purpose anyways outside of being a joke weapon.  I feel like decreasing the price too much will make it too much of a common occurrence.  I'd say $300 would be the max price before it starts becoming a common occurrence and becomes more of an annoyance.\n***\n\n**Final Thoughts**:  The M4A1-S change is a step in the wrong direction and doesn't address any of the existing issues with the weapon such as it's almost lack of damage drop off with distance.  It further worsens problems like the recoil pattern being significantly easier than most rifles.  It's ironic that this is the day I choose to release my [v1.1 update to my weapon balance mod](https://www.reddit.com/r/GlobalOffensive/comments/3l2j9o/slothsquadrons_csgo_weapon_balance_mod_update_v11/) and Valve releases an update that if they had applied the M4A1-S armor penetration change correctly, would have ruined the gun completely.\n\nBonus:  https://twitter.com/Thooorin/status/643937854821957632\n\n\nEven the buymenu displays the armor penetration nerf, but it didn't even apply in game: http://i.imgur.com/cWjKfiV.jpg",
+  "mod_reports": [],
+  "secure_media_embed": {},
+  "edited": 1442596905.0,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Pre-Update values are on the left, Post-Update are on the right</p>\n\n<hr/>\n\n<p><strong>M4A1-S</strong></p>\n\n<pre><code>in game price 3200 -&gt; 3100\n\narmor ratio 1.4 -&gt; 1.25 (BUGGED, THIS IS UNCHANGED)\n\ncycletime 0.09 -&gt; 0.10\n\nspread alt 0.45 -&gt; 0.50\n</code></pre>\n\n<p><strong>Analysis</strong>:  Basically, Firerate went from 667 RPM to 600 RPM (same as the AK-47), and spread was slightly increased.  The changes to accuracy are incredibly minor with total standing inaccuracy increasing from 5.35 to 5.40.  It&#39;s nearly unnoticeable.  What isn&#39;t unnoticeable is the change to firerate.  The decrease in firerate greatly hurts the damage output of the M4A1-S at close range.  Due to how recoil works, recoil will decay more between each shot, meaning that the recoil pattern of the M4A1-S is actually smaller than previously which seems like an odd choice as recoil on the M4A1-S was already significantly easier than the M4A4.</p>\n\n<p>Both the patch notes and the weapon file reflect a change to armor penetration 70% -&gt; 62.5%.  This is NOT IN THE GAME.  Armor ratio is bugged in items_game.txt and does not properly overwrite the value used by the M4A4.  I ran into this myself when trying to give the CZ a different armor penetration amount in my weapon balance mod and had to find a workaround.</p>\n\n<p>Overall, the M4A1-S will be about as useful as it was previously in long range engagements due to fire rate having little effect on tapping, though in close range fights, I imagine the M4A4 will outshine the M4A1-S.</p>\n\n<p>What really surprises me is that Valve thought it would be okay to nerf the armor penetration of the M4A1-S and expect it to still be viable.  If it actually occurred, after 1500 units (long range) the M4A1-S would have required 1 headshot and 2 chest shots to kill a full health armored opponent making the gun completely unusable.</p>\n\n<hr/>\n\n<p><strong>Dualies</strong></p>\n\n<pre><code>WeaponArmorRatio 1.05 -&gt; 1.15\n\nRangeModifier 0.75 -&gt; 0.79\n</code></pre>\n\n<p><strong>Analysis</strong>: These changes should make the Dualies a safer buy on pistol round.  They&#39;ll one hit headshot a player without a helmet at nearly any range and there is more armor penetration insurance if they decided to buy a vest.  I&#39;d still avoid using this on eco rounds as it lacks the one hit helmet kill headshot of the P250, Fiveseven, and Tec-9.  This is a harmless change that could actually vary pistol buys slightly though time will tell if it was enough.</p>\n\n<hr/>\n\n<p><strong>Taser</strong></p>\n\n<pre><code>WeaponPrice 400 -&gt; 100\n</code></pre>\n\n<p><strong>Analysis</strong>: Self explanatory.  It&#39;s silly, though the taser never really served much purpose anyways outside of being a joke weapon.  I feel like decreasing the price too much will make it too much of a common occurrence.  I&#39;d say $300 would be the max price before it starts becoming a common occurrence and becomes more of an annoyance.</p>\n\n<hr/>\n\n<p><strong>Final Thoughts</strong>:  The M4A1-S change is a step in the wrong direction and doesn&#39;t address any of the existing issues with the weapon such as it&#39;s almost lack of damage drop off with distance.  It further worsens problems like the recoil pattern being significantly easier than most rifles.  It&#39;s ironic that this is the day I choose to release my <a href=\"https://www.reddit.com/r/GlobalOffensive/comments/3l2j9o/slothsquadrons_csgo_weapon_balance_mod_update_v11/\">v1.1 update to my weapon balance mod</a> and Valve releases an update that if they had applied the M4A1-S armor penetration change correctly, would have ruined the gun completely.</p>\n\n<p>Bonus:  <a href=\"https://twitter.com/Thooorin/status/643937854821957632\">https://twitter.com/Thooorin/status/643937854821957632</a></p>\n\n<p>Even the buymenu displays the armor penetration nerf, but it didn&#39;t even apply in game: <a href=\"http://i.imgur.com/cWjKfiV.jpg\">http://i.imgur.com/cWjKfiV.jpg</a></p>\n</div><!-- SC_ON -->",
+  "downs": 0,
+  "user_reports": [],
+  "link_flair_css_class": "discussion",
+  "over_18": false,
+  "score": 1036,
+  "stickied": false,
+  "domain": "self.GlobalOffensive",
+  "is_self": true,
+  "hidden": false,
+  "_orphaned": {},
+  "_api_link": "https://api.reddit.com/r/GlobalOffensive/comments/3l46ej/analysis_of_weapon_changes_from_91515_update/?ref=search_posts",
+  "link_flair_text": "Discussion",
+  "_comments_by_id": {},
+  "visited": false,
+  "thumbnail": "self",
+  "_has_fetched": true,
+  "gilded": 0,
+  "hide_score": false,
+  "_info_url": "https://api.reddit.com/api/info/",
+  "created_utc": 1442366226.0,
+  "subreddit_id": "t5_2sqho",
+  "id": "3l46ej",
+  "_params": {},
+  "media_embed": {},
+  "name": "t3_3l46ej",
+  "quarantine": false,
+  "permalink": "https://www.reddit.com/r/GlobalOffensive/comments/3l46ej/analysis_of_weapon_changes_from_91515_update/?ref=search_posts",
+  "ups": 1036,
+  "url": "https://www.reddit.com/r/GlobalOffensive/comments/3l46ej/analysis_of_weapon_changes_from_91515_update/",
+  "title": "Analysis of Weapon Changes from 9/15/15 Update (Incorrect M4A1-S Patch Notes)",
+  "preview": {
+    "images": [
+      {
+        "resolutions": [
+          {
+            "width": 108,
+            "height": 60,
+            "url": "https://i.redditmedia.com/T66AhSvSli6wdatGMhr_ptoa3BIdn0l-gsZkWGIwm-o.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=108&s=2413b54078d33759bf5dad9a72500939"
+          },
+          {
+            "width": 216,
+            "height": 121,
+            "url": "https://i.redditmedia.com/T66AhSvSli6wdatGMhr_ptoa3BIdn0l-gsZkWGIwm-o.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=216&s=629589a3eb40b270bcb050de8135625e"
+          },
+          {
+            "width": 320,
+            "height": 180,
+            "url": "https://i.redditmedia.com/T66AhSvSli6wdatGMhr_ptoa3BIdn0l-gsZkWGIwm-o.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=320&s=fe418363c943a7b03fdd24f8285012db"
+          },
+          {
+            "width": 640,
+            "height": 360,
+            "url": "https://i.redditmedia.com/T66AhSvSli6wdatGMhr_ptoa3BIdn0l-gsZkWGIwm-o.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=32d5ad09134097f6175454bf4305c31d"
+          },
+          {
+            "width": 960,
+            "height": 540,
+            "url": "https://i.redditmedia.com/T66AhSvSli6wdatGMhr_ptoa3BIdn0l-gsZkWGIwm-o.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=8de894acfaae01d2e22a0cfc60e8976b"
+          },
+          {
+            "width": 1080,
+            "height": 607,
+            "url": "https://i.redditmedia.com/T66AhSvSli6wdatGMhr_ptoa3BIdn0l-gsZkWGIwm-o.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=1080&s=4ed697ce0f55aa8302988ec164e0187d"
+          }
+        ],
+        "id": "BqfcGCgbzM4gPcjpxcco87l8PrEI-BglcSbB0mEbE4k",
+        "variants": {},
+        "source": {
+          "width": 1920,
+          "height": 1080,
+          "url": "https://i.redditmedia.com/T66AhSvSli6wdatGMhr_ptoa3BIdn0l-gsZkWGIwm-o.jpg?s=835a45ceed61ad87674f8156029bb4ef"
+        }
+      }
+    ]
+  }
+}
