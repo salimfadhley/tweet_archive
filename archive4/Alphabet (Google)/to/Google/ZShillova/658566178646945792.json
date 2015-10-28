@@ -1,0 +1,172 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 26 08:49:47 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    50,
+                    60
+                ],
+                "text": "workeng15"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            },
+            {
+                "id": 276911574,
+                "id_str": "276911574",
+                "indices": [
+                    8,
+                    19
+                ],
+                "name": "Fazer",
+                "screen_name": "FazerSuomi"
+            },
+            {
+                "id": 6960382,
+                "id_str": "6960382",
+                "indices": [
+                    20,
+                    26
+                ],
+                "name": "nivea",
+                "screen_name": "nivea"
+            },
+            {
+                "id": 1221989492,
+                "id_str": "1221989492",
+                "indices": [
+                    27,
+                    39
+                ],
+                "name": "The Body Shop",
+                "screen_name": "TheBodyShop"
+            },
+            {
+                "id": 97610612,
+                "id_str": "97610612",
+                "indices": [
+                    41,
+                    49
+                ],
+                "name": "samsung",
+                "screen_name": "samsung"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 658566178646945792,
+    "id_str": "658566178646945792",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        23.798029,
+                        61.101847
+                    ],
+                    [
+                        24.296994,
+                        61.101847
+                    ],
+                    [
+                        24.296994,
+                        61.343728
+                    ],
+                    [
+                        23.798029,
+                        61.343728
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Suomi",
+        "country_code": "FI",
+        "full_name": "Valkeakoski, Suomi",
+        "id": "a7d1e4db6dc8dbeb",
+        "name": "Valkeakoski",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a7d1e4db6dc8dbeb.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@google @FazerSuomi @nivea @TheBodyShop  @samsung #workeng15",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 13 18:32:59 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "24-karat gold soul in transition",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 8747,
+        "follow_request_sent": false,
+        "followers_count": 1371,
+        "following": false,
+        "friends_count": 397,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 436043190,
+        "id_str": "436043190",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Finland",
+        "name": "Zana Shillova",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/436043190/1445539685",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/658077933551099904/n05fNMPp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/658077933551099904/n05fNMPp_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ZShillova",
+        "statuses_count": 20665,
+        "time_zone": "Amsterdam",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

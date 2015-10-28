@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 24 01:28:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15131310,
+                "id_str": "15131310",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Whole Foods Market",
+                "screen_name": "WholeFoods"
+            },
+            {
+                "id": 315595104,
+                "id_str": "315595104",
+                "indices": [
+                    12,
+                    25
+                ],
+                "name": "James Andrew OConnor",
+                "screen_name": "SizableJames"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 657730468679405568,
+    "id_str": "657730468679405568",
+    "in_reply_to_screen_name": "WholeFoods",
+    "in_reply_to_status_id": 657723194405756929,
+    "in_reply_to_status_id_str": "657723194405756929",
+    "in_reply_to_user_id": 15131310,
+    "in_reply_to_user_id_str": "15131310",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.933612,
+                        40.785365
+                    ],
+                    [
+                        -73.765271,
+                        40.785365
+                    ],
+                    [
+                        -73.765271,
+                        40.91533
+                    ],
+                    [
+                        -73.933612,
+                        40.91533
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Bronx, NY",
+        "id": "002e24c6736f069d",
+        "name": "Bronx",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/002e24c6736f069d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@WholeFoods @SizableJames",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 03 00:48:33 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Rut Ro Reorge - Astro Jetson",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "imdb.com/name/nm0175418/",
+                        "expanded_url": "http://www.imdb.com/name/nm0175418/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/MeSGv6x8wm"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2191,
+        "follow_request_sent": false,
+        "followers_count": 564,
+        "following": false,
+        "friends_count": 1991,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 246559517,
+        "id_str": "246559517",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "North Riverdale, Bronx",
+        "name": "Tammy O",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/687286662/5c345ce6a5f0725d7294b60875274198.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/687286662/5c345ce6a5f0725d7294b60875274198.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/246559517/1429317461",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640681307559825408/NLKjKdNw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/640681307559825408/NLKjKdNw_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bridgetbardeau",
+        "statuses_count": 5127,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/MeSGv6x8wm",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

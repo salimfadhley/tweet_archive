@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 22 20:39:08 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13058772,
+                "id_str": "13058772",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "LinkedIn",
+                "screen_name": "LinkedIn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 657295142051708928,
+    "id_str": "657295142051708928",
+    "in_reply_to_screen_name": "LinkedIn",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13058772,
+    "in_reply_to_user_id_str": "13058772",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -105.109815,
+                        39.614151
+                    ],
+                    [
+                        -104.734372,
+                        39.614151
+                    ],
+                    [
+                        -104.734372,
+                        39.812975
+                    ],
+                    [
+                        -105.109815,
+                        39.812975
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Denver, CO",
+        "id": "b49b3053b5c25bf5",
+        "name": "Denver",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@LinkedIn how do you see threaded messages on the iPad? I'm trying to see what I said but having trouble.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 01 19:41:19 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I love this stuff!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "DaveCraige.com",
+                        "expanded_url": "http://www.DaveCraige.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/rXCUIHP9wr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 37166,
+        "follow_request_sent": false,
+        "followers_count": 2163,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17786914,
+        "id_str": "17786914",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 124,
+        "location": "",
+        "name": "Dave Craige",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17786914/1433159188",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/588081168723091458/fp5R7sKG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/588081168723091458/fp5R7sKG_normal.jpg",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "davecraige",
+        "statuses_count": 28301,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/rXCUIHP9wr",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

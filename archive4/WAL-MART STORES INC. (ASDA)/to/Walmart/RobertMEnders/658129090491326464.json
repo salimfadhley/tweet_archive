@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 25 03:52:57 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17137891,
+                "id_str": "17137891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Walmart",
+                "screen_name": "Walmart"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658129090491326464,
+    "id_str": "658129090491326464",
+    "in_reply_to_screen_name": "Walmart",
+    "in_reply_to_status_id": 658128235658526721,
+    "in_reply_to_status_id_str": "658128235658526721",
+    "in_reply_to_user_id": 17137891,
+    "in_reply_to_user_id_str": "17137891",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.336872,
+                        40.95926
+                    ],
+                    [
+                        -85.003231,
+                        40.95926
+                    ],
+                    [
+                        -85.003231,
+                        41.214574
+                    ],
+                    [
+                        -85.336872,
+                        41.214574
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Fort Wayne, IN",
+        "id": "3877d6c867447819",
+        "name": "Fort Wayne",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3877d6c867447819.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Walmart I'll try to bring it back in the morning. I'm working late tonight.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 03 03:25:22 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "JUST SAY NO TO THANX 4 THE FOLLOW SPAM!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "blogoftheenders.blogspot.com",
+                        "expanded_url": "http://blogoftheenders.blogspot.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/rVH2u5YzbG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2544,
+        "follow_request_sent": false,
+        "followers_count": 645,
+        "following": false,
+        "friends_count": 1995,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 328298656,
+        "id_str": "328298656",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "Fort Wayne",
+        "name": "Robert Enders",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/328298656/1353207692",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3146573981/302fd0b30a90cf450cbc56f0a4324178_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3146573981/302fd0b30a90cf450cbc56f0a4324178_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RobertMEnders",
+        "statuses_count": 3824,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": "http://t.co/rVH2u5YzbG",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

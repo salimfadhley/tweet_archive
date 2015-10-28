@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 26 04:09:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            },
+            {
+                "id": 20630639,
+                "id_str": "20630639",
+                "indices": [
+                    66,
+                    81
+                ],
+                "name": "Parks and Recreation",
+                "screen_name": "parksandrecnbc"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 658495713626619905,
+    "id_str": "658495713626619905",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -93.276267,
+                        36.5860806
+                    ],
+                    [
+                        -93.158588,
+                        36.5860806
+                    ],
+                    [
+                        -93.158588,
+                        36.670471
+                    ],
+                    [
+                        -93.276267,
+                        36.670471
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Hollister, MO",
+        "id": "009f0d3e59c1c000",
+        "name": "Hollister",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/009f0d3e59c1c000.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@netflix how am I supposed to watch my 9th consecutive episode of @parksandrecnbc when your site keeps crashing",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 22 22:44:49 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "HALLELUJAH, I will rejoice.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3081,
+        "follow_request_sent": false,
+        "followers_count": 477,
+        "following": false,
+        "friends_count": 373,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 396210948,
+        "id_str": "396210948",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Missouri",
+        "name": "Dalton",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/396210948/1442847979",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/650872362238394369/XljEvSa4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/650872362238394369/XljEvSa4_normal.jpg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "DaltonjLane",
+        "statuses_count": 5095,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

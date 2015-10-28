@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 25 15:36:17 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19380829,
+                "id_str": "19380829",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Yahoo",
+                "screen_name": "Yahoo"
+            },
+            {
+                "id": 19426551,
+                "id_str": "19426551",
+                "indices": [
+                    7,
+                    11
+                ],
+                "name": "NFL",
+                "screen_name": "NFL"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 658306090178904064,
+    "id_str": "658306090178904064",
+    "in_reply_to_screen_name": "Yahoo",
+    "in_reply_to_status_id": 658225607730266112,
+    "in_reply_to_status_id_str": "658225607730266112",
+    "in_reply_to_user_id": 19380829,
+    "in_reply_to_user_id_str": "19380829",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -88.315777,
+                        42.0738332
+                    ],
+                    [
+                        -88.273683,
+                        42.0738332
+                    ],
+                    [
+                        -88.273683,
+                        42.114229
+                    ],
+                    [
+                        -88.315777,
+                        42.114229
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "West Dundee, IL",
+        "id": "977a02190e5977f4",
+        "name": "West Dundee",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/977a02190e5977f4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Yahoo @NFL working great on my chromecast, one of the best quality streams I've seen",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 01 14:55:08 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1222,
+        "follow_request_sent": false,
+        "followers_count": 57,
+        "following": false,
+        "friends_count": 154,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 78922668,
+        "id_str": "78922668",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Outside of Chicago",
+        "name": "Tim A",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/78922668/1444704189",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/569590665898520576/lOKexgn6_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/569590665898520576/lOKexgn6_normal.jpeg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GingerAndJuice",
+        "statuses_count": 2605,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

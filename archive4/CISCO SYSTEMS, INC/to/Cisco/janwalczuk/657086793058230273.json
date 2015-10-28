@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 22 06:51:14 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    11,
+                    17
+                ],
+                "text": "Apple"
+            },
+            {
+                "indices": [
+                    38,
+                    49
+                ],
+                "text": "AnyConnect"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15749983,
+                "id_str": "15749983",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Cisco",
+                "screen_name": "Cisco"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 657086793058230273,
+    "id_str": "657086793058230273",
+    "in_reply_to_screen_name": "Cisco",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15749983,
+    "in_reply_to_user_id_str": "15749983",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        20.8525518,
+                        52.0977088
+                    ],
+                    [
+                        21.2689305,
+                        52.0977088
+                    ],
+                    [
+                        21.2689305,
+                        52.3679617
+                    ],
+                    [
+                        20.8525518,
+                        52.3679617
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Polska",
+        "country_code": "PL",
+        "full_name": "Warsaw, Mazovia",
+        "id": "535f0c2de0121451",
+        "name": "Warsaw",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/535f0c2de0121451.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Cisco and #Apple are \"very special\". #AnyConnect is temporarly unavaliable on AppStore after latest failed update. Thanks for nothing guys.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 18 13:32:13 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Father, 1970 BOSS 302 fan-boy, Senior UNIX Administrator. OS Engineer. Programmer. Food & Wine enthusiast.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "raiffeisenpolbank.com",
+                        "expanded_url": "http://raiffeisenpolbank.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/1asEbfWbkE"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 42,
+        "follow_request_sent": false,
+        "followers_count": 10,
+        "following": false,
+        "friends_count": 38,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2716700759,
+        "id_str": "2716700759",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Warsaw/Poland",
+        "name": "Jan Walczuk",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2716700759/1414352374",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/490127792584278016/sldtifQi_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/490127792584278016/sldtifQi_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "janwalczuk",
+        "statuses_count": 111,
+        "time_zone": null,
+        "url": "http://t.co/1asEbfWbkE",
+        "utc_offset": null,
+        "verified": false
+    }
+}

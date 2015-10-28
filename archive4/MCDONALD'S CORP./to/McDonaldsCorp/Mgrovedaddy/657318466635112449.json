@@ -1,0 +1,181 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 22 22:11:49 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    104,
+                    115
+                ],
+                "text": "hamburglar"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/zPCCM8ucGd",
+                "expanded_url": "http://twitter.com/Mgrovedaddy/status/657318466635112449/photo/1",
+                "id": 657318442094231552,
+                "id_str": "657318442094231552",
+                "indices": [
+                    116,
+                    139
+                ],
+                "media_url": "http://pbs.twimg.com/media/CR9Do_VXAAAn6P3.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CR9Do_VXAAAn6P3.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 960,
+                        "resize": "fit",
+                        "w": 732
+                    },
+                    "medium": {
+                        "h": 785,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 445,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/zPCCM8ucGd"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 111679943,
+                "id_str": "111679943",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonaldsCorp"
+            },
+            {
+                "id": 79643213,
+                "id_str": "79643213",
+                "indices": [
+                    49,
+                    62
+                ],
+                "name": "Ferris State Hockey",
+                "screen_name": "FerrisHockey"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 657318466635112449,
+    "id_str": "657318466635112449",
+    "in_reply_to_screen_name": "McDonaldsCorp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 111679943,
+    "in_reply_to_user_id_str": "111679943",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.751406,
+                        42.883679
+                    ],
+                    [
+                        -85.530877,
+                        42.883679
+                    ],
+                    [
+                        -85.530877,
+                        43.029144
+                    ],
+                    [
+                        -85.751406,
+                        43.029144
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Grand Rapids, MI",
+        "id": "a81f9ed24c15d6af",
+        "name": "Grand Rapids",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a81f9ed24c15d6af.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@McDonaldsCorp new marketing strategy sponsoring @FerrisHockey? Ferris must have assumed it worked 4the #hamburglar https://t.co/zPCCM8ucGd",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 19 20:22:19 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Yaaaa Think",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 922,
+        "follow_request_sent": false,
+        "followers_count": 342,
+        "following": false,
+        "friends_count": 339,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 157435611,
+        "id_str": "157435611",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Bowling Green OH",
+        "name": "Max Grover",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/157435611/1352226017",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2662609657/bf96bc79bdc57cb2fcc815d898432535_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2662609657/bf96bc79bdc57cb2fcc815d898432535_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "1F0303",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Mgrovedaddy",
+        "statuses_count": 1678,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

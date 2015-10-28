@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 26 22:23:43 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 1718016019,
+                "id_str": "1718016019",
+                "indices": [
+                    12,
+                    23
+                ],
+                "name": "Shreya",
+                "screen_name": "haiishreya"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 658771012251611137,
+    "id_str": "658771012251611137",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": 658644301509820416,
+    "in_reply_to_status_id_str": "658644301509820416",
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -121.385009,
+                        38.716061
+                    ],
+                    [
+                        -121.216452,
+                        38.716061
+                    ],
+                    [
+                        -121.216452,
+                        38.8102595
+                    ],
+                    [
+                        -121.385009,
+                        38.8102595
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Roseville, CA",
+        "id": "38109314e8d0ee2f",
+        "name": "Roseville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/38109314e8d0ee2f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks  @haiishreya look at  the pumpkin diversity!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 18 22:14:59 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "life is burritoful",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/badaish",
+                        "expanded_url": "http://Instagram.com/badaish",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/xYGW7TCa1n"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12599,
+        "follow_request_sent": false,
+        "followers_count": 415,
+        "following": false,
+        "friends_count": 495,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 703888087,
+        "id_str": "703888087",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "gbhs senior \u2022 CA \u263c",
+        "name": "Aishwarya Pattnaik",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000045847589/db653035bef8f5e5a3f4b51030911fd5.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000045847589/db653035bef8f5e5a3f4b51030911fd5.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/703888087/1445926552",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/658039877783519232/5yfHd7_T_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/658039877783519232/5yfHd7_T_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "badaish",
+        "statuses_count": 5397,
+        "time_zone": "Arizona",
+        "url": "http://t.co/xYGW7TCa1n",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

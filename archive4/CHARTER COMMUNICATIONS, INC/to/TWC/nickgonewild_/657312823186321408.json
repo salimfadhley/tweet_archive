@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 22 21:49:23 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 127975950,
+                "id_str": "127975950",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "Time Warner Cable",
+                "screen_name": "TWC"
+            },
+            {
+                "id": 110782268,
+                "id_str": "110782268",
+                "indices": [
+                    5,
+                    14
+                ],
+                "name": "TWC Help",
+                "screen_name": "TWC_Help"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 657312823186321408,
+    "id_str": "657312823186321408",
+    "in_reply_to_screen_name": "TWC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 127975950,
+    "in_reply_to_user_id_str": "127975950",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -111.972849,
+                        33.2037607
+                    ],
+                    [
+                        -111.788898,
+                        33.2037607
+                    ],
+                    [
+                        -111.788898,
+                        33.36114
+                    ],
+                    [
+                        -111.972849,
+                        33.36114
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chandler, AZ",
+        "id": "52445186970bafb3",
+        "name": "Chandler",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/52445186970bafb3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@TWC @TWC_Help How do I watch shows that have been DVR'd at home on my computer through my TWC account?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 29 23:53:16 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ASU Cheerleader",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 17332,
+        "follow_request_sent": false,
+        "followers_count": 5383,
+        "following": false,
+        "friends_count": 623,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 509439281,
+        "id_str": "509439281",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 14,
+        "location": "oh\u00bbaz",
+        "name": "Nick",
+        "notifications": false,
+        "profile_background_color": "252B33",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/630010328/doyu9g19ro4siz083h24.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/630010328/doyu9g19ro4siz083h24.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/509439281/1444964488",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/638978388217073664/HcOBIbMD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/638978388217073664/HcOBIbMD_normal.jpg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "nickgonewild_",
+        "statuses_count": 2391,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

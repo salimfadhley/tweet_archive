@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            11.7839907,
+            48.35553045
+        ],
+        "type": "Point"
+    },
+    "created_at": "Fri Oct 23 16:09:00 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 38676903,
+                "id_str": "38676903",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "easyJet",
+                "screen_name": "easyJet"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            48.35553045,
+            11.7839907
+        ],
+        "type": "Point"
+    },
+    "id": 657589548722036736,
+    "id_str": "657589548722036736",
+    "in_reply_to_screen_name": "easyJet",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 38676903,
+    "in_reply_to_user_id_str": "38676903",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        11.764119,
+                        48.289745
+                    ],
+                    [
+                        11.893304,
+                        48.289745
+                    ],
+                    [
+                        11.893304,
+                        48.385797
+                    ],
+                    [
+                        11.764119,
+                        48.385797
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Deutschland",
+        "country_code": "DE",
+        "full_name": "Oberding, Bayern",
+        "id": "ad2f50942562790b",
+        "name": "Oberding",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ad2f50942562790b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@easyJet in Munich no specific queue for SB, sooooo embarrassing to have to zigzag among other passengers and having to excuse for priority",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 25 00:28:09 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Anche la ricrescita \u00e8 la stessa.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2301,
+        "follow_request_sent": false,
+        "followers_count": 232,
+        "following": false,
+        "friends_count": 350,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 323535410,
+        "id_str": "323535410",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Milan, Italy",
+        "name": "Elisa Albanese",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/323535410/1363387332",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3756009073/2f41784a3d9b8d18c1221137d8dda08c_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3756009073/2f41784a3d9b8d18c1221137d8dda08c_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "alisonorcorinne",
+        "statuses_count": 3062,
+        "time_zone": "Rome",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

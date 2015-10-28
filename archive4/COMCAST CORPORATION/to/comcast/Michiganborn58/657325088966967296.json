@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 22 22:38:08 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89587925,
+                "id_str": "89587925",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Comcast",
+                "screen_name": "comcast"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 657325088966967296,
+    "id_str": "657325088966967296",
+    "in_reply_to_screen_name": "comcast",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89587925,
+    "in_reply_to_user_id_str": "89587925",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -105.148074,
+                        40.47168
+                    ],
+                    [
+                        -104.979811,
+                        40.47168
+                    ],
+                    [
+                        -104.979811,
+                        40.656701
+                    ],
+                    [
+                        -105.148074,
+                        40.656701
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Fort Collins, CO",
+        "id": "b2e4e65d7b80d2c1",
+        "name": "Fort Collins",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b2e4e65d7b80d2c1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@comcast I pay a lot for internet,\nand yet it runs so slow.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 04 13:26:01 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Trying to keep myself and others on the right path.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 901,
+        "follow_request_sent": false,
+        "followers_count": 2787,
+        "following": false,
+        "friends_count": 2805,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 861388620,
+        "id_str": "861388620",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 114,
+        "location": "Colorado/Michigan",
+        "name": "T Gard",
+        "notifications": false,
+        "profile_background_color": "1A1919",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/777972744/9139678fff0e751367285fe64ed4136c.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/777972744/9139678fff0e751367285fe64ed4136c.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/861388620/1359583702",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3191290232/f5517aa50411de9c4de621a9a13149aa_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3191290232/f5517aa50411de9c4de621a9a13149aa_normal.png",
+        "profile_link_color": "312D2D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "393636",
+        "profile_text_color": "383232",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Michiganborn58",
+        "statuses_count": 49981,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

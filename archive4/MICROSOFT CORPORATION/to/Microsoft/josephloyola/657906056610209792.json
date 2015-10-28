@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 24 13:06:41 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            },
+            {
+                "id": 15670515,
+                "id_str": "15670515",
+                "indices": [
+                    11,
+                    19
+                ],
+                "name": "Windows",
+                "screen_name": "Windows"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 657906056610209792,
+    "id_str": "657906056610209792",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        120.8986521,
+                        14.3477314
+                    ],
+                    [
+                        121.1357656,
+                        14.3477314
+                    ],
+                    [
+                        121.1357656,
+                        14.7873208
+                    ],
+                    [
+                        120.8986521,
+                        14.7873208
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Republika ng Pilipinas",
+        "country_code": "PH",
+        "full_name": "National Capital Region, Republic of the Philippines",
+        "id": "53df18e21825a89c",
+        "name": "National Capital Region",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/53df18e21825a89c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Microsoft @Windows I cant install Cumulative Update for Windows 10 (KB3081455), (KB3093266), (KB3097617) and I don't know why. I need help!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 22 07:02:04 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ask.fm \u2022 google+ \u2022 periscope \u2022 pinterest \u2022 skype \u2022 snapchat \u2022 twitter \u2022 zomato = josephloyola",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "goo.gl/SA110A",
+                        "expanded_url": "http://goo.gl/SA110A",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/5nLljmSVmq"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1,
+        "follow_request_sent": false,
+        "followers_count": 354,
+        "following": false,
+        "friends_count": 110,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 193602753,
+        "id_str": "193602753",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Caloocan City, Philippines",
+        "name": "Joseph Loyola",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/156268302/mr.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/156268302/mr.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/193602753/1430654412",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/657880080295706624/r4sKUJqw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/657880080295706624/r4sKUJqw_normal.jpg",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "josephloyola",
+        "statuses_count": 3049,
+        "time_zone": "Singapore",
+        "url": "http://t.co/5nLljmSVmq",
+        "utc_offset": 28800,
+        "verified": false
+    }
+}

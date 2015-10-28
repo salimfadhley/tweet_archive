@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 22 19:37:24 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    17,
+                    26
+                ],
+                "text": "AmexGift"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 42712551,
+                "id_str": "42712551",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "American Express",
+                "screen_name": "AmericanExpress"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 657279607826046976,
+    "id_str": "657279607826046976",
+    "in_reply_to_screen_name": "AmericanExpress",
+    "in_reply_to_status_id": 649992258117312513,
+    "in_reply_to_status_id_str": "649992258117312513",
+    "in_reply_to_user_id": 42712551,
+    "in_reply_to_user_id_str": "42712551",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.28853,
+                        37.443954
+                    ],
+                    [
+                        -122.177339,
+                        37.443954
+                    ],
+                    [
+                        -122.177339,
+                        37.550633
+                    ],
+                    [
+                        -122.28853,
+                        37.550633
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Redwood City, CA",
+        "id": "a409256339a7c6a1",
+        "name": "Redwood City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a409256339a7c6a1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanExpress #AmexGift",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 28 19:34:43 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "At the intersection of media content and media technology.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "sinfiel.com",
+                        "expanded_url": "http://www.sinfiel.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/NUec1x9Bd0"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 704,
+        "follow_request_sent": false,
+        "followers_count": 207,
+        "following": false,
+        "friends_count": 575,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51817122,
+        "id_str": "51817122",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "San Francisco, CA",
+        "name": "Duncan Sinfield",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/791081244/ba6540e4eea89721f4776ac82b6635ea.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/791081244/ba6540e4eea89721f4776ac82b6635ea.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51817122/1444109259",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/656215879793774592/25-WpK30_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/656215879793774592/25-WpK30_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DuncanSinfield",
+        "statuses_count": 2571,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/NUec1x9Bd0",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

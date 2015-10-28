@@ -1,0 +1,155 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 22 15:30:26 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    122,
+                    136
+                ],
+                "text": "HigherEdForum"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13058772,
+                "id_str": "13058772",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "LinkedIn",
+                "screen_name": "LinkedIn"
+            },
+            {
+                "id": 9703702,
+                "id_str": "9703702",
+                "indices": [
+                    10,
+                    17
+                ],
+                "name": "Allen Blue",
+                "screen_name": "allenb"
+            }
+        ]
+    },
+    "favorite_count": 4,
+    "favorited": false,
+    "geo": null,
+    "id": 657217454238801921,
+    "id_str": "657217454238801921",
+    "in_reply_to_screen_name": "LinkedIn",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13058772,
+    "in_reply_to_user_id_str": "13058772",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@LinkedIn @allenb: 4 areas in high demand for educated workforce: oil/energy, healthcare, advanced manufacturing, IT/tech #HigherEdForum",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 06 04:41:33 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Community by community, we are accelerating a national movement that makes it possible for people to come back and finish college.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "graduate-network.org",
+                        "expanded_url": "http://graduate-network.org",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/nrgRInwBld"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 106,
+        "follow_request_sent": false,
+        "followers_count": 212,
+        "following": false,
+        "friends_count": 264,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1939832167,
+        "id_str": "1939832167",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "",
+        "name": "The Graduate Network",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939832167/1443678874",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649463221406011392/XkQcXbMo_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/649463221406011392/XkQcXbMo_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TheGradNetwork",
+        "statuses_count": 572,
+        "time_zone": null,
+        "url": "http://t.co/nrgRInwBld",
+        "utc_offset": null,
+        "verified": false
+    }
+}

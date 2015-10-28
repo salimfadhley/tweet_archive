@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 27 01:27:37 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 369629233,
+                "id_str": "369629233",
+                "indices": [
+                    11,
+                    23
+                ],
+                "name": "Starbucks UK",
+                "screen_name": "StarbucksUK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658817293225500674,
+    "id_str": "658817293225500674",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": 657965544692256768,
+    "in_reply_to_status_id_str": "657965544692256768",
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.76259,
+                        40.477383
+                    ],
+                    [
+                        -71.777492,
+                        40.477383
+                    ],
+                    [
+                        -71.777492,
+                        45.015851
+                    ],
+                    [
+                        -79.76259,
+                        45.015851
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "New York, USA",
+        "id": "94965b2c45386f87",
+        "name": "New York",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/94965b2c45386f87.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Starbucks @StarbucksUK oh god please bring this to NY",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 25 22:48:58 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Just an internet bear with the world's best arctic bear 3 @MartyBigBurr",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4528,
+        "follow_request_sent": false,
+        "followers_count": 72,
+        "following": false,
+        "friends_count": 312,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1546826786,
+        "id_str": "1546826786",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Skype: a_wild_skybear",
+        "name": "The Spoopiest Bear",
+        "notifications": false,
+        "profile_background_color": "062E9C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000007886121/095c729dac2e9a2c7b1451a500dd3ae1.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000007886121/095c729dac2e9a2c7b1451a500dd3ae1.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546826786/1444668087",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/625159078621351936/QfydW75W_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/625159078621351936/QfydW75W_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "a_wild_SkyBear",
+        "statuses_count": 1743,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

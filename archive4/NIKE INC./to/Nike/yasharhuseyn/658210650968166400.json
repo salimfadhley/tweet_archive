@@ -1,0 +1,184 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 25 09:17:02 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    23,
+                    39
+                ],
+                "text": "BackToTheFuture"
+            },
+            {
+                "indices": [
+                    40,
+                    47
+                ],
+                "text": "AirMag"
+            },
+            {
+                "indices": [
+                    58,
+                    70
+                ],
+                "text": "NikeAirMags"
+            },
+            {
+                "indices": [
+                    71,
+                    79
+                ],
+                "text": "NikeMAG"
+            },
+            {
+                "indices": [
+                    80,
+                    85
+                ],
+                "text": "Nike"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "pic.twitter.com/dT12enu0xH",
+                "expanded_url": "http://twitter.com/yasharhuseyn/status/658210650968166400/photo/1",
+                "indices": [
+                    86,
+                    109
+                ],
+                "url": "https://t.co/dT12enu0xH"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 415859364,
+                "id_str": "415859364",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Nike",
+                "screen_name": "Nike"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658210650968166400,
+    "id_str": "658210650968166400",
+    "in_reply_to_screen_name": "Nike",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 415859364,
+    "in_reply_to_user_id_str": "415859364",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        44.763113,
+                        38.3970566
+                    ],
+                    [
+                        50.6078339,
+                        38.3970566
+                    ],
+                    [
+                        50.6078339,
+                        41.9058381
+                    ],
+                    [
+                        44.763113,
+                        41.9058381
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Azerbaijan",
+        "country_code": "AZ",
+        "full_name": "Azerbaijan",
+        "id": "efc23cd34689b068",
+        "name": "Azerbaijan",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/efc23cd34689b068.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Nike finally releases #BackToTheFuture #AirMag Sneakers. #NikeAirMags #NikeMAG #Nike https://t.co/dT12enu0xH",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 16 14:14:05 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Philologist, Photographer, Blogger, Numismatist, Traveller",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "yasharhuseyn.com",
+                        "expanded_url": "http://yasharhuseyn.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/E8BVAnWdai"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 104,
+        "follow_request_sent": false,
+        "followers_count": 1329,
+        "following": false,
+        "friends_count": 90,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 203536528,
+        "id_str": "203536528",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "de",
+        "listed_count": 42,
+        "location": "Traunreut, Germany",
+        "name": "Yashar Huseyn",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/203536528/1444906541",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/429564739136413696/dmYeDQTw_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/429564739136413696/dmYeDQTw_normal.jpeg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "yasharhuseyn",
+        "statuses_count": 28206,
+        "time_zone": "Berlin",
+        "url": "http://t.co/E8BVAnWdai",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

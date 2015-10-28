@@ -1,0 +1,146 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 26 21:40:11 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    104,
+                    108
+                ],
+                "text": "NFV"
+            },
+            {
+                "indices": [
+                    113,
+                    117
+                ],
+                "text": "SDN"
+            },
+            {
+                "indices": [
+                    119,
+                    124
+                ],
+                "text": "ETSI"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 59889953,
+                "id_str": "59889953",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Verizon",
+                "screen_name": "verizon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658760058776494080,
+    "id_str": "658760058776494080",
+    "in_reply_to_screen_name": "verizon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 59889953,
+    "in_reply_to_user_id_str": "59889953",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.107995,
+                        40.666879
+                    ],
+                    [
+                        -74.0253309,
+                        40.666879
+                    ],
+                    [
+                        -74.0253309,
+                        40.769124
+                    ],
+                    [
+                        -74.107995,
+                        40.769124
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Jersey City, NJ",
+        "id": "b046074b1030a44d",
+        "name": "Jersey City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b046074b1030a44d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@verizon's Chris Emmons reminds us that the whole comms ecosystem is learning together when it comes to #NFV and #SDN. #ETSI NFV12",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 23 17:42:31 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "When I'm not doing the PR thing for Verizon, I can be found with my family. Or I'm cooking (& eating!), volunteering, traveling or with my best girlfriends.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9,
+        "follow_request_sent": false,
+        "followers_count": 263,
+        "following": false,
+        "friends_count": 189,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 76704648,
+        "id_str": "76704648",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "Tulsa, Okla.",
+        "name": "Lynn Staggs",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76704648/1404317251",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2277698855/63icojv9unkyurg0blxm_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2277698855/63icojv9unkyurg0blxm_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "verizonlynn",
+        "statuses_count": 415,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

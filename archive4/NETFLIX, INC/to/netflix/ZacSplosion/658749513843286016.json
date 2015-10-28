@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -85.3937676,
+            32.6683535
+        ],
+        "type": "Point"
+    },
+    "created_at": "Mon Oct 26 20:58:17 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    56,
+                    68
+                ],
+                "text": "BlackMirror"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            32.6683535,
+            -85.3937676
+        ],
+        "type": "Point"
+    },
+    "id": 658749513843286016,
+    "id_str": "658749513843286016",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.43922,
+                        32.585133
+                    ],
+                    [
+                        -85.3317738,
+                        32.585133
+                    ],
+                    [
+                        -85.3317738,
+                        32.687659
+                    ],
+                    [
+                        -85.43922,
+                        32.687659
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Opelika, AL",
+        "id": "ba6b88e0b27138cd",
+        "name": "Opelika",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ba6b88e0b27138cd.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@netflix officially commissioned TWELVE new episodes of #BlackMirror ?!\nIncredible. They're going to nearly TRIPLE the number of episodes.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 19 18:17:41 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "That Hustle",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/zac.chatham",
+                        "expanded_url": "https://www.facebook.com/zac.chatham",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/DeS9U9gL1z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 31,
+        "follow_request_sent": false,
+        "followers_count": 137,
+        "following": false,
+        "friends_count": 168,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1198227914,
+        "id_str": "1198227914",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Birmingham",
+        "name": "Zac Chatham",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000096183114/6ed36f97920392bd13e0a3ba41e2add8.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000096183114/6ed36f97920392bd13e0a3ba41e2add8.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1198227914/1382028305",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000606082507/476dc74980734ca55911127b40d157da_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000606082507/476dc74980734ca55911127b40d157da_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ZacSplosion",
+        "statuses_count": 1703,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/DeS9U9gL1z",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

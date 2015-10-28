@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 27 01:29:14 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    111,
+                    113
+                ],
+                "text": "K"
+            },
+            {
+                "indices": [
+                    123,
+                    130
+                ],
+                "text": "Royals"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            },
+            {
+                "id": 626831076,
+                "id_str": "626831076",
+                "indices": [
+                    29,
+                    42
+                ],
+                "name": "Hemlock Grove",
+                "screen_name": "HemlockGrove"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658817698260844544,
+    "id_str": "658817698260844544",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -94.487114,
+                        39.01759
+                    ],
+                    [
+                        -94.269551,
+                        39.01759
+                    ],
+                    [
+                        -94.269551,
+                        39.158419
+                    ],
+                    [
+                        -94.487114,
+                        39.158419
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Independence, MO",
+        "id": "04b4aca917b0103d",
+        "name": "Independence",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/04b4aca917b0103d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@netflix has new episodes of @HemlockGrove so that can tied me over until tomorrow night when I will be at the #K with the #Royals!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 10 15:55:21 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I am an average American geek in an average American town, pondering the world around me and loving me some Royals, Huskers, Karate and Aikido.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ac0dx.com",
+                        "expanded_url": "http://ac0dx.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/mvyKkxGQpF"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 668,
+        "follow_request_sent": false,
+        "followers_count": 586,
+        "following": false,
+        "friends_count": 1981,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 30243884,
+        "id_str": "30243884",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "EM28SX - hams understand",
+        "name": "AC0DX -Jeremy Widner",
+        "notifications": false,
+        "profile_background_color": "D3D9DB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/519230854724218880/87IdSGdR.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/519230854724218880/87IdSGdR.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30243884/1445110792",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655468283580325888/Zog4rXAz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655468283580325888/Zog4rXAz_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "2D1E29",
+        "profile_text_color": "DB6995",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jeremyrwidner",
+        "statuses_count": 4153,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/mvyKkxGQpF",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

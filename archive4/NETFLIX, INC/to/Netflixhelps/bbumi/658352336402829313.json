@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 25 18:40:03 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/1mS3U0z9Qt",
+                "expanded_url": "http://twitter.com/bbumi/status/658352336402829313/photo/1",
+                "id": 658352330287529984,
+                "id_str": "658352330287529984",
+                "indices": [
+                    116,
+                    139
+                ],
+                "media_url": "http://pbs.twimg.com/media/CSLv9M_WwAATj0j.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CSLv9M_WwAATj0j.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/1mS3U0z9Qt"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 21454307,
+                "id_str": "21454307",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Netflix CS",
+                "screen_name": "Netflixhelps"
+            },
+            {
+                "id": 3310238405,
+                "id_str": "3310238405",
+                "indices": [
+                    55,
+                    65
+                ],
+                "name": "Netflix Italia",
+                "screen_name": "NetflixIT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658352336402829313,
+    "id_str": "658352336402829313",
+    "in_reply_to_screen_name": "Netflixhelps",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 21454307,
+    "in_reply_to_user_id_str": "21454307",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        12.2344266,
+                        41.6558738
+                    ],
+                    [
+                        12.8558641,
+                        41.6558738
+                    ],
+                    [
+                        12.8558641,
+                        42.140959
+                    ],
+                    [
+                        12.2344266,
+                        42.140959
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Italia",
+        "country_code": "IT",
+        "full_name": "Rome, Lazio",
+        "id": "7d588036fe12e124",
+        "name": "Rome",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7d588036fe12e124.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Netflixhelps Can anyone tell me what's happening with @NetflixIT? Registration done, server ok but it doesn't work https://t.co/1mS3U0z9Qt",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 12 08:34:42 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Sono una #socialmediacosa in un #socialmediamondo. E tutto sommato va bene cos\u00ec. #SMM @H-ART",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 130,
+        "follow_request_sent": false,
+        "followers_count": 340,
+        "following": false,
+        "friends_count": 1248,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 56051268,
+        "id_str": "56051268",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "it",
+        "listed_count": 4,
+        "location": "Rome",
+        "name": "chiara_mente",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/56051268/1415916199",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/533016054457708545/DJ0KhLo7_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/533016054457708545/DJ0KhLo7_normal.jpeg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bbumi",
+        "statuses_count": 660,
+        "time_zone": "Greenland",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

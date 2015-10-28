@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 24 11:39:27 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 657884103744888832,
+    "id_str": "657884103744888832",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": 657881158257135616,
+    "in_reply_to_status_id_str": "657881158257135616",
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.0201004,
+                        43.2788671
+                    ],
+                    [
+                        -5.7423002,
+                        43.2788671
+                    ],
+                    [
+                        -5.7423002,
+                        43.4274282
+                    ],
+                    [
+                        -6.0201004,
+                        43.4274282
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Espa\u00f1a",
+        "country_code": "ES",
+        "full_name": "Oviedo, Principado de Asturias",
+        "id": "d1272bba8714df3d",
+        "name": "Oviedo",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/d1272bba8714df3d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@British_Airways hummmmm flying during taxi? Nah, I don't think so!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 20 22:25:50 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 42,
+        "follow_request_sent": false,
+        "followers_count": 45,
+        "following": false,
+        "friends_count": 84,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 498309643,
+        "id_str": "498309643",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 0,
+        "location": "Oviedo, Asturias",
+        "name": "Alfonso Rodero",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2003331006/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2003331006/image_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AlfonsoRodero",
+        "statuses_count": 697,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

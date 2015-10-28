@@ -1,0 +1,292 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 25 22:55:27 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/linxlunx/statu\u2026",
+                "expanded_url": "https://twitter.com/linxlunx/status/658316625427365891",
+                "indices": [
+                    9,
+                    32
+                ],
+                "url": "https://t.co/Nu8X4pRnRY"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658416610676338688,
+    "id_str": "658416610676338688",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        110.374837,
+                        -7.839552
+                    ],
+                    [
+                        110.398804,
+                        -7.839552
+                    ],
+                    [
+                        110.398804,
+                        -7.78768
+                    ],
+                    [
+                        110.374837,
+                        -7.78768
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Indonesia",
+        "country_code": "ID",
+        "full_name": "Umbulharjo, Yogyakarta",
+        "id": "62a5c5ffca44cab5",
+        "name": "Umbulharjo",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/62a5c5ffca44cab5.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Oct 25 16:18:09 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/oxZqCfjzU6",
+                    "expanded_url": "http://twitter.com/linxlunx/status/658316625427365891/photo/1",
+                    "id": 658316623275667456,
+                    "id_str": "658316623275667456",
+                    "indices": [
+                        0,
+                        23
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CSLPeyAUsAAl-6W.png",
+                    "media_url_https": "https://pbs.twimg.com/media/CSLPeyAUsAAl-6W.png",
+                    "sizes": {
+                        "large": {
+                            "h": 548,
+                            "resize": "fit",
+                            "w": 903
+                        },
+                        "medium": {
+                            "h": 363,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 206,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/oxZqCfjzU6"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 658316625427365891,
+        "id_str": "658316625427365891",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "und",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 5,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "https://t.co/oxZqCfjzU6",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jul 13 06:33:50 +0000 2009",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "penyuka kering tempe, penyanyi karaoke setempat, pecinta sinna sherina munaf, seksi ngupload foto sherina di http://t.co/fEtW3ni7c8",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "bermain.net",
+                            "expanded_url": "http://bermain.net",
+                            "indices": [
+                                109,
+                                131
+                            ],
+                            "url": "http://t.co/fEtW3ni7c8"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "linggar.asia",
+                            "expanded_url": "http://linggar.asia",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/t3qbmwwaqz"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 486,
+            "follow_request_sent": false,
+            "followers_count": 1515,
+            "following": false,
+            "friends_count": 958,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 56307491,
+            "id_str": "56307491",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 30,
+            "location": "Indonesia",
+            "name": "linggar primahastoko",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/56307491/1391561230",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/643607761087913984/yzMHvzAB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/643607761087913984/yzMHvzAB_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "linxlunx",
+            "statuses_count": 55136,
+            "time_zone": "Jakarta",
+            "url": "http://t.co/t3qbmwwaqz",
+            "utc_offset": 25200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 658316625427365891,
+    "quoted_status_id_str": "658316625427365891",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@google  https://t.co/Nu8X4pRnRY",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 14 08:04:38 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#startup #wordpress #jogja | Incubation Manager at JDV, Founder of Lotus Media",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/iqranegara",
+                        "expanded_url": "http://bit.ly/iqranegara",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/elUfbOQife"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 126,
+        "follow_request_sent": false,
+        "followers_count": 1045,
+        "following": false,
+        "friends_count": 682,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18113714,
+        "id_str": "18113714",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 40,
+        "location": "Yogyakarta",
+        "name": "Saga Iqranegara",
+        "notifications": false,
+        "profile_background_color": "07090B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/105483882/xbbe894157447db22a0dd6155868657e.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/105483882/xbbe894157447db22a0dd6155868657e.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18113714/1398315959",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3487456196/7b07413492775750446f1b56cf44e435_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3487456196/7b07413492775750446f1b56cf44e435_normal.jpeg",
+        "profile_link_color": "C34242",
+        "profile_sidebar_border_color": "BFBFBF",
+        "profile_sidebar_fill_color": "C9C9C9",
+        "profile_text_color": "1C1F23",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "iqranegara",
+        "statuses_count": 9924,
+        "time_zone": "Jakarta",
+        "url": "http://t.co/elUfbOQife",
+        "utc_offset": 25200,
+        "verified": false
+    }
+}

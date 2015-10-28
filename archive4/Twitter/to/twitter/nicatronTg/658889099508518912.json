@@ -1,0 +1,160 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 27 06:12:57 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/httpscard_HQ/s\u2026",
+                "expanded_url": "https://twitter.com/httpscard_HQ/status/658888014266019840",
+                "indices": [
+                    41,
+                    64
+                ],
+                "url": "https://t.co/60NH63RP6k"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            },
+            {
+                "id": 12,
+                "id_str": "12",
+                "indices": [
+                    9,
+                    14
+                ],
+                "name": "Jack",
+                "screen_name": "jack"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658889099508518912,
+    "id_str": "658889099508518912",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -105.697156,
+                        41.2486252
+                    ],
+                    [
+                        -105.514486,
+                        41.2486252
+                    ],
+                    [
+                        -105.514486,
+                        41.367701
+                    ],
+                    [
+                        -105.697156,
+                        41.367701
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Laramie, WY",
+        "id": "b4fa2987bd7d8a3c",
+        "name": "Laramie",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b4fa2987bd7d8a3c.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status_id": 658888014266019840,
+    "quoted_status_id_str": "658888014266019840",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "@twitter @jack like this random spambot? https://t.co/60NH63RP6k",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 08 00:06:49 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Founder of @Pryaxis & @NyxStudios. @CyberPatriot National Champion & Mentor. 2014 Daniels Scholar.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "shanked.me",
+                        "expanded_url": "http://shanked.me/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/MpgkHHjuyb"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1730,
+        "follow_request_sent": false,
+        "followers_count": 544,
+        "following": false,
+        "friends_count": 457,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 14098069,
+        "id_str": "14098069",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 14,
+        "location": "Laramie, WY",
+        "name": "Lucas Nicodemus",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/726608994/7c0fdeda72407dc71ee44415857caa3c.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/726608994/7c0fdeda72407dc71ee44415857caa3c.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14098069/1444508430",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/635506136486035456/c0ijCKd7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/635506136486035456/c0ijCKd7_normal.jpg",
+        "profile_link_color": "1ECBD1",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "FA8459",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "nicatronTg",
+        "statuses_count": 15668,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": "http://t.co/MpgkHHjuyb",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

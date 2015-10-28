@@ -1,0 +1,279 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 24 14:14:06 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/Yahoo/status/6\u2026",
+                "expanded_url": "https://twitter.com/Yahoo/status/657733518626324481",
+                "indices": [
+                    31,
+                    54
+                ],
+                "url": "https://t.co/SSpTMYWDvd"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 19380829,
+                "id_str": "19380829",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Yahoo",
+                "screen_name": "Yahoo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 657923020368027648,
+    "id_str": "657923020368027648",
+    "in_reply_to_screen_name": "Yahoo",
+    "in_reply_to_status_id": 657733518626324481,
+    "in_reply_to_status_id_str": "657733518626324481",
+    "in_reply_to_user_id": 19380829,
+    "in_reply_to_user_id_str": "19380829",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -93.329148,
+                        44.889964
+                    ],
+                    [
+                        -93.194578,
+                        44.889964
+                    ],
+                    [
+                        -93.194578,
+                        45.051257
+                    ],
+                    [
+                        -93.329148,
+                        45.051257
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Minneapolis, MN",
+        "id": "8e9665cec9370f0f",
+        "name": "Minneapolis",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8e9665cec9370f0f.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Oct 24 01:41:05 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/qQJmZQseyl",
+                    "expanded_url": "http://twitter.com/Yahoo/status/657733518626324481/photo/1",
+                    "id": 657733518097842176,
+                    "id_str": "657733518097842176",
+                    "indices": [
+                        79,
+                        102
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CSC9Jl8XAAAD_Fe.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CSC9Jl8XAAAD_Fe.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 619,
+                            "resize": "fit",
+                            "w": 800
+                        },
+                        "medium": {
+                            "h": 464,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 263,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/qQJmZQseyl"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "yhoo.it/1W9Avqa",
+                    "expanded_url": "http://yhoo.it/1W9Avqa",
+                    "indices": [
+                        55,
+                        78
+                    ],
+                    "url": "https://t.co/YPTUQnCge0"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 290,
+        "favorited": false,
+        "geo": null,
+        "id": 657733518626324481,
+        "id_str": "657733518626324481",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 383,
+        "retweeted": false,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "What's the most popular Halloween candy in your state? https://t.co/YPTUQnCge0 https://t.co/qQJmZQseyl",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Jan 23 04:14:41 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Yahoo's official Twitter, sharing the best of our network. For email help: @YahooCare.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "yahoo.com",
+                            "expanded_url": "http://www.yahoo.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/PpRLXHyT0n"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 744,
+            "follow_request_sent": false,
+            "followers_count": 1435816,
+            "following": false,
+            "friends_count": 8295,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 19380829,
+            "id_str": "19380829",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 8872,
+            "location": "Sunnyvale CA",
+            "name": "Yahoo",
+            "notifications": false,
+            "profile_background_color": "400090",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000067623765/dd307661fb0f26016715ccfb6f54f264.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000067623765/dd307661fb0f26016715ccfb6f54f264.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19380829/1443453345",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/615626753373945856/lCKj53DE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/615626753373945856/lCKj53DE_normal.jpg",
+            "profile_link_color": "400090",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDCBE6",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Yahoo",
+            "statuses_count": 61902,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/PpRLXHyT0n",
+            "utc_offset": -25200,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 657733518626324481,
+    "quoted_status_id_str": "657733518626324481",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Yahoo. This is a joke, right? https://t.co/SSpTMYWDvd",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 27 07:12:17 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Mpls St Paul economist, demographer & government stats guru. Tweets curator of @TCResearchGroup, @censusSDC. Views found here are my own -- just me.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 87,
+        "follow_request_sent": false,
+        "followers_count": 669,
+        "following": false,
+        "friends_count": 762,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 35693288,
+        "id_str": "35693288",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 40,
+        "location": "iPhone 45.000,-93.411",
+        "name": "Todd Graham",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/118795171/FifthStLRT2_5598.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/118795171/FifthStLRT2_5598.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/35693288/1405710479",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/515992943052611584/zH7fx7yA_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/515992943052611584/zH7fx7yA_normal.jpeg",
+        "profile_link_color": "0040FF",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MetroGram",
+        "statuses_count": 2503,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

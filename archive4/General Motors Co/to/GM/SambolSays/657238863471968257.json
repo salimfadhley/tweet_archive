@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 22 16:55:30 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    93,
+                    103
+                ],
+                "text": "ForrForum"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 10850192,
+                "id_str": "10850192",
+                "indices": [
+                    0,
+                    3
+                ],
+                "name": "General Motors",
+                "screen_name": "GM"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 657238863471968257,
+    "id_str": "657238863471968257",
+    "in_reply_to_screen_name": "GM",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 10850192,
+    "in_reply_to_user_id_str": "10850192",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.413931,
+                        37.780905
+                    ],
+                    [
+                        -122.4019909,
+                        37.780905
+                    ],
+                    [
+                        -122.4019909,
+                        37.792852
+                    ],
+                    [
+                        -122.413931,
+                        37.792852
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Union Square, San Francisco",
+        "id": "84484af0f9d1cded",
+        "name": "Union Square",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/84484af0f9d1cded.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@GM leadership \u27a1\ufe0f culture \u27a1\ufe0f innovation. Be an \u201coutside-in\u201d company and leverage your scale. #ForrForum",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 08 04:20:22 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "R&D Manager.  Customer-centered research and marketing innovation. \n\nKnow the enemy and know thyself, and you need not fear the result of 100 battles.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 75,
+        "follow_request_sent": false,
+        "followers_count": 152,
+        "following": false,
+        "friends_count": 259,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 120970233,
+        "id_str": "120970233",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 26,
+        "location": "Upward & Onward",
+        "name": "Jeremy Sambol",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/775291391/03c5d80d58a1c895cb83473811645fce.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/775291391/03c5d80d58a1c895cb83473811645fce.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/120970233/1398822581",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/645016524990709760/z1iU2YNS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/645016524990709760/z1iU2YNS_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SambolSays",
+        "statuses_count": 2544,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

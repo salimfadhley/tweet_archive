@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 22 11:10:30 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 79962986,
+                "id_str": "79962986",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Total",
+                "screen_name": "Total"
+            },
+            {
+                "id": 1729082275,
+                "id_str": "1729082275",
+                "indices": [
+                    66,
+                    74
+                ],
+                "name": "Racontr",
+                "screen_name": "racontr"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 657152040674676736,
+    "id_str": "657152040674676736",
+    "in_reply_to_screen_name": "Total",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 79962986,
+    "in_reply_to_user_id_str": "79962986",
+    "is_quote_status": false,
+    "lang": "fr",
+    "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.5056468,
+                        48.9014352
+                    ],
+                    [
+                        2.5647238,
+                        48.9014352
+                    ],
+                    [
+                        2.5647238,
+                        48.9353323
+                    ],
+                    [
+                        2.5056468,
+                        48.9353323
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Livry-Gargan, Ile-de-France",
+        "id": "220ad9a0b18c0882",
+        "name": "Livry-Gargan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/220ad9a0b18c0882.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Total  pour son webdoc \"L'acc\u00e8s \u00e0 l'\u00e9nergie pour tous\" a utilis\u00e9 @racontr",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 29 10:42:57 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Journaliste web en veille sur le #cm et le #data. Sudiste en exil, je parle av\u00e9 l'axen. J'ai cr\u00e9\u00e9 un site sur les civilisations pr\u00e9colombiennes au #Mexique.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mayaztequemexique.fr",
+                        "expanded_url": "http://www.mayaztequemexique.fr",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/rZ0Roc6Aix"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 537,
+        "follow_request_sent": false,
+        "followers_count": 1279,
+        "following": false,
+        "friends_count": 972,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 27408575,
+        "id_str": "27408575",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 102,
+        "location": "France  ",
+        "name": "M\u00e9lanie Chaluleau",
+        "notifications": false,
+        "profile_background_color": "F2F7F2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/658381121/qnnshc82emwhpbvqsoi9.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/658381121/qnnshc82emwhpbvqsoi9.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27408575/1411577618",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/565863411808886784/hQHOtnvu_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/565863411808886784/hQHOtnvu_normal.png",
+        "profile_link_color": "D1143A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FAF7FA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "mchaluleau",
+        "statuses_count": 14509,
+        "time_zone": "Greenland",
+        "url": "http://t.co/rZ0Roc6Aix",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

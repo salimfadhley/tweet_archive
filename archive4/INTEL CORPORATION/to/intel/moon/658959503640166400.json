@@ -1,0 +1,175 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 27 10:52:43 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    100,
+                    110
+                ],
+                "text": "SmartMove"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "saffrontech.com",
+                "expanded_url": "http://saffrontech.com/",
+                "indices": [
+                    16,
+                    39
+                ],
+                "url": "https://t.co/c43Ldw5bqp"
+            },
+            {
+                "display_url": "blogs.intel.com/technology/201\u2026",
+                "expanded_url": "https://blogs.intel.com/technology/2015/10/intel-acquires-saffron-for-cognitive-computing/",
+                "indices": [
+                    76,
+                    99
+                ],
+                "url": "https://t.co/luiFhhTE8j"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2803191,
+                "id_str": "2803191",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Intel",
+                "screen_name": "intel"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658959503640166400,
+    "id_str": "658959503640166400",
+    "in_reply_to_screen_name": "intel",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2803191,
+    "in_reply_to_user_id_str": "2803191",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.933612,
+                        40.785365
+                    ],
+                    [
+                        -73.765271,
+                        40.785365
+                    ],
+                    [
+                        -73.765271,
+                        40.91533
+                    ],
+                    [
+                        -73.933612,
+                        40.91533
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Bronx, NY",
+        "id": "002e24c6736f069d",
+        "name": "Bronx",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/002e24c6736f069d.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Intel acquires https://t.co/c43Ldw5bqp, a simple approach to complex data  https://t.co/luiFhhTE8j #SmartMove",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 10 22:11:25 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Avid early adopter and innovator, helping technology evolve, Poet, blogger, videographer, freedom lover http://t.co/iUcbDlAwVI",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "about.me/paulmooney",
+                        "expanded_url": "http://about.me/paulmooney",
+                        "indices": [
+                            104,
+                            126
+                        ],
+                        "url": "http://t.co/iUcbDlAwVI"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "neuronspark.com",
+                        "expanded_url": "http://neuronspark.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/NozhGby14i"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1495,
+        "follow_request_sent": false,
+        "followers_count": 13935,
+        "following": false,
+        "friends_count": 5544,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 886491,
+        "id_str": "886491",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 463,
+        "location": "Morristown, NJ ",
+        "name": "paul mooney",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3577685/600px-Hubble_ultra_deep_field_1_.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3577685/600px-Hubble_ultra_deep_field_1_.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/886491/1409982126",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1397355315/eclipse31_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397355315/eclipse31_normal.jpg",
+        "profile_link_color": "E00B45",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "051E99",
+        "profile_text_color": "DD4BCF",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "moon",
+        "statuses_count": 40726,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/NozhGby14i",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

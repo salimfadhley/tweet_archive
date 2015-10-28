@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 24 07:16:29 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 430158505,
+                "id_str": "430158505",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Ask eBay",
+                "screen_name": "AskeBay"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 657817925844381696,
+    "id_str": "657817925844381696",
+    "in_reply_to_screen_name": "AskeBay",
+    "in_reply_to_status_id": 657735293383135232,
+    "in_reply_to_status_id_str": "657735293383135232",
+    "in_reply_to_user_id": 430158505,
+    "in_reply_to_user_id_str": "430158505",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        51.9921946,
+                        16.6395606
+                    ],
+                    [
+                        59.8393228,
+                        16.6395606
+                    ],
+                    [
+                        59.8393228,
+                        26.3884883
+                    ],
+                    [
+                        51.9921946,
+                        26.3884883
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Oman",
+        "country_code": "OM",
+        "full_name": "Oman",
+        "id": "ec1d87074d3793f0",
+        "name": "Oman",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/ec1d87074d3793f0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AskeBay Ah ha, I managed to fix it yesterday by phone - thank you though!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 09 01:42:47 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "PR professional, award-winner, cookie monster.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 244,
+        "following": false,
+        "friends_count": 496,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 387426047,
+        "id_str": "387426047",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "GMT +4",
+        "name": "Daniel",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/387426047/1437486785",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/559962546908585985/7rAhI-Qy_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/559962546908585985/7rAhI-Qy_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Daniel__Nash",
+        "statuses_count": 21214,
+        "time_zone": "Muscat",
+        "url": null,
+        "utc_offset": 14400,
+        "verified": false
+    }
+}

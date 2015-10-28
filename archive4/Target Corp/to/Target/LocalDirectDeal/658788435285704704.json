@@ -1,0 +1,339 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 26 23:32:57 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    8,
+                    14
+                ],
+                "text": "deals"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/LocalDirect/st\u2026",
+                "expanded_url": "https://twitter.com/LocalDirect/status/658771853381619713",
+                "indices": [
+                    16,
+                    39
+                ],
+                "url": "https://t.co/pDTJsJkthY"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658788435285704704,
+    "id_str": "658788435285704704",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Oct 26 22:27:03 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        78,
+                        86
+                    ],
+                    "text": "recipes"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/p26a09nE6n",
+                    "expanded_url": "http://twitter.com/LocalDirect/status/658771853381619713/photo/1",
+                    "id": 658771852035141632,
+                    "id_str": "658771852035141632",
+                    "indices": [
+                        87,
+                        110
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CSRtglSUsAAWPPQ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CSRtglSUsAAWPPQ.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 191,
+                            "resize": "fit",
+                            "w": 263
+                        },
+                        "medium": {
+                            "h": 191,
+                            "resize": "fit",
+                            "w": 263
+                        },
+                        "small": {
+                            "h": 191,
+                            "resize": "fit",
+                            "w": 263
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/p26a09nE6n"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 874537423,
+                    "id_str": "874537423",
+                    "indices": [
+                        0,
+                        8
+                    ],
+                    "name": "Garf ",
+                    "screen_name": "g_kohls"
+                },
+                {
+                    "id": 1120243496,
+                    "id_str": "1120243496",
+                    "indices": [
+                        9,
+                        23
+                    ],
+                    "name": "Roberta Blevins",
+                    "screen_name": "mommylikewhoa"
+                },
+                {
+                    "id": 89084561,
+                    "id_str": "89084561",
+                    "indices": [
+                        24,
+                        31
+                    ],
+                    "name": "Target",
+                    "screen_name": "Target"
+                },
+                {
+                    "id": 433595318,
+                    "id_str": "433595318",
+                    "indices": [
+                        51,
+                        67
+                    ],
+                    "name": "Local Direct Deals",
+                    "screen_name": "LocalDirectDeal"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 658771853381619713,
+        "id_str": "658771853381619713",
+        "in_reply_to_screen_name": "g_kohls",
+        "in_reply_to_status_id": 658744318572625920,
+        "in_reply_to_status_id_str": "658744318572625920",
+        "in_reply_to_user_id": 874537423,
+        "in_reply_to_user_id_str": "874537423",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -87.940033,
+                            41.644102
+                        ],
+                        [
+                            -87.523993,
+                            41.644102
+                        ],
+                        [
+                            -87.523993,
+                            42.0230669
+                        ],
+                        [
+                            -87.940033,
+                            42.0230669
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Chicago, IL",
+            "id": "1d9a5370a355ab0c",
+            "name": "Chicago",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "@g_kohls @mommylikewhoa @Target Make sure you tell @LocalDirectDeal they love #recipes https://t.co/p26a09nE6n",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Sep 23 00:47:25 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Local Direct Media Chicago...We bring Fortune 100 #Digital to SMBs! Featured Partner: http://www.nationalpos 630-269-4000 We #folloback #SoLoMo",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.me/jimtaylormarke\u2026",
+                            "expanded_url": "http://about.me/jimtaylormarketingchicago",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/onOdiTX3kz"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1696,
+            "follow_request_sent": false,
+            "followers_count": 4731,
+            "following": false,
+            "friends_count": 3870,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 193931137,
+            "id_str": "193931137",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 238,
+            "location": "Chicago, Illinois 60611",
+            "name": "Local Direct Media",
+            "notifications": false,
+            "profile_background_color": "FFCC4D",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/551132392790839296/dEbDslEi.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/551132392790839296/dEbDslEi.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/193931137/1445617386",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/551131355749179392/lJNxD7gQ_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/551131355749179392/lJNxD7gQ_normal.jpeg",
+            "profile_link_color": "4A913C",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "FCFCFC",
+            "profile_text_color": "0A090A",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LocalDirect",
+            "statuses_count": 8837,
+            "time_zone": "Central Time (US & Canada)",
+            "url": "http://t.co/onOdiTX3kz",
+            "utc_offset": -18000,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 658771853381619713,
+    "quoted_status_id_str": "658771853381619713",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Target #deals  https://t.co/pDTJsJkthY",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 10 19:24:05 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Have a Great Deal? Share it! Wanna get word out? We'll RT your Deals, News, & Info. Add #localdirectdeal to your post. #chicago #deals #volunteer #Cubs",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/jimtaylormarke\u2026",
+                        "expanded_url": "http://about.me/jimtaylormarketingchicago",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/ZSXW63qls9"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3275,
+        "follow_request_sent": false,
+        "followers_count": 11397,
+        "following": false,
+        "friends_count": 9172,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 433595318,
+        "id_str": "433595318",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 126,
+        "location": "Chicago, IL 60611",
+        "name": "Local Direct Deals",
+        "notifications": false,
+        "profile_background_color": "F5D8C9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/521833460340510720/fnIQ1GUx.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/521833460340510720/fnIQ1GUx.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/433595318/1421514875",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/657588068979863552/pbAM4Mh3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/657588068979863552/pbAM4Mh3_normal.jpg",
+        "profile_link_color": "0E0DB8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F0F7FA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LocalDirectDeal",
+        "statuses_count": 29021,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/ZSXW63qls9",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

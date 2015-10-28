@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 25 06:16:36 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 27025414,
+                "id_str": "27025414",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "P&G",
+                "screen_name": "ProcterGamble"
+            },
+            {
+                "id": 274940075,
+                "id_str": "274940075",
+                "indices": [
+                    15,
+                    30
+                ],
+                "name": "SuperSavvyMeUK",
+                "screen_name": "SuperSavvyMeUK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658165243823067136,
+    "id_str": "658165243823067136",
+    "in_reply_to_screen_name": "ProcterGamble",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 27025414,
+    "in_reply_to_user_id_str": "27025414",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.745779800818049,
+                        51.4482221321091
+                    ],
+                    [
+                        1.76893599950184,
+                        51.4482221321091
+                    ],
+                    [
+                        1.76893599950184,
+                        52.9926789576249
+                    ],
+                    [
+                        -0.745779800818049,
+                        52.9926789576249
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "East, England",
+        "id": "3bc1b6cfd27ef7f6",
+        "name": "East",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/3bc1b6cfd27ef7f6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@ProcterGamble @SuperSavvyMeUK Super Savvy Me website seems to be down!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 14 05:15:37 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 8,
+        "follow_request_sent": false,
+        "followers_count": 119,
+        "following": false,
+        "friends_count": 157,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 31064682,
+        "id_str": "31064682",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "St. Ives",
+        "name": "Stuart Garside",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2924299066/99880330144a0fe2c488d3c63d255568_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2924299066/99880330144a0fe2c488d3c63d255568_normal.jpeg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "stuartgarside",
+        "statuses_count": 18366,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

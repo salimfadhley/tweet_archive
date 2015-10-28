@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 27 11:52:32 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658974556489699328,
+    "id_str": "658974556489699328",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "fr",
+    "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.3000776,
+                        48.8096096
+                    ],
+                    [
+                        2.332327,
+                        48.8096096
+                    ],
+                    [
+                        2.332327,
+                        48.8223602
+                    ],
+                    [
+                        2.3000776,
+                        48.8223602
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Montrouge, Ile-de-France",
+        "id": "162484267d777828",
+        "name": "Montrouge",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/162484267d777828.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@twitter pk g pas les sondages",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 23 21:02:24 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u00e0 part dormir et faire la sieste y a rien qui me passionne // Nadjati mv",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 17766,
+        "follow_request_sent": false,
+        "followers_count": 1382,
+        "following": false,
+        "friends_count": 191,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1115286012,
+        "id_str": "1115286012",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 16,
+        "location": "IDOSI a flunch",
+        "name": "Bonnie sans Clyde",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/504810114709065729/_spDgeTS.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/504810114709065729/_spDgeTS.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1115286012/1439587928",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/657324779247112192/nd14pj6N_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/657324779247112192/nd14pj6N_normal.jpg",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FD216B",
+        "profile_text_color": "C38F85",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "juicool",
+        "statuses_count": 134446,
+        "time_zone": "Amsterdam",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

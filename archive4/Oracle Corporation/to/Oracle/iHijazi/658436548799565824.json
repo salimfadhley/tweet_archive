@@ -1,0 +1,155 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 26 00:14:41 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    38,
+                    44
+                ],
+                "text": "oow15"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 809273,
+                "id_str": "809273",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Oracle",
+                "screen_name": "Oracle"
+            },
+            {
+                "id": 414399556,
+                "id_str": "414399556",
+                "indices": [
+                    14,
+                    24
+                ],
+                "name": "Mark Hurd",
+                "screen_name": "MarkVHurd"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658436548799565824,
+    "id_str": "658436548799565824",
+    "in_reply_to_screen_name": "Oracle",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 809273,
+    "in_reply_to_user_id_str": "809273",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.514926,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.833238
+                    ],
+                    [
+                        -122.514926,
+                        37.833238
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Francisco, CA",
+        "id": "5a110d312052166f",
+        "name": "San Francisco",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@oracle's CEO @MarkVHurd on stage now #oow15",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 06 17:59:32 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Traveling, technology, music, business, writing and innovation. @Oracle.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ae.linkedin.com/in/ihijazi/",
+                        "expanded_url": "http://ae.linkedin.com/in/ihijazi/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/0JnyQFAy5n"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 223,
+        "follow_request_sent": false,
+        "followers_count": 850,
+        "following": false,
+        "friends_count": 174,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 80362601,
+        "id_str": "80362601",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 56,
+        "location": "Dubai",
+        "name": "Issam Hijazi",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80362601/1441520669",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640410629673631744/1reCpZD0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/640410629673631744/1reCpZD0_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "iHijazi",
+        "statuses_count": 5570,
+        "time_zone": "Baku",
+        "url": "https://t.co/0JnyQFAy5n",
+        "utc_offset": 14400,
+        "verified": false
+    }
+}

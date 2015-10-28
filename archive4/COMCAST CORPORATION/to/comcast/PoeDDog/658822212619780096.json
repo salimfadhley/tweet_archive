@@ -1,0 +1,169 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 27 01:47:10 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    40,
+                    48
+                ],
+                "text": "DataCap"
+            },
+            {
+                "indices": [
+                    53,
+                    60
+                ],
+                "text": "greedy"
+            },
+            {
+                "indices": [
+                    69,
+                    74
+                ],
+                "text": "pigs"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89587925,
+                "id_str": "89587925",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Comcast",
+                "screen_name": "comcast"
+            },
+            {
+                "id": 14996251,
+                "id_str": "14996251",
+                "indices": [
+                    15,
+                    23
+                ],
+                "name": "XFINITY",
+                "screen_name": "XFINITY"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658822212619780096,
+    "id_str": "658822212619780096",
+    "in_reply_to_screen_name": "comcast",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89587925,
+    "in_reply_to_user_id_str": "89587925",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.812436,
+                        24.54394
+                    ],
+                    [
+                        -81.729079,
+                        24.54394
+                    ],
+                    [
+                        -81.729079,
+                        24.594749
+                    ],
+                    [
+                        -81.812436,
+                        24.594749
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Key West, FL",
+        "id": "5a1f85290e8bd413",
+        "name": "Key West",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5a1f85290e8bd413.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@comcast &amp; @XFINITY you can suck my #DataCap you #greedy fucking #pigs",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 30 21:28:21 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Photographer and Graphic Artist with one knee living in the Florida Keys. I tend to use this space to rant. Be warned.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Skycrabimages.com",
+                        "expanded_url": "http://Skycrabimages.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/POcTFkhB5A"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 43,
+        "follow_request_sent": false,
+        "followers_count": 81,
+        "following": false,
+        "friends_count": 80,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 150020346,
+        "id_str": "150020346",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "Key West",
+        "name": "Christopher Aiello",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/466278567144214528/vCOKr0L0.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/466278567144214528/vCOKr0L0.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/150020346/1348892347",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/947112442/is70v1di_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/947112442/is70v1di_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PoeDDog",
+        "statuses_count": 561,
+        "time_zone": "Quito",
+        "url": "http://t.co/POcTFkhB5A",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

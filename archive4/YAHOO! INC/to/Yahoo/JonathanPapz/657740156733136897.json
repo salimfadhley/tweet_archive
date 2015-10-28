@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 24 02:07:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19380829,
+                "id_str": "19380829",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Yahoo",
+                "screen_name": "Yahoo"
+            }
+        ]
+    },
+    "favorite_count": 4,
+    "favorited": false,
+    "geo": null,
+    "id": 657740156733136897,
+    "id_str": "657740156733136897",
+    "in_reply_to_screen_name": "Yahoo",
+    "in_reply_to_status_id": 657732723558105088,
+    "in_reply_to_status_id_str": "657732723558105088",
+    "in_reply_to_user_id": 19380829,
+    "in_reply_to_user_id_str": "19380829",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.041878,
+                        40.570842
+                    ],
+                    [
+                        -73.855673,
+                        40.570842
+                    ],
+                    [
+                        -73.855673,
+                        40.739434
+                    ],
+                    [
+                        -74.041878,
+                        40.739434
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Brooklyn, NY",
+        "id": "011add077f4d2da3",
+        "name": "Brooklyn",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Yahoo Can I watch it on Apple TV?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 24 09:14:37 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@SyracuseU and @NewhouseSU ADV Alum. Pokemon Master. I know the guac is extra. I also like the @BuffaloSabres, taking naps, live music, and brand new sneakers.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jonathanpapazides.com",
+                        "expanded_url": "http://jonathanpapazides.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/0A4lNEGlxu"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1081,
+        "follow_request_sent": false,
+        "followers_count": 805,
+        "following": false,
+        "friends_count": 762,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 26204461,
+        "id_str": "26204461",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 19,
+        "location": "New York",
+        "name": "Jonathan",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493141528588472320/3DGE7yHb.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493141528588472320/3DGE7yHb.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26204461/1440100256",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/446911530961883137/yjIgZZZu_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/446911530961883137/yjIgZZZu_normal.jpeg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JonathanPapz",
+        "statuses_count": 21097,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/0A4lNEGlxu",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

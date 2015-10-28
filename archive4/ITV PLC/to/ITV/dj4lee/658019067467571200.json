@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 24 20:35:45 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 86925202,
+                "id_str": "86925202",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ITV",
+                "screen_name": "ITV"
+            },
+            {
+                "id": 413487212,
+                "id_str": "413487212",
+                "indices": [
+                    5,
+                    17
+                ],
+                "name": "Simon Cowell",
+                "screen_name": "SimonCowell"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658019067467571200,
+    "id_str": "658019067467571200",
+    "in_reply_to_screen_name": "ITV",
+    "in_reply_to_status_id": 658018622552604673,
+    "in_reply_to_status_id_str": "658018622552604673",
+    "in_reply_to_user_id": 86925202,
+    "in_reply_to_user_id_str": "86925202",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.51552,
+                        52.1048731
+                    ],
+                    [
+                        -0.4032125,
+                        52.1048731
+                    ],
+                    [
+                        -0.4032125,
+                        52.1700739
+                    ],
+                    [
+                        -0.51552,
+                        52.1700739
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Bedford, England",
+        "id": "3ddb10d62383799a",
+        "name": "Bedford",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3ddb10d62383799a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ITV @SimonCowell ex contestant trying to get back",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 27 15:49:58 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u05d0\u05e0\u05d9 \u05de\u05d7\u05e8, \u05de\u05d0\u05e4\u05e9\u05e8\u05d5\u05ea \u05db\u05d9\u05d5\u05dd \u05d9\u05db\u05d5\u05dc \u05dc\u05d4\u05d9\u05e2\u05dc\u05dd! Actor, Singer, Producer,Script writer, novelist. Hero to the Superheroes. I'm coming home!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1999,
+        "follow_request_sent": false,
+        "followers_count": 609,
+        "following": false,
+        "friends_count": 708,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 288860775,
+        "id_str": "288860775",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "Bedford, United Kingdom",
+        "name": "DJ  Lee",
+        "notifications": false,
+        "profile_background_color": "080208",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/386861452/bACK2.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/386861452/bACK2.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/288860775/1444993630",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/464568234617085953/FkdOhn0a_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/464568234617085953/FkdOhn0a_normal.jpeg",
+        "profile_link_color": "E633E6",
+        "profile_sidebar_border_color": "6A95EB",
+        "profile_sidebar_fill_color": "140514",
+        "profile_text_color": "E2E5F0",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dj4lee",
+        "statuses_count": 11626,
+        "time_zone": "Europe/London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

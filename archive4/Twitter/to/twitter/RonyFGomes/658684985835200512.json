@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 26 16:41:53 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658684985835200512,
+    "id_str": "658684985835200512",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "pt",
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -46.826039,
+                        -24.008814
+                    ],
+                    [
+                        -46.365052,
+                        -24.008814
+                    ],
+                    [
+                        -46.365052,
+                        -23.356792
+                    ],
+                    [
+                        -46.826039,
+                        -23.356792
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Sao Paulo, Brazil",
+        "id": "68e019afec7d0ba5",
+        "name": "Sao Paulo",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@twitter melhor rede social ever.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 03 02:32:39 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "21, Top 30 Lee sin S4 - CONTATO: RonyFGomes@r7.com",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitch.tv/brazeiker",
+                        "expanded_url": "http://www.twitch.tv/brazeiker",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/kWis340Zs1"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 361,
+        "follow_request_sent": false,
+        "followers_count": 53353,
+        "following": false,
+        "friends_count": 737,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 139584994,
+        "id_str": "139584994",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 835,
+        "location": "S\u00e3o Caetano do Sul",
+        "name": "Rony F. Gomes",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000163490955/oZjC8jSI.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000163490955/oZjC8jSI.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/139584994/1444226467",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/653695172807667713/mhSItafh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/653695172807667713/mhSItafh_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RonyFGomes",
+        "statuses_count": 22355,
+        "time_zone": "Brasilia",
+        "url": "http://t.co/kWis340Zs1",
+        "utc_offset": -7200,
+        "verified": false
+    }
+}
