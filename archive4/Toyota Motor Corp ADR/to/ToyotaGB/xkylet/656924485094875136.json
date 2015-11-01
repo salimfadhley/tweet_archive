@@ -1,0 +1,149 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -0.14353963,
+            51.50646243
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Oct 21 20:06:16 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16220541,
+                "id_str": "16220541",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "ToyotaGB",
+                "screen_name": "ToyotaGB"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            51.50646243,
+            -0.14353963
+        ],
+        "type": "Point"
+    },
+    "id": 656924485094875136,
+    "id_str": "656924485094875136",
+    "in_reply_to_screen_name": "ToyotaGB",
+    "in_reply_to_status_id": 656845640962580480,
+    "in_reply_to_status_id_str": "656845640962580480",
+    "in_reply_to_user_id": 16220541,
+    "in_reply_to_user_id_str": "16220541",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.187894,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.5164655
+                    ],
+                    [
+                        -0.187894,
+                        51.5164655
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "London, England",
+        "id": "457b4814b4240d87",
+        "name": "London",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/457b4814b4240d87.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@ToyotaGB looks good, needs the refuelling infrastructure of course. And a pizza hydrator.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 29 20:38:16 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Hello I'm Kyle. Nurse, cyclist, reader, taker of photographs.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "kylet.co.uk",
+                        "expanded_url": "http://www.kylet.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/8NGATc2ubc"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1821,
+        "follow_request_sent": false,
+        "followers_count": 788,
+        "following": false,
+        "friends_count": 1069,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 15651101,
+        "id_str": "15651101",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 37,
+        "location": "Bristol, UK",
+        "name": "X Kyle M Thompson",
+        "notifications": false,
+        "profile_background_color": "ECA60E",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/188993124/qr.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/188993124/qr.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15651101/1388620466",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2844028003/db740cb3002bc9c519697ecf91cc50b8_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2844028003/db740cb3002bc9c519697ecf91cc50b8_normal.jpeg",
+        "profile_link_color": "A72A01",
+        "profile_sidebar_border_color": "3C8C12",
+        "profile_sidebar_fill_color": "2CB54E",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "xkylet",
+        "statuses_count": 62214,
+        "time_zone": "London",
+        "url": "http://t.co/8NGATc2ubc",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

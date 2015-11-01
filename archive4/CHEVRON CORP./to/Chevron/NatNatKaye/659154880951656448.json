@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 27 23:49:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 21021891,
+                "id_str": "21021891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Chevron",
+                "screen_name": "Chevron"
+            },
+            {
+                "id": 143436301,
+                "id_str": "143436301",
+                "indices": [
+                    9,
+                    22
+                ],
+                "name": "Gastech Event",
+                "screen_name": "GastechEvent"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659154880951656448,
+    "id_str": "659154880951656448",
+    "in_reply_to_screen_name": "Chevron",
+    "in_reply_to_status_id": 659121173133836288,
+    "in_reply_to_status_id_str": "659121173133836288",
+    "in_reply_to_user_id": 21021891,
+    "in_reply_to_user_id_str": "21021891",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        4.9702867,
+                        52.0262429
+                    ],
+                    [
+                        5.1952468,
+                        52.0262429
+                    ],
+                    [
+                        5.1952468,
+                        52.142137
+                    ],
+                    [
+                        4.9702867,
+                        52.142137
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Nederland",
+        "country_code": "NL",
+        "full_name": "Utrecht, The Netherlands",
+        "id": "871685aa82f8a489",
+        "name": "Utrecht",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Chevron @GastechEvent will there be an online stream?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 28 23:20:14 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "dancing like a penguin",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 16117,
+        "follow_request_sent": false,
+        "followers_count": 360,
+        "following": false,
+        "friends_count": 280,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 100074872,
+        "id_str": "100074872",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Utrecht, The Netherlands",
+        "name": "NatNat",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000142444748/BvqmTEID.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000142444748/BvqmTEID.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/100074872/1431558044",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615916612500127744/69nvQdDr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/615916612500127744/69nvQdDr_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NatNatKaye",
+        "statuses_count": 5444,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

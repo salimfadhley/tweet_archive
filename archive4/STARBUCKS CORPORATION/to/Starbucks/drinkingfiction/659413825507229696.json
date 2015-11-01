@@ -1,0 +1,146 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -75.4831619,
+            40.0421791
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Oct 28 16:58:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "instagram.com/p/9Y4jeRiTjO/",
+                "expanded_url": "https://instagram.com/p/9Y4jeRiTjO/",
+                "indices": [
+                    103,
+                    126
+                ],
+                "url": "https://t.co/xf1V53kxYh"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            40.0421791,
+            -75.4831619
+        ],
+        "type": "Point"
+    },
+    "id": 659413825507229696,
+    "id_str": "659413825507229696",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -75.513162,
+                        40.028116
+                    ],
+                    [
+                        -75.474359,
+                        40.028116
+                    ],
+                    [
+                        -75.474359,
+                        40.053461
+                    ],
+                    [
+                        -75.513162,
+                        40.053461
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Paoli, PA",
+        "id": "2576d20ec62d8807",
+        "name": "Paoli",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2576d20ec62d8807.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "text": "@starbucks needs to stop worrying about creating new drinks and start working on a cup that's doesn't\u2026 https://t.co/xf1V53kxYh",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 23 18:57:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "There are more things I wish I was than things I really am... like the owner of a blue-ribbon winning pie recipie",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 40,
+        "follow_request_sent": false,
+        "followers_count": 143,
+        "following": false,
+        "friends_count": 70,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 21680229,
+        "id_str": "21680229",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Philadelphia, PA",
+        "name": "Kevin Vincent",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/294230107/gal_artist_78_3008_jump72-500x718.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/294230107/gal_artist_78_3008_jump72-500x718.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/919076591/profile_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/919076591/profile_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "drinkingfiction",
+        "statuses_count": 2314,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

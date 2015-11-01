@@ -1,0 +1,184 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 27 11:45:28 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    31,
+                    42
+                ],
+                "text": "collection"
+            },
+            {
+                "indices": [
+                    71,
+                    79
+                ],
+                "text": "network"
+            },
+            {
+                "indices": [
+                    105,
+                    115
+                ],
+                "text": "ecommerce"
+            },
+            {
+                "indices": [
+                    116,
+                    125
+                ],
+                "text": "delivery"
+            },
+            {
+                "indices": [
+                    126,
+                    136
+                ],
+                "text": "logistics"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "posteurop.org/showNews?selec\u2026",
+                "expanded_url": "http://www.posteurop.org/showNews?selectedEventId=28695",
+                "indices": [
+                    81,
+                    104
+                ],
+                "url": "https://t.co/U10mEOOSMg"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 96965958,
+                "id_str": "96965958",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Royal Mail ",
+                "screen_name": "RoyalMail"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 658972779400835072,
+    "id_str": "658972779400835072",
+    "in_reply_to_screen_name": "RoyalMail",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 96965958,
+    "in_reply_to_user_id_str": "96965958",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        4.3139889,
+                        50.7960625
+                    ],
+                    [
+                        4.4369472,
+                        50.7960625
+                    ],
+                    [
+                        4.4369472,
+                        50.9137064
+                    ],
+                    [
+                        4.3139889,
+                        50.9137064
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Belgi\u00eb",
+        "country_code": "BE",
+        "full_name": "Brussels, Belgium",
+        "id": "0653bb913c88c1ea",
+        "name": "Brussels",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0653bb913c88c1ea.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@RoyalMail adds over 1,200 new #collection points to its Local Collect #network! https://t.co/U10mEOOSMg #ecommerce #delivery #logistics",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 02 14:45:45 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "PostEurop is your link to postal expertise and it is the one true voice for European Postal Operators.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "posteurop.org/about-us",
+                        "expanded_url": "http://www.posteurop.org/about-us",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/djHzHaRYlx"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 129,
+        "follow_request_sent": false,
+        "followers_count": 807,
+        "following": false,
+        "friends_count": 372,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 94103257,
+        "id_str": "94103257",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 49,
+        "location": "Brussels",
+        "name": "PostEurop",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/86322422/twitter_background_blue.JPG",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/86322422/twitter_background_blue.JPG",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/94103257/1415375114",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/776611991/twitter_avatar_two_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/776611991/twitter_avatar_two_normal.JPG",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PostEurop",
+        "statuses_count": 2227,
+        "time_zone": "Brussels",
+        "url": "http://t.co/djHzHaRYlx",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

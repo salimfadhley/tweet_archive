@@ -1,0 +1,161 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 23 13:51:54 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    88,
+                    97
+                ],
+                "text": "mecachis"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            },
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    8,
+                    15
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            },
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    19,
+                    29
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            },
+            {
+                "id": 2393328778,
+                "id_str": "2393328778",
+                "indices": [
+                    53,
+                    62
+                ],
+                "name": "Daniel Garcia",
+                "screen_name": "dgarrodr"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 657555046847139840,
+    "id_str": "657555046847139840",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.8890049,
+                        40.3120713
+                    ],
+                    [
+                        -3.5180102,
+                        40.3120713
+                    ],
+                    [
+                        -3.5180102,
+                        40.6435181
+                    ],
+                    [
+                        -3.8890049,
+                        40.6435181
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Espa\u00f1a",
+        "country_code": "ES",
+        "full_name": "Madrid, Comunidad de Madrid",
+        "id": "206c436ce43a43a3",
+        "name": "Madrid",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/206c436ce43a43a3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@google @amazon  y @Microsoft en m\u00e1ximos hist\u00f3ricos. @dgarrodr me ha faltado la \u00faltima. #mecachis",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 29 09:42:27 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Experienced Software Engineer.\nPassionate about start-ups... and dogs!!\nCurrently, on sabbatical",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 461,
+        "follow_request_sent": false,
+        "followers_count": 168,
+        "following": false,
+        "friends_count": 148,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 78265615,
+        "id_str": "78265615",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Espa\u00f1a",
+        "name": "Luis de Pablo",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/616309276835975168/qrMlAcJS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/616309276835975168/qrMlAcJS_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LdePablo",
+        "statuses_count": 1562,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

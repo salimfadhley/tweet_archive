@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 20:17:56 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/v7fw9hMakZ",
+                "expanded_url": "http://twitter.com/aslguy/status/659464132383678464/photo/1",
+                "id": 659464127702835200,
+                "id_str": "659464127702835200",
+                "indices": [
+                    86,
+                    109
+                ],
+                "media_url": "http://pbs.twimg.com/media/CSbjIVHXIAAYtdj.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CSbjIVHXIAAYtdj.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/v7fw9hMakZ"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store ",
+                "screen_name": "AppStore"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659464132383678464,
+    "id_str": "659464132383678464",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.200169,
+                        39.832013
+                    ],
+                    [
+                        -82.7713751,
+                        39.832013
+                    ],
+                    [
+                        -82.7713751,
+                        40.157354
+                    ],
+                    [
+                        -83.200169,
+                        40.157354
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Columbus, OH",
+        "id": "3df0e3eb1e91170b",
+        "name": "Columbus",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3df0e3eb1e91170b.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AppStore Something isn't right here. App Store unable to update; system status OK. \ud83e\udd14 https://t.co/v7fw9hMakZ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 25 11:46:51 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ASL-English Interpreter / Training Development Professional / Liberal / Geek / Sarcasm / Gay / iOS / Atheism",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 95,
+        "follow_request_sent": false,
+        "followers_count": 295,
+        "following": false,
+        "friends_count": 229,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 7709692,
+        "id_str": "7709692",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 17,
+        "location": "Columbus, Ohio",
+        "name": "Chris Owens",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7709692/1437107313",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000586152163/3d376a4a9b1aa99118fe97fc77f7addc_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000586152163/3d376a4a9b1aa99118fe97fc77f7addc_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "aslguy",
+        "statuses_count": 2706,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

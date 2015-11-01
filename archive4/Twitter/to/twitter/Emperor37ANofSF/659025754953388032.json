@@ -1,0 +1,176 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 27 15:15:58 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    20,
+                    29
+                ],
+                "text": "ThankYou"
+            },
+            {
+                "indices": [
+                    38,
+                    47
+                ],
+                "text": "Birthday"
+            },
+            {
+                "indices": [
+                    48,
+                    57
+                ],
+                "text": "Balloons"
+            },
+            {
+                "indices": [
+                    58,
+                    66
+                ],
+                "text": "Scorpio"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            },
+            {
+                "id": 172020392,
+                "id_str": "172020392",
+                "indices": [
+                    9,
+                    19
+                ],
+                "name": "Twitter SF",
+                "screen_name": "TwitterSF"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659025754953388032,
+    "id_str": "659025754953388032",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@twitter @TwitterSF #ThankYou for the #Birthday #Balloons #Scorpio",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 20 08:51:10 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Emperor 37 After Norton of San Francisco. Happily Married!! Love. Live. Laugh. Family first.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "makapoole.com",
+                        "expanded_url": "http://www.makapoole.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/IKPlpPPWgv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 787,
+        "follow_request_sent": false,
+        "followers_count": 1128,
+        "following": false,
+        "friends_count": 957,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 18263910,
+        "id_str": "18263910",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 33,
+        "location": "Newport Beach, California",
+        "name": "Paul Derby",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/34680610/1160.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/34680610/1160.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18263910/1398390700",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/643682592814829568/c51Lj5d3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/643682592814829568/c51Lj5d3_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "0B0652",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Emperor37ANofSF",
+        "statuses_count": 21652,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/IKPlpPPWgv",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

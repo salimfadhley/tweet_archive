@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 30 00:02:37 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 415859364,
+                "id_str": "415859364",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Nike",
+                "screen_name": "Nike"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659883067415261184,
+    "id_str": "659883067415261184",
+    "in_reply_to_screen_name": "Nike",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 415859364,
+    "in_reply_to_user_id_str": "415859364",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.34266,
+                        37.699279
+                    ],
+                    [
+                        -122.114711,
+                        37.699279
+                    ],
+                    [
+                        -122.114711,
+                        37.8847092
+                    ],
+                    [
+                        -122.34266,
+                        37.8847092
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Oakland, CA",
+        "id": "ab2f2fac83aa388d",
+        "name": "Oakland",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ab2f2fac83aa388d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Nike finally did something right!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 12 03:29:27 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Cozy Boyz QUIT LURKIN ON MY SHIT!!!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "soundcloud.com/cozyboyralph",
+                        "expanded_url": "https://soundcloud.com/cozyboyralph",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/CsdRhid28b"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 65939,
+        "follow_request_sent": false,
+        "followers_count": 1150,
+        "following": false,
+        "friends_count": 593,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 752380980,
+        "id_str": "752380980",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 26,
+        "location": "BAY AREAAAAA ",
+        "name": "CozyBoyRalph",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/527520374104129537/oGaibq0L.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/527520374104129537/oGaibq0L.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/752380980/1445710338",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/657766281018347520/yq8GO_w8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/657766281018347520/yq8GO_w8_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HeAintRalphTho",
+        "statuses_count": 103626,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/CsdRhid28b",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

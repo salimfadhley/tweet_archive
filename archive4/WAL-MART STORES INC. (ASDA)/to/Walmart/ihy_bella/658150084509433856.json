@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 25 05:16:22 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17137891,
+                "id_str": "17137891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Walmart",
+                "screen_name": "Walmart"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658150084509433856,
+    "id_str": "658150084509433856",
+    "in_reply_to_screen_name": "Walmart",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 17137891,
+    "in_reply_to_user_id_str": "17137891",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -119.321696,
+                        34.23444
+                    ],
+                    [
+                        -119.136287,
+                        34.23444
+                    ],
+                    [
+                        -119.136287,
+                        34.344939
+                    ],
+                    [
+                        -119.321696,
+                        34.344939
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Ventura, CA",
+        "id": "1df98ab7679917e7",
+        "name": "Ventura",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1df98ab7679917e7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Walmart follow me",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 07 04:53:21 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "part time soccer mom",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtu.be/sSf5PshkgMk",
+                        "expanded_url": "http://youtu.be/sSf5PshkgMk",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OIqj1mm7Ls"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 104,
+        "follow_request_sent": false,
+        "followers_count": 48,
+        "following": false,
+        "friends_count": 84,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3810743485,
+        "id_str": "3810743485",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "walmart",
+        "name": "bella",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3810743485/1445566950",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/658183103467225088/rF0pb658_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/658183103467225088/rF0pb658_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ihy_bella",
+        "statuses_count": 97,
+        "time_zone": null,
+        "url": "https://t.co/OIqj1mm7Ls",
+        "utc_offset": null,
+        "verified": false
+    }
+}

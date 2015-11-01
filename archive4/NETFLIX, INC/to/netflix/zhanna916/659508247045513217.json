@@ -1,0 +1,347 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 23:13:13 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    19,
+                    29
+                ],
+                "text": "SaveProof"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/gtarjam/status\u2026",
+                "expanded_url": "https://twitter.com/gtarjam/status/658757764768993280",
+                "indices": [
+                    66,
+                    89
+                ],
+                "url": "https://t.co/MYp7xWnn8E"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            },
+            {
+                "id": 607788559,
+                "id_str": "607788559",
+                "indices": [
+                    30,
+                    44
+                ],
+                "name": "Jennifer Beals",
+                "screen_name": "jenniferbeals"
+            },
+            {
+                "id": 3169408652,
+                "id_str": "3169408652",
+                "indices": [
+                    45,
+                    55
+                ],
+                "name": "Tom Jacobson",
+                "screen_name": "kcjake254"
+            },
+            {
+                "id": 17771358,
+                "id_str": "17771358",
+                "indices": [
+                    56,
+                    64
+                ],
+                "name": "Rob Bragin",
+                "screen_name": "rbragin"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 659508247045513217,
+    "id_str": "659508247045513217",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -89.173876,
+                        42.171924
+                    ],
+                    [
+                        -88.861257,
+                        42.171924
+                    ],
+                    [
+                        -88.861257,
+                        42.342367
+                    ],
+                    [
+                        -89.173876,
+                        42.342367
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Rockford, IL",
+        "id": "d4e703056914a3eb",
+        "name": "Rockford",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/d4e703056914a3eb.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Oct 26 21:31:04 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        84,
+                        90
+                    ],
+                    "text": "Proof"
+                },
+                {
+                    "indices": [
+                        91,
+                        94
+                    ],
+                    "text": "TP"
+                },
+                {
+                    "indices": [
+                        95,
+                        112
+                    ],
+                    "text": "Weknowwhereulive"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/dVDV5sFREi",
+                    "expanded_url": "http://twitter.com/gtarjam/status/658757764768993280/photo/1",
+                    "id": 658757763984551936,
+                    "id_str": "658757763984551936",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CSRgsjNUcAAX8si.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CSRgsjNUcAAX8si.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 487,
+                            "resize": "fit",
+                            "w": 693
+                        },
+                        "medium": {
+                            "h": 421,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 238,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/dVDV5sFREi"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 16573941,
+                    "id_str": "16573941",
+                    "indices": [
+                        0,
+                        8
+                    ],
+                    "name": "Netflix US",
+                    "screen_name": "netflix"
+                },
+                {
+                    "id": 607788559,
+                    "id_str": "607788559",
+                    "indices": [
+                        9,
+                        23
+                    ],
+                    "name": "Jennifer Beals",
+                    "screen_name": "jenniferbeals"
+                },
+                {
+                    "id": 2984620230,
+                    "id_str": "2984620230",
+                    "indices": [
+                        24,
+                        33
+                    ],
+                    "name": "Proof Fans",
+                    "screen_name": "ProofFan"
+                }
+            ]
+        },
+        "favorite_count": 9,
+        "favorited": false,
+        "geo": null,
+        "id": 658757764768993280,
+        "id_str": "658757764768993280",
+        "in_reply_to_screen_name": "netflix",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 16573941,
+        "in_reply_to_user_id_str": "16573941",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 9,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "@netflix @jenniferbeals @ProofFan How bt a Halloween Treat...tell us you've pick up #Proof #TP #Weknowwhereulive lol https://t.co/dVDV5sFREi",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jun 11 03:29:40 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 309,
+            "follow_request_sent": false,
+            "followers_count": 23,
+            "following": false,
+            "friends_count": 37,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 3318397102,
+            "id_str": "3318397102",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1,
+            "location": "",
+            "name": "Gtarjam",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3318397102/1442280147",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/643595772580130816/8-2oxaj4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/643595772580130816/8-2oxaj4_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "gtarjam",
+            "statuses_count": 784,
+            "time_zone": null,
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 658757764768993280,
+    "quoted_status_id_str": "658757764768993280",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@netflix \ud83d\udce2\ud83d\ude4f\ud83c\udffcplease #SaveProof @jenniferbeals @kcjake254 @rbragin  https://t.co/MYp7xWnn8E",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 29 00:03:00 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Peace & Love",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 14333,
+        "follow_request_sent": false,
+        "followers_count": 242,
+        "following": false,
+        "friends_count": 86,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2593906045,
+        "id_str": "2593906045",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 19,
+        "location": "Chicago, IL",
+        "name": "Zhanna Huntley",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590279266744422402/QtfTBZHv.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590279266744422402/QtfTBZHv.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2593906045/1422282011",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/653729846451929088/1I4J8q5i_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/653729846451929088/1I4J8q5i_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "zhanna916",
+        "statuses_count": 8718,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

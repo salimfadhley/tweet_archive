@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 21 17:39:41 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2803191,
+                "id_str": "2803191",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Intel",
+                "screen_name": "intel"
+            },
+            {
+                "id": 15560223,
+                "id_str": "15560223",
+                "indices": [
+                    7,
+                    17
+                ],
+                "name": "techradar",
+                "screen_name": "techradar"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 656887593141948416,
+    "id_str": "656887593141948416",
+    "in_reply_to_screen_name": "intel",
+    "in_reply_to_status_id": 656883911449038849,
+    "in_reply_to_status_id_str": "656883911449038849",
+    "in_reply_to_user_id": 2803191,
+    "in_reply_to_user_id_str": "2803191",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        1.4465224,
+                        48.1204485
+                    ],
+                    [
+                        3.5588048,
+                        48.1204485
+                    ],
+                    [
+                        3.5588048,
+                        49.2339157
+                    ],
+                    [
+                        1.4465224,
+                        49.2339157
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "\u00cele-de-France, France",
+        "id": "f9c4cad0af2337fa",
+        "name": "\u00cele-de-France",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/f9c4cad0af2337fa.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@intel @techradar I have an i3-5010U and an i7-4700HQ :)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 03 15:47:39 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "21-year-old Romanian living in France. I love computer science, maths, music and series (Suits, The Blacklist, The Mentalist, Sherlock, Elementary, TWD).",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 491,
+        "follow_request_sent": false,
+        "followers_count": 95,
+        "following": false,
+        "friends_count": 105,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 37439133,
+        "id_str": "37439133",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Paris, Ile-de-France",
+        "name": "Dusmanu Mihai",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/37439133/1396503263",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/646719908852690948/6HfQt5hQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/646719908852690948/6HfQt5hQ_normal.jpg",
+        "profile_link_color": "009AB9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "wooshmi",
+        "statuses_count": 112,
+        "time_zone": "Bucharest",
+        "url": null,
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

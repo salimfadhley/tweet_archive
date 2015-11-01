@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 27 02:04:48 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    10,
+                    19
+                ],
+                "text": "internet"
+            },
+            {
+                "indices": [
+                    53,
+                    60
+                ],
+                "text": "alerts"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 127975950,
+                "id_str": "127975950",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "Time Warner Cable",
+                "screen_name": "TWC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658826649572671488,
+    "id_str": "658826649572671488",
+    "in_reply_to_screen_name": "TWC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 127975950,
+    "in_reply_to_user_id_str": "127975950",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TWC your #internet terrible tonight, we should have #alerts to at least know when its super slow or even down because I can't work at all..",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 27 07:20:31 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Humanity will only change once our intelligence comes from our hearts.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "paypal.me/IsraelPRoman",
+                        "expanded_url": "http://paypal.me/IsraelPRoman",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/r5UaDtIxZG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 228,
+        "follow_request_sent": false,
+        "followers_count": 154,
+        "following": false,
+        "friends_count": 337,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2846365619,
+        "id_str": "2846365619",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 80,
+        "location": "New York City",
+        "name": "Israel P Roman",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2846365619/1445090815",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655384353258799104/hWxi8RVE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655384353258799104/hWxi8RVE_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "IsraelPRoman",
+        "statuses_count": 2163,
+        "time_zone": null,
+        "url": "https://t.co/r5UaDtIxZG",
+        "utc_offset": null,
+        "verified": false
+    }
+}

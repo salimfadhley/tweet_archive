@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 23 17:37:30 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15234657,
+                "id_str": "15234657",
+                "indices": [
+                    0,
+                    3
+                ],
+                "name": "Electronic Arts",
+                "screen_name": "EA"
+            },
+            {
+                "id": 23135183,
+                "id_str": "23135183",
+                "indices": [
+                    4,
+                    17
+                ],
+                "name": "Need for Speed",
+                "screen_name": "NeedforSpeed"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 657611818915995648,
+    "id_str": "657611818915995648",
+    "in_reply_to_screen_name": "EA",
+    "in_reply_to_status_id": 657602404083441664,
+    "in_reply_to_status_id_str": "657602404083441664",
+    "in_reply_to_user_id": 15234657,
+    "in_reply_to_user_id_str": "15234657",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.6073349978781,
+                        3.43958600373312
+                    ],
+                    [
+                        -76.0899099989576,
+                        3.43958600373312
+                    ],
+                    [
+                        -76.0899099989576,
+                        3.7012710035175
+                    ],
+                    [
+                        -76.6073349978781,
+                        3.7012710035175
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Colombia",
+        "country_code": "CO",
+        "full_name": "Palmira, Valle del Cauca",
+        "id": "0083e91b64f919f4",
+        "name": "Palmira",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0083e91b64f919f4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@EA @NeedforSpeed Always A",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 29 02:20:42 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "De la ciudad de Cali y Electr\u00f3nico. #Am\u00e9ricaDeCaliEsDelPueblo",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 706,
+        "follow_request_sent": false,
+        "followers_count": 243,
+        "following": false,
+        "friends_count": 692,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 184248953,
+        "id_str": "184248953",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 2,
+        "location": "Colombia",
+        "name": "Harold Fernando Cruz",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/314616880/coffee_shop_install.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/314616880/coffee_shop_install.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/184248953/1427247944",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/572228723489034240/SkR2A_LD_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/572228723489034240/SkR2A_LD_normal.jpeg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "haroldfcruz",
+        "statuses_count": 6467,
+        "time_zone": "Bogota",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

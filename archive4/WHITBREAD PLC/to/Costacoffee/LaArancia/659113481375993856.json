@@ -1,0 +1,185 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 27 21:04:34 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    13,
+                    23
+                ],
+                "text": "halloween"
+            },
+            {
+                "indices": [
+                    72,
+                    85
+                ],
+                "text": "jackolantern"
+            },
+            {
+                "indices": [
+                    86,
+                    96
+                ],
+                "text": "tradition"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/1nW0t13JHQ",
+                "expanded_url": "http://twitter.com/LaArancia/status/659113481375993856/photo/1",
+                "id": 659113476267339777,
+                "id_str": "659113476267339777",
+                "indices": [
+                    115,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/CSWkNuuWcAEwtB7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CSWkNuuWcAEwtB7.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/1nW0t13JHQ"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16696296,
+                "id_str": "16696296",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Costa Coffee",
+                "screen_name": "CostaCoffee"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659113481375993856,
+    "id_str": "659113481375993856",
+    "in_reply_to_screen_name": "CostaCoffee",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16696296,
+    "in_reply_to_user_id_str": "16696296",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.5942512,
+                        51.477285
+                    ],
+                    [
+                        -0.562783,
+                        51.477285
+                    ],
+                    [
+                        -0.562783,
+                        51.5002438
+                    ],
+                    [
+                        -0.5942512,
+                        51.5002438
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Datchet, England",
+        "id": "22e719fcd4837fb7",
+        "name": "Datchet",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/22e719fcd4837fb7.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CostaCoffee #halloween is coming early to your Datchet store tomorrow. #jackolantern #tradition (2 years so far!) https://t.co/1nW0t13JHQ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 14 17:50:55 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Sunny Day, Sweeping the clouds away, On my way to where the air is sweet.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 447,
+        "follow_request_sent": false,
+        "followers_count": 14,
+        "following": false,
+        "friends_count": 35,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2646105043,
+        "id_str": "2646105043",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "La Arancia",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2646105043/1405361699",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/488748509689307136/CLcfXd1W_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/488748509689307136/CLcfXd1W_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LaArancia",
+        "statuses_count": 779,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

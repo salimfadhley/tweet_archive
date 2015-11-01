@@ -1,0 +1,311 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 05:21:46 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/CBSLA/status/6\u2026",
+                "expanded_url": "https://twitter.com/CBSLA/status/659232236202430464",
+                "indices": [
+                    72,
+                    95
+                ],
+                "url": "https://t.co/xOY018ISfy"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 46177695,
+                "id_str": "46177695",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Walgreens",
+                "screen_name": "Walgreens"
+            },
+            {
+                "id": 594115273,
+                "id_str": "594115273",
+                "indices": [
+                    28,
+                    44
+                ],
+                "name": "Thrifty Ice Cream",
+                "screen_name": "ThriftyIceCream"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659238605328617472,
+    "id_str": "659238605328617472",
+    "in_reply_to_screen_name": "Walgreens",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 46177695,
+    "in_reply_to_user_id_str": "46177695",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.956397,
+                        40.844581
+                    ],
+                    [
+                        -79.875579,
+                        40.844581
+                    ],
+                    [
+                        -79.875579,
+                        40.888356
+                    ],
+                    [
+                        -79.956397,
+                        40.888356
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Lyndora, PA",
+        "id": "007aa55e45fb3c5c",
+        "name": "Lyndora",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/007aa55e45fb3c5c.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Oct 28 04:56:27 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        13,
+                        19
+                    ],
+                    "text": "KCAL9"
+                },
+                {
+                    "indices": [
+                        81,
+                        91
+                    ],
+                    "text": "Walgreens"
+                },
+                {
+                    "indices": [
+                        102,
+                        110
+                    ],
+                    "text": "RiteAid"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/dRGPQUNwwb",
+                    "expanded_url": "http://twitter.com/CBSLA/status/659232236202430464/video/1",
+                    "id": 659232166312677376,
+                    "id_str": "659232166312677376",
+                    "indices": [
+                        112,
+                        135
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/659232166312677376/pu/img/4cKDi0f1-wr9H9wZ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/659232166312677376/pu/img/4cKDi0f1-wr9H9wZ.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 360,
+                            "resize": "fit",
+                            "w": 640
+                        },
+                        "medium": {
+                            "h": 338,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 191,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/dRGPQUNwwb"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 16,
+        "favorited": false,
+        "geo": null,
+        "id": 659232236202430464,
+        "id_str": "659232236202430464",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 13,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Coming up on #KCAL9 News at 10PM, what will happen to Thrifty ice cream now that #Walgreens is buying #RiteAid? https://t.co/dRGPQUNwwb",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Mar 17 18:40:17 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "News, Sports, Weather, Traffic and the Best of LA and OC. CBS2, KCAL9 and KNX. \nDownload our app for BREAKING NEWS: http://t.co/i1Mp9WsUTH",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "apps.cbslocal.com",
+                            "expanded_url": "http://apps.cbslocal.com/",
+                            "indices": [
+                                116,
+                                138
+                            ],
+                            "url": "http://t.co/i1Mp9WsUTH"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "cbsLA.com",
+                            "expanded_url": "http://cbsLA.com/",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/UG5Q3S72j8"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 289,
+            "follow_request_sent": false,
+            "followers_count": 95433,
+            "following": false,
+            "friends_count": 2271,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 24928809,
+            "id_str": "24928809",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 2258,
+            "location": "Los Angeles",
+            "name": "CBS Los Angeles",
+            "notifications": false,
+            "profile_background_color": "000033",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000056020997/f0dc7969a14b63c7b5d9f7b0dc0e3c77.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000056020997/f0dc7969a14b63c7b5d9f7b0dc0e3c77.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/24928809/1437676603",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/625722540892143616/9RoFJo3Y_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/625722540892143616/9RoFJo3Y_normal.jpg",
+            "profile_link_color": "080C4D",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "C9C7C9",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "CBSLA",
+            "statuses_count": 62943,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/UG5Q3S72j8",
+            "utc_offset": -25200,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 659232236202430464,
+    "quoted_status_id_str": "659232236202430464",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@walgreens ice cream, bah.. @ThriftyIceCream is the real question here! https://t.co/xOY018ISfy",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 25 06:07:04 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Born & Raised in Sacramento, now living in Phoenix\n\nFan of Sacramento Kings-Sacramento Republic FC-NY Jets-Port Adelaide Power",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2039,
+        "follow_request_sent": false,
+        "followers_count": 86,
+        "following": false,
+        "friends_count": 161,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3113311443,
+        "id_str": "3113311443",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "Phoenix, AZ",
+        "name": "Royal Planes",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3113311443/1444148240",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/651431054427815937/zcwtl7xZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/651431054427815937/zcwtl7xZ_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PortPowerAZ",
+        "statuses_count": 1753,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

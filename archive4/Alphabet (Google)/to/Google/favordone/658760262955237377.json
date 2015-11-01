@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 26 21:41:00 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658760262955237377,
+    "id_str": "658760262955237377",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": 658759830153351169,
+    "in_reply_to_status_id_str": "658759830153351169",
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.634643,
+                        24.396308
+                    ],
+                    [
+                        -79.974307,
+                        24.396308
+                    ],
+                    [
+                        -79.974307,
+                        31.001056
+                    ],
+                    [
+                        -87.634643,
+                        31.001056
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Florida, USA",
+        "id": "4ec01c9dbc693497",
+        "name": "Florida",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@google I'm having issues with my FavorDone Google business email system. May I get some help?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 06 01:23:03 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Making sure you get the Instant Gratification you deserve.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "favordone.com",
+                        "expanded_url": "http://favordone.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/tuxi66dUC1"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 339,
+        "follow_request_sent": false,
+        "followers_count": 1950,
+        "following": false,
+        "friends_count": 95,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3237567177,
+        "id_str": "3237567177",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "Brandon, FL",
+        "name": "FavorDone",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/603428028828418048/6w880O-e.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/603428028828418048/6w880O-e.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3237567177/1445170323",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655717986603368448/AedmFyQr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655717986603368448/AedmFyQr_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "favordone",
+        "statuses_count": 612,
+        "time_zone": null,
+        "url": "http://t.co/tuxi66dUC1",
+        "utc_offset": null,
+        "verified": false
+    }
+}

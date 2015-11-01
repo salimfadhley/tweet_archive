@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 08:10:05 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    110,
+                    116
+                ],
+                "text": "goons"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/9JSD7Hilrx",
+                "expanded_url": "http://twitter.com/SteveSongaila/status/659280966813392896/photo/1",
+                "id": 659280960681308160,
+                "id_str": "659280960681308160",
+                "indices": [
+                    117,
+                    140
+                ],
+                "media_url": "http://pbs.twimg.com/media/CSY8imyWcAAvMFz.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CSY8imyWcAAvMFz.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 130,
+                        "resize": "fit",
+                        "w": 237
+                    },
+                    "medium": {
+                        "h": 130,
+                        "resize": "fit",
+                        "w": 237
+                    },
+                    "small": {
+                        "h": 130,
+                        "resize": "fit",
+                        "w": 237
+                    },
+                    "thumb": {
+                        "h": 130,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/9JSD7Hilrx"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19709040,
+                "id_str": "19709040",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "eBay",
+                "screen_name": "eBay"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659280966813392896,
+    "id_str": "659280966813392896",
+    "in_reply_to_screen_name": "eBay",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19709040,
+    "in_reply_to_user_id_str": "19709040",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.213503,
+                        51.512805
+                    ],
+                    [
+                        -0.105303,
+                        51.512805
+                    ],
+                    [
+                        -0.105303,
+                        51.572068
+                    ],
+                    [
+                        -0.213503,
+                        51.572068
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Camden Town, London",
+        "id": "5de8cffc145c486b",
+        "name": "Camden Town",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5de8cffc145c486b.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@eBay said use the community, like talking to your neighbour instead of the police when you have been burgled #goons https://t.co/9JSD7Hilrx",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 04 14:09:48 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Leadership + B2B Sales Maven .Entrepreneur. Only be Positive. Look for the good and ignore the rest. Stand alone occasionally. All Tweets my own. Welcome",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 187,
+        "follow_request_sent": false,
+        "followers_count": 1015,
+        "following": false,
+        "friends_count": 945,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20055274,
+        "id_str": "20055274",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 34,
+        "location": "London",
+        "name": "Steve Songaila",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20055274/1431102431",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/597155717586485248/UP-h1ye0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/597155717586485248/UP-h1ye0_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "SteveSongaila",
+        "statuses_count": 2175,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

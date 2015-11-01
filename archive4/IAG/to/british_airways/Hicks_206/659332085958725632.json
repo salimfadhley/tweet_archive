@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 11:33:13 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            },
+            {
+                "id": 238289569,
+                "id_str": "238289569",
+                "indices": [
+                    17,
+                    28
+                ],
+                "name": "Ernest Le",
+                "screen_name": "MrErnestLe"
+            },
+            {
+                "id": 821045162,
+                "id_str": "821045162",
+                "indices": [
+                    112,
+                    121
+                ],
+                "name": "Emirates Airline",
+                "screen_name": "emirates"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659332085958725632,
+    "id_str": "659332085958725632",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": 659298040600219648,
+    "in_reply_to_status_id_str": "659298040600219648",
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        14.2252428,
+                        49.9419037
+                    ],
+                    [
+                        14.7065078,
+                        49.9419037
+                    ],
+                    [
+                        14.7065078,
+                        50.1772562
+                    ],
+                    [
+                        14.2252428,
+                        50.1772562
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u010cesk\u00e1 republika",
+        "country_code": "CZ",
+        "full_name": "Prague, Czech Republic",
+        "id": "018e2bf71a3ef896",
+        "name": "Prague",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/018e2bf71a3ef896.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@British_Airways @MrErnestLe you too eh Ernie? I'm going to be late due to BA overbooking mine. Had to rebook w @emirates",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 22 22:58:36 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Sandbox Evangelist - Passionate about Player Choice - Lead Producer - DayZ - Contact: Hicks@5550199.com",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "5550199.com",
+                        "expanded_url": "http://www.5550199.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/s9eERL4m93"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6212,
+        "follow_request_sent": false,
+        "followers_count": 31953,
+        "following": false,
+        "friends_count": 513,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14874637,
+        "id_str": "14874637",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 226,
+        "location": "Prague, CZ",
+        "name": "Brian Hicks",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14874637/1408300077",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/654740117920178176/LKbufQYB_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/654740117920178176/LKbufQYB_normal.png",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Hicks_206",
+        "statuses_count": 19396,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/s9eERL4m93",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

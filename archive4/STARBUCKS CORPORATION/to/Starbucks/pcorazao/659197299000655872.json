@@ -1,0 +1,139 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 02:37:38 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    46,
+                    59
+                ],
+                "text": "BantamBagles"
+            },
+            {
+                "indices": [
+                    65,
+                    75
+                ],
+                "text": "SharkTank"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659197299000655872,
+    "id_str": "659197299000655872",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.223198,
+                        47.5349648
+                    ],
+                    [
+                        -122.076327,
+                        47.5349648
+                    ],
+                    [
+                        -122.076327,
+                        47.660748
+                    ],
+                    [
+                        -122.223198,
+                        47.660748
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Bellevue, WA",
+        "id": "df4875cc2df893ed",
+        "name": "Bellevue",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/df4875cc2df893ed.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks when can Seattle get some of those #BantamBagles from #SharkTank \ud83e\udd14",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 04 23:02:11 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Computer Scientist",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 552,
+        "follow_request_sent": false,
+        "followers_count": 91,
+        "following": false,
+        "friends_count": 255,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 483365319,
+        "id_str": "483365319",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Seattle, WA",
+        "name": "Peter Corazao",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000031452717/c792ce2df2e8c0ebd7ed7f5ff0339c36.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000031452717/c792ce2df2e8c0ebd7ed7f5ff0339c36.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/483365319/1442450927",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/489164350742351873/CXVCPy9O_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/489164350742351873/CXVCPy9O_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pcorazao",
+        "statuses_count": 1328,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

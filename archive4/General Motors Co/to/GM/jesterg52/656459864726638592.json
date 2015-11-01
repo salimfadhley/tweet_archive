@@ -1,0 +1,305 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 20 13:20:02 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    52,
+                    67
+                ],
+                "text": "BROKENPROMISES"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/ASOTRECOL/stat\u2026",
+                "expanded_url": "https://twitter.com/ASOTRECOL/status/656451324951797760",
+                "indices": [
+                    68,
+                    91
+                ],
+                "url": "https://t.co/4MHeFgNSrI"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 10850192,
+                "id_str": "10850192",
+                "indices": [
+                    0,
+                    3
+                ],
+                "name": "General Motors",
+                "screen_name": "GM"
+            },
+            {
+                "id": 1219824320,
+                "id_str": "1219824320",
+                "indices": [
+                    4,
+                    12
+                ],
+                "name": "Mary Barra",
+                "screen_name": "mtbarra"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 656459864726638592,
+    "id_str": "656459864726638592",
+    "in_reply_to_screen_name": "GM",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 10850192,
+    "in_reply_to_user_id_str": "10850192",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Oct 20 12:46:06 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        108,
+                        118
+                    ],
+                    "text": "ShameOnGM"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/NNH3KYVs6H",
+                    "expanded_url": "http://twitter.com/ASOTRECOL/status/656451324951797760/photo/1",
+                    "id": 656451238461095936,
+                    "id_str": "656451238461095936",
+                    "indices": [
+                        119,
+                        142
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CRwu7GDWwAAFZPq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CRwu7GDWwAAFZPq.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 576,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 337,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 191,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/NNH3KYVs6H"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 10850192,
+                    "id_str": "10850192",
+                    "indices": [
+                        11,
+                        14
+                    ],
+                    "name": "General Motors",
+                    "screen_name": "GM"
+                }
+            ]
+        },
+        "favorite_count": 4,
+        "favorited": false,
+        "geo": null,
+        "id": 656451324951797760,
+        "id_str": "656451324951797760",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            5.8663566,
+                            47.270127
+                        ],
+                        [
+                            15.0418536,
+                            47.270127
+                        ],
+                        [
+                            15.0418536,
+                            55.056823
+                        ],
+                        [
+                            5.8663566,
+                            55.056823
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "Deutschland",
+            "country_code": "DE",
+            "full_name": "Germany",
+            "id": "fdcd221ac44fa326",
+            "name": "Germany",
+            "place_type": "country",
+            "url": "https://api.twitter.com/1.1/geo/id/fdcd221ac44fa326.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 7,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Victims of @GM unite! GM covers up fatal car defects &amp; working conditions which leave workers disabled. #ShameOnGM https://t.co/NNH3KYVs6H",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Aug 14 14:28:39 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "We are workers fired by @GM after we were injured on the job. Somos trabajadores enfermos despedidos por @GM.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "asotrecol.org",
+                            "expanded_url": "http://www.asotrecol.org/",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/LE34Sekmnh"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 23,
+            "follow_request_sent": false,
+            "followers_count": 196,
+            "following": false,
+            "friends_count": 345,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 757257620,
+            "id_str": "757257620",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "es",
+            "listed_count": 4,
+            "location": "Bogot\u00e1, Colombia",
+            "name": "ASOTRECOL",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/633044458/dknlz9e8wqrm92awvse2.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/633044458/dknlz9e8wqrm92awvse2.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/757257620/1431064974",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/596555943535448065/NxDTNd64_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/596555943535448065/NxDTNd64_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "ASOTRECOL",
+            "statuses_count": 357,
+            "time_zone": "Bogota",
+            "url": "http://t.co/LE34Sekmnh",
+            "utc_offset": -18000,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 656451324951797760,
+    "quoted_status_id_str": "656451324951797760",
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@GM @mtbarra \"WHERE ARE YOU NOW THAT THEY NEED YOU\" #BROKENPROMISES https://t.co/4MHeFgNSrI",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 28 20:07:01 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 14,
+        "follow_request_sent": false,
+        "followers_count": 14,
+        "following": false,
+        "friends_count": 60,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 100035345,
+        "id_str": "100035345",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Jes",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jesterg52",
+        "statuses_count": 349,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

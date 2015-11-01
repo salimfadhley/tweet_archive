@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 23 14:09:21 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 38676903,
+                "id_str": "38676903",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "easyJet",
+                "screen_name": "easyJet"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 657559436458856448,
+    "id_str": "657559436458856448",
+    "in_reply_to_screen_name": "easyJet",
+    "in_reply_to_status_id": 657559037475749888,
+    "in_reply_to_status_id_str": "657559037475749888",
+    "in_reply_to_user_id": 38676903,
+    "in_reply_to_user_id_str": "38676903",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        18.0892765,
+                        59.3241984
+                    ],
+                    [
+                        18.30342,
+                        59.3241984
+                    ],
+                    [
+                        18.30342,
+                        59.3951121
+                    ],
+                    [
+                        18.0892765,
+                        59.3951121
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Sverige",
+        "country_code": "SE",
+        "full_name": "Liding\u00f6, Sverige",
+        "id": "76f317af14a266c3",
+        "name": "Liding\u00f6",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/76f317af14a266c3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "@easyJet Thanks, but the cabin crew + ground staff were great\u2014managed to find and get the wallet out to the gate before flight had to leave.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 04 12:44:52 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Apple enthusiast and software developer from Sweden, living in Switzerland. Yes, you just have to deal with it. Two different countries. I promise.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "flickr.com/photos/eriktj/",
+                        "expanded_url": "https://www.flickr.com/photos/eriktj/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/6Yrkltt65c"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 639,
+        "follow_request_sent": false,
+        "followers_count": 289,
+        "following": false,
+        "friends_count": 272,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20049689,
+        "id_str": "20049689",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 19,
+        "location": "Bougy-Villars, Switzerland",
+        "name": "Erik Tjernlund",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20049689/1398199683",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000064679558/b698c208e122bf237763f16e4581dfb4_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000064679558/b698c208e122bf237763f16e4581dfb4_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tjernlund",
+        "statuses_count": 8210,
+        "time_zone": "Stockholm",
+        "url": "https://t.co/6Yrkltt65c",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

@@ -1,0 +1,351 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 21:06:02 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/Gscott1847/sta\u2026",
+                "expanded_url": "https://twitter.com/Gscott1847/status/659463858701082624",
+                "indices": [
+                    6,
+                    29
+                ],
+                "url": "https://t.co/96sh5HZEz0"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 34442404,
+                "id_str": "34442404",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Sony",
+                "screen_name": "Sony"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659476239317606400,
+    "id_str": "659476239317606400",
+    "in_reply_to_screen_name": "Sony",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 34442404,
+    "in_reply_to_user_id_str": "34442404",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Oct 28 20:16:50 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        52,
+                        63
+                    ],
+                    "text": "Goosebumps"
+                },
+                {
+                    "indices": [
+                        64,
+                        92
+                    ],
+                    "text": "HopeICanStillGetASignedCopy"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/0SFIy8mvBm",
+                    "expanded_url": "http://twitter.com/Gscott1847/status/659463858701082624/photo/1",
+                    "id": 659463845992353792,
+                    "id_str": "659463845992353792",
+                    "indices": [
+                        93,
+                        116
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CSbi37qWUAA1dZ6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CSbi37qWUAA1dZ6.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1024,
+                            "resize": "fit",
+                            "w": 576
+                        },
+                        "medium": {
+                            "h": 1024,
+                            "resize": "fit",
+                            "w": 576
+                        },
+                        "small": {
+                            "h": 604,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/0SFIy8mvBm"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 94891659,
+                    "id_str": "94891659",
+                    "indices": [
+                        0,
+                        9
+                    ],
+                    "name": "R.L. Stine",
+                    "screen_name": "RL_Stine"
+                },
+                {
+                    "id": 2364787134,
+                    "id_str": "2364787134",
+                    "indices": [
+                        10,
+                        26
+                    ],
+                    "name": "Goosebumps",
+                    "screen_name": "GoosebumpsMovie"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 659463858701082624,
+        "id_str": "659463858701082624",
+        "in_reply_to_screen_name": "RL_Stine",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 94891659,
+        "in_reply_to_user_id_str": "94891659",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -74.026675,
+                            40.683935
+                        ],
+                        [
+                            -73.910408,
+                            40.683935
+                        ],
+                        [
+                            -73.910408,
+                            40.877483
+                        ],
+                        [
+                            -74.026675,
+                            40.877483
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Manhattan, NY",
+            "id": "01a9a39529b27f36",
+            "name": "Manhattan",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "@RL_Stine @GoosebumpsMovie here are the two emails. #Goosebumps #HopeICanStillGetASignedCopy https://t.co/0SFIy8mvBm",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Sep 22 15:16:50 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Die hard @NYJets & @Mets fan. Also @NYIslanders @BrooklynNets. Married to the love of my life! #StarWars #Lebowski #TheFlash #Batman #Avengers #Jedi #DarthVader",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "apoppedculture.blogspot.com",
+                            "expanded_url": "http://apoppedculture.blogspot.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/JSs0FLAK7k"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 27,
+            "follow_request_sent": false,
+            "followers_count": 910,
+            "following": false,
+            "friends_count": 1988,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 16404504,
+            "id_str": "16404504",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 49,
+            "location": "Midwood, Brooklyn, NY",
+            "name": "Greg Scott",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/597454834757869569/Dnz-BW8j.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/597454834757869569/Dnz-BW8j.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16404504/1445595898",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/658076381276971008/6dlBtLZp_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/658076381276971008/6dlBtLZp_normal.jpg",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Gscott1847",
+            "statuses_count": 35871,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/JSs0FLAK7k",
+            "utc_offset": -14400,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 659463858701082624,
+    "quoted_status_id_str": "659463858701082624",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Sony https://t.co/96sh5HZEz0",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 22 15:16:50 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Die hard @NYJets & @Mets fan. Also @NYIslanders @BrooklynNets. Married to the love of my life! #StarWars #Lebowski #TheFlash #Batman #Avengers #Jedi #DarthVader",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "apoppedculture.blogspot.com",
+                        "expanded_url": "http://apoppedculture.blogspot.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/JSs0FLAK7k"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 27,
+        "follow_request_sent": false,
+        "followers_count": 910,
+        "following": false,
+        "friends_count": 1988,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 16404504,
+        "id_str": "16404504",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 49,
+        "location": "Midwood, Brooklyn, NY",
+        "name": "Greg Scott",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/597454834757869569/Dnz-BW8j.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/597454834757869569/Dnz-BW8j.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16404504/1445595898",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/658076381276971008/6dlBtLZp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/658076381276971008/6dlBtLZp_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Gscott1847",
+        "statuses_count": 35871,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/JSs0FLAK7k",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

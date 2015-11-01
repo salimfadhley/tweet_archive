@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 23 17:39:43 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15234657,
+                "id_str": "15234657",
+                "indices": [
+                    0,
+                    3
+                ],
+                "name": "Electronic Arts",
+                "screen_name": "EA"
+            },
+            {
+                "id": 23135183,
+                "id_str": "23135183",
+                "indices": [
+                    4,
+                    17
+                ],
+                "name": "Need for Speed",
+                "screen_name": "NeedforSpeed"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 657612378985623552,
+    "id_str": "657612378985623552",
+    "in_reply_to_screen_name": "EA",
+    "in_reply_to_status_id": 657602404083441664,
+    "in_reply_to_status_id_str": "657602404083441664",
+    "in_reply_to_user_id": 15234657,
+    "in_reply_to_user_id_str": "15234657",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -91.655009,
+                        30.146096
+                    ],
+                    [
+                        -88.097889,
+                        30.146096
+                    ],
+                    [
+                        -88.097889,
+                        34.995968
+                    ],
+                    [
+                        -91.655009,
+                        34.995968
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Mississippi, USA",
+        "id": "43d2418301bf1a49",
+        "name": "Mississippi",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/43d2418301bf1a49.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@EA @NeedforSpeed stock if your custom looks like that....",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 01 12:52:11 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Junior and Student Manager for @OleMissMBB. Teller of bad jokes. Follower of Christ. | Instagram: matthewbarnthouse",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/matthewbarntho\u2026",
+                        "expanded_url": "http://Instagram.com/matthewbarnthouse",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/m87mWSaDQL"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 27881,
+        "follow_request_sent": false,
+        "followers_count": 1290,
+        "following": false,
+        "friends_count": 1000,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 62027372,
+        "id_str": "62027372",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 14,
+        "location": "Oxford, MS/Carmel, IN",
+        "name": "Matt Barnthouse",
+        "notifications": false,
+        "profile_background_color": "CE1126",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/831152121/3b36c1049227a99a555149483687b127.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/831152121/3b36c1049227a99a555149483687b127.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/62027372/1445204404",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/643926136825749504/QUyI_8ix_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/643926136825749504/QUyI_8ix_normal.jpg",
+        "profile_link_color": "14213D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MattBarnthouse",
+        "statuses_count": 87650,
+        "time_zone": "Indiana (East)",
+        "url": "http://t.co/m87mWSaDQL",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

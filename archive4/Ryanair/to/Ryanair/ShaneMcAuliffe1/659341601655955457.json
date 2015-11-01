@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 12:11:02 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1542862735,
+                "id_str": "1542862735",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Ryanair",
+                "screen_name": "Ryanair"
+            },
+            {
+                "id": 86050038,
+                "id_str": "86050038",
+                "indices": [
+                    61,
+                    74
+                ],
+                "name": "Kerry Airport",
+                "screen_name": "KerryAirport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659341601655955457,
+    "id_str": "659341601655955457",
+    "in_reply_to_screen_name": "Ryanair",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1542862735,
+    "in_reply_to_user_id_str": "1542862735",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.0361161,
+                        54.543241
+                    ],
+                    [
+                        -5.8207101,
+                        54.543241
+                    ],
+                    [
+                        -5.8207101,
+                        54.6484968
+                    ],
+                    [
+                        -6.0361161,
+                        54.6484968
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Belfast, Northern Ireland",
+        "id": "28679b23ed15b380",
+        "name": "Belfast",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/28679b23ed15b380.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Ryanair why is there a 7 and a half hour delay from Hahn to @KerryAirport and can you advise on compensation please",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 08 21:47:04 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ag Grad,PG Livestock Sci,RVC MSc, pig producer, Irish pig news farm to fork,horses,Aubrac,Salers,Swine Technical Manager @ Interchem. @trulyirishcf views my own",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "trulyirish.ie",
+                        "expanded_url": "http://www.trulyirish.ie",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/ptYKawgugJ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2443,
+        "follow_request_sent": false,
+        "followers_count": 1289,
+        "following": false,
+        "friends_count": 1565,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 295365474,
+        "id_str": "295365474",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 33,
+        "location": "Castleisland",
+        "name": "Shane McAuliffe",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000103914411/28fbe5c2ceb62f9d112d7ddc697f2f42.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000103914411/28fbe5c2ceb62f9d112d7ddc697f2f42.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/295365474/1406201237",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3496551108/4ef45a48a312e19b32dcdfc0a6e9ff75_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3496551108/4ef45a48a312e19b32dcdfc0a6e9ff75_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ShaneMcAuliffe1",
+        "statuses_count": 13233,
+        "time_zone": "Casablanca",
+        "url": "http://t.co/ptYKawgugJ",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

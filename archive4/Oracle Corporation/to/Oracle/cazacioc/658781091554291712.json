@@ -1,0 +1,149 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            26.1097704,
+            44.41325267
+        ],
+        "type": "Point"
+    },
+    "created_at": "Mon Oct 26 23:03:46 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 809273,
+                "id_str": "809273",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Oracle",
+                "screen_name": "Oracle"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            44.41325267,
+            26.1097704
+        ],
+        "type": "Point"
+    },
+    "id": 658781091554291712,
+    "id_str": "658781091554291712",
+    "in_reply_to_screen_name": "Oracle",
+    "in_reply_to_status_id": 658780667027689472,
+    "in_reply_to_status_id_str": "658780667027689472",
+    "in_reply_to_user_id": 809273,
+    "in_reply_to_user_id_str": "809273",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        25.9636988,
+                        44.3494199
+                    ],
+                    [
+                        26.2259137,
+                        44.3494199
+                    ],
+                    [
+                        26.2259137,
+                        44.5416707
+                    ],
+                    [
+                        25.9636988,
+                        44.5416707
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Rom\u00e2nia",
+        "country_code": "RO",
+        "full_name": "Bucharest, Bucure\u015fti",
+        "id": "01c86d355e71b956",
+        "name": "Bucharest",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01c86d355e71b956.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@Oracle Keep us updated on this",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 06 20:39:19 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Connector. Blogger about food culture, Slow Food, rural issues, eco-tourism, biodiversity, European affairs, IT and social media",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "cazacioc.blogspot.com",
+                        "expanded_url": "http://cazacioc.blogspot.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/0BaRjXg1EV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 516,
+        "follow_request_sent": false,
+        "followers_count": 671,
+        "following": false,
+        "friends_count": 1409,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17928387,
+        "id_str": "17928387",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 50,
+        "location": "Bucharest, Romania",
+        "name": "Tiberiu Cazacioc",
+        "notifications": false,
+        "profile_background_color": "EFEFEF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/792644724/b8adecb8abc6221da08294959a776ec5.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/792644724/b8adecb8abc6221da08294959a776ec5.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17928387/1360448974",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000170384314/eb514006e259cf16990ce9e88c868387_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000170384314/eb514006e259cf16990ce9e88c868387_normal.jpeg",
+        "profile_link_color": "BF1238",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cazacioc",
+        "statuses_count": 23990,
+        "time_zone": "Bucharest",
+        "url": "http://t.co/0BaRjXg1EV",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

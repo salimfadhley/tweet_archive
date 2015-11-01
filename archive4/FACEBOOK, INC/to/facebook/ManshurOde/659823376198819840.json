@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 29 20:05:26 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659823376198819840,
+    "id_str": "659823376198819840",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "in",
+    "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        106.704469,
+                        -6.189221
+                    ],
+                    [
+                        106.783525,
+                        -6.189221
+                    ],
+                    [
+                        106.783525,
+                        -6.112283
+                    ],
+                    [
+                        106.704469,
+                        -6.112283
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Indonesia",
+        "country_code": "ID",
+        "full_name": "Cengkareng, DKI Jakarta",
+        "id": "93aa30b3e9be6b59",
+        "name": "Cengkareng",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/93aa30b3e9be6b59.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook sholat subuh",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 18 22:20:53 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wiraswasta 081240910977",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2,
+        "follow_request_sent": false,
+        "followers_count": 26,
+        "following": false,
+        "friends_count": 378,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3249133590,
+        "id_str": "3249133590",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "id",
+        "listed_count": 0,
+        "location": "Indoneisa",
+        "name": "La Ode M.Liang",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3249133590/1440867605",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/637670676753547265/PAnfgHrJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/637670676753547265/PAnfgHrJ_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ManshurOde",
+        "statuses_count": 28,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

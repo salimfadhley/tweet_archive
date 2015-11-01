@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 18:05:22 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15131310,
+                "id_str": "15131310",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Whole Foods Market",
+                "screen_name": "WholeFoods"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659430771304845313,
+    "id_str": "659430771304845313",
+    "in_reply_to_screen_name": "WholeFoods",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15131310,
+    "in_reply_to_user_id_str": "15131310",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.733451,
+                        42.0191507
+                    ],
+                    [
+                        -87.6649403,
+                        42.0191507
+                    ],
+                    [
+                        -87.6649403,
+                        42.071723
+                    ],
+                    [
+                        -87.733451,
+                        42.071723
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Evanston, IL",
+        "id": "8b351eeb91372dc7",
+        "name": "Evanston",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8b351eeb91372dc7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@WholeFoods why don't you have samples anymore this is offensive",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 01 02:40:13 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I beat Zane Kashner in Trivia Crack",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "lillypulitzer.com",
+                        "expanded_url": "http://lillypulitzer.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/tCdaxP5HVF"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7766,
+        "follow_request_sent": false,
+        "followers_count": 375,
+        "following": false,
+        "friends_count": 265,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 981686065,
+        "id_str": "981686065",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Chicago",
+        "name": "Ellie",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/981686065/1440361965",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/536635210495184897/4WEvLsKw_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/536635210495184897/4WEvLsKw_normal.jpeg",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Elliemahbellie",
+        "statuses_count": 1763,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/tCdaxP5HVF",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 14:32:25 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    95,
+                    99
+                ],
+                "text": "IoT"
+            },
+            {
+                "indices": [
+                    124,
+                    135
+                ],
+                "text": "ibmInsight"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ibm.co/1MifoMJ",
+                "expanded_url": "http://ibm.co/1MifoMJ",
+                "indices": [
+                    100,
+                    123
+                ],
+                "url": "https://t.co/oZzUgW0w0t"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 18994444,
+                "id_str": "18994444",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "IBM",
+                "screen_name": "IBM"
+            },
+            {
+                "id": 3318983429,
+                "id_str": "3318983429",
+                "indices": [
+                    22,
+                    37
+                ],
+                "name": "The Weather Company",
+                "screen_name": "weathercompany"
+            },
+            {
+                "id": 29735775,
+                "id_str": "29735775",
+                "indices": [
+                    81,
+                    91
+                ],
+                "name": "IBM Watson",
+                "screen_name": "IBMWatson"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 659377180347002882,
+    "id_str": "659377180347002882",
+    "in_reply_to_screen_name": "IBM",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18994444,
+    "in_reply_to_user_id_str": "18994444",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -115.384091,
+                        36.129459
+                    ],
+                    [
+                        -115.062159,
+                        36.129459
+                    ],
+                    [
+                        -115.062159,
+                        36.336251
+                    ],
+                    [
+                        -115.384091,
+                        36.336251
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Las Vegas, NV",
+        "id": "5c2b5e46ab891f07",
+        "name": "Las Vegas",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c2b5e46ab891f07.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@IBM Plans to Acquire @weathercompany's Product &amp; Tech Biz; Extends Power of @IBMWatson to #IoT https://t.co/oZzUgW0w0t #ibmInsight",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 01 18:38:56 +0000 2008",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Part of team driving digital strategy for @IBM's #IBMIoT unit. Opinions=own | Hiker, biker | #DataScience #BigData #IoT",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/hopley",
+                        "expanded_url": "http://www.linkedin.com/in/hopley",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/cK2dufSRMp"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12,
+        "follow_request_sent": false,
+        "followers_count": 769,
+        "following": false,
+        "friends_count": 695,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17785358,
+        "id_str": "17785358",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 76,
+        "location": "Boston",
+        "name": "Steve Hopley",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17785358/1399472660",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/464045334809681921/erUBuczY_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/464045334809681921/erUBuczY_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Hopley",
+        "statuses_count": 879,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/cK2dufSRMp",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

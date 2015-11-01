@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 27 18:57:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            },
+            {
+                "id": 26276396,
+                "id_str": "26276396",
+                "indices": [
+                    8,
+                    16
+                ],
+                "name": "Jawbone",
+                "screen_name": "Jawbone"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659081622977843200,
+    "id_str": "659081622977843200",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": 659072829363789824,
+    "in_reply_to_status_id_str": "659072829363789824",
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.2915282,
+                        47.690287
+                    ],
+                    [
+                        -122.266798,
+                        47.690287
+                    ],
+                    [
+                        -122.266798,
+                        47.717655
+                    ],
+                    [
+                        -122.2915282,
+                        47.717655
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Matthews Beach, Seattle",
+        "id": "2173f8286df0decb",
+        "name": "Matthews Beach",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/2173f8286df0decb.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@amazon @Jawbone twilight cross",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 19 23:23:19 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Human. Son. Brother. Father. I LOVE Del Taco. Hatched in 1971. #GoHawks (occasional Social Media CS speaker)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/jnoche",
+                        "expanded_url": "http://www.about.me/jnoche",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/t5UGKh6jLo"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1477,
+        "follow_request_sent": false,
+        "followers_count": 1315,
+        "following": false,
+        "friends_count": 689,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 25408265,
+        "id_str": "25408265",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 141,
+        "location": "Seattle, WA",
+        "name": "Mr. Knight",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/199505889/twilk_background_4d4651ff8d554.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/199505889/twilk_background_4d4651ff8d554.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25408265/1435811670",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/650934828880297984/EbQl-ydm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/650934828880297984/EbQl-ydm_normal.jpg",
+        "profile_link_color": "4E3AB3",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DCDFE0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jnoche",
+        "statuses_count": 47503,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/t5UGKh6jLo",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

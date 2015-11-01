@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 29 09:25:48 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    126,
+                    139
+                ],
+                "text": "iwantenglish"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15234657,
+                "id_str": "15234657",
+                "indices": [
+                    0,
+                    3
+                ],
+                "name": "Electronic Arts",
+                "screen_name": "EA"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659662408944918528,
+    "id_str": "659662408944918528",
+    "in_reply_to_screen_name": "EA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15234657,
+    "in_reply_to_user_id_str": "15234657",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        11.1496504,
+                        43.7259588
+                    ],
+                    [
+                        11.339984,
+                        43.7259588
+                    ],
+                    [
+                        11.339984,
+                        43.8354579
+                    ],
+                    [
+                        11.1496504,
+                        43.8354579
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Italia",
+        "country_code": "IT",
+        "full_name": "Florence, Tuscany",
+        "id": "521b6f591c4b3ce8",
+        "name": "Florence",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/521b6f591c4b3ce8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@ea Hi there, will the StarWarsBF released in Italy have game dialogue in Italian or will all the sound affects be in English #iwantenglish",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 22 10:54:28 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Web-comms for travel and tourism industry. Once upon a techno DJ from London, now a Florentine 'Naturalizzato' enjoying the Tuscan wine and a bella Fiorentina!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "internetaffected.it",
+                        "expanded_url": "http://www.internetaffected.it",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/46bxe4dsj4"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5,
+        "follow_request_sent": false,
+        "followers_count": 920,
+        "following": false,
+        "friends_count": 56,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1207866104,
+        "id_str": "1207866104",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Italy",
+        "name": "Glyn Musica",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1207866104/1405689022",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/512609973562384384/luNIxrSm_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/512609973562384384/luNIxrSm_normal.jpeg",
+        "profile_link_color": "855491",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "glynmusica",
+        "statuses_count": 610,
+        "time_zone": "Rome",
+        "url": "http://t.co/46bxe4dsj4",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

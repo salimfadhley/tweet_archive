@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 22 17:06:54 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15324722,
+                "id_str": "15324722",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Garmin",
+                "screen_name": "Garmin"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 657241733470646272,
+    "id_str": "657241733470646272",
+    "in_reply_to_screen_name": "Garmin",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15324722,
+    "in_reply_to_user_id_str": "15324722",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.418714,
+                        37.764094
+                    ],
+                    [
+                        -122.379692,
+                        37.764094
+                    ],
+                    [
+                        -122.379692,
+                        37.789283
+                    ],
+                    [
+                        -122.418714,
+                        37.789283
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "South of Market, San Francisco",
+        "id": "1d019624e6b4dcff",
+        "name": "South of Market",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/1d019624e6b4dcff.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "@Garmin really takes care of my Fenix 3 lately. \nI\u2019m getting about 2 updates per week..\ud83d\udc4d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 26 12:54:09 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Chasing droids at Strava. Cyclist, runner, triathlete. I like to move. Fast.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/simekadam",
+                        "expanded_url": "http://about.me/simekadam",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/bGNKAYtelQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 902,
+        "follow_request_sent": false,
+        "followers_count": 251,
+        "following": false,
+        "friends_count": 626,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 60298741,
+        "id_str": "60298741",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 18,
+        "location": "San Francisco, CA",
+        "name": "Adam Simek",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000116143271/42501c57cf8ae47ed2b0aae850f28082.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000116143271/42501c57cf8ae47ed2b0aae850f28082.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/60298741/1427444264",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615622865115840514/LqRhiC8O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/615622865115840514/LqRhiC8O_normal.jpg",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F7E9E9",
+        "profile_text_color": "686B64",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "simekadam",
+        "statuses_count": 4143,
+        "time_zone": "Prague",
+        "url": "http://t.co/bGNKAYtelQ",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

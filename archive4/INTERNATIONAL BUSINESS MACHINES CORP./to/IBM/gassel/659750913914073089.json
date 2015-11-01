@@ -1,0 +1,156 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 29 15:17:30 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    21,
+                    28
+                ],
+                "text": "Watson"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "finance.yahoo.com/news/ibm-annou\u2026",
+                "expanded_url": "http://finance.yahoo.com/news/ibm-announces-six-watson-ecosystem-200000073.html?soc_src=mediacontentstory&soc_trk=tw",
+                "indices": [
+                    72,
+                    95
+                ],
+                "url": "https://t.co/4uojxnMU11"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 18994444,
+                "id_str": "18994444",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "IBM",
+                "screen_name": "IBM"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 659750913914073089,
+    "id_str": "659750913914073089",
+    "in_reply_to_screen_name": "IBM",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18994444,
+    "in_reply_to_user_id_str": "18994444",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -117.9582193,
+                        33.563618
+                    ],
+                    [
+                        -117.789845,
+                        33.563618
+                    ],
+                    [
+                        -117.789845,
+                        33.671658
+                    ],
+                    [
+                        -117.9582193,
+                        33.671658
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Newport Beach, CA",
+        "id": "0ce4c27ce26030aa",
+        "name": "Newport Beach",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0ce4c27ce26030aa.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@IBM Announces 6 New #Watson Ecosystem Partners Building Cognitive Apps https://t.co/4uojxnMU11",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 05 19:43:32 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@IBM Ecosystem Development Partner - Developer, Startup, Academic & Business Partners - concentrated on City Engagement in the West. Tweets are my own. #IBMer",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/dgassel",
+                        "expanded_url": "http://www.linkedin.com/in/dgassel",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/4pb819hhsa"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1452,
+        "follow_request_sent": false,
+        "followers_count": 2921,
+        "following": false,
+        "friends_count": 4557,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17195902,
+        "id_str": "17195902",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 157,
+        "location": "Newport Beach, CA USA",
+        "name": "Darcy",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17195902/1436500604",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/564852451325386753/aJuJAb8i_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/564852451325386753/aJuJAb8i_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "gassel",
+        "statuses_count": 1739,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/4pb819hhsa",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

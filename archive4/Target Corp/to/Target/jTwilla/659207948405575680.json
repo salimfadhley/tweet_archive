@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 03:19:57 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/QU4JuiLufp",
+                "expanded_url": "http://twitter.com/jTwilla/status/659207948405575680/photo/1",
+                "id": 659207944806862848,
+                "id_str": "659207944806862848",
+                "indices": [
+                    109,
+                    132
+                ],
+                "media_url": "http://pbs.twimg.com/media/CSX6IhdUEAAKmFL.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CSX6IhdUEAAKmFL.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/QU4JuiLufp"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659207948405575680,
+    "id_str": "659207948405575680",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -117.053546,
+                        32.743581
+                    ],
+                    [
+                        -116.981714,
+                        32.743581
+                    ],
+                    [
+                        -116.981714,
+                        32.7958
+                    ],
+                    [
+                        -117.053546,
+                        32.7958
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "La Mesa, CA",
+        "id": "c8ccc9439a8e5ee0",
+        "name": "La Mesa",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c8ccc9439a8e5ee0.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Target bought this \"new\" delicious sounding ice cream and it appears to just be plain vanilla, what gives?! https://t.co/QU4JuiLufp",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 11 04:36:31 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Unapologetically judgemental",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 256,
+        "follow_request_sent": false,
+        "followers_count": 139,
+        "following": false,
+        "friends_count": 154,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 30399011,
+        "id_str": "30399011",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "San Diego",
+        "name": "Twizzle",
+        "notifications": false,
+        "profile_background_color": "FF1255",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/125892890/photo_2.JPG",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/125892890/photo_2.JPG",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30399011/1406960855",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/529395743816040449/Y-c70Tpo_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/529395743816040449/Y-c70Tpo_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "FF7F0F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jTwilla",
+        "statuses_count": 13003,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 30 00:06:26 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/8S7jsJxmyY",
+                "expanded_url": "http://twitter.com/_wwright5/status/659884024521854976/video/1",
+                "id": 659884001855827968,
+                "id_str": "659884001855827968",
+                "indices": [
+                    16,
+                    39
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/659884001855827968/pu/img/3IoFl2qDrWi9B2hq.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/659884001855827968/pu/img/3IoFl2qDrWi9B2hq.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 668,
+                        "resize": "fit",
+                        "w": 376
+                    },
+                    "medium": {
+                        "h": 668,
+                        "resize": "fit",
+                        "w": 376
+                    },
+                    "small": {
+                        "h": 604,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/8S7jsJxmyY"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 415859364,
+                "id_str": "415859364",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Nike",
+                "screen_name": "Nike"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659884024521854976,
+    "id_str": "659884024521854976",
+    "in_reply_to_screen_name": "Nike",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 415859364,
+    "in_reply_to_user_id_str": "415859364",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.805505,
+                        44.9855774
+                    ],
+                    [
+                        -122.753657,
+                        44.9855774
+                    ],
+                    [
+                        -122.753657,
+                        45.027877
+                    ],
+                    [
+                        -122.805505,
+                        45.027877
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Silverton, OR",
+        "id": "646585c1270fdb39",
+        "name": "Silverton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/646585c1270fdb39.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Nike sign him. https://t.co/8S7jsJxmyY",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 16 04:44:40 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "i run often|SHS class of '18| @lroesler5\u2764\ufe0f sc:william12wright",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 8135,
+        "follow_request_sent": false,
+        "followers_count": 324,
+        "following": false,
+        "friends_count": 299,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 760833025,
+        "id_str": "760833025",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Silverton, OR",
+        "name": "william wright",
+        "notifications": false,
+        "profile_background_color": "263339",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/703803087/446283a6ec3cf73c0d1e81077f584d3a.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/703803087/446283a6ec3cf73c0d1e81077f584d3a.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/760833025/1444507184",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/656838628128067585/MXr9M7SK_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/656838628128067585/MXr9M7SK_normal.png",
+        "profile_link_color": "A88F35",
+        "profile_sidebar_border_color": "4A211D",
+        "profile_sidebar_fill_color": "3D595D",
+        "profile_text_color": "697D3E",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_wwright5",
+        "statuses_count": 4039,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

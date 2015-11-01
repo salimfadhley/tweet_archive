@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 29 22:47:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 27650674,
+                "id_str": "27650674",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Audi",
+                "screen_name": "Audi"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659864183278665728,
+    "id_str": "659864183278665728",
+    "in_reply_to_screen_name": "Audi",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 27650674,
+    "in_reply_to_user_id_str": "27650674",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -98.778559,
+                        29.141956
+                    ],
+                    [
+                        -98.302744,
+                        29.141956
+                    ],
+                    [
+                        -98.302744,
+                        29.693046
+                    ],
+                    [
+                        -98.778559,
+                        29.693046
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Antonio, TX",
+        "id": "3df4f427b5a60fea",
+        "name": "San Antonio",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3df4f427b5a60fea.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Audi dear customer service, I recently replied to reference 150819740. My hope is you are able to receive &amp; review my response. Take care.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 17 20:50:07 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Expanding online presence one post at a time. Enjoy the #hashtag.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/charlesago",
+                        "expanded_url": "http://www.linkedin.com/in/charlesago",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/htQzhtDTv8"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3,
+        "follow_request_sent": false,
+        "followers_count": 153,
+        "following": false,
+        "friends_count": 92,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 144982601,
+        "id_str": "144982601",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Texas",
+        "name": "Charles A",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/531217886644154368/pYKCifTR_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/531217886644154368/pYKCifTR_normal.jpeg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "CharlesAgo",
+        "statuses_count": 4645,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/htQzhtDTv8",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

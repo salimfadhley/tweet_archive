@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 27 10:25:57 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    46,
+                    54
+                ],
+                "text": "tried3x"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 658952768154173440,
+    "id_str": "658952768154173440",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.042837,
+                        33.818392
+                    ],
+                    [
+                        -83.950981,
+                        33.818392
+                    ],
+                    [
+                        -83.950981,
+                        33.890635
+                    ],
+                    [
+                        -84.042837,
+                        33.890635
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Snellville, GA",
+        "id": "b2cdaa7db78ed09b",
+        "name": "Snellville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b2cdaa7db78ed09b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks I'm not liking the new chai latte \ud83d\ude25#tried3x",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 12 01:07:22 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Love Life :) Inventors Club, Gwinnett County Education",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "myinventorsclub.com",
+                        "expanded_url": "http://www.myinventorsclub.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/l8YcZuP1vH"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 25,
+        "follow_request_sent": false,
+        "followers_count": 148,
+        "following": false,
+        "friends_count": 324,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 214700952,
+        "id_str": "214700952",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Grayson, GA",
+        "name": "Franchesca Thompson",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/214700952/1437057942",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/619129947676897280/QBQy7gdQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/619129947676897280/QBQy7gdQ_normal.jpg",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "7FBD22",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ididthat33",
+        "statuses_count": 57,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/l8YcZuP1vH",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

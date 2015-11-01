@@ -1,0 +1,151 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 01:44:52 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    19,
+                    23
+                ],
+                "text": "PDX"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            },
+            {
+                "id": 16537989,
+                "id_str": "16537989",
+                "indices": [
+                    114,
+                    120
+                ],
+                "name": "FOX",
+                "screen_name": "FOXTV"
+            },
+            {
+                "id": 16877611,
+                "id_str": "16877611",
+                "indices": [
+                    127,
+                    137
+                ],
+                "name": "FOX Sports",
+                "screen_name": "FOXSports"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 659184021507739648,
+    "id_str": "659184021507739648",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.7900653,
+                        45.421863
+                    ],
+                    [
+                        -122.471751,
+                        45.421863
+                    ],
+                    [
+                        -122.471751,
+                        45.6509405
+                    ],
+                    [
+                        -122.7900653,
+                        45.6509405
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Portland, OR",
+        "id": "ac88a4f17a51c7fc",
+        "name": "Portland",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ac88a4f17a51c7fc.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Google welcome to #PDX but there will be no day I will alway a computer to drive a car I am in... after watching @FOXTV &amp; @FOXSports",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 15 02:08:50 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Husband and Father... I tweet about anything and everything... But Christ wins always",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 13706,
+        "follow_request_sent": false,
+        "followers_count": 299,
+        "following": false,
+        "friends_count": 299,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 524938333,
+        "id_str": "524938333",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 15,
+        "location": "Portland Oregon",
+        "name": "Matt Schafer",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1897920115/Me_and_Jack_At_Disenyland__800x600___800x600__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1897920115/Me_and_Jack_At_Disenyland__800x600___800x600__normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MattSchafer1974",
+        "statuses_count": 17231,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 18:48:41 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    27,
+                    43
+                ],
+                "text": "WhyNotWednesday"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 59889953,
+                "id_str": "59889953",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Verizon",
+                "screen_name": "verizon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659441674016464896,
+    "id_str": "659441674016464896",
+    "in_reply_to_screen_name": "verizon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 59889953,
+    "in_reply_to_user_id_str": "59889953",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.191505,
+                        42.227797
+                    ],
+                    [
+                        -70.986004,
+                        42.227797
+                    ],
+                    [
+                        -70.986004,
+                        42.399542
+                    ],
+                    [
+                        -71.191505,
+                        42.399542
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Boston, MA",
+        "id": "67b98f17fdcf20be",
+        "name": "Boston",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/67b98f17fdcf20be.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@verizon I won a Turbo2 on #WhyNotWednesday ! Can you verify you have my info? I dont want to close my browser window until then",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 05 04:01:54 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Open Web developer.  Good beer, the outdoors, snow, and Baltimore Sports",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 393,
+        "follow_request_sent": false,
+        "followers_count": 202,
+        "following": false,
+        "friends_count": 229,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17889524,
+        "id_str": "17889524",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "Cambridge, MA",
+        "name": "Nat Ring",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/17906604/twitter.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/17906604/twitter.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17889524/1405458319",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/489153170627502080/OctesOs6_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/489153170627502080/OctesOs6_normal.jpeg",
+        "profile_link_color": "A10023",
+        "profile_sidebar_border_color": "AAAAAA",
+        "profile_sidebar_fill_color": "CDCDCD",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nat_ring",
+        "statuses_count": 977,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

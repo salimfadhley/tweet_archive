@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 26 12:57:45 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658628583196377088,
+    "id_str": "658628583196377088",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "pt",
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -46.1529338,
+                        -23.421433
+                    ],
+                    [
+                        -45.794391,
+                        -23.421433
+                    ],
+                    [
+                        -45.794391,
+                        -23.172376
+                    ],
+                    [
+                        -46.1529338,
+                        -23.172376
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Jacare\u00ed, S\u00e3o Paulo",
+        "id": "2d20303fc88d2fec",
+        "name": "Jacare\u00ed",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2d20303fc88d2fec.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@twitter t\u00f4 aqui a tempo bastante pra vcs colocarem a op\u00e7\u00e3o \"editar Tweet\"",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 18 16:37:03 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Sou aquela pessoa q pode passar o tempo q for........... vc sempre vai acabar sem roupa perto dela",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/xattiada",
+                        "expanded_url": "http://instagram.com/xattiada",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/YoQVJQtCZr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12555,
+        "follow_request_sent": false,
+        "followers_count": 22667,
+        "following": false,
+        "friends_count": 1819,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 557020100,
+        "id_str": "557020100",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 5,
+        "location": "jacare\u00ed- sp",
+        "name": "x\u00falia",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/537768832010436610/iAhm2fbV.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/537768832010436610/iAhm2fbV.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/557020100/1436270253",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/626045803438710784/608t5YrL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/626045803438710784/608t5YrL_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "xattiada",
+        "statuses_count": 80769,
+        "time_zone": "Brasilia",
+        "url": "http://t.co/YoQVJQtCZr",
+        "utc_offset": -7200,
+        "verified": false
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 25 16:32:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658320344097423360,
+    "id_str": "658320344097423360",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.573215,
+                        41.117165
+                    ],
+                    [
+                        -81.449817,
+                        41.117165
+                    ],
+                    [
+                        -81.449817,
+                        41.213328
+                    ],
+                    [
+                        -81.573215,
+                        41.213328
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Cuyahoga Falls, OH",
+        "id": "7645bade208f5ea9",
+        "name": "Cuyahoga Falls",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7645bade208f5ea9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Starbucks needs to bring back s'mores frapp back. My feelings are crushed...everyone RT this NOW!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 12 14:02:07 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Straight edge member, wrestling fan, often gets confused with the green lantern (John Stewart version). \u2716\u2716\u2716. I have a instagram.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 299,
+        "follow_request_sent": false,
+        "followers_count": 470,
+        "following": false,
+        "friends_count": 445,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 30653460,
+        "id_str": "30653460",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "Kent/Cuyahoga Falls",
+        "name": "Teron Taylor",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/692284166/d10eca59015de5abf40daf897b1be589.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/692284166/d10eca59015de5abf40daf897b1be589.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30653460/1420579940",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/634499921610194944/fPuGCAMP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/634499921610194944/fPuGCAMP_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFDCC5",
+        "profile_text_color": "977C61",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Teronto_",
+        "statuses_count": 65571,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

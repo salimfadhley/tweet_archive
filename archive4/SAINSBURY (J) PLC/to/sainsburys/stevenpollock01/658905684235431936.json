@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 27 07:18:51 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/ZF0vaTWHa0",
+                "expanded_url": "http://twitter.com/stevenpollock01/status/658905684235431936/photo/1",
+                "id": 658905677268668416,
+                "id_str": "658905677268668416",
+                "indices": [
+                    59,
+                    82
+                ],
+                "media_url": "http://pbs.twimg.com/media/CSTnOPIWUAAapw7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CSTnOPIWUAAapw7.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 575
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 575
+                    },
+                    "small": {
+                        "h": 605,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/ZF0vaTWHa0"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 80685646,
+                "id_str": "80685646",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Sainsbury's",
+                "screen_name": "sainsburys"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 658905684235431936,
+    "id_str": "658905684235431936",
+    "in_reply_to_screen_name": "sainsburys",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 80685646,
+    "in_reply_to_user_id_str": "80685646",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.0361161,
+                        54.543241
+                    ],
+                    [
+                        -5.8207101,
+                        54.543241
+                    ],
+                    [
+                        -5.8207101,
+                        54.6484968
+                    ],
+                    [
+                        -6.0361161,
+                        54.6484968
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Belfast, Northern Ireland",
+        "id": "28679b23ed15b380",
+        "name": "Belfast",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/28679b23ed15b380.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Sainsburys 25% off all clothing live in store from today. https://t.co/ZF0vaTWHa0",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 04 20:28:30 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hi im Steven, Store manager at Sainsburys Sprucefield in Lisburn sharing life, offers and events through my eyes .views are my own and not that of my employer.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 61,
+        "follow_request_sent": false,
+        "followers_count": 268,
+        "following": false,
+        "friends_count": 403,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3236345576,
+        "id_str": "3236345576",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en-GB",
+        "listed_count": 3,
+        "location": "",
+        "name": "Steven Pollock",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3236345576/1433450056",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/606559614109229058/mkpxa22n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/606559614109229058/mkpxa22n_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "stevenpollock01",
+        "statuses_count": 208,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

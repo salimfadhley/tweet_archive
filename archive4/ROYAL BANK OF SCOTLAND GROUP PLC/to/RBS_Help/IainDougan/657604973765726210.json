@@ -1,0 +1,170 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 23 17:10:18 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    54,
+                    61
+                ],
+                "text": "Lenzie"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/v3JRPL5RAF",
+                "expanded_url": "http://twitter.com/IainDougan/status/657604973765726210/photo/1",
+                "id": 657604968308940801,
+                "id_str": "657604968308940801",
+                "indices": [
+                    110,
+                    133
+                ],
+                "media_url": "http://pbs.twimg.com/media/CSBIPAqWIAEsL9G.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CSBIPAqWIAEsL9G.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/v3JRPL5RAF"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 284537825,
+                "id_str": "284537825",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "RBS Help",
+                "screen_name": "RBS_Help"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 657604973765726210,
+    "id_str": "657604973765726210",
+    "in_reply_to_screen_name": "RBS_Help",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 284537825,
+    "in_reply_to_user_id_str": "284537825",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -4.177947,
+                        55.914286
+                    ],
+                    [
+                        -4.112137,
+                        55.914286
+                    ],
+                    [
+                        -4.112137,
+                        55.9487647
+                    ],
+                    [
+                        -4.177947,
+                        55.9487647
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Kirkintilloch, Scotland",
+        "id": "35cd6202a80ce5f8",
+        "name": "Kirkintilloch",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/35cd6202a80ce5f8.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@RBS_Help thanks for this reminder of what the ATM in #Lenzie looked like- any chance someone can turn it on? https://t.co/v3JRPL5RAF",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 30 19:16:41 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Celtic, music, movies, comedy and new tech. Sometimes not in that order",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1480,
+        "follow_request_sent": false,
+        "followers_count": 210,
+        "following": false,
+        "friends_count": 436,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 308056848,
+        "id_str": "308056848",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Glasgow",
+        "name": "Iain Dougan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414494088/eastern_europe_11_140_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414494088/eastern_europe_11_140_normal.gif",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "IainDougan",
+        "statuses_count": 2997,
+        "time_zone": "Edinburgh",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

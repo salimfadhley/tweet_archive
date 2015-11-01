@@ -1,0 +1,337 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 14:20:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/kiliankoe/stat\u2026",
+                "expanded_url": "https://twitter.com/kiliankoe/status/659373767307698177",
+                "indices": [
+                    10,
+                    33
+                ],
+                "url": "https://t.co/CbcDBUCkGd"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store ",
+                "screen_name": "AppStore"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659374074938925057,
+    "id_str": "659374074938925057",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        13.729732,
+                        51.026236
+                    ],
+                    [
+                        13.755192,
+                        51.026236
+                    ],
+                    [
+                        13.755192,
+                        51.03913
+                    ],
+                    [
+                        13.729732,
+                        51.03913
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Deutschland",
+        "country_code": "DE",
+        "full_name": "S\u00fcdvorstadt-Ost, Dresden",
+        "id": "1a983687a501089d",
+        "name": "S\u00fcdvorstadt-Ost",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/1a983687a501089d.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Oct 28 14:18:51 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        26,
+                        30
+                    ],
+                    "text": "iOS"
+                },
+                {
+                    "indices": [
+                        97,
+                        104
+                    ],
+                    "text": "iosdev"
+                },
+                {
+                    "indices": [
+                        105,
+                        114
+                    ],
+                    "text": "appstore"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/i6JL7UNBIl",
+                    "expanded_url": "http://twitter.com/kiliankoe/status/659373767307698177/photo/1",
+                    "id": 659373763801325568,
+                    "id_str": "659373763801325568",
+                    "indices": [
+                        115,
+                        138
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CSaQ8dWXIAAkE6m.png",
+                    "media_url_https": "https://pbs.twimg.com/media/CSaQ8dWXIAAkE6m.png",
+                    "sizes": {
+                        "large": {
+                            "h": 338,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 198,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 112,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/i6JL7UNBIl"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "geo": null,
+        "id": 659373767307698177,
+        "id_str": "659373767307698177",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            13.729732,
+                            51.026236
+                        ],
+                        [
+                            13.755192,
+                            51.026236
+                        ],
+                        [
+                            13.755192,
+                            51.03913
+                        ],
+                        [
+                            13.729732,
+                            51.03913
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "Deutschland",
+            "country_code": "DE",
+            "full_name": "S\u00fcdvorstadt-Ost, Dresden",
+            "id": "1a983687a501089d",
+            "name": "S\u00fcdvorstadt-Ost",
+            "place_type": "neighborhood",
+            "url": "https://api.twitter.com/1.1/geo/id/1a983687a501089d.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "text": "Is it normal, that German #iOS devs are now only getting 59% of their app proceeds? Tax reasons? #iosdev #appstore https://t.co/i6JL7UNBIl",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Feb 04 19:06:43 +0000 2009",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Technophile / Apple-leptic / Student at TU Dresden / freelance iOS dev / dreams in Swift \u2764\ufe0f",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "kilian.io",
+                            "expanded_url": "http://kilian.io",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/NhRSdHRQrZ"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1719,
+            "follow_request_sent": false,
+            "followers_count": 462,
+            "following": false,
+            "friends_count": 328,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 20080657,
+            "id_str": "20080657",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 30,
+            "location": "Dresden, Germany",
+            "name": "Kilian K\u00f6ltzsch",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20080657/1443789369",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649925358385528832/sTQwtMQU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/649925358385528832/sTQwtMQU_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "kiliankoe",
+            "statuses_count": 11460,
+            "time_zone": "Berlin",
+            "url": "http://t.co/NhRSdHRQrZ",
+            "utc_offset": 3600,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 659373767307698177,
+    "quoted_status_id_str": "659373767307698177",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "@AppStore https://t.co/CbcDBUCkGd",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 19 17:18:57 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Information sience student. Apple Fanboy. iOS-Developer. YouTuber @SwiftDeTut.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "benchr.de",
+                        "expanded_url": "http://www.benchr.de",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/6aJFf7i6zH"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1191,
+        "follow_request_sent": false,
+        "followers_count": 128,
+        "following": false,
+        "friends_count": 186,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 145703895,
+        "id_str": "145703895",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "de",
+        "listed_count": 10,
+        "location": "Dresden",
+        "name": "Benjamin Herzog",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/151018015/Foto_227_-_Kopie.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/151018015/Foto_227_-_Kopie.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/145703895/1407272901",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/658947200303636485/eMZD_RiQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/658947200303636485/eMZD_RiQ_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BenchR",
+        "statuses_count": 2210,
+        "time_zone": "Berlin",
+        "url": "http://t.co/6aJFf7i6zH",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

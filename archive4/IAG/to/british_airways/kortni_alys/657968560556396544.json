@@ -1,0 +1,135 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -0.60913239,
+            51.48024881
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sat Oct 24 17:15:03 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            51.48024881,
+            -0.60913239
+        ],
+        "type": "Point"
+    },
+    "id": 657968560556396544,
+    "id_str": "657968560556396544",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.6629943,
+                        51.4408179
+                    ],
+                    [
+                        -0.600029,
+                        51.4408179
+                    ],
+                    [
+                        -0.600029,
+                        51.49632
+                    ],
+                    [
+                        -0.6629943,
+                        51.49632
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Windsor, England",
+        "id": "51e226ba12571f40",
+        "name": "Windsor",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/51e226ba12571f40.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@British_Airways help! Appear to have been double charged for flights and your office is closed! Need to sort it out asap cos of bank!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 08 20:21:10 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "This one: @inb4 :D\n\nStudent at Oxford University.\nStudying the Undergraduate Certificate in Archaeology.\nLatin lover.\nNerd.\n\n108-443-1438",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 60,
+        "follow_request_sent": false,
+        "followers_count": 110,
+        "following": false,
+        "friends_count": 43,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 16191413,
+        "id_str": "16191413",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Windsor, U.K",
+        "name": "Kortni Alys",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/580309841085886464/SpsSum7v_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/580309841085886464/SpsSum7v_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kortni_alys",
+        "statuses_count": 9657,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 15:11:34 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659387036558692352,
+    "id_str": "659387036558692352",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.977527,
+                        32.620678
+                    ],
+                    [
+                        -96.54598,
+                        32.620678
+                    ],
+                    [
+                        -96.54598,
+                        33.019039
+                    ],
+                    [
+                        -96.977527,
+                        33.019039
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Dallas, TX",
+        "id": "18810aa5b43e76c7",
+        "name": "Dallas",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/18810aa5b43e76c7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks hey guys, your gaston Ave location is taking FOREVER! Been in the drive thru line for 20 mins",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 05 04:10:42 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Your favorite rapper's favorite award-winning social media strategist. #uccs alum. used to hoop for $. improv comedian @dallascomedy @splashmedia",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/robhowe",
+                        "expanded_url": "http://about.me/robhowe",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/aBPM4xWYrF"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1374,
+        "follow_request_sent": false,
+        "followers_count": 989,
+        "following": false,
+        "friends_count": 934,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18623092,
+        "id_str": "18623092",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 52,
+        "location": "Dallas, TX",
+        "name": "Rob Howe",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/81813945/vs_chadron.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/81813945/vs_chadron.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18623092/1350508009",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2446459194/flyyabetes_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2446459194/flyyabetes_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "flyyabetes",
+        "statuses_count": 20354,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/aBPM4xWYrF",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 18:23:15 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 37686676,
+                "id_str": "37686676",
+                "indices": [
+                    31,
+                    47
+                ],
+                "name": "Ruddy Rodriguez",
+                "screen_name": "RuddyRRodriguez"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659435271583367168,
+    "id_str": "659435271583367168",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.3540725,
+                        0.648837
+                    ],
+                    [
+                        -59.8037796,
+                        0.648837
+                    ],
+                    [
+                        -59.8037796,
+                        12.1968022
+                    ],
+                    [
+                        -73.3540725,
+                        12.1968022
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Venezuela",
+        "country_code": "VE",
+        "full_name": "Venezuela",
+        "id": "043383f8b2b79918",
+        "name": "Venezuela",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook \n\nEnen Alberto Perez @RuddyRRodriguez",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 05 15:33:23 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Conf\u00eda en el Se\u00f1or de todo coraz\u00f3n,\ny no te apoyes en tu propia prudencia.\nRecon\u00f3celo en todos tus caminos,\ny \u00e9l enderezar\u00e1 tus sendas.\nProverbios 3:5-6 RVC",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2,
+        "follow_request_sent": false,
+        "followers_count": 14,
+        "following": false,
+        "friends_count": 109,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2709597732,
+        "id_str": "2709597732",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 0,
+        "location": "",
+        "name": "Enen Perez",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/496690839406403584/hxFHkR18_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/496690839406403584/hxFHkR18_normal.jpeg",
+        "profile_link_color": "3B8059",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "el_enem",
+        "statuses_count": 83,
+        "time_zone": "Caracas",
+        "url": null,
+        "utc_offset": -16200,
+        "verified": false
+    }
+}

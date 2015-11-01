@@ -1,0 +1,169 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 27 16:35:05 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    78,
+                    85
+                ],
+                "text": "Amazon"
+            },
+            {
+                "indices": [
+                    86,
+                    102
+                ],
+                "text": "AmazonLogistics"
+            },
+            {
+                "indices": [
+                    103,
+                    113
+                ],
+                "text": "Nightmare"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            },
+            {
+                "id": 209004862,
+                "id_str": "209004862",
+                "indices": [
+                    68,
+                    77
+                ],
+                "name": "Amazon.co.uk",
+                "screen_name": "AmazonUK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659045663674626048,
+    "id_str": "659045663674626048",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.5093057,
+                        51.286606
+                    ],
+                    [
+                        0.334433,
+                        51.286606
+                    ],
+                    [
+                        0.334433,
+                        51.6916388
+                    ],
+                    [
+                        -0.5093057,
+                        51.6916388
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "London, England",
+        "id": "5d838f7a011f4a2d",
+        "name": "London",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/5d838f7a011f4a2d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Amazon Logistics UK, does someone really come to deliver packages? @AmazonUK #Amazon #AmazonLogistics #Nightmare",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 16 07:15:23 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Student @Cambridge_Uni | Entrepreneur & Founder @WeChargeTech and PostFriend | Member @TechHub | Startup & Innovation addict | Financial Markets & Commodities",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "wechargetech.com",
+                        "expanded_url": "http://www.wechargetech.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/2cHaJAsua8"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 21,
+        "follow_request_sent": false,
+        "followers_count": 1429,
+        "following": false,
+        "friends_count": 377,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 883911386,
+        "id_str": "883911386",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "London, England",
+        "name": "Lucas Bornert",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/696025014/886df5bad37ead3199f7448bec0c4daf.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/696025014/886df5bad37ead3199f7448bec0c4daf.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/883911386/1445344288",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/656380225828339712/K59F4JG4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/656380225828339712/K59F4JG4_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LucasBnt1",
+        "statuses_count": 102,
+        "time_zone": "Paris",
+        "url": "https://t.co/2cHaJAsua8",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

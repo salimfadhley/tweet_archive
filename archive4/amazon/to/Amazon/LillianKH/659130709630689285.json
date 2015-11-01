@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 27 22:13:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            },
+            {
+                "id": 26276396,
+                "id_str": "26276396",
+                "indices": [
+                    8,
+                    16
+                ],
+                "name": "Jawbone",
+                "screen_name": "Jawbone"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659130709630689285,
+    "id_str": "659130709630689285",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": 659072829363789824,
+    "in_reply_to_status_id_str": "659072829363789824",
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.241411,
+                        40.661761
+                    ],
+                    [
+                        -76.184505,
+                        40.661761
+                    ],
+                    [
+                        -76.184505,
+                        40.698839
+                    ],
+                    [
+                        -76.241411,
+                        40.698839
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Pottsville, PA",
+        "id": "906de03906cadcb3",
+        "name": "Pottsville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/906de03906cadcb3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@amazon @Jawbone twilight cross",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 01 17:52:54 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Wife + two daughters + cat - teacher/librarian - enjoy education, travel, winter/winter sports - knitting - gardening - Penn State.  Life-long learning!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 101,
+        "follow_request_sent": false,
+        "followers_count": 27,
+        "following": false,
+        "friends_count": 86,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2256645015,
+        "id_str": "2256645015",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "",
+        "name": "Lillian K Hobbs",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2256645015/1389739803",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/423224128066162688/o4xra_6x_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/423224128066162688/o4xra_6x_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LillianKH",
+        "statuses_count": 175,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

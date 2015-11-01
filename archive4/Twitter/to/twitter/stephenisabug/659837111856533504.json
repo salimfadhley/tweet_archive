@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 29 21:00:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 659837111856533504,
+    "id_str": "659837111856533504",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -111.740949,
+                        40.18565
+                    ],
+                    [
+                        -111.602629,
+                        40.18565
+                    ],
+                    [
+                        -111.602629,
+                        40.311641
+                    ],
+                    [
+                        -111.740949,
+                        40.311641
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Provo, UT",
+        "id": "665409336d2b20a0",
+        "name": "Provo",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/665409336d2b20a0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@twitter verify me",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 24 15:05:21 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "/// officer jenny /// studio studio dada /// the medusa collective /// provo's sweetheart\n\n* he/she/they *",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "officerjenny.com",
+                        "expanded_url": "http://officerjenny.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Qa8ARkx3SP"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 32671,
+        "follow_request_sent": false,
+        "followers_count": 682,
+        "following": false,
+        "friends_count": 401,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 589186079,
+        "id_str": "589186079",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Provo, UT",
+        "name": "~* a demon bug *~",
+        "notifications": false,
+        "profile_background_color": "8E7A71",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/560590752/xc8f2ad00ba48a87ae7b092645f7a224.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/560590752/xc8f2ad00ba48a87ae7b092645f7a224.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/589186079/1441735954",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/656381836810055680/5s5hZOku_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/656381836810055680/5s5hZOku_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "B3BA9B",
+        "profile_sidebar_fill_color": "E1DCB4",
+        "profile_text_color": "DEBB9F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "stephenisabug",
+        "statuses_count": 13531,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": "http://t.co/Qa8ARkx3SP",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

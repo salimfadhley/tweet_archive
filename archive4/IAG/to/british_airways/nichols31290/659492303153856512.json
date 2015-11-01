@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 22:09:52 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659492303153856512,
+    "id_str": "659492303153856512",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.476463,
+                        50.883056
+                    ],
+                    [
+                        -1.3164712,
+                        50.883056
+                    ],
+                    [
+                        -1.3164712,
+                        50.959599
+                    ],
+                    [
+                        -1.476463,
+                        50.959599
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Southampton, England",
+        "id": "1b676cd4b8a8684a",
+        "name": "Southampton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1b676cd4b8a8684a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@British_Airways evening! Do you know at what point I can find out if there is space to take my violin as hand luggage on BA0982?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 26 17:54:35 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Folk-fiddling, curly-haired Cornishman. Busker/admin monkey/tweeter for @3pennybit, and Instrumental Tutor for @MusicHubSouth.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/nichols31290",
+                        "expanded_url": "http://facebook.com/nichols31290",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/IF9O7TZ1CK"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 661,
+        "follow_request_sent": false,
+        "followers_count": 353,
+        "following": false,
+        "friends_count": 504,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 26804578,
+        "id_str": "26804578",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "Southampton, Hampshire",
+        "name": "Chris Nichols",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/326654348/DSC_0812_2_.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/326654348/DSC_0812_2_.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26804578/1395603660",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1853599058/Twitter_Pic_1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1853599058/Twitter_Pic_1_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nichols31290",
+        "statuses_count": 2475,
+        "time_zone": "London",
+        "url": "http://t.co/IF9O7TZ1CK",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 23 20:00:40 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    71,
+                    81
+                ],
+                "text": "dirtygits"
+            },
+            {
+                "indices": [
+                    82,
+                    98
+                ],
+                "text": "couldoflostaleg"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/crfxtcFKqH",
+                "expanded_url": "http://twitter.com/jordonjack/status/657647848994033669/photo/1",
+                "id": 657647832955011073,
+                "id_str": "657647832955011073",
+                "indices": [
+                    99,
+                    122
+                ],
+                "media_url": "http://pbs.twimg.com/media/CSBvOD6WwAEByUL.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CSBvOD6WwAEByUL.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/crfxtcFKqH"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 657647848994033669,
+    "id_str": "657647848994033669",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        4.5505577,
+                        52.2144875
+                    ],
+                    [
+                        4.8191001,
+                        52.2144875
+                    ],
+                    [
+                        4.8191001,
+                        52.3863713
+                    ],
+                    [
+                        4.5505577,
+                        52.3863713
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Nederland",
+        "country_code": "NL",
+        "full_name": "Haarlemmermeer, Noord-Holland",
+        "id": "cd003ebe3a96fcc6",
+        "name": "Haarlemmermeer",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/cd003ebe3a96fcc6.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks had to leave my coffee at schipol - 2 mice on the rampage!! #dirtygits #couldoflostaleg https://t.co/crfxtcFKqH",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 28 02:08:32 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 102,
+        "follow_request_sent": false,
+        "followers_count": 132,
+        "following": false,
+        "friends_count": 852,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 93098116,
+        "id_str": "93098116",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "where the weathers smoggy",
+        "name": "Jordon",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/431590921/IMG_0213.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/431590921/IMG_0213.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/93098116/1445581705",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/522299185312579584/jeJGIkqe_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/522299185312579584/jeJGIkqe_normal.jpeg",
+        "profile_link_color": "EB7E2A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jordonjack",
+        "statuses_count": 378,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

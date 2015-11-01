@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 24 18:01:25 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 75691804,
+                "id_str": "75691804",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Microsoft Support",
+                "screen_name": "MicrosoftHelps"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 657980228799561728,
+    "id_str": "657980228799561728",
+    "in_reply_to_screen_name": "MicrosoftHelps",
+    "in_reply_to_status_id": 657980122864201728,
+    "in_reply_to_status_id_str": "657980122864201728",
+    "in_reply_to_user_id": 75691804,
+    "in_reply_to_user_id_str": "75691804",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.483288999243,
+                        3.71743200175304
+                    ],
+                    [
+                        -74.0040529979154,
+                        3.71743200175304
+                    ],
+                    [
+                        -74.0040529979154,
+                        4.80713500387127
+                    ],
+                    [
+                        -74.483288999243,
+                        4.80713500387127
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Colombia",
+        "country_code": "CO",
+        "full_name": "Bogot\u00e1, Colombia",
+        "id": "0161be1b3f98d6c3",
+        "name": "Bogot\u00e1",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@MicrosoftHelps ok, thanks :)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 09 23:28:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Keep hacking!\n\nOcassional twitter. Developing, learning, innovating and sharing my knowledge. Co-founded @BoolInc and @GenteBool.\n\nTweets on english and spanish",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "pandres95.me",
+                        "expanded_url": "https://pandres95.me",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/1mp4fc0bsV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 317,
+        "follow_request_sent": false,
+        "followers_count": 231,
+        "following": false,
+        "friends_count": 161,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 72981969,
+        "id_str": "72981969",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en-gb",
+        "listed_count": 19,
+        "location": "Bogot\u00e1, Colombia",
+        "name": "Pablo Andr\u00e9s Dorado",
+        "notifications": false,
+        "profile_background_color": "E48C10",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/642748607/x6833857ddb3664490c1695d06c5e1ed.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/642748607/x6833857ddb3664490c1695d06c5e1ed.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/72981969/1440273689",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/635180146966818816/b9rRsGNg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/635180146966818816/b9rRsGNg_normal.jpg",
+        "profile_link_color": "0E9376",
+        "profile_sidebar_border_color": "FFD648",
+        "profile_sidebar_fill_color": "3B1009",
+        "profile_text_color": "FDDBAB",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pandres95",
+        "statuses_count": 5429,
+        "time_zone": "Bogota",
+        "url": "https://t.co/1mp4fc0bsV",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

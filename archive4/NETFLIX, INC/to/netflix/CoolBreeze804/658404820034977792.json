@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 25 22:08:36 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            },
+            {
+                "id": 15033883,
+                "id_str": "15033883",
+                "indices": [
+                    14,
+                    19
+                ],
+                "name": "hulu",
+                "screen_name": "hulu"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658404820034977792,
+    "id_str": "658404820034977792",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.67529,
+                        36.540739
+                    ],
+                    [
+                        -75.16644,
+                        36.540739
+                    ],
+                    [
+                        -75.16644,
+                        39.466012
+                    ],
+                    [
+                        -83.67529,
+                        39.466012
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Virginia, USA",
+        "id": "5635c19c2b5078d1",
+        "name": "Virginia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Netflix &gt; @Hulu \ud83d\ude15",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 29 22:53:25 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#CollegeGraduate \u25cf #MBA \u25cf #BusinessOwner \n\nIf it don't affect your pay, don't let it affect your day...",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/hporter3",
+                        "expanded_url": "https://instagram.com/hporter3",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/CFcIQjhgYu"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8742,
+        "follow_request_sent": false,
+        "followers_count": 518,
+        "following": false,
+        "friends_count": 1095,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 27524725,
+        "id_str": "27524725",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "Richmond, VA",
+        "name": "CB804",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27524725/1444652023",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/612725008427806720/yasMDLgF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/612725008427806720/yasMDLgF_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CoolBreeze804",
+        "statuses_count": 11220,
+        "time_zone": null,
+        "url": "https://t.co/CFcIQjhgYu",
+        "utc_offset": null,
+        "verified": false
+    }
+}

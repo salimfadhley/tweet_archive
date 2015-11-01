@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -6.26417736,
+            53.34500869
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Oct 28 16:30:52 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    53,
+                    63
+                ],
+                "text": "Halloween"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 23482357,
+                "id_str": "23482357",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "The Coca-Cola Co.",
+                "screen_name": "CocaColaCo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            53.34500869,
+            -6.26417736
+        ],
+        "type": "Point"
+    },
+    "id": 659406990423281664,
+    "id_str": "659406990423281664",
+    "in_reply_to_screen_name": "CocaColaCo",
+    "in_reply_to_status_id": 659403853889171456,
+    "in_reply_to_status_id_str": "659403853889171456",
+    "in_reply_to_user_id": 23482357,
+    "in_reply_to_user_id_str": "23482357",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.3873911,
+                        53.2987449
+                    ],
+                    [
+                        -6.1078047,
+                        53.2987449
+                    ],
+                    [
+                        -6.1078047,
+                        53.4110598
+                    ],
+                    [
+                        -6.3873911,
+                        53.4110598
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ireland",
+        "country_code": "IE",
+        "full_name": "Dublin City, Ireland",
+        "id": "7dde0febc9ef245b",
+        "name": "Dublin City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CocaColaCo sure aren't we grand lads altogether?! \ud83d\ude08 #Halloween",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 17 22:01:49 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "WE SHIP WORLDWIDE! Buying + selling Chanel, Hermes, Louis Vuitton and more!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "siopaella.com",
+                        "expanded_url": "http://siopaella.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/V7pplxZu5O"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3040,
+        "follow_request_sent": false,
+        "followers_count": 3098,
+        "following": false,
+        "friends_count": 871,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 239551696,
+        "id_str": "239551696",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 35,
+        "location": "Temple Bar, Dublin, Ireland",
+        "name": "Siopaella",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/572346990/xjt6dm2dybza2y5xhevw.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/572346990/xjt6dm2dybza2y5xhevw.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/239551696/1392268702",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/442744375555407872/zITJTy9M_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/442744375555407872/zITJTy9M_normal.jpeg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "siopaella",
+        "statuses_count": 22096,
+        "time_zone": "Dublin",
+        "url": "http://t.co/V7pplxZu5O",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

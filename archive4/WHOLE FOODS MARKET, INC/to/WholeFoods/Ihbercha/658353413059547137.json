@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 25 18:44:19 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/vuFiXH898o",
+                "expanded_url": "http://twitter.com/Ihbercha/status/658353413059547137/photo/1",
+                "id": 658353400992501760,
+                "id_str": "658353400992501760",
+                "indices": [
+                    43,
+                    66
+                ],
+                "media_url": "http://pbs.twimg.com/media/CSLw7hrUEAAN8ol.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CSLw7hrUEAAN8ol.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/vuFiXH898o"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15131310,
+                "id_str": "15131310",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Whole Foods Market",
+                "screen_name": "WholeFoods"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658353413059547137,
+    "id_str": "658353413059547137",
+    "in_reply_to_screen_name": "WholeFoods",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15131310,
+    "in_reply_to_user_id_str": "15131310",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -109.060257,
+                        36.992427
+                    ],
+                    [
+                        -102.041524,
+                        36.992427
+                    ],
+                    [
+                        -102.041524,
+                        41.003445
+                    ],
+                    [
+                        -109.060257,
+                        41.003445
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Colorado, USA",
+        "id": "e21c8e4914eef2b3",
+        "name": "Colorado",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/e21c8e4914eef2b3.json"
+    },
+    "possibly_sensitive": true,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@WholeFoods I LOVE rustic Italian bread... https://t.co/vuFiXH898o",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 16 01:31:05 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A constant student of nature. Retweets mean content of interest &/or endorsement or simply things that I enjoy. \nTHE ONE WHO SEEKS, SO I MAY FIND!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 59,
+        "follow_request_sent": false,
+        "followers_count": 516,
+        "following": false,
+        "friends_count": 203,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 391740160,
+        "id_str": "391740160",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 48,
+        "location": "Aurora, Colorado ",
+        "name": "Ishtiaq H. Bercha",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/520533546/Hun_Spring.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/520533546/Hun_Spring.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/391740160/1353292008",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/486305197686153218/ExBAwZlB_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/486305197686153218/ExBAwZlB_normal.jpeg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Ihbercha",
+        "statuses_count": 121964,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

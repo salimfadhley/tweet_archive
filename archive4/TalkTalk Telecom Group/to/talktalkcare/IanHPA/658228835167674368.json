@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 25 10:29:18 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "noddle.co.uk",
+                "expanded_url": "http://noddle.co.uk",
+                "indices": [
+                    84,
+                    107
+                ],
+                "url": "https://t.co/P5oWqfBfCG"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 258719649,
+                "id_str": "258719649",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "TalkTalk ",
+                "screen_name": "TalkTalkCare"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658228835167674368,
+    "id_str": "658228835167674368",
+    "in_reply_to_screen_name": "TalkTalkCare",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 258719649,
+    "in_reply_to_user_id_str": "258719649",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -5.1415925,
+                        41.3646279
+                    ],
+                    [
+                        9.5598311,
+                        41.3646279
+                    ],
+                    [
+                        9.5598311,
+                        51.0887708
+                    ],
+                    [
+                        -5.1415925,
+                        51.0887708
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "France",
+        "id": "f3bfc7dcc928977f",
+        "name": "France",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/f3bfc7dcc928977f.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@TalkTalkCare I am in France at present. I am a TalkTalk customer. Can't connect to https://t.co/P5oWqfBfCG. Why is that?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 19 09:15:22 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Idle doting Grandpa, Toynbee/Hutton radical. Europhile, more than a bit appalled at the way things are going.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 17,
+        "follow_request_sent": false,
+        "followers_count": 65,
+        "following": false,
+        "friends_count": 142,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 97862617,
+        "id_str": "97862617",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Brighton UK",
+        "name": "Ian Healey",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1396056924/resize1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1396056924/resize1_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "IanHPA",
+        "statuses_count": 545,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

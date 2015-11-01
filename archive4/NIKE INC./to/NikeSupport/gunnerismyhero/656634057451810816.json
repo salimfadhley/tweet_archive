@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 21 00:52:13 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14462333,
+                "id_str": "14462333",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Nike Support",
+                "screen_name": "NikeSupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 656634057451810816,
+    "id_str": "656634057451810816",
+    "in_reply_to_screen_name": "NikeSupport",
+    "in_reply_to_status_id": 656629694289309696,
+    "in_reply_to_status_id_str": "656629694289309696",
+    "in_reply_to_user_id": 14462333,
+    "in_reply_to_user_id_str": "14462333",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.724998,
+                        42.660879
+                    ],
+                    [
+                        -73.649201,
+                        42.660879
+                    ],
+                    [
+                        -73.649201,
+                        42.795001
+                    ],
+                    [
+                        -73.724998,
+                        42.795001
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Troy, NY",
+        "id": "51cc4a7155935af2",
+        "name": "Troy",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/51cc4a7155935af2.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@NikeSupport iPhone 4S, 9.0.2, 4.8.3",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 24 22:13:32 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Software engineer. Beer enthusiast. Rock the Sweater with pride.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "gunnerbarnes.com",
+                        "expanded_url": "http://gunnerbarnes.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/yuIbmJurDX"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 142,
+        "follow_request_sent": false,
+        "followers_count": 68,
+        "following": false,
+        "friends_count": 198,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 19466063,
+        "id_str": "19466063",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "",
+        "name": "Gunner Barnes",
+        "notifications": false,
+        "profile_background_color": "FCEBB6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/683837511/f5cc6d5839baf2c40b687c4c3aa21bfa.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/683837511/f5cc6d5839baf2c40b687c4c3aa21bfa.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19466063/1375145607",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1159156471/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1159156471/image_normal.jpg",
+        "profile_link_color": "CE7834",
+        "profile_sidebar_border_color": "F0A830",
+        "profile_sidebar_fill_color": "78C0A8",
+        "profile_text_color": "5E412F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gunnerismyhero",
+        "statuses_count": 1885,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/yuIbmJurDX",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

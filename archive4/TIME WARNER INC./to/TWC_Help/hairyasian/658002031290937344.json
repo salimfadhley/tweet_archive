@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 24 19:28:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 110782268,
+                "id_str": "110782268",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "TWC Help",
+                "screen_name": "TWC_Help"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658002031290937344,
+    "id_str": "658002031290937344",
+    "in_reply_to_screen_name": "TWC_Help",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 110782268,
+    "in_reply_to_user_id_str": "110782268",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TWC_Help is there an issue with tv service in 90025?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 11 07:03:56 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "it's not just the coin. it's the... the 'kwan'.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/hairyasian",
+                        "expanded_url": "http://about.me/hairyasian",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/XEhsl3GtCM"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5043,
+        "follow_request_sent": false,
+        "followers_count": 974,
+        "following": false,
+        "friends_count": 1999,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14120876,
+        "id_str": "14120876",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 33,
+        "location": "",
+        "name": "albert kim",
+        "notifications": false,
+        "profile_background_color": "030000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458793985964658688/s7VWsFNs.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458793985964658688/s7VWsFNs.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14120876/1397891688",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/51677329/n2515383_38892770_7426_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/51677329/n2515383_38892770_7426_normal.jpg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "030000",
+        "profile_text_color": "FFFFFF",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hairyasian",
+        "statuses_count": 7189,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/XEhsl3GtCM",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

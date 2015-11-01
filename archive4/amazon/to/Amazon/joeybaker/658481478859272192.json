@@ -1,0 +1,185 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 26 03:13:13 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/pZJvpmf8mS",
+                "expanded_url": "http://twitter.com/joeybaker/status/658481478859272192/photo/1",
+                "id": 658481477009608705,
+                "id_str": "658481477009608705",
+                "indices": [
+                    104,
+                    127
+                ],
+                "media_url": "http://pbs.twimg.com/media/CSNlaiBVEAESXtq.png",
+                "media_url_https": "https://pbs.twimg.com/media/CSNlaiBVEAESXtq.png",
+                "sizes": {
+                    "large": {
+                        "h": 205,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 120,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 68,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/pZJvpmf8mS"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "cl.ly/dcqz",
+                "expanded_url": "http://cl.ly/dcqz",
+                "indices": [
+                    49,
+                    72
+                ],
+                "url": "https://t.co/bOqN7RzvTE"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658481478859272192,
+    "id_str": "658481478859272192",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.49327096,
+                        37.78353
+                    ],
+                    [
+                        -122.48168184,
+                        37.78353
+                    ],
+                    [
+                        -122.48168184,
+                        37.79066601
+                    ],
+                    [
+                        -122.49327096,
+                        37.79066601
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Sea Cliff, San Francisco",
+        "id": "eddd6cf634d2e0d3",
+        "name": "Sea Cliff",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/eddd6cf634d2e0d3.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "@amazon I\u2019m confused. Is \u201cprime now\u201d, 1 hour per https://t.co/bOqN7RzvTE, or 2 hours per your homepage? https://t.co/pZJvpmf8mS",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 10 02:37:11 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Mostly, I write javascript. HTML semantics are fun and CSS is a craft. Once, I was a journo.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "byjoeybaker.com",
+                        "expanded_url": "https://byjoeybaker.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ukjZtKDfF4"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2145,
+        "follow_request_sent": false,
+        "followers_count": 962,
+        "following": false,
+        "friends_count": 342,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15373201,
+        "id_str": "15373201",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 128,
+        "location": "San Francisco",
+        "name": "Joey Baker",
+        "notifications": false,
+        "profile_background_color": "EDEDED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4634925/background.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4634925/background.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150999783/JoeyBaker4_300_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150999783/JoeyBaker4_300_normal.jpg",
+        "profile_link_color": "559DD6",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "joeybaker",
+        "statuses_count": 8627,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/ukjZtKDfF4",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

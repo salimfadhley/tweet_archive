@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 25 17:12:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 80685646,
+                "id_str": "80685646",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Sainsbury's",
+                "screen_name": "sainsburys"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658330195225673729,
+    "id_str": "658330195225673729",
+    "in_reply_to_screen_name": "sainsburys",
+    "in_reply_to_status_id": 658189307174387712,
+    "in_reply_to_status_id_str": "658189307174387712",
+    "in_reply_to_user_id": 80685646,
+    "in_reply_to_user_id_str": "80685646",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.065041,
+                        51.4123385
+                    ],
+                    [
+                        -0.8990196,
+                        51.4123385
+                    ],
+                    [
+                        -0.8990196,
+                        51.4927093
+                    ],
+                    [
+                        -1.065041,
+                        51.4927093
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Reading, England",
+        "id": "5028e25dc94f3898",
+        "name": "Reading",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5028e25dc94f3898.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@sainsburys Hi Cheryl...My closest store will be Reading Friar St...Thank you",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 03 19:26:38 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 25,
+        "follow_request_sent": false,
+        "followers_count": 14,
+        "following": false,
+        "friends_count": 140,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 6547002,
+        "id_str": "6547002",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Reading, U.K.",
+        "name": "Barry",
+        "notifications": false,
+        "profile_background_color": "0C87E6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/506148148742336512/XkPBeyC6.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/506148148742336512/XkPBeyC6.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6547002/1418678164",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/533913813855137793/hHtwDRdO_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/533913813855137793/hHtwDRdO_normal.jpeg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "barry_case",
+        "statuses_count": 332,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

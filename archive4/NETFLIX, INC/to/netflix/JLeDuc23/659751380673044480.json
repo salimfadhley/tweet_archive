@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 29 15:19:21 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659751380673044480,
+    "id_str": "659751380673044480",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.938605,
+                        41.741275
+                    ],
+                    [
+                        -71.885377,
+                        41.741275
+                    ],
+                    [
+                        -71.885377,
+                        41.826954
+                    ],
+                    [
+                        -71.938605,
+                        41.826954
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "East Brooklyn, CT",
+        "id": "01e56ab26c697dde",
+        "name": "East Brooklyn",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01e56ab26c697dde.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@netflix when is the last of Mad Men going to be available?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 16 01:44:06 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Good people don't deflate footballs. #BradysFree Official Instagram: JDuc23 \u2022 Snapchat: JLeDuc23 Nike & LTM",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "this-shit-is-magic.tumblr.com",
+                        "expanded_url": "http://this-shit-is-magic.tumblr.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/qCEjQyvCFD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3824,
+        "follow_request_sent": false,
+        "followers_count": 434,
+        "following": false,
+        "friends_count": 242,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 413581851,
+        "id_str": "413581851",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Brooklyn, CT",
+        "name": "jaim",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/569863204910555136/eWo1IXwu.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/569863204910555136/eWo1IXwu.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/413581851/1440002502",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/656958117360611329/lZ7292dP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/656958117360611329/lZ7292dP_normal.jpg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JLeDuc23",
+        "statuses_count": 13582,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/qCEjQyvCFD",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

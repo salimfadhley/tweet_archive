@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 27 10:58:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 21021891,
+                "id_str": "21021891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Chevron",
+                "screen_name": "Chevron"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658961082573172736,
+    "id_str": "658961082573172736",
+    "in_reply_to_screen_name": "Chevron",
+    "in_reply_to_status_id": 657618011008856065,
+    "in_reply_to_status_id_str": "657618011008856065",
+    "in_reply_to_user_id": 21021891,
+    "in_reply_to_user_id_str": "21021891",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.5173575,
+                        33.9951771
+                    ],
+                    [
+                        -118.443482,
+                        33.9951771
+                    ],
+                    [
+                        -118.443482,
+                        34.050199
+                    ],
+                    [
+                        -118.5173575,
+                        34.050199
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Santa Monica, CA",
+        "id": "59612bd882018c51",
+        "name": "Santa Monica",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/59612bd882018c51.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@Chevron wtf?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 22 17:36:44 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Music. Politics. Food.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "soundcloud.com/indieears",
+                        "expanded_url": "https://soundcloud.com/indieears",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/6fXMrDlLrU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1772,
+        "follow_request_sent": false,
+        "followers_count": 1012,
+        "following": false,
+        "friends_count": 1923,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 41860361,
+        "id_str": "41860361",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Santa Monica",
+        "name": "IndieEars",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453255607328329728/13e2MUL3.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453255607328329728/13e2MUL3.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41860361/1438718519",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/628656713281867776/NITQfoYP_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/628656713281867776/NITQfoYP_normal.png",
+        "profile_link_color": "ADE37B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "seamonkey237",
+        "statuses_count": 2671,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/6fXMrDlLrU",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 18:21:33 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16365636,
+                "id_str": "16365636",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "TripAdvisor",
+                "screen_name": "TripAdvisor"
+            },
+            {
+                "id": 3063595536,
+                "id_str": "3063595536",
+                "indices": [
+                    57,
+                    70
+                ],
+                "name": "Market Rye",
+                "screen_name": "MarketandRye"
+            },
+            {
+                "id": 50853987,
+                "id_str": "50853987",
+                "indices": [
+                    86,
+                    100
+                ],
+                "name": "Ryan Scott",
+                "screen_name": "chefryanscott"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 659434843969744896,
+    "id_str": "659434843969744896",
+    "in_reply_to_screen_name": "TripAdvisor",
+    "in_reply_to_status_id": 659433703890808832,
+    "in_reply_to_status_id_str": "659433703890808832",
+    "in_reply_to_user_id": 16365636,
+    "in_reply_to_user_id_str": "16365636",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -93.329148,
+                        44.889964
+                    ],
+                    [
+                        -93.194578,
+                        44.889964
+                    ],
+                    [
+                        -93.194578,
+                        45.051257
+                    ],
+                    [
+                        -93.329148,
+                        45.051257
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Minneapolis, MN",
+        "id": "8e9665cec9370f0f",
+        "name": "Minneapolis",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8e9665cec9370f0f.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TripAdvisor yes, I went to San Francisco just to eat at @MarketandRye because I love @chefryanscott",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 22 02:22:29 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Living everyday to its fullest",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1128,
+        "follow_request_sent": false,
+        "followers_count": 168,
+        "following": false,
+        "friends_count": 245,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 241357546,
+        "id_str": "241357546",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Minneapolis",
+        "name": "Kelly ",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/241357546/1386541754",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615884831314935808/haWlY4Yh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/615884831314935808/haWlY4Yh_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "KellsView",
+        "statuses_count": 2302,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

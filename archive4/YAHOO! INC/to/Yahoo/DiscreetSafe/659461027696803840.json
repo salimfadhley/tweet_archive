@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 20:05:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19380829,
+                "id_str": "19380829",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Yahoo",
+                "screen_name": "Yahoo"
+            },
+            {
+                "id": 17852343,
+                "id_str": "17852343",
+                "indices": [
+                    7,
+                    19
+                ],
+                "name": "Yahoo Movies",
+                "screen_name": "YahooMovies"
+            },
+            {
+                "id": 62551779,
+                "id_str": "62551779",
+                "indices": [
+                    20,
+                    30
+                ],
+                "name": "Todd Ralph",
+                "screen_name": "toddralph"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659461027696803840,
+    "id_str": "659461027696803840",
+    "in_reply_to_screen_name": "Yahoo",
+    "in_reply_to_status_id": 659459392404897792,
+    "in_reply_to_status_id_str": "659459392404897792",
+    "in_reply_to_user_id": 19380829,
+    "in_reply_to_user_id_str": "19380829",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Yahoo @YahooMovies @toddralph",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 22 23:30:17 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Tables with hidden biometric safes. Keep your valuables safe, gadgets fully charged & access them in under 3 seconds. PRESELLING soon on Kickstarter!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "DiscreetSafe.com",
+                        "expanded_url": "http://DiscreetSafe.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/812XQctltB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 263,
+        "follow_request_sent": false,
+        "followers_count": 75,
+        "following": false,
+        "friends_count": 222,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3253104686,
+        "id_str": "3253104686",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "California, USA",
+        "name": "Discreet Safe",
+        "notifications": false,
+        "profile_background_color": "9AAB9B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3253104686/1442887291",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/659461425505538048/JNpADDd1_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/659461425505538048/JNpADDd1_normal.png",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DiscreetSafe",
+        "statuses_count": 110,
+        "time_zone": null,
+        "url": "http://t.co/812XQctltB",
+        "utc_offset": null,
+        "verified": false
+    }
+}

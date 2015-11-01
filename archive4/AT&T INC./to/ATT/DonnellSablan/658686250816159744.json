@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 26 16:46:54 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    134,
+                    138
+                ],
+                "text": "bad"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658686250816159744,
+    "id_str": "658686250816159744",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -115.384091,
+                        36.129459
+                    ],
+                    [
+                        -115.062159,
+                        36.129459
+                    ],
+                    [
+                        -115.062159,
+                        36.336251
+                    ],
+                    [
+                        -115.384091,
+                        36.336251
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Las Vegas, NV",
+        "id": "5c2b5e46ab891f07",
+        "name": "Las Vegas",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c2b5e46ab891f07.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ATT Why are you sending 20+ text messages on data in one batch? You have a major glitch. Your CS rep hung up after waiting 10+ mins. #bad",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 26 16:13:11 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Faith, Freedom, Family, Football. #Godfirst #BattleBorn #BoltUp #GoNavy #RollStorm #Nevada #USMC Veteran #HomeMeansNevada",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1469,
+        "follow_request_sent": false,
+        "followers_count": 129,
+        "following": false,
+        "friends_count": 268,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 342802397,
+        "id_str": "342802397",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Las Vegas, NV",
+        "name": "Donnell Sablan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/298456134/red_rockkkk.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/298456134/red_rockkkk.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/342802397/1445901720",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/570082377948491777/RgBmt-qw_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/570082377948491777/RgBmt-qw_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DonnellSablan",
+        "statuses_count": 1426,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

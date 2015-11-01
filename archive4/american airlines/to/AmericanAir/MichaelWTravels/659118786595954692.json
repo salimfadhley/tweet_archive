@@ -1,0 +1,149 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -73.93980975,
+            40.59319445
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue Oct 27 21:25:39 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            40.59319445,
+            -73.93980975
+        ],
+        "type": "Point"
+    },
+    "id": 659118786595954692,
+    "id_str": "659118786595954692",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 659113079213576192,
+    "in_reply_to_status_id_str": "659113079213576192",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "pt",
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.041878,
+                        40.570842
+                    ],
+                    [
+                        -73.855673,
+                        40.570842
+                    ],
+                    [
+                        -73.855673,
+                        40.739434
+                    ],
+                    [
+                        -74.041878,
+                        40.739434
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Brooklyn, NY",
+        "id": "011add077f4d2da3",
+        "name": "Brooklyn",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Multiple messages..,",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 16 20:27:41 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I love all aspects of travel. From planning trips to finding great deals to exploring the world & taking photos along the way!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "michaelwtravels.com",
+                        "expanded_url": "http://www.michaelwtravels.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/rUrwvXwv9z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1585,
+        "follow_request_sent": false,
+        "followers_count": 1216,
+        "following": false,
+        "friends_count": 427,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 74828817,
+        "id_str": "74828817",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 51,
+        "location": "Brooklyn,NY",
+        "name": "Michael W. \u2708",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/74828817/1353736365",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1162300519/P1150995_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1162300519/P1150995_normal.JPG",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MichaelWTravels",
+        "statuses_count": 22508,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/rUrwvXwv9z",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

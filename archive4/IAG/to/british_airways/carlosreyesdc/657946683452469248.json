@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 24 15:48:08 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 657946683452469248,
+    "id_str": "657946683452469248",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": 657940984370700288,
+    "in_reply_to_status_id_str": "657940984370700288",
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.2160701,
+                        51.5098789
+                    ],
+                    [
+                        -0.1301597,
+                        51.5098789
+                    ],
+                    [
+                        -0.1301597,
+                        51.5397916
+                    ],
+                    [
+                        -0.2160701,
+                        51.5397916
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Paddington, London",
+        "id": "56c45474148ca4da",
+        "name": "Paddington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/56c45474148ca4da.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@British_Airways I was waiting for a passenger on BA288. But the arrivals screen had \"bags arriving\" for a long time.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 21 15:00:51 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Internet Wonk | Citizen Diplomat | Art Aficionado | Equality Advocate | My Views",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/carlosreyesdc",
+                        "expanded_url": "http://Instagram.com/carlosreyesdc",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/CzTHgfxB4x"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2200,
+        "follow_request_sent": false,
+        "followers_count": 979,
+        "following": false,
+        "friends_count": 1573,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14857433,
+        "id_str": "14857433",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Washington, DC",
+        "name": "Carlos Reyes",
+        "notifications": false,
+        "profile_background_color": "002D64",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/738958417/7d0c0f6af8e031ed70f35057e6ef5cc9.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/738958417/7d0c0f6af8e031ed70f35057e6ef5cc9.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14857433/1398200052",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/574944982429134848/wEE1fwEX_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/574944982429134848/wEE1fwEX_normal.jpeg",
+        "profile_link_color": "8496BA",
+        "profile_sidebar_border_color": "FBF9FC",
+        "profile_sidebar_fill_color": "D3D0ED",
+        "profile_text_color": "B0BEEB",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "carlosreyesdc",
+        "statuses_count": 19863,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/CzTHgfxB4x",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

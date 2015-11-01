@@ -1,0 +1,135 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            101.69074361,
+            3.04836972
+        ],
+        "type": "Point"
+    },
+    "created_at": "Thu Oct 29 00:14:48 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    1,
+                    13
+                ],
+                "name": "Tesla Motors",
+                "screen_name": "TeslaMotors"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            3.04836972,
+            101.69074361
+        ],
+        "type": "Point"
+    },
+    "id": 659523741664194560,
+    "id_str": "659523741664194560",
+    "in_reply_to_screen_name": "TeslaMotors",
+    "in_reply_to_status_id": 655097408070799360,
+    "in_reply_to_status_id_str": "655097408070799360",
+    "in_reply_to_user_id": 13298072,
+    "in_reply_to_user_id_str": "13298072",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        101.6459045,
+                        3.033335
+                    ],
+                    [
+                        101.7498627,
+                        3.033335
+                    ],
+                    [
+                        101.7498627,
+                        3.0953271
+                    ],
+                    [
+                        101.6459045,
+                        3.0953271
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Malaysia",
+        "country_code": "MY",
+        "full_name": "Petaling, Wilayah Persekutuan Kuala Lumpur",
+        "id": "b923503d237d2007",
+        "name": "Petaling",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b923503d237d2007.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@TeslaMotors: Norway is a model for encouraging electric car sales  I hope the Malaysian government is looking into something similar.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 03 22:38:53 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "a human being seeking to exist and prosper",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 59,
+        "following": false,
+        "friends_count": 391,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 94431542,
+        "id_str": "94431542",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Subang Jaya",
+        "name": "Ir. Tejinder Singh",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/557455061/bsg_centurion_1024_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/557455061/bsg_centurion_1024_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jedi_tj",
+        "statuses_count": 79,
+        "time_zone": "Kuala Lumpur",
+        "url": null,
+        "utc_offset": 28800,
+        "verified": false
+    }
+}

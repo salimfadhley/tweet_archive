@@ -1,0 +1,176 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 18:01:43 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/XJI8LpZa6x",
+                "expanded_url": "http://twitter.com/EachStepForward/status/659429855809900544/photo/1",
+                "id": 659429831650758656,
+                "id_str": "659429831650758656",
+                "indices": [
+                    90,
+                    113
+                ],
+                "media_url": "http://pbs.twimg.com/media/CSbD8CXW0AAjyqF.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CSbD8CXW0AAjyqF.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/XJI8LpZa6x"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 78613092,
+                "id_str": "78613092",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Staples US",
+                "screen_name": "Staples"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 659429855809900544,
+    "id_str": "659429855809900544",
+    "in_reply_to_screen_name": "Staples",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 78613092,
+    "in_reply_to_user_id_str": "78613092",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -78.912276,
+                        42.826008
+                    ],
+                    [
+                        -78.79485,
+                        42.826008
+                    ],
+                    [
+                        -78.79485,
+                        42.966451
+                    ],
+                    [
+                        -78.912276,
+                        42.966451
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Buffalo, NY",
+        "id": "a307591cd0413588",
+        "name": "Buffalo",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a307591cd0413588.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Staples I need to order toner but I keep running into this message when I try to log in. https://t.co/XJI8LpZa6x",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 17 23:52:02 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#politics #parenting #publicrelations Manager @MedailleBkstr -",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "eachstepforward.com",
+                        "expanded_url": "http://eachstepforward.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/eDmVBGTJVL"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 385,
+        "follow_request_sent": false,
+        "followers_count": 477,
+        "following": false,
+        "friends_count": 1318,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 239586798,
+        "id_str": "239586798",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 15,
+        "location": "Buffalo, NY",
+        "name": "Bob Lingle",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/239586798/1419632300",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000658071579/611a09036bd67171b29cab042d8c41b2_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000658071579/611a09036bd67171b29cab042d8c41b2_normal.jpeg",
+        "profile_link_color": "1C4A7A",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "EachStepForward",
+        "statuses_count": 1475,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/eDmVBGTJVL",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

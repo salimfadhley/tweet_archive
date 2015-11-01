@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 29 21:00:24 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659837208325726208,
+    "id_str": "659837208325726208",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 659831418281836544,
+    "in_reply_to_status_id_str": "659831418281836544",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.172219,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.934311
+                    ],
+                    [
+                        -77.172219,
+                        38.934311
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Arlington, VA",
+        "id": "319ee7b36c9149da",
+        "name": "Arlington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir things happen. Thanks for message. \ud83d\udc4d\ud83c\udffb\u2708\ufe0f\ud83d\ude0a",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 31 18:11:32 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dad. Soccer coach. Softball Manager & player. Recreational golfer. Husband too :-)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/freddiaz1865",
+                        "expanded_url": "http://facebook.com/freddiaz1865",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/1n1F3zuk9V"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 878,
+        "follow_request_sent": false,
+        "followers_count": 52,
+        "following": false,
+        "friends_count": 214,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 70458994,
+        "id_str": "70458994",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Dallas",
+        "name": "Fred1865",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/70458994/1414642538",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1874788775/coach_fred_web_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1874788775/coach_fred_web_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "freddiaz1865",
+        "statuses_count": 671,
+        "time_zone": "Hawaii",
+        "url": "http://t.co/1n1F3zuk9V",
+        "utc_offset": -36000,
+        "verified": false
+    }
+}

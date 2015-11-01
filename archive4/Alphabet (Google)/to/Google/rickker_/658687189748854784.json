@@ -1,0 +1,146 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 26 16:50:38 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    48,
+                    66
+                ],
+                "text": "rediscoverthisday"
+            },
+            {
+                "indices": [
+                    85,
+                    88
+                ],
+                "text": "ex"
+            },
+            {
+                "indices": [
+                    135,
+                    140
+                ],
+                "text": "blah"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658687189748854784,
+    "id_str": "658687189748854784",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.209206,
+                        42.5337815
+                    ],
+                    [
+                        -83.0868811,
+                        42.5337815
+                    ],
+                    [
+                        -83.0868811,
+                        42.624224
+                    ],
+                    [
+                        -83.209206,
+                        42.624224
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Troy, MI",
+        "id": "4e284ea3fff91c09",
+        "name": "Troy",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4e284ea3fff91c09.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@google photos is really cool but when I get to #rediscoverthisday with photos of my #ex I just want to throw my phone out the window. #blah",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 28 22:32:26 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "live music addict. screen print poster & vinyl record collector. horror movie connoisseur. pinball wizard. dog owner. bicycle rider.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 72,
+        "follow_request_sent": false,
+        "followers_count": 304,
+        "following": false,
+        "friends_count": 625,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 93272793,
+        "id_str": "93272793",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "The outskirts of Rock City",
+        "name": "Rick Zoellner",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/880247244/718b13ecee7b5105134131521d6ec974.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/880247244/718b13ecee7b5105134131521d6ec974.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/93272793/1424747222",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/551053628543619072/86Gv6TJX_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/551053628543619072/86Gv6TJX_normal.jpeg",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "FFB700",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rickker_",
+        "statuses_count": 2888,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

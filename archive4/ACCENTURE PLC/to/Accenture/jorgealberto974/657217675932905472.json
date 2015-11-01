@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 22 15:31:19 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 10194682,
+                "id_str": "10194682",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Accenture",
+                "screen_name": "Accenture"
+            },
+            {
+                "id": 19380829,
+                "id_str": "19380829",
+                "indices": [
+                    11,
+                    17
+                ],
+                "name": "Yahoo",
+                "screen_name": "Yahoo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 657217675932905472,
+    "id_str": "657217675932905472",
+    "in_reply_to_screen_name": "Accenture",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 10194682,
+    "in_reply_to_user_id_str": "10194682",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.1286629998777,
+                        13.149692000065
+                    ],
+                    [
+                        -87.6831810001223,
+                        13.149692000065
+                    ],
+                    [
+                        -87.6831810001223,
+                        14.450550999935
+                    ],
+                    [
+                        -90.1286629998777,
+                        14.450550999935
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "El Salvador",
+        "country_code": "SV",
+        "full_name": "El Salvador",
+        "id": "43bf7210cd175772",
+        "name": "El Salvador",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/43bf7210cd175772.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Accenture @yahoo.com My email address is: jorgealberto974@yahoo.com",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 03 22:17:11 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Soy un hombre de 67 a\u00f1os de edad, vivo en San Salvador, la ciudad capital de El Salvador, en Am\u00e9rica Central. Soy Licenciado en Filosof\u00eda.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/jorgealberto974",
+                        "expanded_url": "http://about.me/jorgealberto974",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/YrJlRv76UZ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 797,
+        "following": false,
+        "friends_count": 2769,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 87297482,
+        "id_str": "87297482",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 6,
+        "location": "El Salvador",
+        "name": "Jorge  Blanco",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/87297482/1365389176",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1472431214/foto_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1472431214/foto_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jorgealberto974",
+        "statuses_count": 519,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/YrJlRv76UZ",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

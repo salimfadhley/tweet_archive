@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 29 16:00:44 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 42712551,
+                "id_str": "42712551",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "American Express",
+                "screen_name": "AmericanExpress"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659761796228784129,
+    "id_str": "659761796228784129",
+    "in_reply_to_screen_name": "AmericanExpress",
+    "in_reply_to_status_id": 659746530006589440,
+    "in_reply_to_status_id_str": "659746530006589440",
+    "in_reply_to_user_id": 42712551,
+    "in_reply_to_user_id_str": "42712551",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.64724,
+                        33.9552575
+                    ],
+                    [
+                        -84.577544,
+                        33.9552575
+                    ],
+                    [
+                        -84.577544,
+                        34.0668954
+                    ],
+                    [
+                        -84.64724,
+                        34.0668954
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Kennesaw, GA",
+        "id": "c4cd1df048841e00",
+        "name": "Kennesaw",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c4cd1df048841e00.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanExpress Those suck",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 17 15:29:48 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Traditional Roman Catholic.  We actually follow Church teachings and believe in Her role in salvation history.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/user/xphilemik\u2026",
+                        "expanded_url": "https://www.youtube.com/user/xphilemike/featured",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/tEUQdHzGOh"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1066,
+        "follow_request_sent": false,
+        "followers_count": 167,
+        "following": false,
+        "friends_count": 126,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 9500992,
+        "id_str": "9500992",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Atlanta, GA or nearby",
+        "name": "Michael",
+        "notifications": false,
+        "profile_background_color": "022339",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9500992/1409240836",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615603783159185408/WT6qeMkw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/615603783159185408/WT6qeMkw_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "xphilemike",
+        "statuses_count": 8794,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/tEUQdHzGOh",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

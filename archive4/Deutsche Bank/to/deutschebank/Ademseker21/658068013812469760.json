@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 24 23:50:15 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 41330603,
+                "id_str": "41330603",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Deutsche Bank",
+                "screen_name": "DeutscheBank"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658068013812469760,
+    "id_str": "658068013812469760",
+    "in_reply_to_screen_name": "DeutscheBank",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 41330603,
+    "in_reply_to_user_id_str": "41330603",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        6.772567,
+                        50.830287
+                    ],
+                    [
+                        7.162373,
+                        50.830287
+                    ],
+                    [
+                        7.162373,
+                        51.0849471
+                    ],
+                    [
+                        6.772567,
+                        51.0849471
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Deutschland",
+        "country_code": "DE",
+        "full_name": "Cologne, North Rhine-Westphalia",
+        "id": "8abc99434d4f5d28",
+        "name": "Cologne",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@DeutscheBank Hello Stock Exchange is evaluating how it got together on the new Iraqi dinar? My email ademseker@hotmail.com",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 06 18:00:39 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 557,
+        "following": false,
+        "friends_count": 2395,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 601245687,
+        "id_str": "601245687",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "de",
+        "listed_count": 0,
+        "location": "T\u00fcrkei",
+        "name": "Adem",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655760833042128896/5pByKy9b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655760833042128896/5pByKy9b_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Ademseker21",
+        "statuses_count": 659,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

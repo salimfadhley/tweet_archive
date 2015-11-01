@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 27 14:17:40 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 42712551,
+                "id_str": "42712551",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "American Express",
+                "screen_name": "AmericanExpress"
+            },
+            {
+                "id": 19103481,
+                "id_str": "19103481",
+                "indices": [
+                    17,
+                    22
+                ],
+                "name": "Uber",
+                "screen_name": "Uber"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659011082615394305,
+    "id_str": "659011082615394305",
+    "in_reply_to_screen_name": "AmericanExpress",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 42712551,
+    "in_reply_to_user_id_str": "42712551",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.0495783,
+                        38.8987559
+                    ],
+                    [
+                        -77.023974,
+                        38.8987559
+                    ],
+                    [
+                        -77.023974,
+                        38.9072899
+                    ],
+                    [
+                        -77.0495783,
+                        38.9072899
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Downtown, Washington",
+        "id": "585d15677c696bab",
+        "name": "Downtown",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/585d15677c696bab.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@americanexpress @uber 1000 rewards points for a $10 Uber rode seems excessive",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 07 20:09:40 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Mostly tweeting about the Gators this time of year.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4520,
+        "follow_request_sent": false,
+        "followers_count": 335,
+        "following": false,
+        "friends_count": 810,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 248823215,
+        "id_str": "248823215",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Washington, D.C.",
+        "name": "Kyle Cooke",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/248823215/1398244067",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/459019379514937344/1s2635KX_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/459019379514937344/1s2635KX_normal.jpeg",
+        "profile_link_color": "C4D8E2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KCooke321",
+        "statuses_count": 3132,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

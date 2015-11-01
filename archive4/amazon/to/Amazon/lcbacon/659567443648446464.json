@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -118.48033442,
+            33.99476859
+        ],
+        "type": "Point"
+    },
+    "created_at": "Thu Oct 29 03:08:27 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            33.99476859,
+            -118.48033442
+        ],
+        "type": "Point"
+    },
+    "id": 659567443648446464,
+    "id_str": "659567443648446464",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@amazon I never received a package - how do I get a refund?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 12 21:48:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Product & Operations @RECESS. Past: @AngiesList, @keepinitdeep, @StudioScience. Fueled by Fierce Grape Gatorade.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1062,
+        "follow_request_sent": false,
+        "followers_count": 917,
+        "following": false,
+        "friends_count": 476,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 24046519,
+        "id_str": "24046519",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 38,
+        "location": "Los Angeles, CA",
+        "name": "Lauren Bacon",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000022461598/c2d03afebfdb505061bc093474a20dbc.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000022461598/c2d03afebfdb505061bc093474a20dbc.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24046519/1413138219",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/574682396475305985/HYRU2a-8_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/574682396475305985/HYRU2a-8_normal.jpeg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lcbacon",
+        "statuses_count": 15464,
+        "time_zone": "Quito",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

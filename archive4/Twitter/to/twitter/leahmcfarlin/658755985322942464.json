@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 26 21:24:00 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658755985322942464,
+    "id_str": "658755985322942464",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.727776,
+                        40.950918
+                    ],
+                    [
+                        -71.786994,
+                        40.950918
+                    ],
+                    [
+                        -71.786994,
+                        42.050588
+                    ],
+                    [
+                        -73.727776,
+                        42.050588
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Connecticut, USA",
+        "id": "e86b380cfefcced5",
+        "name": "Connecticut",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/e86b380cfefcced5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Twitter it's not letting me use the correct year of my birth, please check yourself before you wreck yourself.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 02 04:53:49 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "you're happy and that's all that matters || WA '19",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/leahmcfarlin",
+                        "expanded_url": "http://instagram.com/leahmcfarlin",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/P4QeAuG5Ke"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 32903,
+        "follow_request_sent": false,
+        "followers_count": 7235,
+        "following": false,
+        "friends_count": 167,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1639614458,
+        "id_str": "1639614458",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 18,
+        "location": "woodstock, ct",
+        "name": "ya girl leah",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639614458/1445259307",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/657721777678917637/36mRXAEr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/657721777678917637/36mRXAEr_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "leahmcfarlin",
+        "statuses_count": 41054,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/P4QeAuG5Ke",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

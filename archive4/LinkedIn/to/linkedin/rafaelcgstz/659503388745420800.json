@@ -1,0 +1,148 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 22:53:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "linkedin.com",
+                "expanded_url": "https://www.linkedin.com/",
+                "indices": [
+                    18,
+                    41
+                ],
+                "url": "https://t.co/XcdHIQK6FN"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 13058772,
+                "id_str": "13058772",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "LinkedIn",
+                "screen_name": "LinkedIn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659503388745420800,
+    "id_str": "659503388745420800",
+    "in_reply_to_screen_name": "LinkedIn",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13058772,
+    "in_reply_to_user_id_str": "13058772",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -46.826039,
+                        -24.008814
+                    ],
+                    [
+                        -46.365052,
+                        -24.008814
+                    ],
+                    [
+                        -46.365052,
+                        -23.356792
+                    ],
+                    [
+                        -46.826039,
+                        -23.356792
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Sao Paulo, Brazil",
+        "id": "68e019afec7d0ba5",
+        "name": "Sao Paulo",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@LinkedIn is out! https://t.co/XcdHIQK6FN",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 08 19:10:43 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u26a1 I'm a #Magento Frontend Engineer. #Opensource Evangelist. \u2764\u2615",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "github.com/rafaelstz",
+                        "expanded_url": "https://github.com/rafaelstz",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/qPLZUGUcvE"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 64,
+        "follow_request_sent": false,
+        "followers_count": 393,
+        "following": false,
+        "friends_count": 986,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 279181936,
+        "id_str": "279181936",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 49,
+        "location": "Sao Paulo, Brazil",
+        "name": "Rafael Corr\u00eaa Gomes\u265b",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/279181936/1434463995",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1721781170/pra_a_2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1721781170/pra_a_2_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rafaelcgstz",
+        "statuses_count": 4259,
+        "time_zone": "Brasilia",
+        "url": "https://t.co/qPLZUGUcvE",
+        "utc_offset": -7200,
+        "verified": false
+    }
+}

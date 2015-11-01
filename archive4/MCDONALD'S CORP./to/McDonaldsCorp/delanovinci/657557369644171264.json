@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 23 14:01:08 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 111679943,
+                "id_str": "111679943",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonaldsCorp"
+            },
+            {
+                "id": 45850690,
+                "id_str": "45850690",
+                "indices": [
+                    15,
+                    26
+                ],
+                "name": "Dana Malang",
+                "screen_name": "DanaMalang"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 657557369644171264,
+    "id_str": "657557369644171264",
+    "in_reply_to_screen_name": "McDonaldsCorp",
+    "in_reply_to_status_id": 657554569115881472,
+    "in_reply_to_status_id_str": "657554569115881472",
+    "in_reply_to_user_id": 111679943,
+    "in_reply_to_user_id_str": "111679943",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        120.8986521,
+                        14.3477314
+                    ],
+                    [
+                        121.1357656,
+                        14.3477314
+                    ],
+                    [
+                        121.1357656,
+                        14.7873208
+                    ],
+                    [
+                        120.8986521,
+                        14.7873208
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Republika ng Pilipinas",
+        "country_code": "PH",
+        "full_name": "National Capital Region, Republic of the Philippines",
+        "id": "53df18e21825a89c",
+        "name": "National Capital Region",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/53df18e21825a89c.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@McDonaldsCorp @DanaMalang I enjoy seeing your staff here sa mcdo intra ;)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 12 16:43:33 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "18 | Fine arts student |",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/delanovinci/",
+                        "expanded_url": "https://instagram.com/delanovinci/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/TpiwxJI9hb"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 25005,
+        "follow_request_sent": false,
+        "followers_count": 431,
+        "following": false,
+        "friends_count": 226,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 552079425,
+        "id_str": "552079425",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Manila City, Philippines",
+        "name": "Adel\u00e6no",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623360765559332864/9yub4oa9.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623360765559332864/9yub4oa9.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/552079425/1441760445",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/654377330442276864/D24oMBit_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/654377330442276864/D24oMBit_normal.png",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "delanovinci",
+        "statuses_count": 25928,
+        "time_zone": "Beijing",
+        "url": "https://t.co/TpiwxJI9hb",
+        "utc_offset": 28800,
+        "verified": false
+    }
+}

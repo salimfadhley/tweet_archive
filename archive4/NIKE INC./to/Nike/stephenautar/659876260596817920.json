@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 29 23:35:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 415859364,
+                "id_str": "415859364",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Nike",
+                "screen_name": "Nike"
+            },
+            {
+                "id": 546277289,
+                "id_str": "546277289",
+                "indices": [
+                    6,
+                    21
+                ],
+                "name": "Faith",
+                "screen_name": "Amina_F_Babiii"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659876260596817920,
+    "id_str": "659876260596817920",
+    "in_reply_to_screen_name": "Nike",
+    "in_reply_to_status_id": 659794327153979392,
+    "in_reply_to_status_id_str": "659794327153979392",
+    "in_reply_to_user_id": 415859364,
+    "in_reply_to_user_id_str": "415859364",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.674404,
+                        41.954411
+                    ],
+                    [
+                        -87.631367,
+                        41.954411
+                    ],
+                    [
+                        -87.631367,
+                        41.977618
+                    ],
+                    [
+                        -87.674404,
+                        41.977618
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Uptown, Chicago",
+        "id": "47628c71a783286b",
+        "name": "Uptown",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/47628c71a783286b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@Nike @Amina_F_Babiii hello Nike where is Abiola in this video?????",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 13 01:23:24 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "You don't have to be rich or famous to be unforgettable. - Former nurse and Countess, LuAnn de Lesseps",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "stephenautar.com",
+                        "expanded_url": "http://stephenautar.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/6a5ZP77cJC"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9418,
+        "follow_request_sent": false,
+        "followers_count": 1412,
+        "following": false,
+        "friends_count": 553,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 16714567,
+        "id_str": "16714567",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 45,
+        "location": "Chicago, Ill.",
+        "name": "Stephen Autar",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/619542497279262720/W2z4CJis.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/619542497279262720/W2z4CJis.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16714567/1422939601",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/603047408402989056/l75Zzl5N_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/603047408402989056/l75Zzl5N_normal.jpg",
+        "profile_link_color": "250669",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "stephenautar",
+        "statuses_count": 133112,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/6a5ZP77cJC",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

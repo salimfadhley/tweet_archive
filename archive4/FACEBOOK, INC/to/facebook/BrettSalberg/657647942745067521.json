@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 23 20:01:02 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    78,
+                    87
+                ],
+                "text": "annoying"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 657647942745067521,
+    "id_str": "657647942745067521",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.634643,
+                        24.396308
+                    ],
+                    [
+                        -79.974307,
+                        24.396308
+                    ],
+                    [
+                        -79.974307,
+                        31.001056
+                    ],
+                    [
+                        -87.634643,
+                        31.001056
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Florida, USA",
+        "id": "4ec01c9dbc693497",
+        "name": "Florida",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook how do I figure out who is reporting my pics? It's happening daily. #annoying",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 19 22:13:38 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Love my boyfriend, Trav. Love my furry kids, Vegas, traveling, Universal, Disney. Miss my sister errday! 407.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 970,
+        "follow_request_sent": false,
+        "followers_count": 342,
+        "following": false,
+        "friends_count": 776,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 585137515,
+        "id_str": "585137515",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "Orlando, FL ",
+        "name": "Brett Salberg",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/593758236588675072/8lf4tcTk.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/593758236588675072/8lf4tcTk.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/585137515/1430397241",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/646499824217509889/xt7wjvAr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/646499824217509889/xt7wjvAr_normal.jpg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BrettSalberg",
+        "statuses_count": 5715,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

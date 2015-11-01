@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 21 19:23:01 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    116,
+                    130
+                ],
+                "text": "notsofastfood"
+            },
+            {
+                "indices": [
+                    131,
+                    136
+                ],
+                "text": "zzzz"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 111679943,
+                "id_str": "111679943",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonaldsCorp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 656913600150421506,
+    "id_str": "656913600150421506",
+    "in_reply_to_screen_name": "McDonaldsCorp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 111679943,
+    "in_reply_to_user_id_str": "111679943",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.422572,
+                        53.719616
+                    ],
+                    [
+                        -0.2453134,
+                        53.719616
+                    ],
+                    [
+                        -0.2453134,
+                        53.812018
+                    ],
+                    [
+                        -0.422572,
+                        53.812018
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Hull, England",
+        "id": "7bc0da87641dd821",
+        "name": "Hull",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@McDonaldsCorp Why is it that when I go to order a Fillet-o-Fish, it is never ready and I have to 'wait in the bay' #notsofastfood #zzzz \ud83d\ude12\ud83c\udf5f\ud83c\udf54",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 15 15:51:02 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I devise marketing strategies that help save & improve lives across the globe. I have a beautiful family who I strive for. Things happen for a reason.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "originltd.com",
+                        "expanded_url": "http://www.originltd.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/7DRKCkWXfK"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1423,
+        "follow_request_sent": false,
+        "followers_count": 909,
+        "following": false,
+        "friends_count": 888,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 335998362,
+        "id_str": "335998362",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "Sheffield City of Culture 2017",
+        "name": "Rich Quelch",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/335998362/1444412668",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/639389240808329216/oQP6Mwbt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/639389240808329216/oQP6Mwbt_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "RichQuelch",
+        "statuses_count": 6686,
+        "time_zone": "London",
+        "url": "https://t.co/7DRKCkWXfK",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

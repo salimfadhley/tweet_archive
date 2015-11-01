@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 01:28:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15131310,
+                "id_str": "15131310",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Whole Foods Market",
+                "screen_name": "WholeFoods"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659180008053698560,
+    "id_str": "659180008053698560",
+    "in_reply_to_screen_name": "WholeFoods",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15131310,
+    "in_reply_to_user_id_str": "15131310",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@WholeFoods Hi! Do you have an opening date for Hyde Park?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 26 02:48:59 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Me gusta hablar de comida. Soy aprendiz de dise\u00f1o floral. Tomo mezcal. Buscadora oficial de paz mental y de mi lugar en el mundo. Amo la playa. Intenseo",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "salucita.tumblr.com",
+                        "expanded_url": "http://salucita.tumblr.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/lQLfu2pyug"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 153,
+        "follow_request_sent": false,
+        "followers_count": 207,
+        "following": false,
+        "friends_count": 135,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 117619022,
+        "id_str": "117619022",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "M\u00e9xico",
+        "name": "Lucita.",
+        "notifications": false,
+        "profile_background_color": "E675BF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/645886720/3n6hk485gbij6gsgm59m.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/645886720/3n6hk485gbij6gsgm59m.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/117619022/1374381480",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/593554894721679360/KkrsVM2c_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/593554894721679360/KkrsVM2c_normal.jpg",
+        "profile_link_color": "E88E3F",
+        "profile_sidebar_border_color": "C1EBE4",
+        "profile_sidebar_fill_color": "83BA3C",
+        "profile_text_color": "E8DFE8",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Salucita_",
+        "statuses_count": 15414,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": "http://t.co/lQLfu2pyug",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

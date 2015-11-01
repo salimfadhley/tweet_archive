@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 21:30:47 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    11,
+                    25
+                ],
+                "text": "loyalcustomer"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/kF2fJ2cew1",
+                "expanded_url": "http://twitter.com/itsmeKennae/status/659482467422834688/photo/1",
+                "id": 659482459206107136,
+                "id_str": "659482459206107136",
+                "indices": [
+                    26,
+                    49
+                ],
+                "media_url": "http://pbs.twimg.com/media/CSbzzXSUwAA9QyU.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CSbzzXSUwAA9QyU.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 576
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 576
+                    },
+                    "small": {
+                        "h": 604,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/kF2fJ2cew1"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659482467422834688,
+    "id_str": "659482467422834688",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.604552,
+                        40.256436
+                    ],
+                    [
+                        -76.567853,
+                        40.256436
+                    ],
+                    [
+                        -76.567853,
+                        40.291863
+                    ],
+                    [
+                        -76.604552,
+                        40.291863
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Campbelltown, PA",
+        "id": "329b4889e533d51a",
+        "name": "Campbelltown",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/329b4889e533d51a.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks #loyalcustomer https://t.co/kF2fJ2cew1",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 29 21:31:26 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I show you what I want you to see. I have a boyfriend.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5697,
+        "follow_request_sent": false,
+        "followers_count": 422,
+        "following": false,
+        "friends_count": 469,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1315258788,
+        "id_str": "1315258788",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Austin, Texas",
+        "name": "Toby Isreal",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315258788/1445195101",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655601752725671937/pMR2qUp6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655601752725671937/pMR2qUp6_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "itsmeKennae",
+        "statuses_count": 7257,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

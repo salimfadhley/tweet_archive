@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 00:34:16 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659166253995569153,
+    "id_str": "659166253995569153",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -93.429448,
+                        44.905986
+                    ],
+                    [
+                        -93.370824,
+                        44.905986
+                    ],
+                    [
+                        -93.370824,
+                        44.949276
+                    ],
+                    [
+                        -93.429448,
+                        44.949276
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Hopkins, MN",
+        "id": "2d5b67122572d42f",
+        "name": "Hopkins",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2d5b67122572d42f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Target what's up with your red card services? Not working and not having a good time here.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 23 01:59:12 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Name: Michael Mastel\nAge: Twenty something. \nI go places.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/user/Mastermas\u2026",
+                        "expanded_url": "https://www.youtube.com/user/Mastermastel",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/UM3zTaxd7P"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 91,
+        "follow_request_sent": false,
+        "followers_count": 271,
+        "following": false,
+        "friends_count": 237,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 711614918,
+        "id_str": "711614918",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Minneapolis, MN",
+        "name": "Your Magic 8-Ball",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/627143934/05vthhruvya8ggq5y1lk.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/627143934/05vthhruvya8ggq5y1lk.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/711614918/1443451979",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/648323292256821250/WyKpVdxw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/648323292256821250/WyKpVdxw_normal.jpg",
+        "profile_link_color": "5C0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MrMastel",
+        "statuses_count": 6623,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/UM3zTaxd7P",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 29 22:58:30 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 551373363,
+                "id_str": "551373363",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Visa",
+                "screen_name": "Visa"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659866930199707648,
+    "id_str": "659866930199707648",
+    "in_reply_to_screen_name": "Visa",
+    "in_reply_to_status_id": 654772875694465024,
+    "in_reply_to_status_id_str": "654772875694465024",
+    "in_reply_to_user_id": 551373363,
+    "in_reply_to_user_id_str": "551373363",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.928935,
+                        30.127892
+                    ],
+                    [
+                        -97.5805133,
+                        30.127892
+                    ],
+                    [
+                        -97.5805133,
+                        30.5187994
+                    ],
+                    [
+                        -97.928935,
+                        30.5187994
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Austin, TX",
+        "id": "c3f37afa9efcf94b",
+        "name": "Austin",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Visa Too bad Visa Checkout doesn't work.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 15 02:36:22 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Independent Technology Solutions Consultant. @Lyft Driver. @Ingress Agent. Purdue grad. Native Texan. In a codependent relationship with my coffee press.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "lyft.com/invited/ATXSKY\u2026",
+                        "expanded_url": "https://www.lyft.com/invited/ATXSKYLAR",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/X5UxVMOb9Y"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1127,
+        "follow_request_sent": false,
+        "followers_count": 1209,
+        "following": false,
+        "friends_count": 649,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 31313369,
+        "id_str": "31313369",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 50,
+        "location": "Austin, TX",
+        "name": "Skylar Buffington",
+        "notifications": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31313369/1438752508",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/628000184233017344/ibl3HLo8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/628000184233017344/ibl3HLo8_normal.jpg",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RisingSkylar",
+        "statuses_count": 6716,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/X5UxVMOb9Y",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

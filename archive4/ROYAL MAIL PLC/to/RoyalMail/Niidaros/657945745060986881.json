@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 24 15:44:24 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 96965958,
+                "id_str": "96965958",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Royal Mail ",
+                "screen_name": "RoyalMail"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 657945745060986881,
+    "id_str": "657945745060986881",
+    "in_reply_to_screen_name": "RoyalMail",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 96965958,
+    "in_reply_to_user_id_str": "96965958",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        12.0259979,
+                        66.9196719
+                    ],
+                    [
+                        15.3631969,
+                        66.9196719
+                    ],
+                    [
+                        15.3631969,
+                        68.1130183
+                    ],
+                    [
+                        12.0259979,
+                        68.1130183
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Norge",
+        "country_code": "NO",
+        "full_name": "Bod\u00f8, Norge",
+        "id": "9370e3bf7ec1a1d4",
+        "name": "Bod\u00f8",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/9370e3bf7ec1a1d4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@RoyalMail i can't even imagine how you could ship a package going to norway, way over to Canada. Silly stuff!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 10 21:07:22 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 461,
+        "follow_request_sent": false,
+        "followers_count": 136,
+        "following": false,
+        "friends_count": 293,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 280198531,
+        "id_str": "280198531",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Norway",
+        "name": "Niidaros",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/628363764224684032/GCXsv_51_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/628363764224684032/GCXsv_51_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Niidaros",
+        "statuses_count": 933,
+        "time_zone": "Stockholm",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
