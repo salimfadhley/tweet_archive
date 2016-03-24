@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 18 12:18:33 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    23,
+                    30
+                ],
+                "text": "friyay"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 126664172,
+                "id_str": "126664172",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "John Lewis",
+                "screen_name": "johnlewisretail"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 710802571116544000,
+    "id_str": "710802571116544000",
+    "in_reply_to_screen_name": "johnlewisretail",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 126664172,
+    "in_reply_to_user_id_str": "126664172",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.920502,
+                        53.456671
+                    ],
+                    [
+                        -2.84351,
+                        53.456671
+                    ],
+                    [
+                        -2.84351,
+                        53.493397
+                    ],
+                    [
+                        -2.920502,
+                        53.493397
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Kirkby, England",
+        "id": "41d26785dd5fa7ed",
+        "name": "Kirkby",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/41d26785dd5fa7ed.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@johnlewisretail happy #friyay and thank you for following \ud83d\udc90",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 10 12:00:07 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Treat each day as a new chance. So NOT a Scouse bird! Instagram @LesleyinCity #Bipolar #TimetoTalk",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4094,
+        "follow_request_sent": false,
+        "followers_count": 3788,
+        "following": false,
+        "friends_count": 1639,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 154113869,
+        "id_str": "154113869",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 171,
+        "location": "Liverpool & London",
+        "name": "Lady in Liverpool",
+        "notifications": false,
+        "profile_background_color": "0686C3",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/540127436646543360/bT9i0_bc.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/540127436646543360/bT9i0_bc.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/154113869/1455907336",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700753321527631872/DEhXnzxf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700753321527631872/DEhXnzxf_normal.jpg",
+        "profile_link_color": "39BF56",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EAF2F4",
+        "profile_text_color": "24272B",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LesleyinCity",
+        "statuses_count": 55913,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

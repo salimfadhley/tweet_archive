@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 21 16:46:25 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    135,
+                    138
+                ],
+                "text": "RT"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 711957144199958530,
+    "id_str": "711957144199958530",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -95.823268,
+                        29.522325
+                    ],
+                    [
+                        -95.069705,
+                        29.522325
+                    ],
+                    [
+                        -95.069705,
+                        30.1546646
+                    ],
+                    [
+                        -95.823268,
+                        30.1546646
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Houston, TX",
+        "id": "1c69a67ad480e1b1",
+        "name": "Houston",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Please commend the Munich Airport Staff for an incredible Job helping customers rebook from another airline last minute!! #RT",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 14 19:12:05 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 709,
+        "follow_request_sent": false,
+        "followers_count": 266,
+        "following": false,
+        "friends_count": 885,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 31198604,
+        "id_str": "31198604",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Baton Rouge",
+        "name": "Spencer Rhodes",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31198604/1436377344",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668560828350791680/Lq5MVzg-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668560828350791680/Lq5MVzg-_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Spencer_Rhodes",
+        "statuses_count": 2642,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

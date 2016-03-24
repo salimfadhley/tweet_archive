@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 23 04:35:16 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 712497922114326530,
+    "id_str": "712497922114326530",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 712462190276513792,
+    "in_reply_to_status_id_str": "712462190276513792",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.928935,
+                        30.127892
+                    ],
+                    [
+                        -97.5805133,
+                        30.127892
+                    ],
+                    [
+                        -97.5805133,
+                        30.5187994
+                    ],
+                    [
+                        -97.928935,
+                        30.5187994
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Austin, TX",
+        "id": "c3f37afa9efcf94b",
+        "name": "Austin",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir I know your teams are working hard, but this is not isolated, happens every time I fly into Austin on AA.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 31 03:04:31 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Tech by day | Cycling fan and sometimes rider | Dog walker | ATX Foodie fan | OkState Cowboys | Searcher of beer and whiskey",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6,
+        "follow_request_sent": false,
+        "followers_count": 56,
+        "following": false,
+        "friends_count": 250,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15670132,
+        "id_str": "15670132",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Austin, TX",
+        "name": "innatevoid",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15670132/1449801572",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/675142844424855552/ky5JOn7l_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/675142844424855552/ky5JOn7l_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "innatevoid",
+        "statuses_count": 118,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

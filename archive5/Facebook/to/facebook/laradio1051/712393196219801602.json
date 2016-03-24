@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 22 21:39:08 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    56,
+                    65
+                ],
+                "text": "Bruselas"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 712393196219801602,
+    "id_str": "712393196219801602",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.3540725,
+                        0.648837
+                    ],
+                    [
+                        -59.8037796,
+                        0.648837
+                    ],
+                    [
+                        -59.8037796,
+                        12.1968022
+                    ],
+                    [
+                        -73.3540725,
+                        12.1968022
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Venezuela",
+        "country_code": "VE",
+        "full_name": "Venezuela",
+        "id": "043383f8b2b79918",
+        "name": "Venezuela",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Facebook activa el \u201cestoy bien\u201d para sobrevivientes de #Bruselas",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 02 21:53:25 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Bienvenidos a La Radio 105.1FM Maracaibo-Venezuela. La mejor  m\u00fasica en espa\u00f1ol e ingl\u00e9s.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "laradio1051fm.com",
+                        "expanded_url": "http://www.laradio1051fm.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/rpD16Otv1F"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 36,
+        "follow_request_sent": false,
+        "followers_count": 4999,
+        "following": false,
+        "friends_count": 256,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 481537833,
+        "id_str": "481537833",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 67,
+        "location": "Maracaibo",
+        "name": "La Radio 105.1FM",
+        "notifications": false,
+        "profile_background_color": "2D2D36",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000024375397/9b7375d8053ff668d0eb94f3b7063094.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000024375397/9b7375d8053ff668d0eb94f3b7063094.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/481537833/1390621540",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/426923397030092800/6ZWpN0GA_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/426923397030092800/6ZWpN0GA_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "laradio1051",
+        "statuses_count": 43895,
+        "time_zone": "Caracas",
+        "url": "http://t.co/rpD16Otv1F",
+        "utc_offset": -16200,
+        "verified": false
+    }
+}

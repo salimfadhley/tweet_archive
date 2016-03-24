@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -122.88743176,
+            45.52967333
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue Mar 22 20:13:21 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            45.52967333,
+            -122.88743176
+        ],
+        "type": "Point"
+    },
+    "id": 712371608246034432,
+    "id_str": "712371608246034432",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 709455865355501569,
+    "in_reply_to_status_id_str": "709455865355501569",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -123.011705,
+                        45.488124
+                    ],
+                    [
+                        -122.859355,
+                        45.488124
+                    ],
+                    [
+                        -122.859355,
+                        45.573434
+                    ],
+                    [
+                        -123.011705,
+                        45.573434
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Hillsboro, OR",
+        "id": "01bd241973160cac",
+        "name": "Hillsboro",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01bd241973160cac.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir It's been a week since I emailed. When can I expect and answer?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 09 03:03:01 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\u2661 Kanagawa, Japan \u2708",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 410,
+        "follow_request_sent": false,
+        "followers_count": 120,
+        "following": false,
+        "friends_count": 221,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 548895395,
+        "id_str": "548895395",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Portland, Or.",
+        "name": "Alana",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/548895395/1361541039",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673999018087677953/a7hM7cKf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673999018087677953/a7hM7cKf_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Alana_Ai",
+        "statuses_count": 1602,
+        "time_zone": "Arizona",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

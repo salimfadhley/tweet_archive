@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 22 08:46:56 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    48,
+                    55
+                ],
+                "text": "ComeOn"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 712198868100849665,
+    "id_str": "712198868100849665",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        7.1638245,
+                        43.6532789
+                    ],
+                    [
+                        7.2006591,
+                        43.6532789
+                    ],
+                    [
+                        7.2006591,
+                        43.7183945
+                    ],
+                    [
+                        7.1638245,
+                        43.7183945
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Saint-Laurent-du-Var, France",
+        "id": "6619fedad482333e",
+        "name": "Saint-Laurent-du-Var",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6619fedad482333e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook it's time for a Brussel Safety Check. #ComeOn",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 23 10:45:20 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\\\\ Etudiant en com , r\u00e2leur , cin\u00e9phile , accro \u00e0 la musique, n\u00e9o-esth\u00e8te, spleenien // #Cin\u00e9ma #Musiques",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 423,
+        "follow_request_sent": false,
+        "followers_count": 210,
+        "following": false,
+        "friends_count": 415,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 206623024,
+        "id_str": "206623024",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 3,
+        "location": "France , Nice",
+        "name": "Th\u00e9\u00f8rythme",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000103680893/bd20eb8117e4ad44fa5019b0ab7477d6.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000103680893/bd20eb8117e4ad44fa5019b0ab7477d6.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/206623024/1458141544",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/709499403241922560/z6GDF_sT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/709499403241922560/z6GDF_sT_normal.jpg",
+        "profile_link_color": "4A2C2C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Mr_TGK",
+        "statuses_count": 5799,
+        "time_zone": "Paris",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

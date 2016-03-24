@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 21 16:45:02 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 228380252,
+                "id_str": "228380252",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "TransferWise",
+                "screen_name": "TransferWise"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 711956798631182336,
+    "id_str": "711956798631182336",
+    "in_reply_to_screen_name": "TransferWise",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 228380252,
+    "in_reply_to_user_id_str": "228380252",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.245783,
+                        48.8741971
+                    ],
+                    [
+                        2.284567,
+                        48.8741971
+                    ],
+                    [
+                        2.284567,
+                        48.8983456
+                    ],
+                    [
+                        2.245783,
+                        48.8983456
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Neuilly-sur-Seine, France",
+        "id": "64fc1c14eb280960",
+        "name": "Neuilly-sur-Seine",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/64fc1c14eb280960.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TransferWise hi, the system seems to have an issue: the FX rate on the transfer form won't load and the send button doesn't respond (iOS)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 10 00:10:53 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\u00c9tudiant \u00e0 Sup\u00e9lec, passionn\u00e9 de nouvelles technologies.\r\nStudent at Sup\u00e9lec (FR), fond of new technologies.\r\nComit\u00e9 Directeur de @JuniorSupelec",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 54,
+        "follow_request_sent": false,
+        "followers_count": 60,
+        "following": false,
+        "friends_count": 197,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 103424454,
+        "id_str": "103424454",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 1,
+        "location": "",
+        "name": "Guillaume Richard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/621240897/freddie_bronzestatue_rueckansicht_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/621240897/freddie_bronzestatue_rueckansicht_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ekingr",
+        "statuses_count": 797,
+        "time_zone": "Paris",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

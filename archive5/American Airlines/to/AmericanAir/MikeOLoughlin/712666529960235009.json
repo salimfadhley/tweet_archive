@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 23 15:45:16 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 712666529960235009,
+    "id_str": "712666529960235009",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.172219,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.934311
+                    ],
+                    [
+                        -77.172219,
+                        38.934311
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Arlington, VA",
+        "id": "319ee7b36c9149da",
+        "name": "Arlington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Why is there one person working at your DCA ticketing counter? Long lines and agitated customers...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 17 16:59:27 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Journalist covering faith. Formerly of @BostonGlobe, @Crux. Author, The Tweetable Pope (@HarperOne Order: https://t.co/pARJmkz3xl)",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "tweetablepope.com",
+                        "expanded_url": "http://tweetablepope.com",
+                        "indices": [
+                            106,
+                            129
+                        ],
+                        "url": "https://t.co/pARJmkz3xl"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mikeoloughlin.com",
+                        "expanded_url": "http://mikeoloughlin.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/rpeyNLjHfJ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1776,
+        "follow_request_sent": false,
+        "followers_count": 3524,
+        "following": false,
+        "friends_count": 898,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 48029347,
+        "id_str": "48029347",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 192,
+        "location": "Chicago",
+        "name": "Michael O'Loughlin",
+        "notifications": false,
+        "profile_background_color": "CA0002",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/48029347/1451927260",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/707620682423599104/4yiJwGbk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/707620682423599104/4yiJwGbk_normal.jpg",
+        "profile_link_color": "55ACEE",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MikeOLoughlin",
+        "statuses_count": 9313,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/rpeyNLjHfJ",
+        "utc_offset": -14400,
+        "verified": true
+    }
+}

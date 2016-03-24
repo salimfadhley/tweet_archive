@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 21 12:07:13 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 711886882792202240,
+    "id_str": "711886882792202240",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -43.224767,
+                        -19.8956269
+                    ],
+                    [
+                        -43.090716,
+                        -19.8956269
+                    ],
+                    [
+                        -43.090716,
+                        -19.788153
+                    ],
+                    [
+                        -43.224767,
+                        -19.788153
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Jo\u00e3o Monlevade, Brasil",
+        "id": "f3bd9d7b2711dc1c",
+        "name": "Jo\u00e3o Monlevade",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/f3bd9d7b2711dc1c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook   Troubleeee!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 20 14:50:25 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Apresentador",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "real.fm.br",
+                        "expanded_url": "http://www.real.fm.br",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/7VJg3BIYCr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 700,
+        "follow_request_sent": false,
+        "followers_count": 356,
+        "following": false,
+        "friends_count": 1809,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25514790,
+        "id_str": "25514790",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 2,
+        "location": "Ouro Preto",
+        "name": "Khris Real",
+        "notifications": false,
+        "profile_background_color": "02022E",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452056321089474561/0s61U6l9.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452056321089474561/0s61U6l9.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25514790/1433430664",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/680915907913355265/ZQ_955fn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/680915907913355265/ZQ_955fn_normal.jpg",
+        "profile_link_color": "0018B3",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KhrisFerreira",
+        "statuses_count": 5136,
+        "time_zone": "Brasilia",
+        "url": "http://t.co/7VJg3BIYCr",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

@@ -1,0 +1,359 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 22 22:57:37 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    24,
+                    36
+                ],
+                "text": "safetycheck"
+            },
+            {
+                "indices": [
+                    37,
+                    47
+                ],
+                "text": "Bruxelles"
+            },
+            {
+                "indices": [
+                    60,
+                    67
+                ],
+                "text": "Bamako"
+            },
+            {
+                "indices": [
+                    69,
+                    76
+                ],
+                "text": "Ankara"
+            },
+            {
+                "indices": [
+                    78,
+                    84
+                ],
+                "text": "Ouaga"
+            },
+            {
+                "indices": [
+                    85,
+                    97
+                ],
+                "text": "GrandBassam"
+            },
+            {
+                "indices": [
+                    99,
+                    106
+                ],
+                "text": "Djerba"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/jerryjamesston\u2026",
+                "expanded_url": "https://twitter.com/jerryjamesstone/status/712238841197801472",
+                "indices": [
+                    110,
+                    133
+                ],
+                "url": "https://t.co/KZ4sOfLGKM"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 712412946106814467,
+    "id_str": "712412946106814467",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Mar 22 11:25:47 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        54,
+                        63
+                    ],
+                    "text": "Brussels"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/OAbf9rn40P",
+                    "expanded_url": "http://twitter.com/jerryjamesstone/status/712238841197801472/photo/1",
+                    "id": 712238839218065408,
+                    "id_str": "712238839218065408",
+                    "indices": [
+                        75,
+                        98
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CeJhc17UUAA70am.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CeJhc17UUAA70am.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 255,
+                            "resize": "fit",
+                            "w": 599
+                        },
+                        "medium": {
+                            "h": 255,
+                            "resize": "fit",
+                            "w": 599
+                        },
+                        "small": {
+                            "h": 145,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/OAbf9rn40P"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 12,
+        "favorited": false,
+        "geo": null,
+        "id": 712238841197801472,
+        "id_str": "712238841197801472",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -121.576613,
+                            38.43792
+                        ],
+                        [
+                            -121.362715,
+                            38.43792
+                        ],
+                        [
+                            -121.362715,
+                            38.6855236
+                        ],
+                        [
+                            -121.576613,
+                            38.6855236
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Sacramento, CA",
+            "id": "b71fac2ee9792cbe",
+            "name": "Sacramento",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/b71fac2ee9792cbe.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 15,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Facebook has activated their 'safety check' after the #Brussels explosions https://t.co/OAbf9rn40P",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Apr 09 22:28:40 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Food pornographer, full-time vegetarian, unapologetic liberal, beard model, and I say hella too much. My tweets are tasty, geeky or just plain odd.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "jerryjamesstone.com",
+                            "expanded_url": "http://www.jerryjamesstone.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/zOJqQawrnq"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 75345,
+            "follow_request_sent": false,
+            "followers_count": 106575,
+            "following": false,
+            "friends_count": 1497,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 14346303,
+            "id_str": "14346303",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1322,
+            "location": "Sacramento, CA",
+            "name": "Jerry James Stone",
+            "notifications": false,
+            "profile_background_color": "4DBDD9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14346303/1437695817",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/671427359707283458/DbfOe3aD_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/671427359707283458/DbfOe3aD_normal.png",
+            "profile_link_color": "0285CC",
+            "profile_sidebar_border_color": "F9FBFC",
+            "profile_sidebar_fill_color": "C8EBFA",
+            "profile_text_color": "050505",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "jerryjamesstone",
+            "statuses_count": 41238,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/zOJqQawrnq",
+            "utc_offset": -25200,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 712238841197801472,
+    "quoted_status_id_str": "712238841197801472",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@facebook activated for #safetycheck #Bruxelles. What about #Bamako, #Ankara, #Ouaga #GrandBassam, #Djerba... https://t.co/KZ4sOfLGKM",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 08 18:32:09 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Film crtic and journalist - Translator - Editor http://t.co/xgERjDh4Nk /// http://t.co/70GU0rvzsN. Movies. Culture, medias, social media, NT, and whatever human",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Maghrebarts.ma",
+                        "expanded_url": "http://www.Maghrebarts.ma",
+                        "indices": [
+                            48,
+                            70
+                        ],
+                        "url": "http://t.co/xgERjDh4Nk"
+                    },
+                    {
+                        "display_url": "Mashahid.net",
+                        "expanded_url": "http://www.Mashahid.net",
+                        "indices": [
+                            75,
+                            97
+                        ],
+                        "url": "http://t.co/70GU0rvzsN"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Mashahid.net",
+                        "expanded_url": "http://www.Mashahid.net",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/70GU0rvzsN"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 187,
+        "follow_request_sent": false,
+        "followers_count": 835,
+        "following": false,
+        "friends_count": 910,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 45633343,
+        "id_str": "45633343",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 41,
+        "location": "Morocco",
+        "name": "Adil Semmar",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/45633343/1441306099",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499617544748036097/9Lys5lYF_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499617544748036097/9Lys5lYF_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "adiloss",
+        "statuses_count": 6862,
+        "time_zone": "Casablanca",
+        "url": "http://t.co/70GU0rvzsN",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 14 17:26:26 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 126664172,
+                "id_str": "126664172",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "John Lewis",
+                "screen_name": "johnlewisretail"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 709430500386086912,
+    "id_str": "709430500386086912",
+    "in_reply_to_screen_name": "johnlewisretail",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 126664172,
+    "in_reply_to_user_id_str": "126664172",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.15191,
+                        51.410792
+                    ],
+                    [
+                        -0.078902,
+                        51.410792
+                    ],
+                    [
+                        -0.078902,
+                        51.509887
+                    ],
+                    [
+                        -0.15191,
+                        51.509887
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Lambeth, London",
+        "id": "4393349f368f67a1",
+        "name": "Lambeth",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4393349f368f67a1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@johnlewisretail hello. Would you follow me back please? I'd like to DM you about a product search. Thank you.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 25 16:53:46 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 21,
+        "follow_request_sent": false,
+        "followers_count": 51,
+        "following": false,
+        "friends_count": 81,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 361972447,
+        "id_str": "361972447",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Andrew Goodhead",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/709458129264754688/H3UqUtos_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/709458129264754688/H3UqUtos_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pengeaircorps",
+        "statuses_count": 535,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

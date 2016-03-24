@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 17 22:56:09 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    98,
+                    104
+                ],
+                "text": "seeya"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 126664172,
+                "id_str": "126664172",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "John Lewis",
+                "screen_name": "johnlewisretail"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 710600640288923648,
+    "id_str": "710600640288923648",
+    "in_reply_to_screen_name": "johnlewisretail",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 126664172,
+    "in_reply_to_user_id_str": "126664172",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.161749,
+                        51.294332
+                    ],
+                    [
+                        -0.023517,
+                        51.294332
+                    ],
+                    [
+                        -0.023517,
+                        51.42353
+                    ],
+                    [
+                        -0.161749,
+                        51.42353
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Croydon, London",
+        "id": "5f73d127c7ccf9d9",
+        "name": "Croydon",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5f73d127c7ccf9d9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@johnlewisretail \u00a32 Click &amp; Collect fee?? Really?? Feels like I\u2019m being knowingly ripped off! #seeya",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 12 20:17:00 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "IT professional, photographer, woodworker, ex-football fan, feeder of birds & liker of gadgets",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "flickr.com/photos/selsdon\u2026",
+                        "expanded_url": "http://www.flickr.com/photos/selsdon_pjs/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/kQgU52Thlz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 123,
+        "follow_request_sent": false,
+        "followers_count": 251,
+        "following": false,
+        "friends_count": 316,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 56180072,
+        "id_str": "56180072",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 28,
+        "location": "London Borough of Croydon, UK",
+        "name": "Phil Swallow",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/56180072/1455261429",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/691155223088336896/0bz6yC55_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/691155223088336896/0bz6yC55_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Phil_Swallow",
+        "statuses_count": 6795,
+        "time_zone": "London",
+        "url": "https://t.co/kQgU52Thlz",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

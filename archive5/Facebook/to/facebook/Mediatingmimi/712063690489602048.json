@@ -1,0 +1,301 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 21 23:49:47 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    37,
+                    44
+                ],
+                "text": "3317mp"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/socialmedia411\u2026",
+                "expanded_url": "https://twitter.com/socialmedia411/status/711958086131519488",
+                "indices": [
+                    46,
+                    69
+                ],
+                "url": "https://t.co/KCWpAxoj6A"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    13,
+                    21
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 712063690489602048,
+    "id_str": "712063690489602048",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.7384001,
+                        36.183417
+                    ],
+                    [
+                        -81.57739,
+                        36.183417
+                    ],
+                    [
+                        -81.57739,
+                        36.246767
+                    ],
+                    [
+                        -81.7384001,
+                        36.246767
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Boone, NC",
+        "id": "ecdf2813e684c066",
+        "name": "Boone",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ecdf2813e684c066.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Mar 21 16:50:09 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/0UBBT1jJpW",
+                    "expanded_url": "http://twitter.com/SAI/status/711953922349469696/photo/1",
+                    "id": 711953922223636486,
+                    "id_str": "711953922223636486",
+                    "indices": [
+                        106,
+                        129
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CeFeUfaWAAYdoYb.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CeFeUfaWAAYdoYb.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 512,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 300,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 170,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "source_status_id": 711953922349469696,
+                    "source_status_id_str": "711953922349469696",
+                    "source_user_id": 8841372,
+                    "source_user_id_str": "8841372",
+                    "type": "photo",
+                    "url": "https://t.co/0UBBT1jJpW"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "read.bi/1Rde6IF",
+                    "expanded_url": "http://read.bi/1Rde6IF",
+                    "indices": [
+                        82,
+                        105
+                    ],
+                    "url": "https://t.co/8EWode2odk"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 10,
+        "favorited": false,
+        "geo": null,
+        "id": 711958086131519488,
+        "id_str": "711958086131519488",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 16,
+        "retweeted": false,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "text": "The one area where Twitter is doing better than Facebook after 10 years: Rev/user https://t.co/8EWode2odk https://t.co/0UBBT1jJpW",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Aug 15 02:43:55 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Highly recommended by people who like things that don't suck.  Created/Curated by @UniqueVisitor",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 151,
+            "follow_request_sent": false,
+            "followers_count": 244004,
+            "following": false,
+            "friends_count": 34929,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 15859039,
+            "id_str": "15859039",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 12514,
+            "location": "San Francisco, CA",
+            "name": "Social Media Insider",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/884903361/4fb0a2ea197f53eece2c27c77c35f96c.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/884903361/4fb0a2ea197f53eece2c27c77c35f96c.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15859039/1399522295",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/673030519899164672/BQiUi8Em_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/673030519899164672/BQiUi8Em_normal.jpg",
+            "profile_link_color": "0000FF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E9E9E7",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "SocialMedia411",
+            "statuses_count": 30789,
+            "time_zone": "Central Time (US & Canada)",
+            "url": null,
+            "utc_offset": -18000,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 711958086131519488,
+    "quoted_status_id_str": "711958086131519488",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook vs @twitter 10 years later #3317mp  https://t.co/KCWpAxoj6A",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 17 17:49:17 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Crisis and disaster researcher, PhD Candidate at the University of Missouri, instructor @AppStateCOM #3317mp #3312cc #4418mp\nlover of media",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/mimiperreault",
+                        "expanded_url": "http://about.me/mimiperreault",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/hYIxmjWUqg"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 579,
+        "following": false,
+        "friends_count": 862,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 466690752,
+        "id_str": "466690752",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 68,
+        "location": "Boone, NC",
+        "name": "Mediatingmimi",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/466690752/1452622059",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/686972497401544705/UwrJgR-a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/686972497401544705/UwrJgR-a_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Mediatingmimi",
+        "statuses_count": 7099,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/hYIxmjWUqg",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
