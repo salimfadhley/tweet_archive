@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 26 12:52:45 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 713710281914880001,
+    "id_str": "713710281914880001",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir is still the worst, even as a 'preferred' customer. Agent told me baggage was ok to carry, rude gate attendant still checked it",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 21 02:50:26 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Digital Strategist | @LevoLeague LA Leader | @Cannes_Lions + @CannesLionsSql Young Media Lion '15 | @4As ADvocate'14 | @The_ARF Young Pro | ENTJ | Feminist \u270c",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/jessydavis",
+                        "expanded_url": "http://www.linkedin.com/in/jessydavis",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/4Umq9psDQU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 733,
+        "follow_request_sent": false,
+        "followers_count": 1063,
+        "following": false,
+        "friends_count": 2038,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 157856784,
+        "id_str": "157856784",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 188,
+        "location": "Los Angeles, CA",
+        "name": "Jessy Davis",
+        "notifications": false,
+        "profile_background_color": "64FAE1",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/157856784/1404356235",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/654185820526542848/cWiPLiH4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/654185820526542848/cWiPLiH4_normal.jpg",
+        "profile_link_color": "EB0E8B",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_JessyDavis",
+        "statuses_count": 12685,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/4Umq9psDQU",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

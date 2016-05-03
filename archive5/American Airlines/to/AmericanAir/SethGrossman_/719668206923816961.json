@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Apr 11 23:27:25 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 234526497,
+                "id_str": "234526497",
+                "indices": [
+                    13,
+                    28
+                ],
+                "name": "Chaos",
+                "screen_name": "Chaosxsilencer"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 719668206923816961,
+    "id_str": "719668206923816961",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 719583974830374912,
+    "in_reply_to_status_id_str": "719583974830374912",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.601044,
+                        37.447046
+                    ],
+                    [
+                        -77.385297,
+                        37.447046
+                    ],
+                    [
+                        -77.385297,
+                        37.61272
+                    ],
+                    [
+                        -77.601044,
+                        37.61272
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Richmond, VA",
+        "id": "00f751614d8ce37b",
+        "name": "Richmond",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00f751614d8ce37b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir @Chaosxsilencer omg",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 22 16:15:31 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ahms '17",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/sethgrossman_",
+                        "expanded_url": "http://www.instagram.com/sethgrossman_",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/3jeskaTZ7e"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 433,
+        "follow_request_sent": false,
+        "followers_count": 77,
+        "following": false,
+        "friends_count": 148,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3053023371,
+        "id_str": "3053023371",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Richmond, VA",
+        "name": "Seth Grossman",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3053023371/1455194745",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/697505067226816514/BjKQPf5a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/697505067226816514/BjKQPf5a_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SethGrossman_",
+        "statuses_count": 684,
+        "time_zone": null,
+        "url": "https://t.co/3jeskaTZ7e",
+        "utc_offset": null,
+        "verified": false
+    }
+}

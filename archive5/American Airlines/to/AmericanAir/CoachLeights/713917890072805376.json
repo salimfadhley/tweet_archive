@@ -1,0 +1,278 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Mar 27 02:37:43 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/businessinside\u2026",
+                "expanded_url": "https://twitter.com/businessinsider/status/713917074654031872",
+                "indices": [
+                    27,
+                    50
+                ],
+                "url": "https://t.co/OnDgsJBgfY"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 713917890072805376,
+    "id_str": "713917890072805376",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.533035,
+                        41.519514
+                    ],
+                    [
+                        -90.4055918,
+                        41.519514
+                    ],
+                    [
+                        -90.4055918,
+                        41.596109
+                    ],
+                    [
+                        -90.533035,
+                        41.596109
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Bettendorf, IA",
+        "id": "125129e27a3e66ca",
+        "name": "Bettendorf",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/125129e27a3e66ca.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Mar 27 02:34:29 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/IxNKhKTFCc",
+                    "expanded_url": "http://twitter.com/businessinsider/status/713917074654031872/photo/1",
+                    "id": 713917074482053121,
+                    "id_str": "713917074482053121",
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CehXy_eWwAE_lQ9.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CehXy_eWwAE_lQ9.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 512,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 300,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 170,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/IxNKhKTFCc"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "read.bi/21ML7hG",
+                    "expanded_url": "http://read.bi/21ML7hG",
+                    "indices": [
+                        68,
+                        91
+                    ],
+                    "url": "https://t.co/VlXbKIBCYO"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 20,
+        "favorited": false,
+        "geo": null,
+        "id": 713917074654031872,
+        "id_str": "713917074654031872",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 55,
+        "retweeted": false,
+        "source": "<a href=\"http://www.businessinsider.com\" rel=\"nofollow\">Business Insider</a>",
+        "text": "American Airlines co-pilot arrested at Detroit airport for drinking https://t.co/VlXbKIBCYO https://t.co/IxNKhKTFCc",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Feb 11 01:18:18 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "What you need to know.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "businessinsider.com",
+                            "expanded_url": "http://businessinsider.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/RMkf7jACew"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 438,
+            "follow_request_sent": false,
+            "followers_count": 1501374,
+            "following": false,
+            "friends_count": 198,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 20562637,
+            "id_str": "20562637",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 24226,
+            "location": "New York, NY",
+            "name": "Business Insider",
+            "notifications": false,
+            "profile_background_color": "185F7C",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/563745973810110464/LOuV92MN.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/563745973810110464/LOuV92MN.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20562637/1423242532",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/661313209605976064/EjEK7KeO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/661313209605976064/EjEK7KeO_normal.jpg",
+            "profile_link_color": "185F7C",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "businessinsider",
+            "statuses_count": 271867,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/RMkf7jACew",
+            "utc_offset": -14400,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 713917074654031872,
+    "quoted_status_id_str": "713917074654031872",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Is this true? https://t.co/OnDgsJBgfY",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 24 12:03:07 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Hard work will always beat talent when talent doesn't work hard.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 17,
+        "follow_request_sent": false,
+        "followers_count": 210,
+        "following": false,
+        "friends_count": 481,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 304372766,
+        "id_str": "304372766",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 14,
+        "location": "Minneapolis, MN. ",
+        "name": "DRL",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/702843555346132992/tO-YIcP6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/702843555346132992/tO-YIcP6_normal.jpg",
+        "profile_link_color": "B80707",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CoachLeights",
+        "statuses_count": 5050,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

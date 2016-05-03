@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 01 02:08:39 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 715722512399777792,
+    "id_str": "715722512399777792",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 715722209596022785,
+    "in_reply_to_status_id_str": "715722209596022785",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -86.439701,
+                        39.800082
+                    ],
+                    [
+                        -86.326794,
+                        39.800082
+                    ],
+                    [
+                        -86.326794,
+                        39.912651
+                    ],
+                    [
+                        -86.439701,
+                        39.912651
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Brownsburg, IN",
+        "id": "00f424d474454ea0",
+        "name": "Brownsburg",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00f424d474454ea0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Thanks for the follow-up; the most informative info I've received from AA the past 3 months. Thanks!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 20 12:59:52 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Haiku apprentice, Disney Parks photographer, husband, father, frustrated AA/OneWorld flyer, software implementation geek, and Baltimore Orioles fan.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "photosfromtheparks.blogspot.com",
+                        "expanded_url": "http://photosfromtheparks.blogspot.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/5TB3l4B2RQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3537,
+        "follow_request_sent": false,
+        "followers_count": 88,
+        "following": false,
+        "friends_count": 139,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15179441,
+        "id_str": "15179441",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Indianapolis",
+        "name": "Richard Harrison",
+        "notifications": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15179441/1421428875",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/561946967878959105/RBNjWesx_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/561946967878959105/RBNjWesx_normal.jpeg",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Photos_FT_Parks",
+        "statuses_count": 1386,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/5TB3l4B2RQ",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

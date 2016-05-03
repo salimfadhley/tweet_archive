@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 19 00:39:38 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    22,
+                    26
+                ],
+                "text": "FFS"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/wWd3wIEori",
+                "expanded_url": "http://twitter.com/niles_b_brown/status/722223094882893824/photo/1",
+                "id": 722223086339104768,
+                "id_str": "722223086339104768",
+                "indices": [
+                    27,
+                    50
+                ],
+                "media_url": "http://pbs.twimg.com/media/CgXaEg3UIAAQhTt.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CgXaEg3UIAAQhTt.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1820,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 1067,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 604,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/wWd3wIEori"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 722223094882893824,
+    "id_str": "722223094882893824",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -119.953849,
+                        39.350749
+                    ],
+                    [
+                        -119.700515,
+                        39.350749
+                    ],
+                    [
+                        -119.700515,
+                        39.674123
+                    ],
+                    [
+                        -119.953849,
+                        39.674123
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Reno, NV",
+        "id": "4b25aded08900fd8",
+        "name": "Reno",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4b25aded08900fd8.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook WHYYYYYYYYY #FFS https://t.co/wWd3wIEori",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 13 18:03:29 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u26bd\ufe0f|17|Senior|",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4679,
+        "follow_request_sent": false,
+        "followers_count": 489,
+        "following": false,
+        "friends_count": 978,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 634753220,
+        "id_str": "634753220",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "",
+        "name": "De La Goal\u26bd\ufe0f",
+        "notifications": false,
+        "profile_background_color": "03072D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/634753220/1461035196",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/722258373081587712/m5qJjkK-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/722258373081587712/m5qJjkK-_normal.jpg",
+        "profile_link_color": "A7394D",
+        "profile_sidebar_border_color": "16818E",
+        "profile_sidebar_fill_color": "030516",
+        "profile_text_color": "16818E",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "niles_b_brown",
+        "statuses_count": 8970,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

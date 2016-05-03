@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 14 00:03:39 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 720402098836398080,
+    "id_str": "720402098836398080",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 720400959801729025,
+    "in_reply_to_status_id_str": "720400959801729025",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.046876,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.416412
+                    ],
+                    [
+                        -81.046876,
+                        35.416412
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Charlotte, NC",
+        "id": "512a8a4a4c4b4be0",
+        "name": "Charlotte",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/512a8a4a4c4b4be0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir amenities and personal space are everything.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 06 13:09:48 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "brand marketing @redbull. sc/ig: timbinder",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/timbinder",
+                        "expanded_url": "http://Instagram.com/timbinder",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Bg857TvlKz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5488,
+        "follow_request_sent": false,
+        "followers_count": 1327,
+        "following": false,
+        "friends_count": 70,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 175383086,
+        "id_str": "175383086",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 22,
+        "location": "Santa Monica, CA",
+        "name": "Tim Binder",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/607181159/y3d5stxynclugcxzgdq8.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/607181159/y3d5stxynclugcxzgdq8.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/175383086/1450674765",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/691125795624849409/K_VPNvdu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/691125795624849409/K_VPNvdu_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "timbinder",
+        "statuses_count": 9615,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/Bg857TvlKz",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

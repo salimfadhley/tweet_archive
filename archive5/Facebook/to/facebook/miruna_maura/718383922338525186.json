@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 08 10:24:08 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    117,
+                    127
+                ],
+                "text": "NoComment"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 718383922338525186,
+    "id_str": "718383922338525186",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        20.2615126,
+                        43.6204445
+                    ],
+                    [
+                        29.7152961,
+                        43.6204445
+                    ],
+                    [
+                        29.7152961,
+                        48.2656275
+                    ],
+                    [
+                        20.2615126,
+                        48.2656275
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Rom\u00e2nia",
+        "country_code": "RO",
+        "full_name": "Romania",
+        "id": "f7531639e8db5e12",
+        "name": "Romania",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/f7531639e8db5e12.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook just charged a client of mine for a disapproved ad,and showed fake statistics about that ad in ad manager.\n#NoComment",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 14 12:18:12 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "My name is Maura, I am 24, I am married and I live in Romania.  I am an entrepreneur and a marketing specialist.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/mirunamaura",
+                        "expanded_url": "http://www.linkedin.com/in/mirunamaura",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/qbhHe8eilB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 233,
+        "follow_request_sent": false,
+        "followers_count": 550,
+        "following": false,
+        "friends_count": 560,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2194087675,
+        "id_str": "2194087675",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "ro",
+        "listed_count": 31,
+        "location": "Bucharest, Romania",
+        "name": "Maura B\u0103rbulescu",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2194087675/1436572138",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672765409993474048/VcEZPdmJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672765409993474048/VcEZPdmJ_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "miruna_maura",
+        "statuses_count": 492,
+        "time_zone": "Bucharest",
+        "url": "http://t.co/qbhHe8eilB",
+        "utc_offset": 10800,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 07 11:01:17 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 718030883005927424,
+    "id_str": "718030883005927424",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 718026424439799808,
+    "in_reply_to_status_id_str": "718026424439799808",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.119901,
+                        38.791514
+                    ],
+                    [
+                        -76.909396,
+                        38.791514
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119901,
+                        38.9953797
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "District of Columbia, USA",
+        "id": "6dd1efe2ee6ed145",
+        "name": "District of Columbia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/6dd1efe2ee6ed145.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@AmericanAir 3837",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 24 22:53:18 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Automotive Editor for Ars Technica, Former science policy drone.  Amateur racing driver. Views are mine and mine alone. Often absurd, sometimes serious.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "arstechnica.com/author/jonatha\u2026",
+                        "expanded_url": "http://arstechnica.com/author/jonathan-m-gitlin/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Fy2c5W927f"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5933,
+        "follow_request_sent": false,
+        "followers_count": 3612,
+        "following": false,
+        "friends_count": 970,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2139671,
+        "id_str": "2139671",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 312,
+        "location": "20001",
+        "name": "Jonathan Gitlin",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2139671/1399563642",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/455467695299756032/ve2Aectb_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/455467695299756032/ve2Aectb_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "drgitlin",
+        "statuses_count": 78875,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/Fy2c5W927f",
+        "utc_offset": -14400,
+        "verified": true
+    }
+}

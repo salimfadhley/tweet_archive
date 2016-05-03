@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 17 21:13:58 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            },
+            {
+                "id": 45112524,
+                "id_str": "45112524",
+                "indices": [
+                    10,
+                    20
+                ],
+                "name": "Usain St. Leo Bolt",
+                "screen_name": "usainbolt"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 721808948433584128,
+    "id_str": "721808948433584128",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": 721808207077896193,
+    "in_reply_to_status_id_str": "721808207077896193",
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -78.3688776,
+                        17.7057855
+                    ],
+                    [
+                        -76.183028,
+                        17.7057855
+                    ],
+                    [
+                        -76.183028,
+                        18.5250291
+                    ],
+                    [
+                        -78.3688776,
+                        18.5250291
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Jamaica",
+        "country_code": "JM",
+        "full_name": "Jamaica",
+        "id": "d66ca907ceb62690",
+        "name": "Jamaica",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/d66ca907ceb62690.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@AppStore @usainbolt that's not correct. 9.6 sec 100m is ~25 mph",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 15 23:32:59 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Management nerd, technology buff, F1 fan, and Oxford comma user. Tweets taken seriously at the readers' peril.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "flagitiousoffscourings.blogspot.com",
+                        "expanded_url": "http://flagitiousoffscourings.blogspot.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/AnOjY7LtHW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 206,
+        "follow_request_sent": false,
+        "followers_count": 786,
+        "following": false,
+        "friends_count": 1044,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17414820,
+        "id_str": "17414820",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 39,
+        "location": "Jamaica",
+        "name": "Peter Levy",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/18584172/1.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/18584172/1.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17414820/1456323655",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/723274932537401344/DBxzYF4N_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/723274932537401344/DBxzYF4N_normal.jpg",
+        "profile_link_color": "B72FED",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "BAB4BA",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "peterlevy",
+        "statuses_count": 11762,
+        "time_zone": "Bogota",
+        "url": "http://t.co/AnOjY7LtHW",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 15 17:30:01 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 721027813143404544,
+    "id_str": "721027813143404544",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 720912606362374144,
+    "in_reply_to_status_id_str": "720912606362374144",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.084335,
+                        42.917127
+                    ],
+                    [
+                        -66.885075,
+                        42.917127
+                    ],
+                    [
+                        -66.885075,
+                        47.459687
+                    ],
+                    [
+                        -71.084335,
+                        47.459687
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Maine, USA",
+        "id": "463f5d9615d7d1be",
+        "name": "Maine",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/463f5d9615d7d1be.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir strongly suggest that you not assume someone will pay to upgrade and therefore you give away their original seats away",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 20:25:04 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Recovered attorney, writer, non-profit organizational and development consultant",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bullmoosegroup.com",
+                        "expanded_url": "http://www.bullmoosegroup.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/PGmWfqESTO"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 59,
+        "following": false,
+        "friends_count": 48,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104595169,
+        "id_str": "104595169",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Harpwswell, Maine",
+        "name": "Ronnie Weston",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1213844284/IMG_0100_2_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1213844284/IMG_0100_2_normal.JPG",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bullmoosegroup",
+        "statuses_count": 35,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/PGmWfqESTO",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Apr 11 15:46:22 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/1UVNtfh",
+                "expanded_url": "http://bit.ly/1UVNtfh",
+                "indices": [
+                    103,
+                    126
+                ],
+                "url": "https://t.co/BbjWcI4OfD"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 18248647,
+                "id_str": "18248647",
+                "indices": [
+                    127,
+                    139
+                ],
+                "name": "AdExchanger",
+                "screen_name": "adexchanger"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 719552177715417088,
+    "id_str": "719552177715417088",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -106.448016,
+                        39.597192
+                    ],
+                    [
+                        -106.277578,
+                        39.597192
+                    ],
+                    [
+                        -106.277578,
+                        39.652462
+                    ],
+                    [
+                        -106.448016,
+                        39.652462
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Vail, CO",
+        "id": "00c8737f4ea96a4a",
+        "name": "Vail",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c8737f4ea96a4a.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook \"..users post has shifted from personal stories to news or links from other sites\"More here: https://t.co/BbjWcI4OfD @adexchanger",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 05 14:21:15 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "DashBid is a programmatic Supply Side Platform (SSP) designed and built for video advertising. We make programmatic video advertising easy.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "dashbid.com",
+                        "expanded_url": "http://www.dashbid.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/JbbRWb3gLK"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 210,
+        "follow_request_sent": false,
+        "followers_count": 188,
+        "following": false,
+        "friends_count": 455,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 627429118,
+        "id_str": "627429118",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 32,
+        "location": "New York, NY",
+        "name": "DashBid",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/627429118/1438178625",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/580829009703002113/kUVUgas-_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/580829009703002113/kUVUgas-_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DashBidMedia",
+        "statuses_count": 243,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/JbbRWb3gLK",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

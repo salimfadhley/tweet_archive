@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 24 11:29:34 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 712964568474120192,
+    "id_str": "712964568474120192",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": 712753261392953345,
+    "in_reply_to_status_id_str": "712753261392953345",
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -47.214987,
+                        -22.482186
+                    ],
+                    [
+                        -47.074942,
+                        -22.482186
+                    ],
+                    [
+                        -47.074942,
+                        -22.283272
+                    ],
+                    [
+                        -47.214987,
+                        -22.283272
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Conchal, Brasil",
+        "id": "dba3cd0724cb57ce",
+        "name": "Conchal",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/dba3cd0724cb57ce.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@AppStore I need \ud83d\ude0d\ud83d\ude27\ud83d\udc95",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 12 16:18:26 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Young Hairdresser",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1789,
+        "follow_request_sent": false,
+        "followers_count": 342,
+        "following": false,
+        "friends_count": 309,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 132215460,
+        "id_str": "132215460",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 1,
+        "location": "SP",
+        "name": "Jonas Planke",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/794924018/f8a059eaa145363512c750806c097f83.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/794924018/f8a059eaa145363512c750806c097f83.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/132215460/1456413508",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/702875312732954624/e3BQRT6-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/702875312732954624/e3BQRT6-_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Johnplanke",
+        "statuses_count": 18200,
+        "time_zone": "Santiago",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 27 03:32:27 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 38292798,
+                "id_str": "38292798",
+                "indices": [
+                    13,
+                    27
+                ],
+                "name": "Brad Goreski",
+                "screen_name": "mrbradgoreski"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 725165689388994560,
+    "id_str": "725165689388994560",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 725163754153893888,
+    "in_reply_to_status_id_str": "725163754153893888",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.870332,
+                        41.984433
+                    ],
+                    [
+                        -87.816262,
+                        41.984433
+                    ],
+                    [
+                        -87.816262,
+                        42.047178
+                    ],
+                    [
+                        -87.870332,
+                        42.047178
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Park Ridge, IL",
+        "id": "7ca9cc3e813b1534",
+        "name": "Park Ridge",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7ca9cc3e813b1534.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir @mrbradgoreski I was on a United flight last week and they said they legally had to let is off after 30 min?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 03 18:12:53 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1985,
+        "follow_request_sent": false,
+        "followers_count": 167,
+        "following": false,
+        "friends_count": 503,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 222536047,
+        "id_str": "222536047",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "danielle oyasu",
+        "notifications": false,
+        "profile_background_color": "569FD2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/197440605/x646f5e55161980a90dc817f3c47ca64.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/197440605/x646f5e55161980a90dc817f3c47ca64.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/222536047/1443214411",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/647514040286248960/YHe3s_VG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/647514040286248960/YHe3s_VG_normal.jpg",
+        "profile_link_color": "96B949",
+        "profile_sidebar_border_color": "F1F2E8",
+        "profile_sidebar_fill_color": "F1F2E8",
+        "profile_text_color": "3E3E3E",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "danioyasu",
+        "statuses_count": 2391,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

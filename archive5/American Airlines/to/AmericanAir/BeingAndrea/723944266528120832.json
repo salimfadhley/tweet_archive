@@ -1,0 +1,159 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 23 18:38:58 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    101,
+                    107
+                ],
+                "text": "shame"
+            },
+            {
+                "indices": [
+                    108,
+                    125
+                ],
+                "text": "AmericanAirlines"
+            },
+            {
+                "indices": [
+                    126,
+                    134
+                ],
+                "text": "Chicago"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 723944266528120832,
+    "id_str": "723944266528120832",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir are you seriously ruining my parents' 48th wedding anniversary on their trip back home?\n#shame\n#AmericanAirlines\n#Chicago",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 03 11:15:18 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "La vita da #expat a #Bangkok per un italiano? Quotidianamente diversa... \npromoting Tourism in #Asia",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "andreainthailandia.tumblr.com",
+                        "expanded_url": "http://andreainthailandia.tumblr.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/vumWc6WY1b"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1664,
+        "follow_request_sent": false,
+        "followers_count": 1651,
+        "following": false,
+        "friends_count": 883,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 87168300,
+        "id_str": "87168300",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "it",
+        "listed_count": 52,
+        "location": "Bangkok - Thailand",
+        "name": "Andrea B.",
+        "notifications": false,
+        "profile_background_color": "292B2B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/676909779/e1599017ccca16553e9718c28f32c47b.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/676909779/e1599017ccca16553e9718c28f32c47b.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/87168300/1348540624",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2672306567/eaab2a15293847f00cc6bde8c7cfec77_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2672306567/eaab2a15293847f00cc6bde8c7cfec77_normal.png",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BeingAndrea",
+        "statuses_count": 17423,
+        "time_zone": "Bangkok",
+        "url": "http://t.co/vumWc6WY1b",
+        "utc_offset": 25200,
+        "verified": false
+    }
+}

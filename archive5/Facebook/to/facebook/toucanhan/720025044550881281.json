@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 12 23:05:22 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/uT8rHN3rCX",
+                "expanded_url": "http://twitter.com/toucanhan/status/720025044550881281/photo/1",
+                "id": 720025041623203845,
+                "id_str": "720025041623203845",
+                "indices": [
+                    37,
+                    60
+                ],
+                "media_url": "http://pbs.twimg.com/media/Cf4K9eNWQAU6OM9.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cf4K9eNWQAU6OM9.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 562,
+                        "resize": "fit",
+                        "w": 750
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/uT8rHN3rCX"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 720025044550881281,
+    "id_str": "720025044550881281",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.741123,
+                        37.247278
+                    ],
+                    [
+                        -76.6653867,
+                        37.247278
+                    ],
+                    [
+                        -76.6653867,
+                        37.31071
+                    ],
+                    [
+                        -76.741123,
+                        37.31071
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Williamsburg, VA",
+        "id": "e39414c8fa720aae",
+        "name": "Williamsburg",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e39414c8fa720aae.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook what r u trying to tell me https://t.co/uT8rHN3rCX",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 05 02:11:32 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "every conversation is an opportunity",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3417,
+        "follow_request_sent": false,
+        "followers_count": 326,
+        "following": false,
+        "friends_count": 308,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 111477063,
+        "id_str": "111477063",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "",
+        "name": "HanCan\u2122",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/335577415/189268_204341839595849_100000601042617_705424_226821_n.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/335577415/189268_204341839595849_100000601042617_705424_226821_n.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/111477063/1459642892",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/713923255007096832/p6DPe2c5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/713923255007096832/p6DPe2c5_normal.jpg",
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "101BE3",
+        "profile_sidebar_fill_color": "13F299",
+        "profile_text_color": "E34F19",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "toucanhan",
+        "statuses_count": 11734,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

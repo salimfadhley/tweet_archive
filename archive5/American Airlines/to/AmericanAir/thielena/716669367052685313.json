@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 03 16:51:06 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 112602563,
+                "id_str": "112602563",
+                "indices": [
+                    13,
+                    23
+                ],
+                "name": "Kurt Coleman",
+                "screen_name": "k4coleman"
+            }
+        ]
+    },
+    "favorite_count": 8,
+    "favorited": false,
+    "geo": null,
+    "id": 716669367052685313,
+    "id_str": "716669367052685313",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 716668637856157696,
+    "in_reply_to_status_id_str": "716668637856157696",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -93.2081037,
+                        44.991758
+                    ],
+                    [
+                        -93.1057404,
+                        44.991758
+                    ],
+                    [
+                        -93.1057404,
+                        45.036415
+                    ],
+                    [
+                        -93.2081037,
+                        45.036415
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Roseville, MN",
+        "id": "419d7e5fdfa100b4",
+        "name": "Roseville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/419d7e5fdfa100b4.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir @k4coleman yea and provide shitty service in mean time",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 06 22:09:07 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1280,
+        "follow_request_sent": false,
+        "followers_count": 173,
+        "following": false,
+        "friends_count": 705,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 248386605,
+        "id_str": "248386605",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Minneapolis",
+        "name": "Adam Thielen",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/202302093/5223.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/202302093/5223.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/248386605/1355097426",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2748336811/913c46ceeb83609c9b4e16b096fb180d_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2748336811/913c46ceeb83609c9b4e16b096fb180d_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "thielena",
+        "statuses_count": 5107,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 28 02:28:25 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 725511962709348352,
+    "id_str": "725511962709348352",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 725503972690161664,
+    "in_reply_to_status_id_str": "725503972690161664",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.962582,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.8000371
+                    ],
+                    [
+                        -73.962582,
+                        40.8000371
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Queens, NY",
+        "id": "00c39537733fa112",
+        "name": "Queens",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c39537733fa112.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir you need to start caring with actions not words. Improve your operations, institute some accountability to customers.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 27 21:12:08 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "When I'm not roaming the planet as a  #freelanceafarian, I live in NY and love it.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "freelanceafarian.com",
+                        "expanded_url": "http://freelanceafarian.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/jYVSct2Ddh"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 183,
+        "follow_request_sent": false,
+        "followers_count": 205,
+        "following": false,
+        "friends_count": 543,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 19616713,
+        "id_str": "19616713",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "NYC",
+        "name": "Natalie Kaufman",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19616713/1407115802",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/496105388715294720/OpxkmG_0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/496105388715294720/OpxkmG_0_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nnyc",
+        "statuses_count": 1922,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/jYVSct2Ddh",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

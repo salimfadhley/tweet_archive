@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 28 02:39:43 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    127,
+                    132
+                ],
+                "text": "fail"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 725514805893722112,
+    "id_str": "725514805893722112",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -123.304549,
+                        49.08609
+                    ],
+                    [
+                        -122.957124,
+                        49.08609
+                    ],
+                    [
+                        -122.957124,
+                        49.262393
+                    ],
+                    [
+                        -123.304549,
+                        49.262393
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Richmond, British Columbia",
+        "id": "3100dc510186d8b6",
+        "name": "Richmond",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3100dc510186d8b6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir 7.5 hour delay at YVR flight 5907 because you didn't approve the use of one of a mini bolt in the air conditioner #fail",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 23 00:55:51 +0000 2006",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Chief at This Is Ground / Snapchat & Instagram: thisisground",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "macadaan.com",
+                        "expanded_url": "http://macadaan.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/LHXJcQoVdJ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 791,
+        "follow_request_sent": false,
+        "followers_count": 12817,
+        "following": false,
+        "friends_count": 358,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 184693,
+        "id_str": "184693",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 321,
+        "location": "California, USA",
+        "name": "Mike Macadaan",
+        "notifications": false,
+        "profile_background_color": "F2F2F2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/765905050/b7ad07d68649ef157c3a47e0aa0dad21.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/765905050/b7ad07d68649ef157c3a47e0aa0dad21.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/184693/1405094042",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000609140337/94c93e282ebb04daadc8834094cb51dd_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000609140337/94c93e282ebb04daadc8834094cb51dd_normal.png",
+        "profile_link_color": "0BADEF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EDEDED",
+        "profile_text_color": "787878",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "macadaan",
+        "statuses_count": 3632,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/LHXJcQoVdJ",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

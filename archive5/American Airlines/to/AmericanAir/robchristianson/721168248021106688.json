@@ -1,0 +1,159 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 16 02:48:03 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    52,
+                    66
+                ],
+                "text": "GoingForGreat"
+            },
+            {
+                "indices": [
+                    67,
+                    84
+                ],
+                "text": "lookItsMinnesota"
+            },
+            {
+                "indices": [
+                    85,
+                    97
+                ],
+                "text": "dontchaKnow"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    1,
+                    13
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 721168248021106688,
+    "id_str": "721168248021106688",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 721151164176183296,
+    "in_reply_to_status_id_str": "721151164176183296",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.803319,
+                        33.137357
+                    ],
+                    [
+                        -96.595889,
+                        33.137357
+                    ],
+                    [
+                        -96.595889,
+                        33.251946
+                    ],
+                    [
+                        -96.803319,
+                        33.251946
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "McKinney, TX",
+        "id": "7eeed20da9c42064",
+        "name": "McKinney",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7eeed20da9c42064.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": ".@AmericanAir well thanks! You guys are awesome. =) #GoingForGreat #lookItsMinnesota #dontchaKnow",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 05 16:12:26 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Stuck-up half-witted scruffy-lookin' Creative Director. I herd nerfs for @CDKglobal #DigitalMarketing | \u271d Husband + Dad x6",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/robthedesigner",
+                        "expanded_url": "http://about.me/robthedesigner",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/FSVAz9Ju5p"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 16102,
+        "follow_request_sent": false,
+        "followers_count": 2954,
+        "following": false,
+        "friends_count": 2862,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 9266222,
+        "id_str": "9266222",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 576,
+        "location": "Seattle, WA",
+        "name": "Rob Christianson",
+        "notifications": false,
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/568842196200071168/tGwWfzoN.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/568842196200071168/tGwWfzoN.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9266222/1459464762",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/719727120067489792/iYmFbEca_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/719727120067489792/iYmFbEca_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFCF5",
+        "profile_text_color": "525252",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "robchristianson",
+        "statuses_count": 26749,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FSVAz9Ju5p",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 31 17:03:13 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 715585253021245440,
+    "id_str": "715585253021245440",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 715584278923317248,
+    "in_reply_to_status_id_str": "715584278923317248",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.386457,
+                        38.719559
+                    ],
+                    [
+                        -90.309531,
+                        38.719559
+                    ],
+                    [
+                        -90.309531,
+                        38.7741541
+                    ],
+                    [
+                        -90.386457,
+                        38.7741541
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Berkeley, MO",
+        "id": "e6610919d60bcae1",
+        "name": "Berkeley",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e6610919d60bcae1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir awesome. It's been a pleasure...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 20 15:53:59 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6301,
+        "follow_request_sent": false,
+        "followers_count": 505,
+        "following": false,
+        "friends_count": 474,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 49038294,
+        "id_str": "49038294",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Missouri",
+        "name": "Zach Hedrick",
+        "notifications": false,
+        "profile_background_color": "404041",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/443465330669531136/yq5ln1QI.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/443465330669531136/yq5ln1QI.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49038294/1456071619",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/705580784548257793/lMH3ARNR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/705580784548257793/lMH3ARNR_normal.jpg",
+        "profile_link_color": "BF1E2E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "zachhedrick",
+        "statuses_count": 5052,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

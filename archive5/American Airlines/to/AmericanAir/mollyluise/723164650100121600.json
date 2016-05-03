@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 21 15:01:02 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 723164650100121600,
+    "id_str": "723164650100121600",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.446302,
+                        42.179271
+                    ],
+                    [
+                        -83.306006,
+                        42.179271
+                    ],
+                    [
+                        -83.306006,
+                        42.268212
+                    ],
+                    [
+                        -83.446302,
+                        42.268212
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Romulus, MI",
+        "id": "781e991b9f95b37f",
+        "name": "Romulus",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/781e991b9f95b37f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir hey is your app and site down? Haven't been able to access either and I need to check in for one flight and cancel another",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 17 06:48:29 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Expat Alaskan living the dream in the desert. Constant business traveler, skincare pro, pharmaceutical educator, beauty junkie and computer nerd.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mollypretty.com",
+                        "expanded_url": "http://mollypretty.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/yHfyVmQtqt"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1669,
+        "follow_request_sent": false,
+        "followers_count": 1276,
+        "following": false,
+        "friends_count": 809,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 7525552,
+        "id_str": "7525552",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 83,
+        "location": "Tempe, AZ",
+        "name": "Molly",
+        "notifications": false,
+        "profile_background_color": "CCE4B8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/827661493/3f24b92fe446e33fa6c30cf8344c4fc9.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/827661493/3f24b92fe446e33fa6c30cf8344c4fc9.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7525552/1459222634",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/714657392106082304/7hKxr00P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/714657392106082304/7hKxr00P_normal.jpg",
+        "profile_link_color": "7AB5A6",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "887A8D",
+        "profile_text_color": "83E1BB",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mollyluise",
+        "statuses_count": 15459,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/yHfyVmQtqt",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

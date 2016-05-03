@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 14 18:52:52 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 2904172474,
+                "id_str": "2904172474",
+                "indices": [
+                    13,
+                    29
+                ],
+                "name": "Waitress Musical",
+                "screen_name": "WaitressMusical"
+            },
+            {
+                "id": 134891395,
+                "id_str": "134891395",
+                "indices": [
+                    30,
+                    44
+                ],
+                "name": "EWR JFK LGA SWF",
+                "screen_name": "NY_NJairports"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 720686277218185217,
+    "id_str": "720686277218185217",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 720685582427422720,
+    "in_reply_to_status_id_str": "720685582427422720",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.625844,
+                        28.49675
+                    ],
+                    [
+                        -81.554843,
+                        28.49675
+                    ],
+                    [
+                        -81.554843,
+                        28.595488
+                    ],
+                    [
+                        -81.625844,
+                        28.595488
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Winter Garden, FL",
+        "id": "dc96a032c98a1ea9",
+        "name": "Winter Garden",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/dc96a032c98a1ea9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir @WaitressMusical @NY_NJairports can I fly just for that reason?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 01 06:21:54 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "My mind often travels through space and time. [snapchat: joshuamichaell]",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/joshuamichaell/",
+                        "expanded_url": "http://www.instagram.com/joshuamichaell/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/uQZrEApyDc"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1334,
+        "follow_request_sent": false,
+        "followers_count": 251,
+        "following": false,
+        "friends_count": 541,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 290940411,
+        "id_str": "290940411",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Orlando",
+        "name": "Joshua Michael",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120744843/5399fe3117199747109960a3dca0f63a.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120744843/5399fe3117199747109960a3dca0f63a.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/290940411/1456876789",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/596534459157127168/cP__BhLA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/596534459157127168/cP__BhLA_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "joshuamichaell",
+        "statuses_count": 8921,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/uQZrEApyDc",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 26 18:49:59 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 93150221,
+                "id_str": "93150221",
+                "indices": [
+                    13,
+                    26
+                ],
+                "name": "Imani Cezanne",
+                "screen_name": "imanicezanne"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 713800181226012673,
+    "id_str": "713800181226012673",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 713468130882822144,
+    "in_reply_to_status_id_str": "713468130882822144",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -10.2445252,
+                        52.9675677
+                    ],
+                    [
+                        -7.9684842,
+                        52.9675677
+                    ],
+                    [
+                        -7.9684842,
+                        53.7190576
+                    ],
+                    [
+                        -10.2445252,
+                        53.7190576
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ireland",
+        "country_code": "IE",
+        "full_name": "Galway, Ireland",
+        "id": "3cdad59a91d99400",
+        "name": "Galway",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3cdad59a91d99400.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir @imanicezanne Maybe you could train your crew to not be racist fuckwits? Too much to ask?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 22 13:08:20 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Nothing very interesting.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 66405,
+        "follow_request_sent": false,
+        "followers_count": 3039,
+        "following": false,
+        "friends_count": 2954,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 21563704,
+        "id_str": "21563704",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 166,
+        "location": "Galway, Ireland",
+        "name": "Lamhfada",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/119527320/Whfkt.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/119527320/Whfkt.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21563704/1429220426",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/713096979551797248/vA8C9maR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/713096979551797248/vA8C9maR_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Lamhfada",
+        "statuses_count": 124482,
+        "time_zone": "Dublin",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

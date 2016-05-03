@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 15 00:36:04 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 720772646632353792,
+    "id_str": "720772646632353792",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "pt",
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -49.1925659,
+                        -26.449305
+                    ],
+                    [
+                        -48.740383,
+                        -26.449305
+                    ],
+                    [
+                        -48.740383,
+                        -26.0740739
+                    ],
+                    [
+                        -49.1925659,
+                        -26.0740739
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Joinville, Brasil",
+        "id": "012d81605af0416c",
+        "name": "Joinville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/012d81605af0416c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook ce \u00e9 o lix\u00e3o mesmo hein doido",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 28 00:21:53 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Jogador de  PS4/PS3 e ciclista quando bate a vontade.\nPSN:edu_1337",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "expanded_url": null,
+                        "indices": [
+                            0,
+                            32
+                        ],
+                        "url": "https://instagram.com/edu_teske/"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 622,
+        "follow_request_sent": false,
+        "followers_count": 370,
+        "following": false,
+        "friends_count": 105,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 258559075,
+        "id_str": "258559075",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 1,
+        "location": "Barra Velha, SC",
+        "name": "Eduardo Teske",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/258559075/1458159107",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/719164900367589376/IKRyOCS3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/719164900367589376/IKRyOCS3_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "edu_teske",
+        "statuses_count": 31732,
+        "time_zone": "Brasilia",
+        "url": "https://instagram.com/edu_teske/",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

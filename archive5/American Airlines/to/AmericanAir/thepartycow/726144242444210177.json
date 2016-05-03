@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 29 20:20:53 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 726144242444210177,
+    "id_str": "726144242444210177",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -124.482003,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        42.009519
+                    ],
+                    [
+                        -124.482003,
+                        42.009519
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "California, USA",
+        "id": "fbd6d2f5a4e4a15e",
+        "name": "California",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir We had a mech delay are are sitting on the tarmac. I think we'll miss our connection. Can I get rebooking assistance?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 14 03:32:38 +0000 2006",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Husband of @iammollywalsh, father of 2 boys under 4, partner @codescience. In that order.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/brianwalsh",
+                        "expanded_url": "http://about.me/brianwalsh",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/gjrJFo0tOV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7746,
+        "follow_request_sent": false,
+        "followers_count": 4636,
+        "following": false,
+        "friends_count": 1548,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 747,
+        "id_str": "747",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 75,
+        "location": "San Francisco",
+        "name": "Brian Walsh",
+        "notifications": false,
+        "profile_background_color": "C0C0C0",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/93424425/x6a764c7b5a75cdd908eadfd86193ca2.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/93424425/x6a764c7b5a75cdd908eadfd86193ca2.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/747/1404884180",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/458844329293799424/rG83a6w9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/458844329293799424/rG83a6w9_normal.jpeg",
+        "profile_link_color": "CD962B",
+        "profile_sidebar_border_color": "031634",
+        "profile_sidebar_fill_color": "033649",
+        "profile_text_color": "CDB380",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "thepartycow",
+        "statuses_count": 12157,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/gjrJFo0tOV",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

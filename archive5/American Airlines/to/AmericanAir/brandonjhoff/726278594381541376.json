@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 30 05:14:45 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 726278594381541376,
+    "id_str": "726278594381541376",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.129669,
+                        32.8785707
+                    ],
+                    [
+                        -97.029639,
+                        32.8785707
+                    ],
+                    [
+                        -97.029639,
+                        32.985097
+                    ],
+                    [
+                        -97.129669,
+                        32.985097
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Grapevine, TX",
+        "id": "352cf4e7314da0b4",
+        "name": "Grapevine",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/352cf4e7314da0b4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir can we get some flight attendants for flight 2501. Please. And maybe a dose of transparency.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 09 21:45:50 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 25,
+        "follow_request_sent": false,
+        "followers_count": 121,
+        "following": false,
+        "friends_count": 137,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18003580,
+        "id_str": "18003580",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Seattle, WA",
+        "name": "Brandon Hoff",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/134028231/x4ecb9caadf28495784c9c92032f6cf0.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/134028231/x4ecb9caadf28495784c9c92032f6cf0.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3161970091/f8f316715ffa6f1d03388548adff7c41_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3161970091/f8f316715ffa6f1d03388548adff7c41_normal.jpeg",
+        "profile_link_color": "663333",
+        "profile_sidebar_border_color": "463E3B",
+        "profile_sidebar_fill_color": "677B8F",
+        "profile_text_color": "1F1F38",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "brandonjhoff",
+        "statuses_count": 1418,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

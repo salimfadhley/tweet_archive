@@ -1,0 +1,290 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 21 09:28:13 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    21,
+                    32
+                ],
+                "text": "Voicecalls"
+            },
+            {
+                "indices": [
+                    33,
+                    40
+                ],
+                "text": "Beirut"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/ZDNet/status/7\u2026",
+                "expanded_url": "https://twitter.com/ZDNet/status/723079750734876672",
+                "indices": [
+                    41,
+                    64
+                ],
+                "url": "https://t.co/YzZoDG1Pi7"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 2885229365,
+                "id_str": "2885229365",
+                "indices": [
+                    10,
+                    20
+                ],
+                "name": "Messenger",
+                "screen_name": "messenger"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 723080892877406208,
+    "id_str": "723080892877406208",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        35.0757711,
+                        33.054742
+                    ],
+                    [
+                        36.6232583,
+                        33.054742
+                    ],
+                    [
+                        36.6232583,
+                        34.6919892
+                    ],
+                    [
+                        35.0757711,
+                        34.6919892
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u0644\u0628\u0646\u0627\u0646",
+        "country_code": "LB",
+        "full_name": "Lebanon",
+        "id": "583bd538eb3129d1",
+        "name": "Lebanon",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/583bd538eb3129d1.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Apr 21 09:23:41 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "zd.net/1rnT6XE",
+                    "expanded_url": "http://zd.net/1rnT6XE",
+                    "indices": [
+                        45,
+                        68
+                    ],
+                    "url": "https://t.co/Oz8juqn704"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 16878551,
+                    "id_str": "16878551",
+                    "indices": [
+                        72,
+                        78
+                    ],
+                    "name": "LiamTung",
+                    "screen_name": "LiamT"
+                }
+            ]
+        },
+        "favorite_count": 4,
+        "favorited": false,
+        "geo": null,
+        "id": 723079750734876672,
+        "id_str": "723079750734876672",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 6,
+        "retweeted": false,
+        "source": "<a href=\"http://www.zdnet.com\" rel=\"nofollow\">zdnet API</a>",
+        "text": "Facebook adds group voice calls to Messenger https://t.co/Oz8juqn704 by @LiamT",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Apr 08 21:05:10 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Where technology meets business",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "zdnet.com",
+                            "expanded_url": "http://www.zdnet.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/5onVPZr4O4"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 90,
+            "follow_request_sent": false,
+            "followers_count": 272515,
+            "following": false,
+            "friends_count": 144,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 3819701,
+            "id_str": "3819701",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 10969,
+            "location": "USA | UK | Asia | Australia",
+            "name": "ZDNet",
+            "notifications": false,
+            "profile_background_color": "11182A",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/820487456/e72316fd2b1aead91d29b7c2c8227939.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/820487456/e72316fd2b1aead91d29b7c2c8227939.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3819701/1427131317",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/706961982545473536/Ibj46-DX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/706961982545473536/Ibj46-DX_normal.jpg",
+            "profile_link_color": "11182A",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDE4E9",
+            "profile_text_color": "6A6D6E",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "ZDNet",
+            "statuses_count": 125081,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/5onVPZr4O4",
+            "utc_offset": -14400,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 723079750734876672,
+    "quoted_status_id_str": "723079750734876672",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook @messenger #Voicecalls #Beirut https://t.co/YzZoDG1Pi7",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 15 15:17:24 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Endurance = Resilience+Wisdom ;\r\n               Because Wisdom Can't Be Taught.               \nConnecting The Dots Every Day.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/profile.php?re\u2026",
+                        "expanded_url": "http://www.facebook.com/profile.php?ref=profile&id=1024847190",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Mr0xHEHY7k"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6261,
+        "follow_request_sent": false,
+        "followers_count": 754,
+        "following": false,
+        "friends_count": 774,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 40260310,
+        "id_str": "40260310",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 421,
+        "location": "Beirut,  Lebanon",
+        "name": "Arz Lubnan",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/309975142/cedar.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/309975142/cedar.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40260310/1433440234",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/628070054031048704/Ou9G_9vg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/628070054031048704/Ou9G_9vg_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tallcedarofleb",
+        "statuses_count": 14342,
+        "time_zone": "Athens",
+        "url": "http://t.co/Mr0xHEHY7k",
+        "utc_offset": 10800,
+        "verified": false
+    }
+}

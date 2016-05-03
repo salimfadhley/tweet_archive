@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 19 00:12:40 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            },
+            {
+                "id": 30664957,
+                "id_str": "30664957",
+                "indices": [
+                    10,
+                    19
+                ],
+                "name": "MapMyRun",
+                "screen_name": "MapMyRun"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 722216307458879488,
+    "id_str": "722216307458879488",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": 722216175782879232,
+    "in_reply_to_status_id_str": "722216175782879232",
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        139.675224,
+                        35.780198
+                    ],
+                    [
+                        139.788259,
+                        35.780198
+                    ],
+                    [
+                        139.788259,
+                        35.887263
+                    ],
+                    [
+                        139.675224,
+                        35.887263
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u65e5\u672c",
+        "country_code": "JP",
+        "full_name": "Kawaguchi-shi, Saitama",
+        "id": "4fc060f8061bb535",
+        "name": "Kawaguchi-shi",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4fc060f8061bb535.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AppStore @MapMyRun",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 02 18:46:29 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Yupingwen",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3,
+        "follow_request_sent": false,
+        "followers_count": 248,
+        "following": false,
+        "friends_count": 439,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 694592743150977024,
+        "id_str": "694592743150977024",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "\u897f\u5ddd\u56d7",
+        "name": "\u4f59\u6587\u6e05",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/708426709737934848/cYK7HEes_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/708426709737934848/cYK7HEes_normal.jpg",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "a090603955782",
+        "statuses_count": 17,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 14 17:21:05 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 720663178397491200,
+    "id_str": "720663178397491200",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 719354500599840768,
+    "in_reply_to_status_id_str": "719354500599840768",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.710722,
+                        39.052962
+                    ],
+                    [
+                        -84.3689026,
+                        39.052962
+                    ],
+                    [
+                        -84.3689026,
+                        39.2211137
+                    ],
+                    [
+                        -84.710722,
+                        39.2211137
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Cincinnati, OH",
+        "id": "e444ecd51bd16ff3",
+        "name": "Cincinnati",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e444ecd51bd16ff3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir I got my bag, which is cool, thanks. But your tracking app is not great and I hated that I couldn't speak to a human.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 01 17:39:01 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I've worked in marketing for over 20 years & began specialising in Digital Marketing before it even had a label.\n\nThese are my thoughts...",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "francodebonis.eu",
+                        "expanded_url": "http://www.francodebonis.eu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/oOnkfsVwNd"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12,
+        "follow_request_sent": false,
+        "followers_count": 147,
+        "following": false,
+        "friends_count": 40,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 52793023,
+        "id_str": "52793023",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 14,
+        "location": "53.433265,-6.586304",
+        "name": "Franco De Bonis",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/52793023/1442259464",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/643509060847955968/o6G2tix0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/643509060847955968/o6G2tix0_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SanityMarketing",
+        "statuses_count": 273,
+        "time_zone": "Dublin",
+        "url": "http://t.co/oOnkfsVwNd",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

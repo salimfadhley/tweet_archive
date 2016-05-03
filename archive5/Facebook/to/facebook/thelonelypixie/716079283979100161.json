@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 02 01:46:20 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    22,
+                    30
+                ],
+                "text": "Beatles"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    76,
+                    84
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            },
+            {
+                "id": 22667853,
+                "id_str": "22667853",
+                "indices": [
+                    98,
+                    107
+                ],
+                "name": "bobdylan.com",
+                "screen_name": "bobdylan"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 716079283979100161,
+    "id_str": "716079283979100161",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.4798235,
+                        18.0214258
+                    ],
+                    [
+                        -71.6284598,
+                        18.0214258
+                    ],
+                    [
+                        -71.6284598,
+                        20.0894352
+                    ],
+                    [
+                        -74.4798235,
+                        20.0894352
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Haiti",
+        "country_code": "HT",
+        "full_name": "Haiti",
+        "id": "d3e226ca18cd4ae8",
+        "name": "Haiti",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/d3e226ca18cd4ae8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook is like the #Beatles of social networks, it doesn't edify anyone. @twitter is more like @bobdylan \"so many things to learn from\"",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 07 12:45:42 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ante la insondable divinidad, el ortodoxo y el hereje son la misma persona.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1219,
+        "follow_request_sent": false,
+        "followers_count": 49,
+        "following": false,
+        "friends_count": 54,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2431996405,
+        "id_str": "2431996405",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 4,
+        "location": "Bogot\u00e1",
+        "name": "Lucas Maldonado",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2431996405/1396875912",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/453155207166177282/hBPYqt9X_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/453155207166177282/hBPYqt9X_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "thelonelypixie",
+        "statuses_count": 962,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,294 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 21 18:39:35 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    86,
+                    95
+                ],
+                "text": "execplat"
+            },
+            {
+                "indices": [
+                    111,
+                    116
+                ],
+                "text": "help"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/thepointsguy/s\u2026",
+                "expanded_url": "https://twitter.com/thepointsguy/status/723213468975812608",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/K9cF9vbbLY"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 723219646577557504,
+    "id_str": "723219646577557504",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.1206921,
+                        37.252554
+                    ],
+                    [
+                        -80.013519,
+                        37.252554
+                    ],
+                    [
+                        -80.013519,
+                        37.3243357
+                    ],
+                    [
+                        -80.1206921,
+                        37.3243357
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Salem, VA",
+        "id": "73c702136798426b",
+        "name": "Salem",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/73c702136798426b.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Apr 21 18:15:02 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/WEubJiXQsL",
+                    "expanded_url": "http://twitter.com/thepointsguy/status/723213468975812608/photo/1",
+                    "id": 723213468795461633,
+                    "id_str": "723213468795461633",
+                    "indices": [
+                        108,
+                        131
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Cgle0XBU4AEdEpM.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Cgle0XBU4AEdEpM.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 602,
+                            "resize": "fit",
+                            "w": 960
+                        },
+                        "medium": {
+                            "h": 376,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 213,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/WEubJiXQsL"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "onforb.es/1Sy9JMb",
+                    "expanded_url": "http://onforb.es/1Sy9JMb",
+                    "indices": [
+                        84,
+                        107
+                    ],
+                    "url": "https://t.co/JN3o3cOeQ1"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 17,
+        "favorited": false,
+        "geo": null,
+        "id": 723213468975812608,
+        "id_str": "723213468975812608",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 6,
+        "retweeted": false,
+        "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "text": "Why US airlines should follow Qantas' lead with elite status holds for new parents: https://t.co/JN3o3cOeQ1 https://t.co/WEubJiXQsL",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Apr 22 04:03:58 +0000 2009",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Living proof that frequent flyer miles and credit card points are not worthless. Follow on snapchat thepointsguy for the daily insanity that is my life \u2708\ufe0f\u2708\ufe0f",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "thepointsguy.com",
+                            "expanded_url": "http://www.thepointsguy.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/XshoHdgjUf"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1621,
+            "follow_request_sent": false,
+            "followers_count": 214002,
+            "following": false,
+            "friends_count": 1579,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 34176543,
+            "id_str": "34176543",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 2142,
+            "location": "Airborne",
+            "name": "The Points Guy",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/34176543/1460480472",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/714256732994813952/heb4f_tq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/714256732994813952/heb4f_tq_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "thepointsguy",
+            "statuses_count": 26666,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/XshoHdgjUf",
+            "utc_offset": -14400,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 723213468975812608,
+    "quoted_status_id_str": "723213468975812608",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir having my 2nd next week \ud83d\ude05 6 week hit to not traveling will mightily hurt #execplat requalifying!! #help https://t.co/K9cF9vbbLY",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 31 16:06:33 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Business Development Director/Golfer/Hunter---- Father!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 675,
+        "follow_request_sent": false,
+        "followers_count": 118,
+        "following": false,
+        "friends_count": 208,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 43708010,
+        "id_str": "43708010",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Roanoke, VA",
+        "name": "Ben Sultze",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/43708010/1383865524",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671432096234283008/6VlcXAjP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671432096234283008/6VlcXAjP_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GrimmSultze",
+        "statuses_count": 2358,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

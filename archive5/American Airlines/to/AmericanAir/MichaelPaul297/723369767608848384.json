@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 22 04:36:06 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 44084633,
+                "id_str": "44084633",
+                "indices": [
+                    19,
+                    32
+                ],
+                "name": "Louis Vuitton",
+                "screen_name": "LouisVuitton"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 723369767608848384,
+    "id_str": "723369767608848384",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 723324643138883584,
+    "in_reply_to_status_id_str": "723324643138883584",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -70.06396,
+                        12.41112
+                    ],
+                    [
+                        -69.86577,
+                        12.41112
+                    ],
+                    [
+                        -69.86577,
+                        12.62324
+                    ],
+                    [
+                        -70.06396,
+                        12.62324
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Aruba",
+        "country_code": "AW",
+        "full_name": "Aruba",
+        "id": "fa07565662daf560",
+        "name": "Aruba",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/fa07565662daf560.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir If my @LouisVuitton Luggage has one scratch your going to be responsible for this and for whatever is in it if lost items.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 23 00:36:35 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "My life overview in words!          Instagram: @michaelpaul749",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 19,
+        "follow_request_sent": false,
+        "followers_count": 17,
+        "following": false,
+        "friends_count": 18,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 4800525955,
+        "id_str": "4800525955",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Aruba",
+        "name": "Michael Sanchez",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/690695463511568384/Hqyub6am_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/690695463511568384/Hqyub6am_normal.jpg",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MichaelPaul297",
+        "statuses_count": 31,
+        "time_zone": "AST",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

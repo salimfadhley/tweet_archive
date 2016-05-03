@@ -1,0 +1,146 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 28 23:46:18 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 725833551476838400,
+    "id_str": "725833551476838400",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir I had someone help me restore an accidentally canceled flight today. I forgot to get her info but she was amazing. Thank you!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 08 18:00:59 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Product Architect. Team @ocbapp. Traveling companion to @kelseylk. @technori co-founder. Co-author of https://t.co/WkXI2afUvP",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "independentconsultingmanual.com",
+                        "expanded_url": "http://independentconsultingmanual.com",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "url": "https://t.co/WkXI2afUvP"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "zackgilbert.com",
+                        "expanded_url": "http://zackgilbert.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/zmIxeYew61"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 10876,
+        "follow_request_sent": false,
+        "followers_count": 1178,
+        "following": false,
+        "friends_count": 407,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 822454,
+        "id_str": "822454",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 61,
+        "location": "Chicago, IL",
+        "name": "Zack Gilbert",
+        "notifications": false,
+        "profile_background_color": "252525",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/199118094/bg-repeat.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/199118094/bg-repeat.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3134954828/9e9150ffdb52421843862e2c5fc1bd9b_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3134954828/9e9150ffdb52421843862e2c5fc1bd9b_normal.jpeg",
+        "profile_link_color": "4B4B92",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "zackgilbert",
+        "statuses_count": 10819,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/zmIxeYew61",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

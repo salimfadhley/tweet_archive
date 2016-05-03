@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 07 16:27:17 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/3MNGkACZAM",
+                "expanded_url": "http://twitter.com/Juan_Pat/status/718112922812059648/photo/1",
+                "id": 718112908912144384,
+                "id_str": "718112908912144384",
+                "indices": [
+                    71,
+                    94
+                ],
+                "media_url": "http://pbs.twimg.com/media/Cfc_4sxUsAArsvy.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cfc_4sxUsAArsvy.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 575
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 575
+                    },
+                    "small": {
+                        "h": 605,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/3MNGkACZAM"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 718112922812059648,
+    "id_str": "718112922812059648",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        72.6930636,
+                        -0.7036879
+                    ],
+                    [
+                        73.7595485,
+                        -0.7036879
+                    ],
+                    [
+                        73.7595485,
+                        7.1064817
+                    ],
+                    [
+                        72.6930636,
+                        7.1064817
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Maldives",
+        "country_code": "MV",
+        "full_name": "Maldives",
+        "id": "2c614b2aca285e79",
+        "name": "Maldives",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/2c614b2aca285e79.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook thinking I am in Italy. At least get your advertising right. https://t.co/3MNGkACZAM",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 21 19:20:07 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 71,
+        "follow_request_sent": false,
+        "followers_count": 274,
+        "following": false,
+        "friends_count": 508,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 67692548,
+        "id_str": "67692548",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Mexico City",
+        "name": "Juan Pa Ram\u00edrez",
+        "notifications": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3491039097/cb503e295fc3f0b2dcf1ffce1521db7b_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3491039097/cb503e295fc3f0b2dcf1ffce1521db7b_normal.jpeg",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Juan_Pat",
+        "statuses_count": 2263,
+        "time_zone": "Mexico City",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

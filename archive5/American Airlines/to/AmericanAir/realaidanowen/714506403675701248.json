@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 28 17:36:16 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 154221292,
+                "id_str": "154221292",
+                "indices": [
+                    32,
+                    45
+                ],
+                "name": "Casey Neistat",
+                "screen_name": "CaseyNeistat"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 714506403675701248,
+    "id_str": "714506403675701248",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.287868,
+                        38.893115
+                    ],
+                    [
+                        -77.119901,
+                        38.893115
+                    ],
+                    [
+                        -77.119901,
+                        38.981856
+                    ],
+                    [
+                        -77.287868,
+                        38.981856
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "McLean, VA",
+        "id": "dc234665a759a05d",
+        "name": "McLean",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/dc234665a759a05d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir why'd u dump dad - @CaseyNeistat",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 17 19:29:38 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I'm a 15 year old sneaker and basketball youtuber",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/channel/UCwtfE\u2026",
+                        "expanded_url": "https://www.youtube.com/channel/UCwtfEvm2Q195MZXI2wB01qA",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/WtHisYi929"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4478,
+        "follow_request_sent": false,
+        "followers_count": 658,
+        "following": false,
+        "friends_count": 431,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1678983326,
+        "id_str": "1678983326",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "dc heat",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678983326/1437511135",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/684489217901260800/wM90IdGK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/684489217901260800/wM90IdGK_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "realaidanowen",
+        "statuses_count": 1436,
+        "time_zone": null,
+        "url": "https://t.co/WtHisYi929",
+        "utc_offset": null,
+        "verified": false
+    }
+}

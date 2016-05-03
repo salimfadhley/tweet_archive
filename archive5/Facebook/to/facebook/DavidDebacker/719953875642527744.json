@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 12 18:22:34 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    123,
+                    128
+                ],
+                "text": "tech"
+            },
+            {
+                "indices": [
+                    129,
+                    138
+                ],
+                "text": "F8Meetup"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 719953875642527744,
+    "id_str": "719953875642527744",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        18.3180332,
+                        -34.35839
+                    ],
+                    [
+                        18.6600898,
+                        -34.35839
+                    ],
+                    [
+                        18.6600898,
+                        -33.8849254
+                    ],
+                    [
+                        18.3180332,
+                        -33.8849254
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "South Africa",
+        "country_code": "ZA",
+        "full_name": "Cape Town, South Africa",
+        "id": "8b9ec16fdc0d7e55",
+        "name": "Cape Town",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8b9ec16fdc0d7e55.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook just announced their 360 degree camera, which will be open sourced 3D, 8k video with an amazing compression rate #tech #F8Meetup",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 03 12:34:55 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Founder of Roomie - future of apartment sharing. 20-something South African set out to change the world! 40 countries visited and 5 Atlantic Crossing sailed.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "roomieseeker.com",
+                        "expanded_url": "http://www.roomieseeker.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/SwZIFavijl"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 952,
+        "following": false,
+        "friends_count": 959,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 94319744,
+        "id_str": "94319744",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 21,
+        "location": "Cape Town, South Africa",
+        "name": "David De Backer",
+        "notifications": false,
+        "profile_background_color": "07090B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/657676021/9f24iylk29f783gohg81.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/657676021/9f24iylk29f783gohg81.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/94319744/1460446055",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/628856475176210432/UI0xMdvv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/628856475176210432/UI0xMdvv_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "BFBFBF",
+        "profile_sidebar_fill_color": "C9C9C9",
+        "profile_text_color": "1C1F23",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DavidDebacker",
+        "statuses_count": 137,
+        "time_zone": "Pretoria",
+        "url": "https://t.co/SwZIFavijl",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

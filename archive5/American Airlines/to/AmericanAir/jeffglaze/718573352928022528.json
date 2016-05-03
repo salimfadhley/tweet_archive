@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 08 22:56:52 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 718573352928022528,
+    "id_str": "718573352928022528",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -92.889433,
+                        42.491921
+                    ],
+                    [
+                        -86.24955,
+                        42.491921
+                    ],
+                    [
+                        -86.24955,
+                        47.309715
+                    ],
+                    [
+                        -92.889433,
+                        47.309715
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Wisconsin, USA",
+        "id": "7dc5c6d3bfb10ccc",
+        "name": "Wisconsin",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7dc5c6d3bfb10ccc.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir 3681 is supposed to depart in 4 minutes. No plane at the gate but board says it's on time. Update please?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 16 07:28:08 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Dane County and suburbs reporter for @WiStateJournal, @DrakeUniversity alumnus. I tweet news, baseball, music and random thoughts.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "madison.com",
+                        "expanded_url": "http://www.madison.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/O3lbPjybPB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1079,
+        "follow_request_sent": false,
+        "followers_count": 986,
+        "following": false,
+        "friends_count": 984,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 24663179,
+        "id_str": "24663179",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 77,
+        "location": "Madison, Wisconsin",
+        "name": "Jeff Glaze",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24663179/1411406149",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/560923328597086209/k5V72iEd_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/560923328597086209/k5V72iEd_normal.jpeg",
+        "profile_link_color": "001287",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jeffglaze",
+        "statuses_count": 4808,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/O3lbPjybPB",
+        "utc_offset": -18000,
+        "verified": true
+    }
+}

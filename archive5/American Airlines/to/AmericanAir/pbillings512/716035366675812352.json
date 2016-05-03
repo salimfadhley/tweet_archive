@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 01 22:51:49 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 716035366675812352,
+    "id_str": "716035366675812352",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.755394,
+                        30.4684424
+                    ],
+                    [
+                        -97.59007,
+                        30.4684424
+                    ],
+                    [
+                        -97.59007,
+                        30.5702392
+                    ],
+                    [
+                        -97.755394,
+                        30.5702392
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Round Rock, TX",
+        "id": "00c44eeb126d2fcd",
+        "name": "Round Rock",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c44eeb126d2fcd.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanAir The flight HOLD policy was great! Now we have the added stress to cancel within 24hrs (e.g., network/phone issues may happen!)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 27 01:23:53 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Born and raised in MIA. College in MSY & ATL. Summer Internships in the BOS area. Electrical Engineering in ATX. #BBM: http://t.co/kBx6VzAje2",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "pin.bbm.com/PatB_512",
+                        "expanded_url": "http://pin.bbm.com/PatB_512",
+                        "indices": [
+                            119,
+                            141
+                        ],
+                        "url": "http://t.co/kBx6VzAje2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 544,
+        "follow_request_sent": false,
+        "followers_count": 399,
+        "following": false,
+        "friends_count": 2312,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 258129852,
+        "id_str": "258129852",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "Round Rock, TX",
+        "name": "Patrick B.",
+        "notifications": false,
+        "profile_background_color": "2A689D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/548018641/x34a3306adf73e8bba04fc6acc43dd38.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/548018641/x34a3306adf73e8bba04fc6acc43dd38.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2709862451/960502e98cab2d4da7a88922cd6cbc17_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2709862451/960502e98cab2d4da7a88922cd6cbc17_normal.jpeg",
+        "profile_link_color": "163652",
+        "profile_sidebar_border_color": "163652",
+        "profile_sidebar_fill_color": "48B0DF",
+        "profile_text_color": "163652",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pbillings512",
+        "statuses_count": 2081,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

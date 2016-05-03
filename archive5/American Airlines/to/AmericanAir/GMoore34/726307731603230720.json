@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 30 07:10:32 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    71,
+                    75
+                ],
+                "text": "dfw"
+            },
+            {
+                "indices": [
+                    120,
+                    127
+                ],
+                "text": "rmgyor"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 726307731603230720,
+    "id_str": "726307731603230720",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 726306849637568514,
+    "in_reply_to_status_id_str": "726306849637568514",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -105.1048583,
+                        40.000226
+                    ],
+                    [
+                        -105.008604,
+                        40.000226
+                    ],
+                    [
+                        -105.008604,
+                        40.0709913
+                    ],
+                    [
+                        -105.1048583,
+                        40.0709913
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Erie, CO",
+        "id": "00bd041f6d389237",
+        "name": "Erie",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00bd041f6d389237.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@AmericanAir my family is sleeping on the floor of the nursing room at #dfw. Can't dm since you don't follow me. Record #rmgyor",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 23 14:36:07 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ex-pro pitcher turned pitching coach. Professional photographer. Weather analyst @ https://t.co/EnERDv85S4.",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "weather5280.com",
+                        "expanded_url": "http://weather5280.com",
+                        "indices": [
+                            83,
+                            106
+                        ],
+                        "url": "https://t.co/EnERDv85S4"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "gregfmoore.com",
+                        "expanded_url": "http://www.gregfmoore.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/bQqUvPFTSi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1516,
+        "follow_request_sent": false,
+        "followers_count": 509,
+        "following": false,
+        "friends_count": 386,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 26011751,
+        "id_str": "26011751",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 29,
+        "location": "Erie, CO",
+        "name": "Greg Moore",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26011751/1428262458",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1123780956/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123780956/image_normal.jpg",
+        "profile_link_color": "0279FF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GMoore34",
+        "statuses_count": 5662,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": "http://t.co/bQqUvPFTSi",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

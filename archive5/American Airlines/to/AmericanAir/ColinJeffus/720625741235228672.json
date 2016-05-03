@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 14 14:52:19 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    104,
+                    108
+                ],
+                "text": "DFW"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/wQRa1q9oQ2",
+                "expanded_url": "http://twitter.com/ColinJeffus/status/720625741235228672/photo/1",
+                "id": 720625704283430913,
+                "id_str": "720625704283430913",
+                "indices": [
+                    109,
+                    132
+                ],
+                "media_url": "http://pbs.twimg.com/media/CgAtQo_UYAEkxVd.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CgAtQo_UYAEkxVd.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/wQRa1q9oQ2"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 720625741235228672,
+    "id_str": "720625741235228672",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.04086303710938,
+                        32.89803818160521
+                    ],
+                    [
+                        -97.04086303710938,
+                        32.89803818160521
+                    ],
+                    [
+                        -97.04086303710938,
+                        32.89803818160521
+                    ],
+                    [
+                        -97.04086303710938,
+                        32.89803818160521
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "",
+        "country_code": "",
+        "full_name": "Dallas/Fort Worth International Airport (DFW)",
+        "id": "07d9f31c8ac83000",
+        "name": "Dallas/Fort Worth International Airport (DFW)",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9f31c8ac83000.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir last plane had a landing gear malfunction. Hopefully this one doesn't already an hour late #DFW https://t.co/wQRa1q9oQ2",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 11 05:21:15 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Aspiring photographer, concert-goer, sports fanatic. Just living my life as it comes to me. CHI fan. Just trying to get back to NYC/CHI. Follow IG / #GoHawks",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1375,
+        "follow_request_sent": false,
+        "followers_count": 95,
+        "following": false,
+        "friends_count": 148,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 333215541,
+        "id_str": "333215541",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 38,
+        "location": "Little Rock",
+        "name": "Colin Jeffus",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/333215541/1434441780",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/637005482658390016/2fvqY96c_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/637005482658390016/2fvqY96c_normal.jpg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ColinJeffus",
+        "statuses_count": 6690,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 29 21:29:41 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 726161557164425216,
+    "id_str": "726161557164425216",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 726161322258223104,
+    "in_reply_to_status_id_str": "726161322258223104",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.172219,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.934311
+                    ],
+                    [
+                        -77.172219,
+                        38.934311
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Arlington, VA",
+        "id": "319ee7b36c9149da",
+        "name": "Arlington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir finally boarded but still at the gate flight #4354 ... Not even one word about being delayed",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 07 17:53:40 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@CUAAlumni | from the @201Problems | proud #homeowner & #20something| #wanderlust | 'there's a time and a place for decaf coffee; never and in the trash'",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/armaine",
+                        "expanded_url": "http://facebook.com/armaine",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/7PEkMkOIbC"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1977,
+        "follow_request_sent": false,
+        "followers_count": 338,
+        "following": false,
+        "friends_count": 296,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 63786203,
+        "id_str": "63786203",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 22,
+        "location": "",
+        "name": "armaine",
+        "notifications": false,
+        "profile_background_color": "A5BC77",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000117294026/46e39bf0f7c7618b34542ad65dd8246f.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000117294026/46e39bf0f7c7618b34542ad65dd8246f.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/63786203/1461549423",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/678792236449050624/5OUtr0IH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/678792236449050624/5OUtr0IH_normal.jpg",
+        "profile_link_color": "74A76E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "384279",
+        "profile_text_color": "408174",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Armaine4",
+        "statuses_count": 8964,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/7PEkMkOIbC",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

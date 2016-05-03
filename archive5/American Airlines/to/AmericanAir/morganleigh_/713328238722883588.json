@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 25 11:34:39 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    136,
+                    140
+                ],
+                "text": "yyz"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 713328238722883588,
+    "id_str": "713328238722883588",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.810142,
+                        43.373074
+                    ],
+                    [
+                        -79.422004,
+                        43.373074
+                    ],
+                    [
+                        -79.422004,
+                        43.737414
+                    ],
+                    [
+                        -79.810142,
+                        43.737414
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Mississauga, Ontario",
+        "id": "5c43cbdfce4d3247",
+        "name": "Mississauga",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c43cbdfce4d3247.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir flight delayed. Closed the doors but can't find bags to remove from the plane. Bet those people would have made it by now. #yyz",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 17 18:48:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "it's not that you should care, i just wanted you to know",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "getfitstaysingle.tumblr.com",
+                        "expanded_url": "http://getfitstaysingle.tumblr.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/6WiG3eBexy"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4,
+        "follow_request_sent": false,
+        "followers_count": 193,
+        "following": false,
+        "friends_count": 240,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 204017673,
+        "id_str": "204017673",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 14,
+        "location": "toronto",
+        "name": "Morgan McDonald",
+        "notifications": false,
+        "profile_background_color": "E0313A",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/202770687/twitter2.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/202770687/twitter2.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/204017673/1359852754",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/521727897644859393/8F6mZ3B__normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/521727897644859393/8F6mZ3B__normal.jpeg",
+        "profile_link_color": "9C2E82",
+        "profile_sidebar_border_color": "6B553B",
+        "profile_sidebar_fill_color": "B5F2DC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "morganleigh_",
+        "statuses_count": 5086,
+        "time_zone": "Sydney",
+        "url": "http://t.co/6WiG3eBexy",
+        "utc_offset": 39600,
+        "verified": false
+    }
+}

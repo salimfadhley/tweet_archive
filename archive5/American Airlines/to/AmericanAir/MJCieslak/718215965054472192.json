@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 07 23:16:44 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 718215965054472192,
+    "id_str": "718215965054472192",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 718194715594633216,
+    "in_reply_to_status_id_str": "718194715594633216",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.172219,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.934311
+                    ],
+                    [
+                        -77.172219,
+                        38.934311
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Arlington, VA",
+        "id": "319ee7b36c9149da",
+        "name": "Arlington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir I will add that my son got sick on the plane. The flight attendant was awesome, but we rode the rest of the way covered in puke",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 25 00:56:10 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Educator, Detroit sports fanatic, Michigan State Spartan, Go Green!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3,
+        "follow_request_sent": false,
+        "followers_count": 146,
+        "following": false,
+        "friends_count": 158,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 207303662,
+        "id_str": "207303662",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Arlington, VA",
+        "name": "Michael Cieslak",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/207303662/1440161669",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1620360276/Twitter_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1620360276/Twitter_normal.JPG",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "MJCieslak",
+        "statuses_count": 380,
+        "time_zone": "Quito",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

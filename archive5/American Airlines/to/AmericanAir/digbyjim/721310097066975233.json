@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 16 12:11:43 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 721310097066975233,
+    "id_str": "721310097066975233",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.034184,
+                        32.771786
+                    ],
+                    [
+                        -96.888782,
+                        32.771786
+                    ],
+                    [
+                        -96.888782,
+                        32.956048
+                    ],
+                    [
+                        -97.034184,
+                        32.956048
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Irving, TX",
+        "id": "dce44ec49eb788f5",
+        "name": "Irving",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/dce44ec49eb788f5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir got to ride the 2/2015 737-800 this morning nice upgrades. Hope this is the future of the fleet",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 14 19:29:29 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "proud papa",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 573,
+        "follow_request_sent": false,
+        "followers_count": 6362,
+        "following": false,
+        "friends_count": 183,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 355063944,
+        "id_str": "355063944",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 66,
+        "location": "",
+        "name": "Jim Digby",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/355063944/1455049263",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/697140851928145920/9nO829o5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/697140851928145920/9nO829o5_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "digbyjim",
+        "statuses_count": 1776,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

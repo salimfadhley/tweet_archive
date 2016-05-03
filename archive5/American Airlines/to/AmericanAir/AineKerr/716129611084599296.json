@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 02 05:06:18 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 716129611084599296,
+    "id_str": "716129611084599296",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 716128107581677568,
+    "in_reply_to_status_id_str": "716128107581677568",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.962582,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.8000371
+                    ],
+                    [
+                        -73.962582,
+                        40.8000371
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Queens, NY",
+        "id": "00c39537733fa112",
+        "name": "Queens",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c39537733fa112.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir weekends are precious, I'm now liable for hotel costs tomorrow that don't make sense to fulfill given 6 hour delay. Not good.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 05 10:14:17 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Manager, Journalism Partnerships @Facebook. Previously Managing Editor @Storyful. Co-founder @ONAIreland. Proud Irishwoman https://t.co/Tk9m766nzP",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "ie.linkedin.com/in/ainekerr",
+                        "expanded_url": "https://ie.linkedin.com/in/ainekerr",
+                        "indices": [
+                            123,
+                            146
+                        ],
+                        "url": "https://t.co/Tk9m766nzP"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/aine.kerr.581",
+                        "expanded_url": "http://facebook.com/aine.kerr.581",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/lZnKc1QjnW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4118,
+        "follow_request_sent": false,
+        "followers_count": 13820,
+        "following": false,
+        "friends_count": 3719,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 163024504,
+        "id_str": "163024504",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 396,
+        "location": "Dublin, New York, Monaghan",
+        "name": "Aine Kerr",
+        "notifications": false,
+        "profile_background_color": "F57A0E",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/679241350/75fa7eb8e5b63fe980ade1f6f6a38616.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/679241350/75fa7eb8e5b63fe980ade1f6f6a38616.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/163024504/1457404714",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/707055126138064896/PzxhjjxP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/707055126138064896/PzxhjjxP_normal.jpg",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AineKerr",
+        "statuses_count": 9805,
+        "time_zone": "Dublin",
+        "url": "https://t.co/lZnKc1QjnW",
+        "utc_offset": 3600,
+        "verified": true
+    }
+}

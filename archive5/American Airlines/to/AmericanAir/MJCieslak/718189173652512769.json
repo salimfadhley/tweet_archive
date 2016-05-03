@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 07 21:30:16 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 5920532,
+                "id_str": "5920532",
+                "indices": [
+                    136,
+                    142
+                ],
+                "name": "Delta",
+                "screen_name": "Delta"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 718189173652512769,
+    "id_str": "718189173652512769",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.446302,
+                        42.179271
+                    ],
+                    [
+                        -83.306006,
+                        42.179271
+                    ],
+                    [
+                        -83.306006,
+                        42.268212
+                    ],
+                    [
+                        -83.446302,
+                        42.268212
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Romulus, MI",
+        "id": "781e991b9f95b37f",
+        "name": "Romulus",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/781e991b9f95b37f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir on flight 4005 to Dca. What a horrible experience and plane so far. &amp; we get off at gate 35x. Sure makes me appreciate @Delta",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 25 00:56:10 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Educator, Detroit sports fanatic, Michigan State Spartan, Go Green!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3,
+        "follow_request_sent": false,
+        "followers_count": 146,
+        "following": false,
+        "friends_count": 158,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 207303662,
+        "id_str": "207303662",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Arlington, VA",
+        "name": "Michael Cieslak",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/207303662/1440161669",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1620360276/Twitter_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1620360276/Twitter_normal.JPG",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "MJCieslak",
+        "statuses_count": 377,
+        "time_zone": "Quito",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

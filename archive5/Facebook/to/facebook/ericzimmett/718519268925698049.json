@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 08 19:21:57 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 718519268925698049,
+    "id_str": "718519268925698049",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": 717802248311554048,
+    "in_reply_to_status_id_str": "717802248311554048",
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -78.585289,
+                        41.3972517
+                    ],
+                    [
+                        -78.51001,
+                        41.3972517
+                    ],
+                    [
+                        -78.51001,
+                        41.46813
+                    ],
+                    [
+                        -78.585289,
+                        41.46813
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "St Marys, PA",
+        "id": "570369321247398f",
+        "name": "St Marys",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/570369321247398f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook Hi, Facebook. Thanks! Will do \ud83d\udc4d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 18 13:28:50 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "President at Braden Social Media @bradensocial, Emerging Media Blogger @zimedium.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bradensocialmedia.com",
+                        "expanded_url": "http://bradensocialmedia.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/pmDnVPdpSB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 676,
+        "follow_request_sent": false,
+        "followers_count": 796,
+        "following": false,
+        "friends_count": 663,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 179943895,
+        "id_str": "179943895",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 43,
+        "location": "State College, PA",
+        "name": "Eric Braden Zimmett",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000097347377/e1099fd53eedef59227f1d10cc9c8b1a.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000097347377/e1099fd53eedef59227f1d10cc9c8b1a.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/179943895/1451787943",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/709021093407883265/66G6_d8z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/709021093407883265/66G6_d8z_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ericzimmett",
+        "statuses_count": 12471,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/pmDnVPdpSB",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

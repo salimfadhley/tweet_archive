@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 30 20:54:05 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 715280961110458368,
+    "id_str": "715280961110458368",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -69.475331,
+                        9.9958546
+                    ],
+                    [
+                        -69.2599188,
+                        9.9958546
+                    ],
+                    [
+                        -69.2599188,
+                        10.1151752
+                    ],
+                    [
+                        -69.475331,
+                        10.1151752
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Venezuela",
+        "country_code": "VE",
+        "full_name": "Barquisimeto, Venezuela",
+        "id": "012b6b2c110f0c21",
+        "name": "Barquisimeto",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/012b6b2c110f0c21.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir which is the maximum weight of the carry on?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 22 16:06:10 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm just a simple person",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4205,
+        "follow_request_sent": false,
+        "followers_count": 344,
+        "following": false,
+        "friends_count": 491,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 91815156,
+        "id_str": "91815156",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 1,
+        "location": "venezuela",
+        "name": "Anthonys Diaz",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/711873916/efda79db646750086bd648a13d78d0ce.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/711873916/efda79db646750086bd648a13d78d0ce.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/91815156/1355927996",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/688757317421154304/TMJGvCJf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/688757317421154304/TMJGvCJf_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "anthonydiaz1987",
+        "statuses_count": 5405,
+        "time_zone": "Caracas",
+        "url": null,
+        "utc_offset": -16200,
+        "verified": false
+    }
+}

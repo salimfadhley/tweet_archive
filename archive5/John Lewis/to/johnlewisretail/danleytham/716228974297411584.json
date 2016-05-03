@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 02 11:41:09 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    101,
+                    116
+                ],
+                "text": "boredofwaiting"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 126664172,
+                "id_str": "126664172",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "John Lewis",
+                "screen_name": "johnlewisretail"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 716228974297411584,
+    "id_str": "716228974297411584",
+    "in_reply_to_screen_name": "johnlewisretail",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 126664172,
+    "in_reply_to_user_id_str": "126664172",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.730633,
+                        52.5931818
+                    ],
+                    [
+                        -1.636163,
+                        52.5931818
+                    ],
+                    [
+                        -1.636163,
+                        52.6510365
+                    ],
+                    [
+                        -1.730633,
+                        52.6510365
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Tamworth, England",
+        "id": "091ee820fa97bbe0",
+        "name": "Tamworth",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/091ee820fa97bbe0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@johnlewisretail any chance you might get some staff on the floor in the tech department in Tamworth #boredofwaiting",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 05 12:12:23 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I support Aston Villa, keep pet rats and I'm an ageing indie kid. That covers it",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 19,
+        "follow_request_sent": false,
+        "followers_count": 94,
+        "following": false,
+        "friends_count": 1130,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20142349,
+        "id_str": "20142349",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "52.611371,-1.700294",
+        "name": "Dan Leytham",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20142349/1451176447",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000586634477/af07a07c1940272339bb5bf9243dda3f_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000586634477/af07a07c1940272339bb5bf9243dda3f_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "danleytham",
+        "statuses_count": 2020,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

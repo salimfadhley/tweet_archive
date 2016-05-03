@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 29 06:03:44 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 98211067,
+                "id_str": "98211067",
+                "indices": [
+                    13,
+                    23
+                ],
+                "name": "John Mark Nickels",
+                "screen_name": "NickelsJM"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 714694511872630785,
+    "id_str": "714694511872630785",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 714681399064797185,
+    "in_reply_to_status_id_str": "714681399064797185",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.514926,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.833238
+                    ],
+                    [
+                        -122.514926,
+                        37.833238
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Francisco, CA",
+        "id": "5a110d312052166f",
+        "name": "San Francisco",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir @NickelsJM hey I know that guy",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 02 21:42:01 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Product @Uber in SF. From Phoenix. Tech & auto enthusiast. Avid traveler. Happily addicted to caffeine. Likes short sentences.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "gideon.carrd.co",
+                        "expanded_url": "http://gideon.carrd.co",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/kCBMHCd8a5"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6425,
+        "follow_request_sent": false,
+        "followers_count": 558,
+        "following": false,
+        "friends_count": 508,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 18564910,
+        "id_str": "18564910",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 22,
+        "location": "San Francisco, CA",
+        "name": "Gideon",
+        "notifications": false,
+        "profile_background_color": "1FBAD6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/455827618789457920/Db2cGl-r.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/455827618789457920/Db2cGl-r.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18564910/1452387584",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/690614417990365187/4v4PmENq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/690614417990365187/4v4PmENq_normal.jpg",
+        "profile_link_color": "09091A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E6E6E6",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ghod",
+        "statuses_count": 3001,
+        "time_zone": "Arizona",
+        "url": "https://t.co/kCBMHCd8a5",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

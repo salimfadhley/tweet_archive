@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 30 11:03:07 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 194049387,
+                "id_str": "194049387",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Halifax",
+                "screen_name": "AskHalifaxBank"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 715132241526013957,
+    "id_str": "715132241526013957",
+    "in_reply_to_screen_name": "AskHalifaxBank",
+    "in_reply_to_status_id": 715131960453177344,
+    "in_reply_to_status_id_str": "715131960453177344",
+    "in_reply_to_user_id": 194049387,
+    "in_reply_to_user_id_str": "194049387",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.187894,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.5164655
+                    ],
+                    [
+                        -0.187894,
+                        51.5164655
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "London, England",
+        "id": "457b4814b4240d87",
+        "name": "London",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/457b4814b4240d87.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AskHalifaxBank I was transferred to the fraud dept by one of your team.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 22 16:15:36 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Swede in London. Watches films. Listens to music. Takes pictures. Makes videos. Writes words. Views are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "nikvestberg.com",
+                        "expanded_url": "http://www.nikvestberg.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/ZDAoHTaC8e"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 258,
+        "follow_request_sent": false,
+        "followers_count": 777,
+        "following": false,
+        "friends_count": 582,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 19345247,
+        "id_str": "19345247",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 23,
+        "location": "London, UK",
+        "name": "Nik Vestberg",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/635585647/zey8ykz8if4mtuwh8tji.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/635585647/zey8ykz8if4mtuwh8tji.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19345247/1404904708",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/686541651175673856/iaDl6kGn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/686541651175673856/iaDl6kGn_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nikvestberg",
+        "statuses_count": 15320,
+        "time_zone": "London",
+        "url": "http://t.co/ZDAoHTaC8e",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

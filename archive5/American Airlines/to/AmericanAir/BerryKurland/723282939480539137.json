@@ -1,0 +1,168 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 21 22:51:05 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    42,
+                    46
+                ],
+                "text": "14e"
+            },
+            {
+                "indices": [
+                    47,
+                    51
+                ],
+                "text": "14f"
+            },
+            {
+                "indices": [
+                    52,
+                    59
+                ],
+                "text": "aa1416"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 5920532,
+                "id_str": "5920532",
+                "indices": [
+                    13,
+                    19
+                ],
+                "name": "Delta",
+                "screen_name": "Delta"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 723282939480539137,
+    "id_str": "723282939480539137",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 723282591126720512,
+    "in_reply_to_status_id_str": "723282591126720512",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.962582,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.8000371
+                    ],
+                    [
+                        -73.962582,
+                        40.8000371
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Queens, NY",
+        "id": "00c39537733fa112",
+        "name": "Queens",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c39537733fa112.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir @Delta would've found a way. #14e #14f #aa1416",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 11 20:11:38 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Don't want to keep diluting the incredible brand image of @postcardsiget, even though that will remain wayyyy better than @berrykurland.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "postcardsiget.tumblr.com",
+                        "expanded_url": "http://postcardsiget.tumblr.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/adNAdYib3k"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 49,
+        "follow_request_sent": false,
+        "followers_count": 121,
+        "following": false,
+        "friends_count": 118,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 434392710,
+        "id_str": "434392710",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "New York, NY",
+        "name": "Berry Kurland",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/380302116/Twitter_Personal_Background_12112011_-_Silver_Heel_Jump",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/380302116/Twitter_Personal_Background_12112011_-_Silver_Heel_Jump",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1687696557/Twitter_Personal_12112011_-_CapnBerry_normal",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1687696557/Twitter_Personal_12112011_-_CapnBerry_normal",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BerryKurland",
+        "statuses_count": 265,
+        "time_zone": "Paris",
+        "url": "http://t.co/adNAdYib3k",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

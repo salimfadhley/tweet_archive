@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 06 22:19:20 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 717839130684686336,
+    "id_str": "717839130684686336",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 717838676797972481,
+    "in_reply_to_status_id_str": "717838676797972481",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.962582,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.8000371
+                    ],
+                    [
+                        -73.962582,
+                        40.8000371
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Queens, NY",
+        "id": "00c39537733fa112",
+        "name": "Queens",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c39537733fa112.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir as I always expect",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 15 21:44:39 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "speedchange.blogspot.com",
+                        "expanded_url": "http://speedchange.blogspot.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/3dT95XNOBh"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 736,
+        "follow_request_sent": false,
+        "followers_count": 10008,
+        "following": false,
+        "friends_count": 2777,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1249711,
+        "id_str": "1249711",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 809,
+        "location": "Michigan Ireland Virginia",
+        "name": "Ira Socol",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403323196/New_WTC_Night.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403323196/New_WTC_Night.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/53929363/IraSocol1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/53929363/IraSocol1_normal.jpg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "irasocol",
+        "statuses_count": 111919,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/3dT95XNOBh",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

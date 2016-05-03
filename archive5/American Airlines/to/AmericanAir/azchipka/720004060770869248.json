@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 12 21:41:59 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 720004060770869248,
+    "id_str": "720004060770869248",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.046876,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.416412
+                    ],
+                    [
+                        -81.046876,
+                        35.416412
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Charlotte, NC",
+        "id": "512a8a4a4c4b4be0",
+        "name": "Charlotte",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/512a8a4a4c4b4be0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir nothing like sitting on my flight listening to one of your pilots complain about his job while catching a free ride home! AA830",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 03 05:20:46 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Exploring the world one day at a time and taking you along for the adventure of a lifetime!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "azchipka.thechipkahouse.com",
+                        "expanded_url": "http://azchipka.thechipkahouse.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/VNBuSn5atA"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 56,
+        "follow_request_sent": false,
+        "followers_count": 1315,
+        "following": false,
+        "friends_count": 640,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 19955961,
+        "id_str": "19955961",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 26,
+        "location": "Durham NC",
+        "name": "Avery Z Chipka",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/695204703/5f930a98fc70507f5064995f5e6994b7.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/695204703/5f930a98fc70507f5064995f5e6994b7.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19955961/1398301542",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/475778396849725441/y5r9WB76_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/475778396849725441/y5r9WB76_normal.jpeg",
+        "profile_link_color": "613D1A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "azchipka",
+        "statuses_count": 5672,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/VNBuSn5atA",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 25 14:10:39 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 713367496204664832,
+    "id_str": "713367496204664832",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.446302,
+                        42.179271
+                    ],
+                    [
+                        -83.306006,
+                        42.179271
+                    ],
+                    [
+                        -83.306006,
+                        42.268212
+                    ],
+                    [
+                        -83.446302,
+                        42.268212
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Romulus, MI",
+        "id": "781e991b9f95b37f",
+        "name": "Romulus",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/781e991b9f95b37f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir if last night a rep would of known $200 would of guaranteed me a seat i woulf of paid it.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 02 13:33:20 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 38,
+        "follow_request_sent": false,
+        "followers_count": 80,
+        "following": false,
+        "friends_count": 230,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2577515843,
+        "id_str": "2577515843",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "",
+        "name": "in_thesestreets",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672046800220626944/zbIHdQuC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672046800220626944/zbIHdQuC_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "in_thesestreets",
+        "statuses_count": 132,
+        "time_zone": "Hawaii",
+        "url": null,
+        "utc_offset": -36000,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 01 10:44:12 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 715852256613163008,
+    "id_str": "715852256613163008",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 715851631091388416,
+    "in_reply_to_status_id_str": "715851631091388416",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.4757083,
+                        53.3508617
+                    ],
+                    [
+                        -5.9957316,
+                        53.3508617
+                    ],
+                    [
+                        -5.9957316,
+                        53.6383337
+                    ],
+                    [
+                        -6.4757083,
+                        53.6383337
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ireland",
+        "country_code": "IE",
+        "full_name": "Fingal, Ireland",
+        "id": "73a5d83329504007",
+        "name": "Fingal",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/73a5d83329504007.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir we're on our way back to the gate now with an electrical fault in the engine",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 24 15:08:01 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Travel & Beauty Writer | Blogger | Now: Dublin | Next: Iceland | YouTube:nadia_thedailyself\nSnapchat & Instagram: nadia_dailyself",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "thedailyself.me",
+                        "expanded_url": "http://thedailyself.me",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/c93HeN7Axp"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2666,
+        "follow_request_sent": false,
+        "followers_count": 4652,
+        "following": false,
+        "friends_count": 2312,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 26253627,
+        "id_str": "26253627",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 78,
+        "location": "Dublin",
+        "name": "Nadia El Ferdaoussi",
+        "notifications": false,
+        "profile_background_color": "F0EBEB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/662687949876822016/w3pSwOdF.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/662687949876822016/w3pSwOdF.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26253627/1455787852",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/645974724426776576/8JpBQIhW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/645974724426776576/8JpBQIhW_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "9CD7ED",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nadia_dailyself",
+        "statuses_count": 34816,
+        "time_zone": "Dublin",
+        "url": "https://t.co/c93HeN7Axp",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

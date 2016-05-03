@@ -1,0 +1,146 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 14 21:35:01 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 2378123358,
+                "id_str": "2378123358",
+                "indices": [
+                    13,
+                    24
+                ],
+                "name": "ORDChicagoSpotter",
+                "screen_name": "ORDSpotter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 720727083983310848,
+    "id_str": "720727083983310848",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 720725958643167232,
+    "in_reply_to_status_id_str": "720725958643167232",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.401378,
+                        37.7776245
+                    ],
+                    [
+                        -122.3809835,
+                        37.7776245
+                    ],
+                    [
+                        -122.3809835,
+                        37.798014
+                    ],
+                    [
+                        -122.401378,
+                        37.798014
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "South Beach, San Francisco",
+        "id": "5c92ab5379de3839",
+        "name": "South Beach",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/5c92ab5379de3839.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "@AmericanAir @ORDSpotter only 18 days after that other airmail operation Varney of Boise, ID. :)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 26 18:13:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Engineer @CloudFlare. Creator @Sushi_JS. Organizer @BeerJS Palo Alto. Estonian e-Resident.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "terinstock.com",
+                        "expanded_url": "http://terinstock.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/5hCrozG0WO"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 548,
+        "follow_request_sent": false,
+        "followers_count": 1084,
+        "following": false,
+        "friends_count": 1506,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 69052146,
+        "id_str": "69052146",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "San Francisco, CA",
+        "name": "Terin Stock",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/386356588/xmaslights_326_121911.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/386356588/xmaslights_326_121911.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/683379403024289793/v38DyK0t_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/683379403024289793/v38DyK0t_normal.jpg",
+        "profile_link_color": "007298",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "666062",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "terinjokes",
+        "statuses_count": 19780,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/5hCrozG0WO",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 31 22:01:40 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 715660358875099136,
+    "id_str": "715660358875099136",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.129669,
+                        32.8785707
+                    ],
+                    [
+                        -97.029639,
+                        32.8785707
+                    ],
+                    [
+                        -97.029639,
+                        32.985097
+                    ],
+                    [
+                        -97.129669,
+                        32.985097
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Grapevine, TX",
+        "id": "352cf4e7314da0b4",
+        "name": "Grapevine",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/352cf4e7314da0b4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Stop looping the same 30 minute episode Little Big Shots pls.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 17 19:43:45 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "trees, dirt, and gumption.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ryanhumm.com",
+                        "expanded_url": "http://ryanhumm.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/jFcCwbtOU3"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1685,
+        "follow_request_sent": false,
+        "followers_count": 351,
+        "following": false,
+        "friends_count": 242,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 24939849,
+        "id_str": "24939849",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "",
+        "name": "Ryan Humm",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000091232230/83b68a8c0d2087197085e40797f20466.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000091232230/83b68a8c0d2087197085e40797f20466.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24939849/1398368397",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/681607127387996160/F9vAxiOv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/681607127387996160/F9vAxiOv_normal.jpg",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "CCCCCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ryanhumm",
+        "statuses_count": 3749,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/jFcCwbtOU3",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

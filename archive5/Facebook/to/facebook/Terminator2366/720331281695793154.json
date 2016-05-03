@@ -1,0 +1,299 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 13 19:22:15 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    28,
+                    35
+                ],
+                "text": "Sprint"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/gizmodo/status\u2026",
+                "expanded_url": "https://twitter.com/gizmodo/status/720329268719460352",
+                "indices": [
+                    66,
+                    89
+                ],
+                "url": "https://t.co/jepXoxr4jS"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 720331281695793154,
+    "id_str": "720331281695793154",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -94.742494,
+                        38.81903
+                    ],
+                    [
+                        -94.607693,
+                        38.81903
+                    ],
+                    [
+                        -94.607693,
+                        39.044068
+                    ],
+                    [
+                        -94.742494,
+                        39.044068
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Overland Park, KS",
+        "id": "ef975175b1003544",
+        "name": "Overland Park",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ef975175b1003544.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Apr 13 19:14:15 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/DXJ5BiFFg8",
+                    "expanded_url": "http://twitter.com/Gizmodo/status/720329268719460352/photo/1",
+                    "id": 720329267708465152,
+                    "id_str": "720329267708465152",
+                    "indices": [
+                        99,
+                        122
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Cf8fpwsUkAA2cmv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Cf8fpwsUkAA2cmv.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 500,
+                            "resize": "fit",
+                            "w": 800
+                        },
+                        "medium": {
+                            "h": 375,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 213,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/DXJ5BiFFg8"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "gizmo.do/L77Zgvf",
+                    "expanded_url": "http://gizmo.do/L77Zgvf",
+                    "indices": [
+                        75,
+                        98
+                    ],
+                    "url": "https://t.co/bH6yWoh7l1"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 16,
+        "favorited": false,
+        "geo": null,
+        "id": 720329268719460352,
+        "id_str": "720329268719460352",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 24,
+        "retweeted": false,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Facebook is building its own antennas so that more people can use Facebook https://t.co/bH6yWoh7l1 https://t.co/DXJ5BiFFg8",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Mar 29 20:40:39 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "We come from the future",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "gizmodo.com",
+                            "expanded_url": "http://gizmodo.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/TKRR4S1jOT"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 60,
+            "follow_request_sent": false,
+            "followers_count": 1786611,
+            "following": false,
+            "friends_count": 129,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 2890961,
+            "id_str": "2890961",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 43981,
+            "location": "",
+            "name": "Gizmodo",
+            "notifications": false,
+            "profile_background_color": "EDF6F8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/436934792/gizmodo-twitter-background-final.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/436934792/gizmodo-twitter-background-final.jpg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2890961/1434551436",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/590508740010348544/eS1F7mN5_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/590508740010348544/eS1F7mN5_normal.png",
+            "profile_link_color": "3697B3",
+            "profile_sidebar_border_color": "E9E9E9",
+            "profile_sidebar_fill_color": "E9E9E9",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Gizmodo",
+            "statuses_count": 51009,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/TKRR4S1jOT",
+            "utc_offset": -14400,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 720329268719460352,
+    "quoted_status_id_str": "720329268719460352",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook how about You Buy #Sprint and deploy new wild products  https://t.co/jepXoxr4jS",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 04 18:35:27 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Survivor of judgement day, faught at the hot gates against the persians and seldom prays to CROM..",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "amazon.com/wishlist/3CGAN\u2026",
+                        "expanded_url": "https://www.amazon.com/wishlist/3CGAN9SJW47LE/ref=cm_pdp_edit_image_submit_ok_wl",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/l7IpICqnQC"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 19,
+        "follow_request_sent": false,
+        "followers_count": 580,
+        "following": false,
+        "friends_count": 1343,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20077668,
+        "id_str": "20077668",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 28,
+        "location": "overland park, Kansas",
+        "name": "Bad Zack",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4251076/terminator21280x10244oq.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4251076/terminator21280x10244oq.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/75415433/terminator_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/75415433/terminator_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Terminator2366",
+        "statuses_count": 19688,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": "https://t.co/l7IpICqnQC",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 28 23:57:27 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 725836358460182528,
+    "id_str": "725836358460182528",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 725822655761256448,
+    "in_reply_to_status_id_str": "725822655761256448",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -112.0383105,
+                        40.6998952
+                    ],
+                    [
+                        -111.795741,
+                        40.6998952
+                    ],
+                    [
+                        -111.795741,
+                        40.8317151
+                    ],
+                    [
+                        -112.0383105,
+                        40.8317151
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Salt Lake City, UT",
+        "id": "bd7c511e9f8bc5da",
+        "name": "Salt Lake City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/bd7c511e9f8bc5da.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Might bring your employees up to speed on that. Unethical to charge the customer after they've been misinformed by your staff.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 15 18:11:01 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Actor, writer.  http://t.co/z6fql0zf7t",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "channingsargent.com",
+                        "expanded_url": "http://www.channingsargent.com",
+                        "indices": [
+                            16,
+                            38
+                        ],
+                        "url": "http://t.co/z6fql0zf7t"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "channingsargent.com",
+                        "expanded_url": "http://www.channingsargent.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/KIoc0wGpSW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 39,
+        "follow_request_sent": false,
+        "followers_count": 615,
+        "following": false,
+        "friends_count": 480,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14789510,
+        "id_str": "14789510",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 16,
+        "location": "",
+        "name": "Channing Sargent",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/74596096/wallpaper.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/74596096/wallpaper.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14789510/1402013844",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/691009518/ChanningDageuroOld_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/691009518/ChanningDageuroOld_normal.jpg",
+        "profile_link_color": "BF8B4F",
+        "profile_sidebar_border_color": "E8DFD0",
+        "profile_sidebar_fill_color": "E8DFD0",
+        "profile_text_color": "302E2E",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "channingsargent",
+        "statuses_count": 2442,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/KIoc0wGpSW",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

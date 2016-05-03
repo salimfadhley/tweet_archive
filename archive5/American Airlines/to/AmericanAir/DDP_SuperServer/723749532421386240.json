@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 23 05:45:09 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 723749532421386240,
+    "id_str": "723749532421386240",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 723721197649682432,
+    "in_reply_to_status_id_str": "723721197649682432",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir lost my bags. Officially crap",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 20 13:34:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Award winning Ethernet SAN shared storage for post-production & broadcast.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ddpsan.asia",
+                        "expanded_url": "http://www.ddpsan.asia",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Py7Xfzn1gx"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 104,
+        "follow_request_sent": false,
+        "followers_count": 125,
+        "following": false,
+        "friends_count": 52,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 106714551,
+        "id_str": "106714551",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "Japan",
+        "name": "DDP Super Server",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/78399904/ICON_room-1.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/78399904/ICON_room-1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106714551/1424996683",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/718347324204969985/hz8Kzgxo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/718347324204969985/hz8Kzgxo_normal.jpg",
+        "profile_link_color": "FFCC4D",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DDP_SuperServer",
+        "statuses_count": 511,
+        "time_zone": "Tokyo",
+        "url": "https://t.co/Py7Xfzn1gx",
+        "utc_offset": 32400,
+        "verified": false
+    }
+}

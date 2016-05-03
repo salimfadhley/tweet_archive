@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 26 15:03:49 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/9sMbxLgXDj",
+                "expanded_url": "http://twitter.com/njaguirre/status/713743264701136896/photo/1",
+                "id": 713743037374005248,
+                "id_str": "713743037374005248",
+                "indices": [
+                    44,
+                    67
+                ],
+                "media_url": "http://pbs.twimg.com/media/Cee5gsuWAAAQpjV.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cee5gsuWAAAQpjV.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 576,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 338,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 191,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/9sMbxLgXDj"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 713743264701136896,
+    "id_str": "713743264701136896",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -58.5317922,
+                        -34.674453
+                    ],
+                    [
+                        -58.353494,
+                        -34.674453
+                    ],
+                    [
+                        -58.353494,
+                        -34.534177
+                    ],
+                    [
+                        -58.5317922,
+                        -34.534177
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Argentina",
+        "country_code": "AR",
+        "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+        "id": "018f1cde6bad9747",
+        "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir Visto en la terminal 8 de JFK. https://t.co/9sMbxLgXDj",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 18 22:37:34 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "River Plate, Tenis y VIajes",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 234,
+        "follow_request_sent": false,
+        "followers_count": 75,
+        "following": false,
+        "friends_count": 332,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 145407737,
+        "id_str": "145407737",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 1,
+        "location": "Buenos Aires",
+        "name": "Norberto Aguirre",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/145407737/1421286963",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/555543591615877120/rMOUvkag_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/555543591615877120/rMOUvkag_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "njaguirre",
+        "statuses_count": 391,
+        "time_zone": "Buenos Aires",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 12 12:37:29 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    14,
+                    24
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 719867031571574784,
+    "id_str": "719867031571574784",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -46.821862,
+                        -23.607363
+                    ],
+                    [
+                        -46.747106,
+                        -23.607363
+                    ],
+                    [
+                        -46.747106,
+                        -23.459503
+                    ],
+                    [
+                        -46.821862,
+                        -23.459503
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Osasco, Brasil",
+        "id": "32e64dedd065063f",
+        "name": "Osasco",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/32e64dedd065063f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook and @Microsoft contratulations no pay gap between  gender is wonderful",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 11 11:37:59 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "IT Manager. Addict in music, games, tv series and animes... Nerd/Geek",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "expanded_url": null,
+                        "indices": [
+                            0,
+                            26
+                        ],
+                        "url": "http://www.magicorp.com.br"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 223,
+        "follow_request_sent": false,
+        "followers_count": 177,
+        "following": false,
+        "friends_count": 377,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 122038358,
+        "id_str": "122038358",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "Cotia / SP - Brasil",
+        "name": "Hugo Prudente",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/145375016/Abstract_Wallpapers__45_.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/145375016/Abstract_Wallpapers__45_.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/680386301661679616/dFK4xkOF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/680386301661679616/dFK4xkOF_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hugoprudente",
+        "statuses_count": 6720,
+        "time_zone": "Brasilia",
+        "url": "http://www.magicorp.com.br",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

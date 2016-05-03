@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 19 03:50:02 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 722271011085758468,
+    "id_str": "722271011085758468",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.137908,
+                        29.889574
+                    ],
+                    [
+                        -89.884108,
+                        29.889574
+                    ],
+                    [
+                        -89.884108,
+                        30.075628
+                    ],
+                    [
+                        -90.137908,
+                        30.075628
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "New Orleans, LA",
+        "id": "dd3b100831dd1763",
+        "name": "New Orleans",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/dd3b100831dd1763.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook Your Pages To Watch search function is badly broken. Entering exact name of Page doesn't turn it up in results.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 31 02:40:01 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Assassin. Filmmaker. Rake. Hero. Spatula. Armak. (Verified in my own mind.) W/D/P of @LaundryDayFilm",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ArmakProductions.com",
+                        "expanded_url": "http://www.ArmakProductions.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/jdU9lSzBk8"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5483,
+        "follow_request_sent": false,
+        "followers_count": 438,
+        "following": false,
+        "friends_count": 294,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 70286076,
+        "id_str": "70286076",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 57,
+        "location": "home: NOLA /work: LA/NY/Austin",
+        "name": "Randy Mack",
+        "notifications": false,
+        "profile_background_color": "990909",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000182273068/Q66hTL_J.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000182273068/Q66hTL_J.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/70286076/1454229678",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/693715229587300353/D0UgWsJl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/693715229587300353/D0UgWsJl_normal.jpg",
+        "profile_link_color": "073BBF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Armakk",
+        "statuses_count": 24199,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/jdU9lSzBk8",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

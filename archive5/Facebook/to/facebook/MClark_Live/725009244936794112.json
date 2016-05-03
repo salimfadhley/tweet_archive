@@ -1,0 +1,148 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 26 17:10:48 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "m.facebook.com/thisismarkclark",
+                "expanded_url": "https://m.facebook.com/thisismarkclark",
+                "indices": [
+                    17,
+                    40
+                ],
+                "url": "https://t.co/EAyWQZMbta"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 725009244936794112,
+    "id_str": "725009244936794112",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.137908,
+                        29.889574
+                    ],
+                    [
+                        -89.884108,
+                        29.889574
+                    ],
+                    [
+                        -89.884108,
+                        30.075628
+                    ],
+                    [
+                        -90.137908,
+                        30.075628
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "New Orleans, LA",
+        "id": "dd3b100831dd1763",
+        "name": "New Orleans",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/dd3b100831dd1763.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook --&gt; https://t.co/EAyWQZMbta",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 05 05:03:46 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Travel Guru, IPA Enthusiast, Taco Connoisseur,\nTour Manager for @snailmusic",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/thisismarkclark",
+                        "expanded_url": "https://facebook.com/thisismarkclark",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ILsSvLhDRY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 781,
+        "follow_request_sent": false,
+        "followers_count": 1031,
+        "following": false,
+        "friends_count": 446,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 368149969,
+        "id_str": "368149969",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 26,
+        "location": "Austin, TX ",
+        "name": "Mark Clark",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/368149969/1458799168",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/641339586744991748/bCotzcgE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/641339586744991748/bCotzcgE_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MClark_Live",
+        "statuses_count": 5035,
+        "time_zone": null,
+        "url": "https://t.co/ILsSvLhDRY",
+        "utc_offset": null,
+        "verified": false
+    }
+}

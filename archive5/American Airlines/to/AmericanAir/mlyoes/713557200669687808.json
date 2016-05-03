@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 26 02:44:28 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 713557200669687808,
+    "id_str": "713557200669687808",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 713547908067364865,
+    "in_reply_to_status_id_str": "713547908067364865",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -99.128294,
+                        19.4043522
+                    ],
+                    [
+                        -99.0473402,
+                        19.4043522
+                    ],
+                    [
+                        -99.0473402,
+                        19.459799
+                    ],
+                    [
+                        -99.128294,
+                        19.459799
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "M\u00e9xico",
+        "country_code": "MX",
+        "full_name": "Venustiano Carranza, Distrito Federal",
+        "id": "c7c2233ad8246f5d",
+        "name": "Venustiano Carranza",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c7c2233ad8246f5d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir our cats are at home with no one to feed",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 22 13:46:06 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Misreading instructions since the 90's. werk on \uf8ff formerly @lacma. (myoes on snapchat)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "amuse-i-d.vice.com/lacma-snapchat/",
+                        "expanded_url": "https://amuse-i-d.vice.com/lacma-snapchat/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/j2A42umKKy"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1606,
+        "follow_request_sent": false,
+        "followers_count": 980,
+        "following": false,
+        "friends_count": 609,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25818831,
+        "id_str": "25818831",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 43,
+        "location": "LA",
+        "name": "Maritza Lerman Yoes",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000071445831/f4b024910759c910adcc12d42818c31d.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000071445831/f4b024910759c910adcc12d42818c31d.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25818831/1398826444",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/448934475737477120/f6tCsjJj_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/448934475737477120/f6tCsjJj_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mlyoes",
+        "statuses_count": 2011,
+        "time_zone": "Arizona",
+        "url": "https://t.co/j2A42umKKy",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

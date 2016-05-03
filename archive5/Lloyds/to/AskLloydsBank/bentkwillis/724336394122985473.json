@@ -1,0 +1,176 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 24 20:37:08 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/C8B1gJFy8u",
+                "expanded_url": "http://twitter.com/bentkwillis/status/724336394122985473/photo/1",
+                "id": 724336376859123712,
+                "id_str": "724336376859123712",
+                "indices": [
+                    99,
+                    122
+                ],
+                "media_url": "http://pbs.twimg.com/media/Cg1cGNiU4AAdGXX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cg1cGNiU4AAdGXX.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/C8B1gJFy8u"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 147932302,
+                "id_str": "147932302",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Lloyds Bank",
+                "screen_name": "AskLloydsBank"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 724336394122985473,
+    "id_str": "724336394122985473",
+    "in_reply_to_screen_name": "AskLloydsBank",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 147932302,
+    "in_reply_to_user_id_str": "147932302",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -4.016039,
+                        51.77809
+                    ],
+                    [
+                        -3.960098,
+                        51.77809
+                    ],
+                    [
+                        -3.960098,
+                        51.805705
+                    ],
+                    [
+                        -4.016039,
+                        51.805705
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Ammanford, Wales",
+        "id": "077158cd94211ed4",
+        "name": "Ammanford",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/077158cd94211ed4.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AskLloydsBank I'd prefer to switch off these paper statements, but your site doesn't allow me to. https://t.co/C8B1gJFy8u",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 11 16:58:21 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Follow me and discover my latest interests! Computing student @ColegSirGar.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "benwillis.xyz",
+                        "expanded_url": "http://benwillis.xyz",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/RU5tv1cKPH"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8163,
+        "follow_request_sent": false,
+        "followers_count": 151,
+        "following": false,
+        "friends_count": 481,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 113402251,
+        "id_str": "113402251",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Wales, United Kingdom",
+        "name": "Benjamin Willis",
+        "notifications": false,
+        "profile_background_color": "89C4F4",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113402251/1390153610",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/695271521778970624/c135d5_S_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/695271521778970624/c135d5_S_normal.png",
+        "profile_link_color": "19B5FE",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bentkwillis",
+        "statuses_count": 2224,
+        "time_zone": "London",
+        "url": "https://t.co/RU5tv1cKPH",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

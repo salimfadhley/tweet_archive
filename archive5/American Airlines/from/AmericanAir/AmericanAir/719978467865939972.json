@@ -1,0 +1,322 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 12 20:00:17 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    42,
+                    49
+                ],
+                "text": "AATeam"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/philhagen/stat\u2026",
+                "expanded_url": "https://twitter.com/philhagen/status/716036350407913474",
+                "indices": [
+                    51,
+                    74
+                ],
+                "url": "https://t.co/fvtbR1e3ZV"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 26,
+    "favorited": false,
+    "geo": null,
+    "id": 719978467865939972,
+    "id_str": "719978467865939972",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.538285,
+                        32.569477
+                    ],
+                    [
+                        -97.033542,
+                        32.569477
+                    ],
+                    [
+                        -97.033542,
+                        32.990456
+                    ],
+                    [
+                        -97.538285,
+                        32.990456
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Fort Worth, TX",
+        "id": "42e46bc3663a4b5f",
+        "name": "Fort Worth",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/42e46bc3663a4b5f.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Apr 01 22:55:43 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/kEcTTbEgYH",
+                    "expanded_url": "http://twitter.com/PhilHagen/status/716036350407913474/photo/1",
+                    "id": 716036334951866368,
+                    "id_str": "716036334951866368",
+                    "indices": [
+                        108,
+                        131
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Ce_fQL8UIAAv-N5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Ce_fQL8UIAAv-N5.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1820,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 1067,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 604,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/kEcTTbEgYH"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 22536055,
+                    "id_str": "22536055",
+                    "indices": [
+                        34,
+                        46
+                    ],
+                    "name": "American Airlines",
+                    "screen_name": "AmericanAir"
+                }
+            ]
+        },
+        "favorite_count": 3,
+        "favorited": false,
+        "geo": null,
+        "id": 716036350407913474,
+        "id_str": "716036350407913474",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -75.313867,
+                            39.855915
+                        ],
+                        [
+                            -75.215819,
+                            39.855915
+                        ],
+                        [
+                            -75.215819,
+                            39.882522
+                        ],
+                        [
+                            -75.313867,
+                            39.882522
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Lester, PA",
+            "id": "005f17f27f43a1d7",
+            "name": "Lester",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/005f17f27f43a1d7.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Mad props and much respect to the @AmericanAir ground crew standing in a downpour to get us off the ground. https://t.co/kEcTTbEgYH",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Nov 17 02:18:36 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Infosec. Dad. Forensics. Craft beer. Technology. Running. Delaware. Irreverence. RT == I tapped the RT button.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "stuffphilwrites.com",
+                            "expanded_url": "http://stuffphilwrites.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/4CGFlcbm6v"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 2004,
+            "follow_request_sent": false,
+            "followers_count": 1937,
+            "following": false,
+            "friends_count": 962,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 17432164,
+            "id_str": "17432164",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 108,
+            "location": "Lewes, DE, USA",
+            "name": "Phil Hagen",
+            "notifications": false,
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3120495246/9d18aa7fa675259d23b78455713c889a_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3120495246/9d18aa7fa675259d23b78455713c889a_normal.jpeg",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "C6E2EE",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "PhilHagen",
+            "statuses_count": 12317,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/4CGFlcbm6v",
+            "utc_offset": -14400,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 716036350407913474,
+    "quoted_status_id_str": "716036350407913474",
+    "retweet_count": 10,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "We\u2019ve got your back. Rain or shine. \u2614\ufe0f\u2600\ufe0f\n\n#AATeam  https://t.co/fvtbR1e3ZV",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 02 21:23:05 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Thanks for checking in! We\u2019re here to offer advice and inspiration for your trip on American. Please click here if you require a formal response to a complaint:",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/AACR1",
+                        "expanded_url": "http://www.bit.ly/AACR1",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/hytC2LRHBG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4161,
+        "follow_request_sent": false,
+        "followers_count": 1291884,
+        "following": false,
+        "friends_count": 76091,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 22536055,
+        "id_str": "22536055",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10948,
+        "location": "",
+        "name": "American Airlines",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/657283133419618304/ooH8uxPG.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/657283133419618304/ooH8uxPG.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22536055/1452887311",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/693641838066925568/J1HtxX8O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/693641838066925568/J1HtxX8O_normal.jpg",
+        "profile_link_color": "276FC2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "BEC9D4",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AmericanAir",
+        "statuses_count": 1239985,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/hytC2LRHBG",
+        "utc_offset": -18000,
+        "verified": true
+    }
+}

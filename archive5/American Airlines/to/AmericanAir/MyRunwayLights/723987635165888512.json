@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 23 21:31:17 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 723987635165888512,
+    "id_str": "723987635165888512",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.924461,
+                        43.169377
+                    ],
+                    [
+                        -87.880739,
+                        43.169377
+                    ],
+                    [
+                        -87.880739,
+                        43.197712
+                    ],
+                    [
+                        -87.924461,
+                        43.197712
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Bayside, WI",
+        "id": "b188c3e1756abc80",
+        "name": "Bayside",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b188c3e1756abc80.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir I'm on a codeshare and I want to pay for seats. I already choose free ones and it won't let me change. Help!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 30 15:46:47 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Live to travel. Stand on new ground.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "thoserunwaylights.com",
+                        "expanded_url": "http://thoserunwaylights.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TJPFEL2Pij"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2,
+        "follow_request_sent": false,
+        "followers_count": 4,
+        "following": false,
+        "friends_count": 27,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2951366392,
+        "id_str": "2951366392",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "",
+        "name": "Those Runway Lights",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2951366392/1419958615",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/556526777141841920/vpc1KR2a_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/556526777141841920/vpc1KR2a_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MyRunwayLights",
+        "statuses_count": 75,
+        "time_zone": null,
+        "url": "http://t.co/TJPFEL2Pij",
+        "utc_offset": null,
+        "verified": false
+    }
+}

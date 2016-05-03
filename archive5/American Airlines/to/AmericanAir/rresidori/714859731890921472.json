@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 29 17:00:16 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 260907612,
+                "id_str": "260907612",
+                "indices": [
+                    50,
+                    57
+                ],
+                "name": "United",
+                "screen_name": "united"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 714859731890921472,
+    "id_str": "714859731890921472",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.674999,
+                        41.9760609
+                    ],
+                    [
+                        -87.647077,
+                        41.9760609
+                    ],
+                    [
+                        -87.647077,
+                        41.998378
+                    ],
+                    [
+                        -87.674999,
+                        41.998378
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Edgewater, Chicago",
+        "id": "31afdbc173c17f0c",
+        "name": "Edgewater",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/31afdbc173c17f0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@AmericanAir will you give me a status match from @united Silver?  I\u2019m ready to switch!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 15 02:20:42 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Former Ed Tech Manager for Chicago Public Schools.  Now a Senior Education Leader for Bright Bytes!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "brightbytes.net",
+                        "expanded_url": "http://brightbytes.net",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/0iC6dWDyE8"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 109,
+        "follow_request_sent": false,
+        "followers_count": 1097,
+        "following": false,
+        "friends_count": 1119,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 56895306,
+        "id_str": "56895306",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 52,
+        "location": "Chicago",
+        "name": "Rob Residori",
+        "notifications": false,
+        "profile_background_color": "C0DCF1",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440198849/x792455f50b2b0403ad68d9b726d367e.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440198849/x792455f50b2b0403ad68d9b726d367e.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/56895306/1400128972",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1137888798/33527_423147569627_801159627_4563446_492678_n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137888798/33527_423147569627_801159627_4563446_492678_n_normal.jpg",
+        "profile_link_color": "5C91B9",
+        "profile_sidebar_border_color": "C0DCF1",
+        "profile_sidebar_fill_color": "1C1C1C",
+        "profile_text_color": "C0DCF1",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rresidori",
+        "statuses_count": 1839,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/0iC6dWDyE8",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

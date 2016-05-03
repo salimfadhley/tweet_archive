@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 05 01:59:05 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HP25fOVdWb",
+                "expanded_url": "http://twitter.com/ascallilar/status/717169659829698561/photo/1",
+                "id": 717169645703335936,
+                "id_str": "717169645703335936",
+                "indices": [
+                    19,
+                    42
+                ],
+                "media_url": "http://pbs.twimg.com/media/CfPl_jfXEAAYaJ1.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CfPl_jfXEAAYaJ1.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1820,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 1067,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 604,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/HP25fOVdWb"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 717169659829698561,
+    "id_str": "717169659829698561",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        30.7499647,
+                        36.8454061
+                    ],
+                    [
+                        30.9276801,
+                        36.8454061
+                    ],
+                    [
+                        30.9276801,
+                        37.2309782
+                    ],
+                    [
+                        30.7499647,
+                        37.2309782
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "T\u00fcrkiye",
+        "country_code": "TR",
+        "full_name": "Aksu, Antalya",
+        "id": "7f9747f9010713fe",
+        "name": "Aksu",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7f9747f9010713fe.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook  answer? https://t.co/HP25fOVdWb",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 28 12:07:16 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 119,
+        "follow_request_sent": false,
+        "followers_count": 85,
+        "following": false,
+        "friends_count": 102,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 244054590,
+        "id_str": "244054590",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "tr",
+        "listed_count": 0,
+        "location": "\u0130stanbul, T\u00fcrkiye",
+        "name": "ASC",
+        "notifications": false,
+        "profile_background_color": "BA1C88",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/692258675/c5e0c98bfd22e46dc08d91784bbe12c1.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/692258675/c5e0c98bfd22e46dc08d91784bbe12c1.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/244054590/1459171437",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/714442909710422016/W-2dQd_P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/714442909710422016/W-2dQd_P_normal.jpg",
+        "profile_link_color": "19DFE6",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ascallilar",
+        "statuses_count": 918,
+        "time_zone": "Istanbul",
+        "url": null,
+        "utc_offset": 10800,
+        "verified": false
+    }
+}

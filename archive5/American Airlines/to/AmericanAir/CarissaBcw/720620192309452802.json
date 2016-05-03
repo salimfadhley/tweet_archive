@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 14 14:30:16 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 720620192309452802,
+    "id_str": "720620192309452802",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 720618586042052609,
+    "in_reply_to_status_id_str": "720618586042052609",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -111.894548,
+                        33.306275
+                    ],
+                    [
+                        -111.5805834,
+                        33.306275
+                    ],
+                    [
+                        -111.5805834,
+                        33.505234
+                    ],
+                    [
+                        -111.894548,
+                        33.505234
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Mesa, AZ",
+        "id": "44d207663001f00b",
+        "name": "Mesa",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/44d207663001f00b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir thank you!!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 27 03:07:14 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Breathe & smile!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1011,
+        "follow_request_sent": false,
+        "followers_count": 138,
+        "following": false,
+        "friends_count": 412,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 26935039,
+        "id_str": "26935039",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Arizona",
+        "name": "Trinity",
+        "notifications": false,
+        "profile_background_color": "F5ABB5",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6830155/trinity.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6830155/trinity.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26935039/1460057227",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/711236723963875330/dSvZ4BwQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/711236723963875330/dSvZ4BwQ_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CarissaBcw",
+        "statuses_count": 2113,
+        "time_zone": "Arizona",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

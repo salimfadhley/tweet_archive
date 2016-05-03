@@ -1,0 +1,172 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 13 14:37:25 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    86,
+                    95
+                ],
+                "text": "facebook"
+            },
+            {
+                "indices": [
+                    96,
+                    103
+                ],
+                "text": "F82016"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "goo.gl/U3j66C",
+                "expanded_url": "http://goo.gl/U3j66C",
+                "indices": [
+                    47,
+                    70
+                ],
+                "url": "https://t.co/y5OY8bP6dX"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 1369761469,
+                "id_str": "1369761469",
+                "indices": [
+                    76,
+                    85
+                ],
+                "name": "inshorts",
+                "screen_name": "inshorts"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 720259601350795269,
+    "id_str": "720259601350795269",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        72.74484,
+                        18.845343
+                    ],
+                    [
+                        73.003648,
+                        18.845343
+                    ],
+                    [
+                        73.003648,
+                        19.502937
+                    ],
+                    [
+                        72.74484,
+                        19.502937
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u092d\u093e\u0930\u0924",
+        "country_code": "IN",
+        "full_name": "Mumbai, India",
+        "id": "7929cea6bd5b32bd",
+        "name": "Mumbai",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook  launches bot platform for Messenger\nhttps://t.co/y5OY8bP6dX\n-via @inshorts\n#facebook\n#F82016",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 30 13:05:28 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/puneetaryame",
+                        "expanded_url": "http://twitter.com/puneetaryame",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/DsYpQ4C0J3"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 15,
+        "follow_request_sent": false,
+        "followers_count": 48,
+        "following": false,
+        "friends_count": 233,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1392024056,
+        "id_str": "1392024056",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 17,
+        "location": "Mumbai, Maharashtra",
+        "name": "Puneet Arya",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/676332168998551552/_I1zN20Y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/676332168998551552/_I1zN20Y_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "PuneetAryaMe",
+        "statuses_count": 145,
+        "time_zone": "Chennai",
+        "url": "https://t.co/DsYpQ4C0J3",
+        "utc_offset": 19800,
+        "verified": false
+    }
+}

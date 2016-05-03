@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 22 04:25:08 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/2yP7qxcBQw",
+                "expanded_url": "http://twitter.com/kadubona2/status/723367004401324034/photo/1",
+                "id": 723367002119671809,
+                "id_str": "723367002119671809",
+                "indices": [
+                    40,
+                    63
+                ],
+                "media_url": "http://pbs.twimg.com/media/CgnqdLOVEAEjp7v.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CgnqdLOVEAEjp7v.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 598,
+                        "resize": "fit",
+                        "w": 720
+                    },
+                    "medium": {
+                        "h": 498,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 282,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/2yP7qxcBQw"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 723367004401324034,
+    "id_str": "723367004401324034",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "pt",
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -46.826039,
+                        -24.008814
+                    ],
+                    [
+                        -46.365052,
+                        -24.008814
+                    ],
+                    [
+                        -46.365052,
+                        -23.356792
+                    ],
+                    [
+                        -46.826039,
+                        -23.356792
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Sao Paulo, Brazil",
+        "id": "68e019afec7d0ba5",
+        "name": "Sao Paulo",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook Por isso eu prefiro o Twitter https://t.co/2yP7qxcBQw",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 28 14:54:07 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 745,
+        "follow_request_sent": false,
+        "followers_count": 130,
+        "following": false,
+        "friends_count": 68,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2157300363,
+        "id_str": "2157300363",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 12,
+        "location": "S\u00e3o Paulo, Brasil",
+        "name": "Eduardo Bona",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2157300363/1449085860",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/600462587801837568/wdwRXT21_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/600462587801837568/wdwRXT21_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kadubona2",
+        "statuses_count": 11810,
+        "time_zone": "Tijuana",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

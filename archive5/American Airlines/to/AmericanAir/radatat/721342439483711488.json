@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 16 14:20:14 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    13,
+                    19
+                ],
+                "text": "Kudos"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 721342439483711488,
+    "id_str": "721342439483711488",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 721337127594659840,
+    "in_reply_to_status_id_str": "721337127594659840",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir #Kudos to that agent, I wish I'd gotten his name. He clearly knows great customer service! Made it to gate with 15 min.,phew!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 09 18:50:35 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "oh, hey. i didn't see you there.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 135,
+        "follow_request_sent": false,
+        "followers_count": 145,
+        "following": false,
+        "friends_count": 220,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 23479527,
+        "id_str": "23479527",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "chicago, illinois",
+        "name": "Laura Radcliffe",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23479527/1454250274",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3166565601/89b8bd31872649913a4ec7a1064f8634_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3166565601/89b8bd31872649913a4ec7a1064f8634_normal.jpeg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "radatat",
+        "statuses_count": 1187,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 08 03:24:57 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 130933196,
+                "id_str": "130933196",
+                "indices": [
+                    23,
+                    34
+                ],
+                "name": "MWAA",
+                "screen_name": "dcairports"
+            },
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    59,
+                    71
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 718278428730990593,
+    "id_str": "718278428730990593",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 718278263089532928,
+    "in_reply_to_status_id_str": "718278263089532928",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.172219,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.934311
+                    ],
+                    [
+                        -77.172219,
+                        38.934311
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Arlington, VA",
+        "id": "319ee7b36c9149da",
+        "name": "Arlington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir I believe @dcairports is having a comp issue. @AmericanAir doesn't have a crew here. We have been waiting for almost 4 hours",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 24 03:54:09 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 259,
+        "follow_request_sent": false,
+        "followers_count": 494,
+        "following": false,
+        "friends_count": 576,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 34839688,
+        "id_str": "34839688",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Washington, DC",
+        "name": "Scott Love",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168791302/NEfDD9qx.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168791302/NEfDD9qx.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/34839688/1425044955",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/559514681082408960/nKNC825f_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/559514681082408960/nKNC825f_normal.jpeg",
+        "profile_link_color": "287ECC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "00427E",
+        "profile_text_color": "949494",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ScottLLove",
+        "statuses_count": 1655,
+        "time_zone": "Indiana (East)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

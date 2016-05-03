@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 30 22:47:07 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/uzuJ9XyMkI",
+                "expanded_url": "http://twitter.com/gbeaufait/status/715309409182871552/photo/1",
+                "id": 715309395555389441,
+                "id_str": "715309395555389441",
+                "indices": [
+                    27,
+                    50
+                ],
+                "media_url": "http://pbs.twimg.com/media/Ce1KGvqUEAEFKZG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Ce1KGvqUEAEFKZG.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1365,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/uzuJ9XyMkI"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 715309409182871552,
+    "id_str": "715309409182871552",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -86.348441,
+                        39.631677
+                    ],
+                    [
+                        -85.937404,
+                        39.631677
+                    ],
+                    [
+                        -85.937404,
+                        39.927448
+                    ],
+                    [
+                        -86.348441,
+                        39.927448
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Indianapolis, IN",
+        "id": "018929347840059e",
+        "name": "Indianapolis",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/018929347840059e.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir you go first. https://t.co/uzuJ9XyMkI",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 25 18:15:22 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@Creighton University Heider College of Business Graduate, Associate @dundeevc. Excited by startups, learning, and traveling.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 663,
+        "follow_request_sent": false,
+        "followers_count": 410,
+        "following": false,
+        "friends_count": 534,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 219729836,
+        "id_str": "219729836",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "",
+        "name": "Greg Beaufait",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/453911984086343682/zrPImIbg_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/453911984086343682/zrPImIbg_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gbeaufait",
+        "statuses_count": 679,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

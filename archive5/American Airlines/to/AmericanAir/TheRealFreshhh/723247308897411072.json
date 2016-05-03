@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 21 20:29:30 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 6449282,
+                "id_str": "6449282",
+                "indices": [
+                    52,
+                    60
+                ],
+                "name": "JetBlue Airways",
+                "screen_name": "JetBlue"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 723247308897411072,
+    "id_str": "723247308897411072",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 723245446009769984,
+    "in_reply_to_status_id_str": "723245446009769984",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.375805,
+                        28.567893
+                    ],
+                    [
+                        -81.307654,
+                        28.567893
+                    ],
+                    [
+                        -81.307654,
+                        28.632478
+                    ],
+                    [
+                        -81.375805,
+                        28.632478
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Winter Park, FL",
+        "id": "c87bc3adb59d807f",
+        "name": "Winter Park",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c87bc3adb59d807f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir rather not this stuff never Happens on @JetBlue I think I know where I'll be going back to.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 10 15:38:09 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#TheRealFresh is O U T ! Link - https://t.co/MPIo5FrMcV",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1KOmZBR",
+                        "expanded_url": "http://bit.ly/1KOmZBR",
+                        "indices": [
+                            32,
+                            55
+                        ],
+                        "url": "https://t.co/MPIo5FrMcV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 655,
+        "follow_request_sent": false,
+        "followers_count": 237,
+        "following": false,
+        "friends_count": 133,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2870698041,
+        "id_str": "2870698041",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Orlando, FL",
+        "name": "FRESH",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2870698041/1446346027",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/660651226200203264/Vsf9gBAA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/660651226200203264/Vsf9gBAA_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TheRealFreshhh",
+        "statuses_count": 1777,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

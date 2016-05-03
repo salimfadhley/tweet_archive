@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 09 22:49:56 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 718933994130116611,
+    "id_str": "718933994130116611",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": 718206244213751808,
+    "in_reply_to_status_id_str": "718206244213751808",
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -93.709504,
+                        41.501409
+                    ],
+                    [
+                        -93.503235,
+                        41.501409
+                    ],
+                    [
+                        -93.503235,
+                        41.6514656
+                    ],
+                    [
+                        -93.709504,
+                        41.6514656
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Des Moines, IA",
+        "id": "1c67f9d9cbae7f69",
+        "name": "Des Moines",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1c67f9d9cbae7f69.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AppStore EVERYONE'S favorite assistant??   Cmon",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 30 20:20:10 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Born n raised in IOWA",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "diamondmind50.blogspot.com",
+                        "expanded_url": "http://diamondmind50.blogspot.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/7kiD4tXTd0"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 540,
+        "follow_request_sent": false,
+        "followers_count": 611,
+        "following": false,
+        "friends_count": 171,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 78698761,
+        "id_str": "78698761",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 85,
+        "location": "Des Moines, United States",
+        "name": "BD",
+        "notifications": false,
+        "profile_background_color": "080808",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/123225564/xf1855132f514ffb4c6047f4d9f828bc.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/123225564/xf1855132f514ffb4c6047f4d9f828bc.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2707604806/08cd7d491b9db9d7751153f0c792e9ab_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2707604806/08cd7d491b9db9d7751153f0c792e9ab_normal.jpeg",
+        "profile_link_color": "ED201D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "0F0F0F",
+        "profile_text_color": "33DE18",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "diamondmind50",
+        "statuses_count": 281617,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/7kiD4tXTd0",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 23 19:12:26 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 723952689927725057,
+    "id_str": "723952689927725057",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Your staff was rude to me when I asked for help &amp; then made fun of me to another staff member and laughed at me in front of me",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 11 16:50:59 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "99.9% of my tweets are Republican related. America is too great for small dreams.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/kishapatel",
+                        "expanded_url": "http://facebook.com/kishapatel",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/aEAuGWGQcI"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2502,
+        "follow_request_sent": false,
+        "followers_count": 412,
+        "following": false,
+        "friends_count": 731,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 64763838,
+        "id_str": "64763838",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "38.8977 N, 77.0366 W",
+        "name": "Kisha Patel",
+        "notifications": false,
+        "profile_background_color": "6AB6C3",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/703488676/80e92ceb80283ba38086193a890cd109.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/703488676/80e92ceb80283ba38086193a890cd109.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/64763838/1444444256",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/652671039831429120/E51USnmN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/652671039831429120/E51USnmN_normal.jpg",
+        "profile_link_color": "7FA1C6",
+        "profile_sidebar_border_color": "543A81",
+        "profile_sidebar_fill_color": "7164B9",
+        "profile_text_color": "9762E3",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kishapatel",
+        "statuses_count": 19937,
+        "time_zone": "Quito",
+        "url": "http://t.co/aEAuGWGQcI",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

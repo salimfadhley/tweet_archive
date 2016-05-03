@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 25 11:07:46 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 713321470517252096,
+    "id_str": "713321470517252096",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir if I flying on a flight with a AA code but operated by BA do I get the Milage id normally get from the aa flight?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 10 15:58:31 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "benrayner.com",
+                        "expanded_url": "http://www.benrayner.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/FemY55ld1I"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3913,
+        "follow_request_sent": false,
+        "followers_count": 2647,
+        "following": false,
+        "friends_count": 870,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18837563,
+        "id_str": "18837563",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 54,
+        "location": "new york / photographer ",
+        "name": "Ben Rayner",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3853545/16.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3853545/16.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18837563/1362537774",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/448276067561005057/VMnXfnxe_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/448276067561005057/VMnXfnxe_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "benrayner",
+        "statuses_count": 433,
+        "time_zone": "London",
+        "url": "http://t.co/FemY55ld1I",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

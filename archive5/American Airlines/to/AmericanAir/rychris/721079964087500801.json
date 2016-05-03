@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 15 20:57:15 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 721079964087500801,
+    "id_str": "721079964087500801",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 715301413887160321,
+    "in_reply_to_status_id_str": "715301413887160321",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.041878,
+                        40.570842
+                    ],
+                    [
+                        -73.855673,
+                        40.570842
+                    ],
+                    [
+                        -73.855673,
+                        40.739434
+                    ],
+                    [
+                        -74.041878,
+                        40.739434
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Brooklyn, NY",
+        "id": "011add077f4d2da3",
+        "name": "Brooklyn",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir 2+ weeks and counting! Still no response! So you know, I've since purchased 3 tix on other airlines because of this issue.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 06 22:26:13 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "a living library of useless information.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "rychris.tumblr.com",
+                        "expanded_url": "http://rychris.tumblr.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/13MvUHeLjt"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 63,
+        "follow_request_sent": false,
+        "followers_count": 263,
+        "following": false,
+        "friends_count": 486,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 23128329,
+        "id_str": "23128329",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "New York, NY",
+        "name": "Ryan Christopher",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2187605624/563341_10101211726028355_23417999_63931321_2097528921_n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2187605624/563341_10101211726028355_23417999_63931321_2097528921_n_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rychris",
+        "statuses_count": 1048,
+        "time_zone": "Tehran",
+        "url": "http://t.co/13MvUHeLjt",
+        "utc_offset": 16200,
+        "verified": false
+    }
+}

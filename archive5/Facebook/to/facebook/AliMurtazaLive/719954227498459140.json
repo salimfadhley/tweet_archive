@@ -1,0 +1,290 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 12 18:23:58 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/SaadGH/status/\u2026",
+                "expanded_url": "https://twitter.com/SaadGH/status/719943587929133056",
+                "indices": [
+                    27,
+                    50
+                ],
+                "url": "https://t.co/ce7UpAvzxJ"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 719954227498459140,
+    "id_str": "719954227498459140",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Apr 12 17:41:41 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        100,
+                        103
+                    ],
+                    "text": "F8"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/tfAG3t8VaM",
+                    "expanded_url": "http://twitter.com/SaadGH/status/719943587929133056/photo/1",
+                    "id": 719943584791805952,
+                    "id_str": "719943584791805952",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Cf3A4D3WQAA7s01.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Cf3A4D3WQAA7s01.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 515,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 302,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 171,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/tfAG3t8VaM"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 5,
+        "favorited": false,
+        "geo": null,
+        "id": 719943587929133056,
+        "id_str": "719943587929133056",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            69.328873,
+                            27.708226
+                        ],
+                        [
+                            75.382124,
+                            27.708226
+                        ],
+                        [
+                            75.382124,
+                            34.019989
+                        ],
+                        [
+                            69.328873,
+                            34.019989
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
+            "country_code": "PK",
+            "full_name": "Punjab, Pakistan",
+            "id": "00cc0d5640394308",
+            "name": "Punjab",
+            "place_type": "admin",
+            "url": "https://api.twitter.com/1.1/geo/id/00cc0d5640394308.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Facebook's 10 year vision is no longer about building apps but about building exponential platforms #F8 https://t.co/tfAG3t8VaM",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon May 07 16:52:05 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Digital Evangelist & Community Mobilizer. @Acumen Fellow. Also affiliated w/ @GlobalShapers @TEDxIslamabad @Invest2Innovate @GDG @IDEOorg @GoogleDevExpert",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "saadhamid.com",
+                            "expanded_url": "http://saadhamid.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/SactczZ088"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 3563,
+            "follow_request_sent": false,
+            "followers_count": 8309,
+            "following": false,
+            "friends_count": 418,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 5837722,
+            "id_str": "5837722",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 211,
+            "location": "Islamabad, Pakistan",
+            "name": "Saad Hamid",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5837722/1404132363",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/685703065970724864/fO8Bq9cn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/685703065970724864/fO8Bq9cn_normal.jpg",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "SaadGH",
+            "statuses_count": 42298,
+            "time_zone": "Islamabad",
+            "url": "https://t.co/SactczZ088",
+            "utc_offset": 18000,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 719943587929133056,
+    "quoted_status_id_str": "719943587929133056",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook's 10 year vision https://t.co/ce7UpAvzxJ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 28 07:34:01 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Curator @TEDxUOG, Founder @HumansofUog, Founder @Lafz15, Content Writer, Tech Freak, Entrepreneur and a little dreamer!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/ali_murtaza",
+                        "expanded_url": "https://about.me/ali_murtaza",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/4Lcx9e6Ew8"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 640,
+        "follow_request_sent": false,
+        "followers_count": 505,
+        "following": false,
+        "friends_count": 674,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1627296204,
+        "id_str": "1627296204",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 20,
+        "location": "Lahore, Pakistan",
+        "name": "Ali Murtaza",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/474816764987977728/J0d4Ap_o.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/474816764987977728/J0d4Ap_o.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1627296204/1456860091",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/711513339877335040/u0YzXnn3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/711513339877335040/u0YzXnn3_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "0E0E0E",
+        "profile_text_color": "4A66C1",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "AliMurtazaLive",
+        "statuses_count": 1969,
+        "time_zone": "Karachi",
+        "url": "https://t.co/4Lcx9e6Ew8",
+        "utc_offset": 18000,
+        "verified": false
+    }
+}

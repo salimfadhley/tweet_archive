@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 21 19:46:17 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    10,
+                    20
+                ],
+                "text": "Messenger"
+            },
+            {
+                "indices": [
+                    37,
+                    41
+                ],
+                "text": "app"
+            },
+            {
+                "indices": [
+                    81,
+                    86
+                ],
+                "text": "RRSS"
+            },
+            {
+                "indices": [
+                    87,
+                    97
+                ],
+                "text": "marketing"
+            },
+            {
+                "indices": [
+                    98,
+                    109
+                ],
+                "text": "publicidad"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 723236433780195328,
+    "id_str": "723236433780195328",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.7613175,
+                        40.266415
+                    ],
+                    [
+                        -3.5700163,
+                        40.266415
+                    ],
+                    [
+                        -3.5700163,
+                        40.3346858
+                    ],
+                    [
+                        -3.7613175,
+                        40.3346858
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Espa\u00f1a",
+        "country_code": "ES",
+        "full_name": "Getafe, Spain",
+        "id": "3a9c654a445000f6",
+        "name": "Getafe",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3a9c654a445000f6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Facebook #Messenger incorpora en su #app llamadas grupales de hasta 50 usuarios #RRSS #marketing #publicidad",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 23 22:46:42 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Advertising, Marketing, Digital Mk and Public Relations",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "haveabrandandsmile.com",
+                        "expanded_url": "http://www.haveabrandandsmile.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/3duFeR9c50"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 13,
+        "follow_request_sent": false,
+        "followers_count": 260,
+        "following": false,
+        "friends_count": 229,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 256708088,
+        "id_str": "256708088",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 68,
+        "location": "Made in Madrid (Spain)",
+        "name": "Alvaro Maffei",
+        "notifications": false,
+        "profile_background_color": "BABAB4",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/876757549/af76e3e6685158c509ae3cb5538816a7.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/876757549/af76e3e6685158c509ae3cb5538816a7.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/256708088/1348255677",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/516883550604259328/mhBlOaj2_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/516883550604259328/mhBlOaj2_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "maffeialvaro",
+        "statuses_count": 3514,
+        "time_zone": "Madrid",
+        "url": "https://t.co/3duFeR9c50",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

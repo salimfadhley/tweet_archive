@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 27 15:18:22 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    86,
+                    98
+                ],
+                "text": "frustrating"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 725343337260146688,
+    "id_str": "725343337260146688",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook suspended my account but they are still emailing me my weekly page updates. #frustrating",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 24 17:00:00 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Burlesque performer, @NerdlesqueFest & @soi128 producer, Miss @ConeyIslandUSA VP, @nerdyshow gamer, @twptown artist, @SchoolOfBurlesk minion, general weirdo",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ILoveLefty.com",
+                        "expanded_url": "http://ILoveLefty.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/vMnbE2sYE7"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2625,
+        "follow_request_sent": false,
+        "followers_count": 2255,
+        "following": false,
+        "friends_count": 1061,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 108045076,
+        "id_str": "108045076",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 48,
+        "location": "Brooklyn, NY",
+        "name": "Lefty Lucy",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000087630783/4bb406122795d668448ff83b6d85041f.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000087630783/4bb406122795d668448ff83b6d85041f.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/108045076/1459884490",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/724410865588551680/Kvsj8oF9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/724410865588551680/Kvsj8oF9_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LeftyLucyNY",
+        "statuses_count": 12090,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/vMnbE2sYE7",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

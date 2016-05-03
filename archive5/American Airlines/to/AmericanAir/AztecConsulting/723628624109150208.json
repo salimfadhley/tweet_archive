@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 22 21:44:43 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 14262772,
+                "id_str": "14262772",
+                "indices": [
+                    13,
+                    27
+                ],
+                "name": "Marsha Collier",
+                "screen_name": "MarshaCollier"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 723628624109150208,
+    "id_str": "723628624109150208",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 723626677377474561,
+    "in_reply_to_status_id_str": "723626677377474561",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.129669,
+                        32.8785707
+                    ],
+                    [
+                        -97.029639,
+                        32.8785707
+                    ],
+                    [
+                        -97.029639,
+                        32.985097
+                    ],
+                    [
+                        -97.129669,
+                        32.985097
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Grapevine, TX",
+        "id": "352cf4e7314da0b4",
+        "name": "Grapevine",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/352cf4e7314da0b4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir @MarshaCollier ha!  I should go wave from the unsecured side of the glass windows as you rush by!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 23 04:59:36 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Empowering Internal Communications for a little start-up named @GameStop | On two boards for the City of Hurst | Community Manager, etc | Tweets are my own",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/AztecConsulting",
+                        "expanded_url": "http://about.me/AztecConsulting",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/lH6updrPny"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4147,
+        "follow_request_sent": false,
+        "followers_count": 1645,
+        "following": false,
+        "friends_count": 2168,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 5421872,
+        "id_str": "5421872",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 138,
+        "location": "Hurst, Tx",
+        "name": "Jeffrey.Aztec.Barnes",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5421872/1398320748",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/714180775655120897/olyz6Y6F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/714180775655120897/olyz6Y6F_normal.jpg",
+        "profile_link_color": "E80000",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AztecConsulting",
+        "statuses_count": 24086,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/lH6updrPny",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

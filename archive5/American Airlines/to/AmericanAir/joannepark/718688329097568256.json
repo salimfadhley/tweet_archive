@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 09 06:33:44 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 16415006,
+                "id_str": "16415006",
+                "indices": [
+                    81,
+                    90
+                ],
+                "name": "Cait Hood",
+                "screen_name": "caithood"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 718688329097568256,
+    "id_str": "718688329097568256",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 718686711367081984,
+    "in_reply_to_status_id_str": "718686711367081984",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter for  iPhone</a>",
+    "text": "@AmericanAir then why are we now stuck in a shuttle unable to get to the gate??? @caithood",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 11 05:00:45 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "TV Partnerships tweep @twitter. Previously @NBC. Mom, spoiled wife and passionate TV watcher. Shopping is my sport.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3614,
+        "follow_request_sent": false,
+        "followers_count": 946,
+        "following": false,
+        "friends_count": 1160,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 73313504,
+        "id_str": "73313504",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 22,
+        "location": "",
+        "name": "Joanne Park",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/73313504/1411226779",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/606142629957361665/Np-yauXT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/606142629957361665/Np-yauXT_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "joannepark",
+        "statuses_count": 1179,
+        "time_zone": "Tijuana",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

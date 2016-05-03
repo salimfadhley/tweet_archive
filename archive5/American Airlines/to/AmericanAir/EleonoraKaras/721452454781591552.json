@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 16 21:37:23 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    101,
+                    110
+                ],
+                "text": "worrying"
+            },
+            {
+                "indices": [
+                    111,
+                    124
+                ],
+                "text": "disappointed"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 721452454781591552,
+    "id_str": "721452454781591552",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.7845230102539,
+                        40.645089355976346
+                    ],
+                    [
+                        -73.7845230102539,
+                        40.645089355976346
+                    ],
+                    [
+                        -73.7845230102539,
+                        40.645089355976346
+                    ],
+                    [
+                        -73.7845230102539,
+                        40.645089355976346
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "John F. Kennedy International Airport (JFK)",
+        "id": "07d9d215b0886001",
+        "name": "John F. Kennedy International Airport (JFK)",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9d215b0886001.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir international check-in: difficult, time-consuming, staff apathetic, and TOTALLY UNSAFE! #worrying #disappointed",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 10 02:57:28 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Marketer | Diverse & Multinational | Greek in NY | Innately Curious | Dreamer | Background: #PepsiCo, #LOreal, #UniversalMusic...",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/eleonorakar\u2026",
+                        "expanded_url": "http://www.linkedin.com/in/eleonorakarastergiou/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/OzWYe79Rod"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 495,
+        "follow_request_sent": false,
+        "followers_count": 319,
+        "following": false,
+        "friends_count": 522,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1075507286,
+        "id_str": "1075507286",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 35,
+        "location": "New York",
+        "name": "Eleonora K",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000085172163/bd933af767769d2e87caf79effb26315.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000085172163/bd933af767769d2e87caf79effb26315.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1075507286/1410397370",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3262067681/9eda7f76ef885508cea30854ae24474a_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3262067681/9eda7f76ef885508cea30854ae24474a_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "EleonoraKaras",
+        "statuses_count": 834,
+        "time_zone": null,
+        "url": "http://t.co/OzWYe79Rod",
+        "utc_offset": null,
+        "verified": false
+    }
+}

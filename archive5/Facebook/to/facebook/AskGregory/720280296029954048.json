@@ -1,0 +1,287 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 13 15:59:39 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/TodayMoneyweb/\u2026",
+                "expanded_url": "https://twitter.com/TodayMoneyweb/status/720248443935952897",
+                "indices": [
+                    46,
+                    69
+                ],
+                "url": "https://t.co/4eOtGDgrJ0"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 720280296029954048,
+    "id_str": "720280296029954048",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        27.9483035,
+                        -25.9157727
+                    ],
+                    [
+                        28.4198285,
+                        -25.9157727
+                    ],
+                    [
+                        28.4198285,
+                        -25.5894376
+                    ],
+                    [
+                        27.9483035,
+                        -25.5894376
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "South Africa",
+        "country_code": "ZA",
+        "full_name": "Pretoria, South Africa",
+        "id": "0e587c59401d0a27",
+        "name": "Pretoria",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0e587c59401d0a27.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Apr 13 13:53:05 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        5,
+                        12
+                    ],
+                    "text": "stocks"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Gdfb8iPZFe",
+                    "expanded_url": "http://twitter.com/TodayMoneyweb/status/720248443935952897/photo/1",
+                    "id": 720172102666555392,
+                    "id_str": "720172102666555392",
+                    "indices": [
+                        55,
+                        78
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Cf6QtjSWEAAbWW4.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Cf6QtjSWEAAbWW4.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 364,
+                            "resize": "fit",
+                            "w": 555
+                        },
+                        "medium": {
+                            "h": 364,
+                            "resize": "fit",
+                            "w": 555
+                        },
+                        "small": {
+                            "h": 223,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/Gdfb8iPZFe"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "bit.ly/25ZgbQb",
+                    "expanded_url": "http://bit.ly/25ZgbQb",
+                    "indices": [
+                        31,
+                        54
+                    ],
+                    "url": "https://t.co/U5Y94VDN4s"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "geo": null,
+        "id": 720248443935952897,
+        "id_str": "720248443935952897",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Tech #stocks: Flying too high? https://t.co/U5Y94VDN4s https://t.co/Gdfb8iPZFe",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Mar 23 13:01:59 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Your daily source of the latest business, financial and investment news. Sign up for your daily personalised newspaper on our website. RTs are not endorsements",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "today.moneyweb.co.za",
+                            "expanded_url": "http://www.today.moneyweb.co.za",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/6HMEKZ1ymc"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 157,
+            "follow_request_sent": false,
+            "followers_count": 1348,
+            "following": false,
+            "friends_count": 837,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 3107525247,
+            "id_str": "3107525247",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 40,
+            "location": "",
+            "name": "Moneyweb Today",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3107525247/1442930228",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/646322289579941888/57K2M0-L_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/646322289579941888/57K2M0-L_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "TodayMoneyweb",
+            "statuses_count": 4206,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/6HMEKZ1ymc",
+            "utc_offset": -25200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 720248443935952897,
+    "quoted_status_id_str": "720248443935952897",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook off to space, too high? \nCan't be.. https://t.co/4eOtGDgrJ0",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 27 11:15:13 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Agriculture, Civil & Structural Engineering, Mega Power & Water Projects, Economics, Politics, Entrepreneur & Critic.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4552,
+        "follow_request_sent": false,
+        "followers_count": 2319,
+        "following": false,
+        "friends_count": 4065,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 35718388,
+        "id_str": "35718388",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 84,
+        "location": "Pretoria, South Africa",
+        "name": "Gregory Harington",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/35718388/1435505093",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/715616937657638913/Gi2P_KDc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/715616937657638913/Gi2P_KDc_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AskGregory",
+        "statuses_count": 46388,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 13 21:01:38 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 720356291219230721,
+    "id_str": "720356291219230721",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 720328787833958402,
+    "in_reply_to_status_id_str": "720328787833958402",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.487651,
+                        37.886607
+                    ],
+                    [
+                        -74.986286,
+                        37.886607
+                    ],
+                    [
+                        -74.986286,
+                        39.723622
+                    ],
+                    [
+                        -79.487651,
+                        39.723622
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Maryland, USA",
+        "id": "dea1eac2d7ef8878",
+        "name": "Maryland",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/dea1eac2d7ef8878.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Will do as soon as I get back to my work computer. Thanks!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 25 14:30:23 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Software Systems Manager for NASA Space Network, Writer with GeekDad. Author of The BeagleBone Black Primer (https://t.co/m1vsT0gyWv). My tweets are my own.",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "amzn.to/1O5JbyU",
+                        "expanded_url": "http://amzn.to/1O5JbyU",
+                        "indices": [
+                            109,
+                            132
+                        ],
+                        "url": "https://t.co/m1vsT0gyWv"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "testgeargeek.com/about-brian/",
+                        "expanded_url": "http://testgeargeek.com/about-brian/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OHXuYjQh9O"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2250,
+        "follow_request_sent": false,
+        "followers_count": 1315,
+        "following": false,
+        "friends_count": 720,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 12683442,
+        "id_str": "12683442",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 97,
+        "location": "Columbia, MD",
+        "name": "Brian McLaughlin",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/12683442/1398607058",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/555364124406734849/iR4d34cN_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/555364124406734849/iR4d34cN_normal.jpeg",
+        "profile_link_color": "435252",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bjmclaughlin",
+        "statuses_count": 12895,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/OHXuYjQh9O",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

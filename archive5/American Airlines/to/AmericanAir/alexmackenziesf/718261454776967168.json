@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 08 02:17:30 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    101,
+                    117
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            },
+            {
+                "id": 987030841,
+                "id_str": "987030841",
+                "indices": [
+                    118,
+                    133
+                ],
+                "name": "oneworld Alliance",
+                "screen_name": "traveloneworld"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 718261454776967168,
+    "id_str": "718261454776967168",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 718221036362317825,
+    "in_reply_to_status_id_str": "718221036362317825",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.962582,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.8000371
+                    ],
+                    [
+                        -73.962582,
+                        40.8000371
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Queens, NY",
+        "id": "00c39537733fa112",
+        "name": "Queens",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c39537733fa112.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir... after 80 minutes waiting and counting with quite poor info at the flagship lounge... @British_Airways @traveloneworld fiasco",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 21 10:41:55 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "CMO @Moovit (formerly @Google) crowdsourcing, geo-local, urban planning, community, St Thomas, Bjork, Morrissey & Tunnock's! All opinions are my own",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4438,
+        "follow_request_sent": false,
+        "followers_count": 566,
+        "following": false,
+        "friends_count": 335,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 10438002,
+        "id_str": "10438002",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Noe Valley, San Francisco",
+        "name": "Alex MackenzieTorres",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10438002/1458942750",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/621464662475993088/PI0JiLGY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/621464662475993088/PI0JiLGY_normal.jpg",
+        "profile_link_color": "3E95B5",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "alexmackenziesf",
+        "statuses_count": 1913,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

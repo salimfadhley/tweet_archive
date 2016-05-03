@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 01 16:36:53 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 715941013794197504,
+    "id_str": "715941013794197504",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.123005,
+                        33.950457
+                    ],
+                    [
+                        -118.037043,
+                        33.950457
+                    ],
+                    [
+                        -118.037043,
+                        34.037384
+                    ],
+                    [
+                        -118.123005,
+                        34.037384
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Pico Rivera, CA",
+        "id": "e3505917a639e8ec",
+        "name": "Pico Rivera",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e3505917a639e8ec.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook: What happened to the feature where you can access the news feeds of pages you moderate?  I can't seem to find it anymore",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 29 23:29:17 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Great cheese comes from happy cows.  Happy cows come from California.  Real. California. Charles.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 96,
+        "follow_request_sent": false,
+        "followers_count": 67,
+        "following": false,
+        "friends_count": 232,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 509413977,
+        "id_str": "509413977",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "Charles Bennett",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1863444148/chbatthejuicebox_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1863444148/chbatthejuicebox_normal.jpg",
+        "profile_link_color": "B5651F",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "purplebackpack8",
+        "statuses_count": 1243,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 30 21:54:09 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 161173290,
+                "id_str": "161173290",
+                "indices": [
+                    13,
+                    26
+                ],
+                "name": "Peter John",
+                "screen_name": "petervolosin"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 715296078573256704,
+    "id_str": "715296078573256704",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 715249054037377025,
+    "in_reply_to_status_id_str": "715249054037377025",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Washington, DC",
+        "id": "01fbe706f872cb32",
+        "name": "Washington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir @petervolosin thx you",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 09 22:53:26 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Progressive, proud central New York native, competitive swimmer, runner, triathlete. Marist, Syracuse fan. Healthcare Sales Professional, Living/loving DC.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4499,
+        "follow_request_sent": false,
+        "followers_count": 243,
+        "following": false,
+        "friends_count": 1006,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 4152278181,
+        "id_str": "4152278181",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "Washington, DC",
+        "name": "Frederick Dever",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/663857648417251328/IcB_mzPe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/663857648417251328/IcB_mzPe_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FrederickDever1",
+        "statuses_count": 1938,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 27 14:54:12 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    93,
+                    98
+                ],
+                "text": "fail"
+            },
+            {
+                "indices": [
+                    99,
+                    109
+                ],
+                "text": "oldplanes"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 725337254974087168,
+    "id_str": "725337254974087168",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.977527,
+                        32.620678
+                    ],
+                    [
+                        -96.54598,
+                        32.620678
+                    ],
+                    [
+                        -96.54598,
+                        33.019039
+                    ],
+                    [
+                        -96.977527,
+                        33.019039
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Dallas, TX",
+        "id": "18810aa5b43e76c7",
+        "name": "Dallas",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/18810aa5b43e76c7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanAir in 2016 you have a business class without outlets to charge devices? Flight 487 #fail #oldplanes",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 16 23:13:34 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "President of @Callzilla, Customer Experience-focused customer care solutions. Near Shore Contact Center in Miami and Bogota. Proud father & #custserv expert",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "callzilla.net",
+                        "expanded_url": "http://callzilla.net",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/SB0f2cC9ou"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3016,
+        "follow_request_sent": false,
+        "followers_count": 536,
+        "following": false,
+        "friends_count": 605,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1187747606,
+        "id_str": "1187747606",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 52,
+        "location": "Miami, Florida",
+        "name": "Neal Topf",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1187747606/1452199561",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/685200402388615168/GgyZS4F6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/685200402388615168/GgyZS4F6_normal.jpg",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "NealTopf",
+        "statuses_count": 2519,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/SB0f2cC9ou",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

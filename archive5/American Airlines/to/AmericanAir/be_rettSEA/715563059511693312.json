@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 31 15:35:02 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 10812402,
+                "id_str": "10812402",
+                "indices": [
+                    13,
+                    26
+                ],
+                "name": "Peter Meister",
+                "screen_name": "petermeister"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 715563059511693312,
+    "id_str": "715563059511693312",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 715561963015708679,
+    "in_reply_to_status_id_str": "715561963015708679",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.487651,
+                        37.886607
+                    ],
+                    [
+                        -74.986286,
+                        37.886607
+                    ],
+                    [
+                        -74.986286,
+                        39.723622
+                    ],
+                    [
+                        -79.487651,
+                        39.723622
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Maryland, USA",
+        "id": "dea1eac2d7ef8878",
+        "name": "Maryland",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/dea1eac2d7ef8878.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanAir @petermeister (that sounds like a no)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 17 13:27:02 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "1/4 random thoughts, 1/4 political shit, 1/4 LOLz, 1/4 gay clickbait, 1/2 WAHing",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3663,
+        "follow_request_sent": false,
+        "followers_count": 730,
+        "following": false,
+        "friends_count": 1399,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 24880457,
+        "id_str": "24880457",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 25,
+        "location": "Seattle, WA",
+        "name": "Brunch Anderson",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24880457/1437690838",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2611494713/urtm5x9xaztd43n2l7b3_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2611494713/urtm5x9xaztd43n2l7b3_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "be_rettSEA",
+        "statuses_count": 16437,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

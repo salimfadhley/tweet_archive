@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 23 22:00:42 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 723995036489269248,
+    "id_str": "723995036489269248",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 723993711730814976,
+    "in_reply_to_status_id_str": "723993711730814976",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir since I paid for my flight &amp; it's totally ur fault we were late (no weather etc) at least you should help cover rental car cost",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 15 15:38:48 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Married to the amazing @beyondkris with 3 great kids; @k_grace92 @codyjwhite2 @huperash19. We lead @findthebridge Denton, @o2churches & @goingBTS missions.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "findthebridge.com",
+                        "expanded_url": "http://www.findthebridge.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/mNU4NoyDe2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3430,
+        "follow_request_sent": false,
+        "followers_count": 2096,
+        "following": false,
+        "friends_count": 332,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 74476320,
+        "id_str": "74476320",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 22,
+        "location": "denton, texas",
+        "name": "Duane White",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/74476320/1403315176",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/480164767953195008/9UHNSHe0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/480164767953195008/9UHNSHe0_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "huperduane",
+        "statuses_count": 5334,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/mNU4NoyDe2",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

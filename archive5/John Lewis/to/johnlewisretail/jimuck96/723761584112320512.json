@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 23 06:33:03 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 126664172,
+                "id_str": "126664172",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "John Lewis",
+                "screen_name": "johnlewisretail"
+            },
+            {
+                "id": 29511216,
+                "id_str": "29511216",
+                "indices": [
+                    80,
+                    94
+                ],
+                "name": "Hannah Daykin",
+                "screen_name": "hannah_daykin"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 723761584112320512,
+    "id_str": "723761584112320512",
+    "in_reply_to_screen_name": "johnlewisretail",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 126664172,
+    "in_reply_to_user_id_str": "126664172",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.1899763,
+                        57.107695
+                    ],
+                    [
+                        -2.0641046,
+                        57.107695
+                    ],
+                    [
+                        -2.0641046,
+                        57.2134174
+                    ],
+                    [
+                        -2.1899763,
+                        57.2134174
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Aberdeen, Scotland",
+        "id": "73cc26d418860ddd",
+        "name": "Aberdeen",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/73cc26d418860ddd.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@johnlewisretail when are you next doing a demo of Nespresso machines so me and @hannah_daykin can decide whether to get one? \ud83d\ude0a",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 14 18:13:45 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Electrical Engineer & farmer with a keen interest in how all things work. I'm from the small island of Stronsay, Orkney, now living in Aberdeen.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 97,
+        "follow_request_sent": false,
+        "followers_count": 93,
+        "following": false,
+        "friends_count": 187,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 123019013,
+        "id_str": "123019013",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Stronsay",
+        "name": "James Fraser \u26f7",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/123019013/1441815670",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/641647521375367168/yhIiI9Do_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/641647521375367168/yhIiI9Do_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jimuck96",
+        "statuses_count": 147,
+        "time_zone": "Casablanca",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

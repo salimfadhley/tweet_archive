@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 17 16:25:02 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            },
+            {
+                "id": 414379328,
+                "id_str": "414379328",
+                "indices": [
+                    10,
+                    18
+                ],
+                "name": "SimCity",
+                "screen_name": "simcity"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 721736237959290884,
+    "id_str": "721736237959290884",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.487651,
+                        37.886607
+                    ],
+                    [
+                        -74.986286,
+                        37.886607
+                    ],
+                    [
+                        -74.986286,
+                        39.723622
+                    ],
+                    [
+                        -79.487651,
+                        39.723622
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Maryland, USA",
+        "id": "dea1eac2d7ef8878",
+        "name": "Maryland",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/dea1eac2d7ef8878.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AppStore @simcity donated!!!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 20 23:34:55 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Apple\u00ae inspired by millions. Color Guard",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2266,
+        "follow_request_sent": false,
+        "followers_count": 375,
+        "following": false,
+        "friends_count": 119,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1025251543,
+        "id_str": "1025251543",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Virginia Beach, VA",
+        "name": "Cecil Sykes",
+        "notifications": false,
+        "profile_background_color": "DBAF29",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/760629097/128a408fd39a35dc778cb1f4203eaadf.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/760629097/128a408fd39a35dc778cb1f4203eaadf.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1025251543/1459096791",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/714129811741024256/kaFLPo-8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/714129811741024256/kaFLPo-8_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cecilbundick",
+        "statuses_count": 2675,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

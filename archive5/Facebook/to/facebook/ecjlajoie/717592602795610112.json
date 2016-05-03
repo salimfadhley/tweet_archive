@@ -1,0 +1,185 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -75.67299467,
+            45.43219871
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Apr 06 05:59:43 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    116,
+                    130
+                ],
+                "text": "accessibility"
+            },
+            {
+                "indices": [
+                    131,
+                    140
+                ],
+                "text": "facebook"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/1WbnYGf",
+                "expanded_url": "http://bit.ly/1WbnYGf",
+                "indices": [
+                    92,
+                    115
+                ],
+                "url": "https://t.co/OTLFWGordG"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 275686563,
+                "id_str": "275686563",
+                "indices": [
+                    85,
+                    91
+                ],
+                "name": "The Verge",
+                "screen_name": "verge"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            45.43219871,
+            -75.67299467
+        ],
+        "type": "Point"
+    },
+    "id": 717592602795610112,
+    "id_str": "717592602795610112",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.353876,
+                        44.961937
+                    ],
+                    [
+                        -75.246407,
+                        44.961937
+                    ],
+                    [
+                        -75.246407,
+                        45.5356446
+                    ],
+                    [
+                        -76.353876,
+                        45.5356446
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Ottawa, Ontario",
+        "id": "38d5974e82ed1a6c",
+        "name": "Ottawa",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/38d5974e82ed1a6c.json"
+    },
+    "possibly_sensitive": true,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@facebook begins using artificial intelligence to describe photos to blind users via @verge https://t.co/OTLFWGordG #accessibility #facebook",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 31 15:50:13 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ecjl.ca",
+                        "expanded_url": "http://www.ecjl.ca",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/fGzZZlPYca"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 490,
+        "follow_request_sent": false,
+        "followers_count": 646,
+        "following": false,
+        "friends_count": 1391,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 43705629,
+        "id_str": "43705629",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 21,
+        "location": "Ottawa, Canada",
+        "name": "\u2022 ecjl \u2022",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/608685516/ax6eg2baunvux0dsuajq.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/608685516/ax6eg2baunvux0dsuajq.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/43705629/1414799353",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/664892604300046337/OivoYsnO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/664892604300046337/OivoYsnO_normal.jpg",
+        "profile_link_color": "080808",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "48E08F",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ecjlajoie",
+        "statuses_count": 5458,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/fGzZZlPYca",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

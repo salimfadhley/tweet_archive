@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 21 14:34:26 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 723157952027193349,
+    "id_str": "723157952027193349",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -9.2298264,
+                        38.6913748
+                    ],
+                    [
+                        -9.0901639,
+                        38.6913748
+                    ],
+                    [
+                        -9.0901639,
+                        38.7958529
+                    ],
+                    [
+                        -9.2298264,
+                        38.7958529
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Portugal",
+        "country_code": "PT",
+        "full_name": "Lisbon, Portugal",
+        "id": "c1430b24da8e9229",
+        "name": "Lisbon",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c1430b24da8e9229.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook could you PLEASE STOP sending me notifications about every live on Facebook? Thanks",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 29 16:22:55 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Director and Co-Founder of @SHIFTERpt. You can email me at mra@shifter.pt.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "shifter.pt",
+                        "expanded_url": "http://shifter.pt",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/VQdzwjdeIW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3933,
+        "follow_request_sent": false,
+        "followers_count": 1971,
+        "following": false,
+        "friends_count": 1998,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 86103957,
+        "id_str": "86103957",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 66,
+        "location": "Lisbon, Portugal",
+        "name": "M\u00e1rio Rui Andr\u00e9",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/86103957/1457812929",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/719331279221694464/Mexxpou1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/719331279221694464/Mexxpou1_normal.jpg",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "mruiandre",
+        "statuses_count": 37406,
+        "time_zone": "Lisbon",
+        "url": "http://t.co/VQdzwjdeIW",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

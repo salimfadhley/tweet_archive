@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 29 01:17:57 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 725856614339596288,
+    "id_str": "725856614339596288",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -92.181476,
+                        30.180914
+                    ],
+                    [
+                        -92.043139,
+                        30.180914
+                    ],
+                    [
+                        -92.043139,
+                        30.298091
+                    ],
+                    [
+                        -92.181476,
+                        30.298091
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Scott, LA",
+        "id": "08055d8b55306939",
+        "name": "Scott",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/08055d8b55306939.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook Stop with these retarded updates.\nI'm tired of seeing the same exact post every time I open up the app",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 25 18:22:17 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "| #Cajun \u269c| #LSUTigers | SC/IG: @d_scott337",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2845,
+        "follow_request_sent": false,
+        "followers_count": 291,
+        "following": false,
+        "friends_count": 167,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2641407424,
+        "id_str": "2641407424",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Scott, LA.",
+        "name": "Dylan Scott",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2641407424/1461712790",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/724967553584402433/6-A7HZsz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/724967553584402433/6-A7HZsz_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DScott337",
+        "statuses_count": 1294,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

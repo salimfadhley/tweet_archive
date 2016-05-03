@@ -1,0 +1,314 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 13 12:16:29 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    65,
+                    77
+                ],
+                "text": "freebooting"
+            },
+            {
+                "indices": [
+                    80,
+                    89
+                ],
+                "text": "noticias"
+            },
+            {
+                "indices": [
+                    90,
+                    107
+                ],
+                "text": "digitalmarketing"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/TechCrunch/sta\u2026",
+                "expanded_url": "https://twitter.com/TechCrunch/status/720220750704193536",
+                "indices": [
+                    108,
+                    131
+                ],
+                "url": "https://t.co/a13eDbcb1f"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 720224133771083776,
+    "id_str": "720224133771083776",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -75.7316530015595,
+                        6.16605899574181
+                    ],
+                    [
+                        -75.5067729989301,
+                        6.16605899574181
+                    ],
+                    [
+                        -75.5067729989301,
+                        6.37570699956419
+                    ],
+                    [
+                        -75.7316530015595,
+                        6.37570699956419
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Colombia",
+        "country_code": "CO",
+        "full_name": "Medell\u00edn, Colombia",
+        "id": "00698bbe577bad5b",
+        "name": "Medell\u00edn",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00698bbe577bad5b.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Apr 13 12:03:02 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/gWM8JQpdCg",
+                    "expanded_url": "http://twitter.com/TechCrunch/status/720220750704193536/photo/1",
+                    "id": 720220748690939904,
+                    "id_str": "720220748690939904",
+                    "indices": [
+                        85,
+                        108
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Cf689H2W4AAXUor.png",
+                    "media_url_https": "https://pbs.twimg.com/media/Cf689H2W4AAXUor.png",
+                    "sizes": {
+                        "large": {
+                            "h": 819,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 480,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 272,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/gWM8JQpdCg"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "tcrn.ch/22srDiv",
+                    "expanded_url": "http://tcrn.ch/22srDiv",
+                    "indices": [
+                        61,
+                        84
+                    ],
+                    "url": "https://t.co/GUawXqqhTb"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 46,
+        "favorited": false,
+        "geo": null,
+        "id": 720220750704193536,
+        "id_str": "720220750704193536",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 66,
+        "retweeted": false,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Facebook launches video Rights Manager to combat freebooting https://t.co/GUawXqqhTb https://t.co/gWM8JQpdCg",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "techcrunch.com",
+                            "expanded_url": "http://techcrunch.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/b5Oyx12qGG"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1142,
+            "follow_request_sent": false,
+            "followers_count": 6589823,
+            "following": false,
+            "friends_count": 797,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 816653,
+            "id_str": "816653",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 104640,
+            "location": "San Francisco, CA",
+            "name": "TechCrunch",
+            "notifications": false,
+            "profile_background_color": "149500",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1431096993",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+            "profile_link_color": "097000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "222222",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "TechCrunch",
+            "statuses_count": 123800,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/b5Oyx12qGG",
+            "utc_offset": -25200,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 720220750704193536,
+    "quoted_status_id_str": "720220750704193536",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Facebook lanza Administrador de Derechos de Video para combatir #freebooting - #noticias #digitalmarketing https://t.co/a13eDbcb1f",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 25 05:30:24 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Storymaker, Consultor en #DigitalMarketing, Emprendedor de la Agencia Digital MDE, a quien le fascina viajar, charlar, hacer amigos y compartir conocimientos",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "marketingdigitalexperto.co",
+                        "expanded_url": "http://www.marketingdigitalexperto.co",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/zdS1SVGDRu"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 500,
+        "follow_request_sent": false,
+        "followers_count": 2101,
+        "following": false,
+        "friends_count": 618,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 7063012,
+        "id_str": "7063012",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 163,
+        "location": "Bogot\u00e1 - Lima - Caracas",
+        "name": "Manuel Caro | MDE",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/310112516/twilk_background_4e45633589bec.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/310112516/twilk_background_4e45633589bec.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7063012/1398202455",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000574970744/e2d23e2fff8213745d27cc8946f6b52f_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000574970744/e2d23e2fff8213745d27cc8946f6b52f_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "manuelcaro",
+        "statuses_count": 4251,
+        "time_zone": "Bogota",
+        "url": "https://t.co/zdS1SVGDRu",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

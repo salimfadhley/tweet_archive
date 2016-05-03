@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 23 02:58:40 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 723707635841667072,
+    "id_str": "723707635841667072",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 723706526238560257,
+    "in_reply_to_status_id_str": "723706526238560257",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -124.482003,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        42.009519
+                    ],
+                    [
+                        -124.482003,
+                        42.009519
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "California, USA",
+        "id": "fbd6d2f5a4e4a15e",
+        "name": "California",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir it is now over 15hours delay and counting. Not sure I m enjoying it.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 30 19:55:36 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Social Media is the King. I learn from my clients every day and hopefully teach them too.    I believe in hard work, gifs, sense of humor, champagne and food.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "lisit.co",
+                        "expanded_url": "http://lisit.co",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/pdu7dir4tq"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 36,
+        "follow_request_sent": false,
+        "followers_count": 35,
+        "following": false,
+        "friends_count": 102,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2883731940,
+        "id_str": "2883731940",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 28,
+        "location": "Chicago-World",
+        "name": "Veronika Lisit",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2883731940/1434828968",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/716046785374892034/o46HEakw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/716046785374892034/o46HEakw_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Lisit_co",
+        "statuses_count": 482,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/pdu7dir4tq",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

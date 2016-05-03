@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 21 20:47:56 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 723251947596185600,
+    "id_str": "723251947596185600",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 723250900303663104,
+    "in_reply_to_status_id_str": "723250900303663104",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -112.3239143,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.8154652
+                    ],
+                    [
+                        -112.3239143,
+                        33.8154652
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Phoenix, AZ",
+        "id": "5c62ffb0f0f3479d",
+        "name": "Phoenix",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Oh I have. That's why it's so disappointing to be on one of these other step-planes.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 22 04:55:32 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Day job? Those that know me... know what I do!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 13526,
+        "follow_request_sent": false,
+        "followers_count": 1519,
+        "following": false,
+        "friends_count": 2222,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15526662,
+        "id_str": "15526662",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 67,
+        "location": "Las Vegas, NV",
+        "name": "Mickey",
+        "notifications": false,
+        "profile_background_color": "090A0A",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000172051539/3VO16txg.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000172051539/3VO16txg.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15526662/1419181024",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/567532291040092161/bcdlNt1T_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/567532291040092161/bcdlNt1T_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Airsquad9",
+        "statuses_count": 19433,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

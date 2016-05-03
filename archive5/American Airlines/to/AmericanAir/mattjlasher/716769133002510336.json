@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 03 23:27:32 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    85,
+                    104
+                ],
+                "text": "customerexperience"
+            },
+            {
+                "indices": [
+                    105,
+                    121
+                ],
+                "text": "customerservice"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 716769133002510336,
+    "id_str": "716769133002510336",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 716768715392442368,
+    "in_reply_to_status_id_str": "716768715392442368",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -117.282538,
+                        32.53962
+                    ],
+                    [
+                        -116.9274403,
+                        32.53962
+                    ],
+                    [
+                        -116.9274403,
+                        33.0804044
+                    ],
+                    [
+                        -117.282538,
+                        33.0804044
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Diego, CA",
+        "id": "a592bd6ceb1319f7",
+        "name": "San Diego",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir your twitter feed looks like a crisis response line.  So I doubt that.  #customerexperience #customerservice",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 30 14:17:10 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I have spent the last nine years creating success in the #recuiting world from within the Marine Corps.  #Developing people and #stategy.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/matthewjlas\u2026",
+                        "expanded_url": "https://www.linkedin.com/in/matthewjlasher",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/1d3BU0y1Jg"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 121,
+        "follow_request_sent": false,
+        "followers_count": 249,
+        "following": false,
+        "friends_count": 218,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3261485947,
+        "id_str": "3261485947",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 47,
+        "location": "San Diego, CA",
+        "name": "Matt Lasher",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3261485947/1458433476",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/704202369144258565/m-5HsCDD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/704202369144258565/m-5HsCDD_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mattjlasher",
+        "statuses_count": 353,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/1d3BU0y1Jg",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

@@ -1,0 +1,290 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 13 00:15:15 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    82,
+                    86
+                ],
+                "text": "wtf"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/profcarroll/st\u2026",
+                "expanded_url": "https://twitter.com/profcarroll/status/719700725266259968",
+                "indices": [
+                    88,
+                    111
+                ],
+                "url": "https://t.co/SyCii76MnT"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 720042631959613442,
+    "id_str": "720042631959613442",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.041878,
+                        40.570842
+                    ],
+                    [
+                        -73.855673,
+                        40.570842
+                    ],
+                    [
+                        -73.855673,
+                        40.739434
+                    ],
+                    [
+                        -74.041878,
+                        40.739434
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Brooklyn, NY",
+        "id": "011add077f4d2da3",
+        "name": "Brooklyn",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Apr 12 01:36:38 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/4bpbQFnDBB",
+                    "expanded_url": "http://twitter.com/profcarroll/status/719700725266259968/photo/1",
+                    "id": 719700717607469056,
+                    "id_str": "719700717607469056",
+                    "indices": [
+                        97,
+                        120
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Cfzj_VGWQAAPon6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Cfzj_VGWQAAPon6.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1820,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 1067,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 604,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/4bpbQFnDBB"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 715,
+        "favorited": false,
+        "geo": null,
+        "id": 719700725266259968,
+        "id_str": "719700725266259968",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 928,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Want to opt your kid out of ads? Facebook makes it easy. Just head on over to the NOTARY PUBLIC. https://t.co/4bpbQFnDBB",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jul 10 23:30:40 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "associate professor of media design at #parsons school of design @thenewschool \u2022 former director @mfadt \u2022 recovering entrepreneur \u2022 @bowdoincollege alum",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "dave.parsons.edu",
+                            "expanded_url": "http://dave.parsons.edu",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/5ufHF4G8Qg"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 3774,
+            "follow_request_sent": false,
+            "followers_count": 2311,
+            "following": false,
+            "friends_count": 2034,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 15384720,
+            "id_str": "15384720",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 181,
+            "location": "Brooklyn, NY",
+            "name": "David Carroll",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/467271364106145792/dAw5YZAN.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/467271364106145792/dAw5YZAN.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15384720/1427156793",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000648766136/e41b6fcd1e61e6aa94b4c9896e0be11b_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000648766136/e41b6fcd1e61e6aa94b4c9896e0be11b_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "profcarroll",
+            "statuses_count": 7402,
+            "time_zone": "Paris",
+            "url": "https://t.co/5ufHF4G8Qg",
+            "utc_offset": 7200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 719700725266259968,
+    "quoted_status_id_str": "719700725266259968",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook requires a notary public for you to manage your children's ad settings. #wtf  https://t.co/SyCii76MnT",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 05 17:18:25 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "DT @Stamen / Cartographer / Web Developer / @MFADT alumn / @MaptimeNYC / Passionate about social justice, FOSS, GIS, open data, percussion, cycling, DIY",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "clhenrick.io",
+                        "expanded_url": "http://clhenrick.io/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Z3iNRlnScX"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1257,
+        "follow_request_sent": false,
+        "followers_count": 640,
+        "following": false,
+        "friends_count": 508,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 293613287,
+        "id_str": "293613287",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 66,
+        "location": "40\u00b042\u203246\u2033N, 74\u00b000\u203221\u2033W",
+        "name": "Chris Henrick",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/784236993/4d804b242d0a471f7b2c7983123b36d8.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/784236993/4d804b242d0a471f7b2c7983123b36d8.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/293613287/1405028131",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/487414014805151744/GleSOgUK_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/487414014805151744/GleSOgUK_normal.png",
+        "profile_link_color": "FF8921",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "0084B4",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "chrislhenrick",
+        "statuses_count": 1401,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/Z3iNRlnScX",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

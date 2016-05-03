@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Mar 27 21:08:56 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 714197536706281472,
+    "id_str": "714197536706281472",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 714197409996234753,
+    "in_reply_to_status_id_str": "714197409996234753",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -75.265345,
+                        39.865913
+                    ],
+                    [
+                        -75.195324,
+                        39.865913
+                    ],
+                    [
+                        -75.195324,
+                        39.9052098
+                    ],
+                    [
+                        -75.265345,
+                        39.9052098
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Eastwick, Philadelphia",
+        "id": "3d8f9bea330550af",
+        "name": "Eastwick",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/3d8f9bea330550af.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@AmericanAir yes, thanks. Is there any place to see that in the app?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 19 11:30:27 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Football fanatic, instrument-rated pilot, Penn State grad, all-around electronics nerd, and work in OCTO @bluebox @IBMCloud. Tweets are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "vmtyler.com",
+                        "expanded_url": "http://vmtyler.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9YncHSFw7p"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 404,
+        "follow_request_sent": false,
+        "followers_count": 1413,
+        "following": false,
+        "friends_count": 494,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 180337525,
+        "id_str": "180337525",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 101,
+        "location": "Philadelphia, PA",
+        "name": "Tyler Britten",
+        "notifications": false,
+        "profile_background_color": "001329",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/160966211/x6655ad2619a83cb45a95e5cda4a5fea.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/160966211/x6655ad2619a83cb45a95e5cda4a5fea.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/180337525/1376486783",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700996286527488000/kxecX6Se_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700996286527488000/kxecX6Se_normal.jpg",
+        "profile_link_color": "448668",
+        "profile_sidebar_border_color": "F7B565",
+        "profile_sidebar_fill_color": "000B17",
+        "profile_text_color": "004358",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "vmtyler",
+        "statuses_count": 20873,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/9YncHSFw7p",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

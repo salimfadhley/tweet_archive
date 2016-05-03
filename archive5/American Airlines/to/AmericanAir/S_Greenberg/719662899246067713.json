@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Apr 11 23:06:20 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 719662899246067713,
+    "id_str": "719662899246067713",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 719662703594201088,
+    "in_reply_to_status_id_str": "719662703594201088",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.187894,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.5164655
+                    ],
+                    [
+                        -0.187894,
+                        51.5164655
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "London, England",
+        "id": "457b4814b4240d87",
+        "name": "London",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/457b4814b4240d87.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir sounds good luvah",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 21 01:32:22 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Hashtag for @barkleyus // Rock Chalk // #FOE // These Tweets Are All Me Bro",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1529,
+        "follow_request_sent": false,
+        "followers_count": 940,
+        "following": false,
+        "friends_count": 1348,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 75927695,
+        "id_str": "75927695",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Kansas City ",
+        "name": "Sammy Greenberg",
+        "notifications": false,
+        "profile_background_color": "2A5FAD",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/890555601/15a150cac2fe0527216db502a5e63cba.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/890555601/15a150cac2fe0527216db502a5e63cba.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/75927695/1450147890",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/676594689487728640/pd5bNA7f_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/676594689487728640/pd5bNA7f_normal.jpg",
+        "profile_link_color": "2B4085",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F70000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "S_Greenberg",
+        "statuses_count": 6134,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 28 22:29:00 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/ot5x9whwPs",
+                "expanded_url": "http://twitter.com/golemprotector/status/725814096961134593/photo/1",
+                "id": 725814089734316033,
+                "id_str": "725814089734316033",
+                "indices": [
+                    112,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/media/ChKcEa-WYAE4C4P.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ChKcEa-WYAE4C4P.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 677,
+                        "resize": "fit",
+                        "w": 745
+                    },
+                    "medium": {
+                        "h": 545,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 309,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/ot5x9whwPs"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 725814096961134593,
+    "id_str": "725814096961134593",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.639319,
+                        43.403221
+                    ],
+                    [
+                        -78.90582,
+                        43.403221
+                    ],
+                    [
+                        -78.90582,
+                        43.855401
+                    ],
+                    [
+                        -79.639319,
+                        43.855401
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Toronto, Ontario",
+        "id": "3797791ff9c0e4c6",
+        "name": "Toronto",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3797791ff9c0e4c6.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook considering deleting my account for awhile. A lot of antisemitism seems to not violate your standards https://t.co/ot5x9whwPs",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 19 17:39:06 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 154,
+        "follow_request_sent": false,
+        "followers_count": 0,
+        "following": false,
+        "friends_count": 10,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 4228039948,
+        "id_str": "4228039948",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Joan Davies",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "golemprotector",
+        "statuses_count": 85,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

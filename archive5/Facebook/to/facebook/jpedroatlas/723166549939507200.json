@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 21 15:08:35 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 723166549939507200,
+    "id_str": "723166549939507200",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -115.384091,
+                        36.129459
+                    ],
+                    [
+                        -115.062159,
+                        36.129459
+                    ],
+                    [
+                        -115.062159,
+                        36.336371
+                    ],
+                    [
+                        -115.384091,
+                        36.336371
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Las Vegas, NV",
+        "id": "5c2b5e46ab891f07",
+        "name": "Las Vegas",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c2b5e46ab891f07.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook you 're weak",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 23 17:27:53 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "we fucked up",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1,
+        "follow_request_sent": false,
+        "followers_count": 1014,
+        "following": false,
+        "friends_count": 1034,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 712692355132952581,
+        "id_str": "712692355132952581",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 1,
+        "location": "Las Vegas, NV",
+        "name": "Jo\u00e3o Pedro Atlas",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/712692355132952581/1458754664",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/713207917063888896/WbOsg8w4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/713207917063888896/WbOsg8w4_normal.jpg",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jpedroatlas",
+        "statuses_count": 194,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 31 14:11:29 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 715542031347613698,
+    "id_str": "715542031347613698",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 715541900246122496,
+    "in_reply_to_status_id_str": "715541900246122496",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "in",
+    "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -75.586247,
+                        39.108566
+                    ],
+                    [
+                        -75.449548,
+                        39.108566
+                    ],
+                    [
+                        -75.449548,
+                        39.20982
+                    ],
+                    [
+                        -75.586247,
+                        39.20982
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Dover, DE",
+        "id": "2ca1e1d1d0fae614",
+        "name": "Dover",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2ca1e1d1d0fae614.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "@AmericanAir tnks :)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 13 20:34:36 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "21 anos, um soteropaulistano estudante de Ci\u00eancia da Computa\u00e7\u00e3o. Estou fazendo interc\u00e2mbio nos Estados Unidos agora. Fa\u00e7o apps pra iPhone.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "icaarl.com",
+                        "expanded_url": "http://www.icaarl.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/qQ6lkl12Lb"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 518,
+        "follow_request_sent": false,
+        "followers_count": 1553,
+        "following": false,
+        "friends_count": 677,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 30952755,
+        "id_str": "30952755",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 33,
+        "location": "S\u00e3o Paulo",
+        "name": "snap: Icefall",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/489626742/wall-e_movie-207965.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/489626742/wall-e_movie-207965.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30952755/1433699247",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/607604925703426048/UmL73GNN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/607604925703426048/UmL73GNN_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "carlbrusell",
+        "statuses_count": 115131,
+        "time_zone": "Brasilia",
+        "url": "https://t.co/qQ6lkl12Lb",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

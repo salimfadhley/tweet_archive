@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 25 14:07:43 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    1,
+                    13
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 7212562,
+                "id_str": "7212562",
+                "indices": [
+                    74,
+                    87
+                ],
+                "name": "Southwest Airlines",
+                "screen_name": "SouthwestAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 713366757180841985,
+    "id_str": "713366757180841985",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 713355274111815681,
+    "in_reply_to_status_id_str": "713355274111815681",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.252801,
+                        39.102707
+                    ],
+                    [
+                        -77.1630643,
+                        39.102707
+                    ],
+                    [
+                        -77.1630643,
+                        39.169487
+                    ],
+                    [
+                        -77.252801,
+                        39.169487
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Gaithersburg, MD",
+        "id": "db1e795d2641873e",
+        "name": "Gaithersburg",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/db1e795d2641873e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": ".@AmericanAir Too late, you've already cemented the poor impression. Wish @SouthwestAir flew everywhere!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 04 03:23:49 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#eventprofs \u01c0 Former Hotelier \u01c0 #Travel/Event management \u01c0 Sports \u01c0 Wine Lover \u01c0 Francophile \u01c0 Beach!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 140,
+        "follow_request_sent": false,
+        "followers_count": 875,
+        "following": false,
+        "friends_count": 1093,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 513892347,
+        "id_str": "513892347",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 97,
+        "location": "Washington DC Metro",
+        "name": "Megan Herrity, CTA",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/696718749546590208/Z-5C4SgF.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/696718749546590208/Z-5C4SgF.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/513892347/1454945759",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/539810779801718785/SV4eCO0b_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/539810779801718785/SV4eCO0b_normal.jpeg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "meganherrity",
+        "statuses_count": 1111,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

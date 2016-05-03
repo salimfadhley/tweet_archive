@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 21 12:04:10 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 723120138187235329,
+    "id_str": "723120138187235329",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        146.644110208,
+                        -19.4133283395
+                    ],
+                    [
+                        146.866364,
+                        -19.4133283395
+                    ],
+                    [
+                        146.866364,
+                        -19.180276014
+                    ],
+                    [
+                        146.644110208,
+                        -19.180276014
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Australia",
+        "country_code": "AU",
+        "full_name": "Townsville, Queensland",
+        "id": "0013cae44d65aff9",
+        "name": "Townsville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0013cae44d65aff9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook Please fix your site NOW!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 20 09:34:03 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Another one of my Twitter accounts.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bjthomaseducated.webs.com",
+                        "expanded_url": "http://bjthomaseducated.webs.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L5i4fTtfv3"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9,
+        "follow_request_sent": false,
+        "followers_count": 243,
+        "following": false,
+        "friends_count": 1751,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 168598790,
+        "id_str": "168598790",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Pimlico Queensland Australia",
+        "name": "Brent James Thomas",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/529560996361142273/OvruHKKY.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/529560996361142273/OvruHKKY.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/168598790/1360266721",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3221653244/b5c9127976a844c22a7a81af99bba56f_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3221653244/b5c9127976a844c22a7a81af99bba56f_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "EducatingBrent",
+        "statuses_count": 1730,
+        "time_zone": "Brisbane",
+        "url": "http://t.co/L5i4fTtfv3",
+        "utc_offset": 36000,
+        "verified": false
+    }
+}

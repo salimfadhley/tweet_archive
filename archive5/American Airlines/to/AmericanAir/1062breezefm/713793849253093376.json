@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 26 18:24:49 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 93150221,
+                "id_str": "93150221",
+                "indices": [
+                    23,
+                    36
+                ],
+                "name": "Imani Cezanne",
+                "screen_name": "imanicezanne"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 713793849253093376,
+    "id_str": "713793849253093376",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.262816,
+                        39.995246
+                    ],
+                    [
+                        -84.169631,
+                        39.995246
+                    ],
+                    [
+                        -84.169631,
+                        40.082253
+                    ],
+                    [
+                        -84.262816,
+                        40.082253
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Troy, OH",
+        "id": "14a79681d2bdaa7d",
+        "name": "Troy",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/14a79681d2bdaa7d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir reimburse @imanicezanne because nothing that she's done should have gotten her kicked off of a flight",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 05 21:44:25 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "not square, not hippie, and not like you",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7900,
+        "follow_request_sent": false,
+        "followers_count": 276,
+        "following": false,
+        "friends_count": 447,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 456103059,
+        "id_str": "456103059",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "",
+        "name": "shelby campbell",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/595376433192521728/fFtqZ2BM.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/595376433192521728/fFtqZ2BM.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/456103059/1457926797",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712784864068636673/3KY8pKYT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712784864068636673/3KY8pKYT_normal.jpg",
+        "profile_link_color": "FFCC4D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "1062breezefm",
+        "statuses_count": 10681,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

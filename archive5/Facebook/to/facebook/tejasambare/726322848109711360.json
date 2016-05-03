@@ -1,0 +1,165 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 30 08:10:36 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    77,
+                    91
+                ],
+                "text": "amitheonlyone"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 2885229365,
+                "id_str": "2885229365",
+                "indices": [
+                    20,
+                    30
+                ],
+                "name": "Messenger",
+                "screen_name": "messenger"
+            },
+            {
+                "id": 15670515,
+                "id_str": "15670515",
+                "indices": [
+                    38,
+                    46
+                ],
+                "name": "Windows",
+                "screen_name": "Windows"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 726322848109711360,
+    "id_str": "726322848109711360",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        73.8031065,
+                        18.4571648
+                    ],
+                    [
+                        73.9656571,
+                        18.4571648
+                    ],
+                    [
+                        73.9656571,
+                        18.5843633
+                    ],
+                    [
+                        73.8031065,
+                        18.5843633
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u092d\u093e\u0930\u0924",
+        "country_code": "IN",
+        "full_name": "Pune, India",
+        "id": "5c0761bdffa0cb64",
+        "name": "Pune",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c0761bdffa0cb64.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook app &amp; @messenger app on @Windows 10 (V.1511) keeps crashing... #amitheonlyone",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 10 04:11:02 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/tejasambare",
+                        "expanded_url": "http://about.me/tejasambare",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/8r8O4FtZGD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 287,
+        "follow_request_sent": false,
+        "followers_count": 308,
+        "following": false,
+        "friends_count": 67,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 30157795,
+        "id_str": "30157795",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 14,
+        "location": "Pune, India",
+        "name": "Tejas Sambare",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30157795/1444981298",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/722430365579681796/cldUkt4J_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/722430365579681796/cldUkt4J_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tejasambare",
+        "statuses_count": 34896,
+        "time_zone": "New Delhi",
+        "url": "https://t.co/8r8O4FtZGD",
+        "utc_offset": 19800,
+        "verified": false
+    }
+}

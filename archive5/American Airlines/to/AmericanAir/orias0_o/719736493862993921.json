@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 12 03:58:46 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 719736493862993921,
+    "id_str": "719736493862993921",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 719732209649717248,
+    "in_reply_to_status_id_str": "719732209649717248",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir sure. Flt 321 from CLT to JFK. Not my bag btw.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 24 02:59:16 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "It may be crazy, but it keeps me insane",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "section8geek.com",
+                        "expanded_url": "http://section8geek.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/ekQLq6afRU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 156,
+        "follow_request_sent": false,
+        "followers_count": 212,
+        "following": false,
+        "friends_count": 585,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 107886264,
+        "id_str": "107886264",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "\u00dcT: 35.059287,-89.842618",
+        "name": "Claudio Donndelinger",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/107886264/1382933879",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3664612071/6108cfabb583178f8d23a4d96020effb_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3664612071/6108cfabb583178f8d23a4d96020effb_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "orias0_o",
+        "statuses_count": 532,
+        "time_zone": "Central America",
+        "url": "http://t.co/ekQLq6afRU",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 25 22:20:54 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 14264854,
+                "id_str": "14264854",
+                "indices": [
+                    13,
+                    23
+                ],
+                "name": "JohnnyJet",
+                "screen_name": "JohnnyJet"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 713490870234820608,
+    "id_str": "713490870234820608",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 713466575433506816,
+    "in_reply_to_status_id_str": "713466575433506816",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.634643,
+                        24.396308
+                    ],
+                    [
+                        -79.974307,
+                        24.396308
+                    ],
+                    [
+                        -79.974307,
+                        31.001056
+                    ],
+                    [
+                        -87.634643,
+                        31.001056
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Florida, USA",
+        "id": "4ec01c9dbc693497",
+        "name": "Florida",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir @JohnnyJet - how do we secure upgrades at the $30?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 10 02:33:46 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Managing Partner @FiftyandFive Social Marketing Agency. @USC Trojan. @SigmaChi. Tethered to @JustJennaV. Dad to Pen & Ko. Golf nut. Foodie. Whisky & wine geek.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "fiftyandfive.com",
+                        "expanded_url": "http://www.fiftyandfive.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/3Edj4QCxHw"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1665,
+        "follow_request_sent": false,
+        "followers_count": 19904,
+        "following": false,
+        "friends_count": 6235,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 46015723,
+        "id_str": "46015723",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 259,
+        "location": "Orlando \u2708 Los Angeles \u2708 Miami",
+        "name": "Lucas Vandenberg",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000167489585/MQzAA8pY.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000167489585/MQzAA8pY.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/46015723/1409952221",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/471219851088760832/fKJ6wLM5_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/471219851088760832/fKJ6wLM5_normal.jpeg",
+        "profile_link_color": "D10000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "969696",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LucasVandenberg",
+        "statuses_count": 1566,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/3Edj4QCxHw",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Apr 11 16:19:47 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 36611777,
+                "id_str": "36611777",
+                "indices": [
+                    62,
+                    73
+                ],
+                "name": "MakeMyTrip.com",
+                "screen_name": "makemytrip"
+            },
+            {
+                "id": 36611777,
+                "id_str": "36611777",
+                "indices": [
+                    80,
+                    91
+                ],
+                "name": "MakeMyTrip.com",
+                "screen_name": "makemytrip"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 719560585982132224,
+    "id_str": "719560585982132224",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        76.84252,
+                        28.397657
+                    ],
+                    [
+                        77.347652,
+                        28.397657
+                    ],
+                    [
+                        77.347652,
+                        28.879322
+                    ],
+                    [
+                        76.84252,
+                        28.879322
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u092d\u093e\u0930\u0924",
+        "country_code": "IN",
+        "full_name": "New Delhi, India",
+        "id": "317fcc4b21a604d5",
+        "name": "New Delhi",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanAir I wish to modify an AA flight booking booked via @makemytrip which @makemytrip is unable to modify. Please assist.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 26 12:50:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "CX Consultant\nhttp://t.co/q0CHVM2YT7",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "in.linkedin.com/in/vaibh01/",
+                        "expanded_url": "http://in.linkedin.com/in/vaibh01/",
+                        "indices": [
+                            14,
+                            36
+                        ],
+                        "url": "http://t.co/q0CHVM2YT7"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/vaibh01",
+                        "expanded_url": "http://about.me/vaibh01",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/q4Aez0HTJT"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 205,
+        "follow_request_sent": false,
+        "followers_count": 232,
+        "following": false,
+        "friends_count": 626,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 68969021,
+        "id_str": "68969021",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "New Delhi, Delhi",
+        "name": "Vaibhav Jain",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68969021/1430387775",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700615788638531584/84MsvZJ2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700615788638531584/84MsvZJ2_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "vaibh01",
+        "statuses_count": 237,
+        "time_zone": null,
+        "url": "http://t.co/q4Aez0HTJT",
+        "utc_offset": null,
+        "verified": false
+    }
+}

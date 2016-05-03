@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 28 01:24:49 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 714261929754230786,
+    "id_str": "714261929754230786",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 714261244602023936,
+    "in_reply_to_status_id_str": "714261244602023936",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -86.348441,
+                        39.631677
+                    ],
+                    [
+                        -85.937404,
+                        39.631677
+                    ],
+                    [
+                        -85.937404,
+                        39.927448
+                    ],
+                    [
+                        -86.348441,
+                        39.927448
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Indianapolis, IN",
+        "id": "018929347840059e",
+        "name": "Indianapolis",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/018929347840059e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir The worst is that anybody has a estimated time to leave (flight 3761).",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 06 10:12:25 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ninja /video games /Marketing / Journalist /Developer Relations at SG /Amo los tacos / I just wear sneakers/ @ViceMexico @Indiemagmexico @Diggermx @geek_mx",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "hil.ninja",
+                        "expanded_url": "http://hil.ninja/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/CFqPE1gQ2v"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 496,
+        "follow_request_sent": false,
+        "followers_count": 6268,
+        "following": false,
+        "friends_count": 446,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 38150711,
+        "id_str": "38150711",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 227,
+        "location": "Mexico City & Philly",
+        "name": "Hil",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000157199385/2vB5OmqA.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000157199385/2vB5OmqA.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38150711/1399652532",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/679078532002123778/aEwGaafR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/679078532002123778/aEwGaafR_normal.jpg",
+        "profile_link_color": "0C06A3",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "0A060A",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KillHill",
+        "statuses_count": 55468,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/CFqPE1gQ2v",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 14 22:23:28 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 720739274228826112,
+    "id_str": "720739274228826112",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 720725958643167232,
+    "in_reply_to_status_id_str": "720725958643167232",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.928935,
+                        30.127892
+                    ],
+                    [
+                        -97.5805133,
+                        30.127892
+                    ],
+                    [
+                        -97.5805133,
+                        30.5187994
+                    ],
+                    [
+                        -97.928935,
+                        30.5187994
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Austin, TX",
+        "id": "c3f37afa9efcf94b",
+        "name": "Austin",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanAir 90 years!?! And you look so young...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 01 22:14:08 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Writer, editor, runner, & Ironman. Always looking for next adventure, good book, & great meal. Blogs about the fit life at http://t.co/sFYoqFpzwH",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "leahruns100.com",
+                        "expanded_url": "http://www.leahruns100.com",
+                        "indices": [
+                            123,
+                            145
+                        ],
+                        "url": "http://t.co/sFYoqFpzwH"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "leahruns100.com",
+                        "expanded_url": "http://leahruns100.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/F6rbFmsscf"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2336,
+        "follow_request_sent": false,
+        "followers_count": 659,
+        "following": false,
+        "friends_count": 746,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 403016154,
+        "id_str": "403016154",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 97,
+        "location": "Austin, TX",
+        "name": "Leah Nyfeler",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/403016154/1425922786",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1980891495/Leah_Running_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1980891495/Leah_Running_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Leahruns100",
+        "statuses_count": 3531,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/F6rbFmsscf",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

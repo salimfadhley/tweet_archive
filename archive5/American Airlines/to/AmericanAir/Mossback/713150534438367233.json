@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 24 23:48:31 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 17813513,
+                "id_str": "17813513",
+                "indices": [
+                    13,
+                    29
+                ],
+                "name": "Le Jeremy Newberger",
+                "screen_name": "jeremynewberger"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 713150534438367233,
+    "id_str": "713150534438367233",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 713148164052680705,
+    "in_reply_to_status_id_str": "713148164052680705",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.328148,
+                        47.859946
+                    ],
+                    [
+                        -122.219961,
+                        47.859946
+                    ],
+                    [
+                        -122.219961,
+                        47.9519978
+                    ],
+                    [
+                        -122.328148,
+                        47.9519978
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Mukilteo, WA",
+        "id": "00acddf65083d6cc",
+        "name": "Mukilteo",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00acddf65083d6cc.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir @jeremynewberger Sure he will. You've Got A Friend.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 12 03:54:53 +0000 2007",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Seattle based rock band.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jango.com/music/Mossback",
+                        "expanded_url": "http://www.jango.com/music/Mossback",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TM4fzy6vIj"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 27267,
+        "follow_request_sent": false,
+        "followers_count": 1291,
+        "following": false,
+        "friends_count": 1737,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 11074792,
+        "id_str": "11074792",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 31,
+        "location": "Seattle",
+        "name": "Mossback",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11074792/1403236220",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/638903757141442560/eCE2XrXk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/638903757141442560/eCE2XrXk_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Mossback",
+        "statuses_count": 18693,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/TM4fzy6vIj",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

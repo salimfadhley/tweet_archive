@@ -1,0 +1,175 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Mar 27 15:57:05 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/2gturQMLJf",
+                "expanded_url": "http://twitter.com/scairon/status/714119055939133441/photo/1",
+                "id": 714119054697631745,
+                "id_str": "714119054697631745",
+                "indices": [
+                    111,
+                    134
+                ],
+                "media_url": "http://pbs.twimg.com/media/CekPfyaXEAEWufY.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CekPfyaXEAEWufY.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 80,
+                        "resize": "fit",
+                        "w": 425
+                    },
+                    "medium": {
+                        "h": 80,
+                        "resize": "fit",
+                        "w": 425
+                    },
+                    "small": {
+                        "h": 64,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 80,
+                        "resize": "crop",
+                        "w": 80
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/2gturQMLJf"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 714119055939133441,
+    "id_str": "714119055939133441",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.641326441014,
+                        18.5796776973117
+                    ],
+                    [
+                        -70.876016602963,
+                        18.5796776973117
+                    ],
+                    [
+                        -70.876016602963,
+                        19.1690750589736
+                    ],
+                    [
+                        -71.641326441014,
+                        19.1690750589736
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Dominican Republic",
+        "country_code": "DO",
+        "full_name": "San Juan, Dominican Republic",
+        "id": "01ea4b6a26363af0",
+        "name": "San Juan",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/01ea4b6a26363af0.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook preocupado por mi me pregunta si estoy bien, seg\u00fan ellos estoy cerca de la zona afectada en Pakistan https://t.co/2gturQMLJf",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 10 12:40:55 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#Software #Developer, Co-Fundador de @codasorIT, Amante de la #Tecnolog\u00eda y el #Baseball. #Laravel, #PHP, #Backend",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "blog.scairon.com",
+                        "expanded_url": "http://blog.scairon.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/pclzmq08wG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 65,
+        "follow_request_sent": false,
+        "followers_count": 158,
+        "following": false,
+        "friends_count": 398,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 95892598,
+        "id_str": "95892598",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 9,
+        "location": "Dominican Republic",
+        "name": "Scairon Garcia",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/620387008175669248/CZ4ekso5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/620387008175669248/CZ4ekso5_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "scairon",
+        "statuses_count": 542,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/pclzmq08wG",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

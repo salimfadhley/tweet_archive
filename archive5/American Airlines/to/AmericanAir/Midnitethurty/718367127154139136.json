@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 08 09:17:24 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    7,
+                    19
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 718367127154139136,
+    "id_str": "718367127154139136",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 718314365397676032,
+    "in_reply_to_status_id_str": "718314365397676032",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.378926,
+                        33.893614
+                    ],
+                    [
+                        -118.31335,
+                        33.893614
+                    ],
+                    [
+                        -118.31335,
+                        33.934522
+                    ],
+                    [
+                        -118.378926,
+                        33.934522
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Hawthorne, CA",
+        "id": "3134f9d2892d2685",
+        "name": "Hawthorne",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3134f9d2892d2685.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Thanks @AmericanAir, although the process was long and we lose a day to extra travel, you set us up for the night at least.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 07 14:42:12 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Generally specific if not specifically general",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 298,
+        "follow_request_sent": false,
+        "followers_count": 36,
+        "following": false,
+        "friends_count": 123,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 235168612,
+        "id_str": "235168612",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "new york, new york",
+        "name": "Midnitethurty",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/235168612/1387726514",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/474185182665539584/64W99w9w_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/474185182665539584/64W99w9w_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Midnitethurty",
+        "statuses_count": 1704,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 29 10:16:59 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    125,
+                    130
+                ],
+                "text": "fail"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 714758242455388162,
+    "id_str": "714758242455388162",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 714668047123017728,
+    "in_reply_to_status_id_str": "714668047123017728",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.172219,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.934311
+                    ],
+                    [
+                        -77.172219,
+                        38.934311
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Arlington, VA",
+        "id": "319ee7b36c9149da",
+        "name": "Arlington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir flight of 7pm yesterday cancelled,  rebooked at 10pm, at 1am cancelled too,  now flight of 7am, also cancelled  #fail",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 20 15:42:01 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Content marketer, SEO lead & Social Media trainer/coach. Lifestyle blogger on https://t.co/FH41LqgAPx. Amateur photographer.",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "amable.be",
+                        "expanded_url": "http://www.amable.be",
+                        "indices": [
+                            78,
+                            101
+                        ],
+                        "url": "https://t.co/FH41LqgAPx"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "be.linkedin.com/in/nancyverbru\u2026",
+                        "expanded_url": "http://be.linkedin.com/in/nancyverbrugghe/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/OcXMkGrvG7"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 669,
+        "follow_request_sent": false,
+        "followers_count": 4327,
+        "following": false,
+        "friends_count": 2391,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 7612022,
+        "id_str": "7612022",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 413,
+        "location": "Antwerp | Belgium",
+        "name": "Nancy Verbrugghe",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7612022/1398245879",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/414748709495128064/9D0zZ1nl_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/414748709495128064/9D0zZ1nl_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "nanske",
+        "statuses_count": 20853,
+        "time_zone": "Brussels",
+        "url": "http://t.co/OcXMkGrvG7",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

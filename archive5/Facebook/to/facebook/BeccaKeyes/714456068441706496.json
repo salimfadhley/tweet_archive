@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 28 14:16:15 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 68639853,
+                "id_str": "68639853",
+                "indices": [
+                    10,
+                    25
+                ],
+                "name": "Facebook Engineering",
+                "screen_name": "fb_engineering"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 714456068441706496,
+    "id_str": "714456068441706496",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.410125,
+                        27.9650193
+                    ],
+                    [
+                        -82.326519,
+                        27.9650193
+                    ],
+                    [
+                        -82.326519,
+                        28.031093
+                    ],
+                    [
+                        -82.410125,
+                        28.031093
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "East Lake-Orient Park, FL",
+        "id": "01af119d415cd7d2",
+        "name": "East Lake-Orient Park",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01af119d415cd7d2.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook @fb_engineering trying to do my end of month reports but all insights exports are failing on mult browsers \ud83d\ude29",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 03 21:30:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Taco lover. Drink drinker. American Outlaw. Marketer at @BayshoreMktg. @UofTampa Alum. insta: @beccakeyes92 snap: Kalyapy",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "etsy.com/shop/kalyapy",
+                        "expanded_url": "http://etsy.com/shop/kalyapy",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/6nD4VPeIr5"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 952,
+        "follow_request_sent": false,
+        "followers_count": 73,
+        "following": false,
+        "friends_count": 87,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 28658110,
+        "id_str": "28658110",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Tampa, Florida",
+        "name": "Becca Keyes",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28658110/1455473448",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/704069924197670912/WHKphkjy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/704069924197670912/WHKphkjy_normal.jpg",
+        "profile_link_color": "FFCC4D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "BeccaKeyes",
+        "statuses_count": 259,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/6nD4VPeIr5",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

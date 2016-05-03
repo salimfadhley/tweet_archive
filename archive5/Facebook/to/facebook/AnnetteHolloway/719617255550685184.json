@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Apr 11 20:04:58 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 719617255550685184,
+    "id_str": "719617255550685184",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.67529,
+                        36.540739
+                    ],
+                    [
+                        -75.16644,
+                        36.540739
+                    ],
+                    [
+                        -75.16644,
+                        39.466012
+                    ],
+                    [
+                        -83.67529,
+                        39.466012
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Virginia, USA",
+        "id": "5635c19c2b5078d1",
+        "name": "Virginia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook I cannot believe that you have not fixed TobyMac's FB page by now. What are you doing?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 13 21:04:27 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "FB: Annette Holloway Photography \nChristian concerts, portraits, sports. Former NASA software engineer; faithful wife/mom.  Contact: pics@annetteholloway.com",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "tinyurl.com/AHConcerts",
+                        "expanded_url": "http://tinyurl.com/AHConcerts",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/E8mkwcsVn8"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9396,
+        "follow_request_sent": false,
+        "followers_count": 620,
+        "following": false,
+        "friends_count": 843,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 15111525,
+        "id_str": "15111525",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 15,
+        "location": "Yorktown, Virginia",
+        "name": "Annette Holloway",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15111525/1460064981",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668165238361985024/Ppi5dhGO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668165238361985024/Ppi5dhGO_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "AnnetteHolloway",
+        "statuses_count": 2836,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/E8mkwcsVn8",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

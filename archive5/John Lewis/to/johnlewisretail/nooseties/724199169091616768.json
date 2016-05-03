@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 24 11:31:51 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 126664172,
+                "id_str": "126664172",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "John Lewis",
+                "screen_name": "johnlewisretail"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 724199169091616768,
+    "id_str": "724199169091616768",
+    "in_reply_to_screen_name": "johnlewisretail",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 126664172,
+    "in_reply_to_user_id_str": "126664172",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.0194808,
+                        51.525469
+                    ],
+                    [
+                        0.0694732,
+                        51.525469
+                    ],
+                    [
+                        0.0694732,
+                        51.564174
+                    ],
+                    [
+                        -0.0194808,
+                        51.564174
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Stratford, London",
+        "id": "695b360b8171c433",
+        "name": "Stratford",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/695b360b8171c433.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@johnlewisretail Your returns process on electrical goods belongs in the dark ages. Big queue &amp; only 2 staff! Rubbish!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 27 11:52:38 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Tie Designer Extraordinaire living in N17",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "nooseties.com",
+                        "expanded_url": "http://nooseties.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/VOJyRVhfWj"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 156,
+        "follow_request_sent": false,
+        "followers_count": 116,
+        "following": false,
+        "friends_count": 136,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 399367567,
+        "id_str": "399367567",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "London",
+        "name": "Lindsay Edmonson",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/442313105167511553/fzJXGbFg.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/442313105167511553/fzJXGbFg.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/399367567/1359309791",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/433314267270348800/KxykXIuU_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/433314267270348800/KxykXIuU_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nooseties",
+        "statuses_count": 329,
+        "time_zone": "London",
+        "url": "http://t.co/VOJyRVhfWj",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Apr 04 23:27:18 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/hdg2FsEqgO",
+                "expanded_url": "http://twitter.com/oytuntez/status/717131461959237632/photo/1",
+                "id": 717131440723529728,
+                "id_str": "717131440723529728",
+                "indices": [
+                    60,
+                    83
+                ],
+                "media_url": "http://pbs.twimg.com/media/CfPDPu2XEAAI2Kh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CfPDPu2XEAAI2Kh.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1820,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 1067,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 604,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/hdg2FsEqgO"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 717131461959237632,
+    "id_str": "717131461959237632",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook, we really need extensive search functionalities. https://t.co/hdg2FsEqgO",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 20 13:37:08 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Develops on the line. Startup enthusiastic. Adores living, addicted to breathing.  You'll find me wherever @motaword is.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "oytun.co",
+                        "expanded_url": "http://oytun.co",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9MveWtOD9g"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 242,
+        "follow_request_sent": false,
+        "followers_count": 262,
+        "following": false,
+        "friends_count": 557,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 835584696,
+        "id_str": "835584696",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 20,
+        "location": "New York, NY",
+        "name": "Oytun Tez",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/567699456200417281/bMTKa-dB_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/567699456200417281/bMTKa-dB_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "oytuntez",
+        "statuses_count": 704,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/9MveWtOD9g",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

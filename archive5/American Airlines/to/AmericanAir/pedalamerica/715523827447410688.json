@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 31 12:59:08 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 19608297,
+                "id_str": "19608297",
+                "indices": [
+                    13,
+                    17
+                ],
+                "name": "HumanRightsCampaign",
+                "screen_name": "HRC"
+            },
+            {
+                "id": 19649695,
+                "id_str": "19649695",
+                "indices": [
+                    18,
+                    29
+                ],
+                "name": "Equality NC",
+                "screen_name": "equalitync"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 715523827447410688,
+    "id_str": "715523827447410688",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 715249054037377025,
+    "in_reply_to_status_id_str": "715249054037377025",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanAir @HRC @equalitync Another reason the Pedal America TV show flies American!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 21 02:14:06 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Pedal America is the nat'l TV show featuring recreational #bicycling as an affordable, healthful, safe #travel activity. Check local #PBS & #Create TV stations.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "iradavidspedalamerica.com",
+                        "expanded_url": "http://www.iradavidspedalamerica.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/98APm4ntnQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 21,
+        "follow_request_sent": false,
+        "followers_count": 976,
+        "following": false,
+        "friends_count": 1110,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 205526389,
+        "id_str": "205526389",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 66,
+        "location": "USA",
+        "name": "Pedal America",
+        "notifications": false,
+        "profile_background_color": "0009A2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/483348897/pedalamericatwitterbackground.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/483348897/pedalamericatwitterbackground.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/205526389/1348714700",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1994113950/pedalamerica_logo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1994113950/pedalamerica_logo_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pedalamerica",
+        "statuses_count": 2982,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/98APm4ntnQ",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 31 22:11:41 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 715662878519517184,
+    "id_str": "715662878519517184",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 715560112815865856,
+    "in_reply_to_status_id_str": "715560112815865856",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -51.1798756,
+                        -29.8298462
+                    ],
+                    [
+                        -50.9343263,
+                        -29.8298462
+                    ],
+                    [
+                        -50.9343263,
+                        -29.6378205
+                    ],
+                    [
+                        -51.1798756,
+                        -29.6378205
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Novo Hamburgo, Brasil",
+        "id": "3b8667e69cb2797f",
+        "name": "Novo Hamburgo",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b8667e69cb2797f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir yep, I was angry at first. But anyway, it happens. Hope I can get it back soon though.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 10 11:26:17 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The sun, it shows, the sun, it blinds.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "leidemer.com",
+                        "expanded_url": "http://www.leidemer.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/UG8rFwKcdw"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1173,
+        "follow_request_sent": false,
+        "followers_count": 284,
+        "following": false,
+        "friends_count": 356,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14112812,
+        "id_str": "14112812",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Novo Hamburgo, RS, Brasil",
+        "name": "Matias H. Leidemer",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14112812/1410813188",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/464422769497604096/PzQWK0tf_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/464422769497604096/PzQWK0tf_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "matiasleidemer",
+        "statuses_count": 8595,
+        "time_zone": "Brasilia",
+        "url": "http://t.co/UG8rFwKcdw",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 31 09:04:16 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    77,
+                    89
+                ],
+                "text": "fbblueprint"
+            },
+            {
+                "indices": [
+                    90,
+                    98
+                ],
+                "text": "fbboost"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 715464718673121281,
+    "id_str": "715464718673121281",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.387438,
+                        53.2987449
+                    ],
+                    [
+                        -6.1078047,
+                        53.2987449
+                    ],
+                    [
+                        -6.1078047,
+                        53.4110598
+                    ],
+                    [
+                        -6.387438,
+                        53.4110598
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ireland",
+        "country_code": "IE",
+        "full_name": "Dublin City, Ireland",
+        "id": "7dde0febc9ef245b",
+        "name": "Dublin City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook audience insights is a great tool. Been learning all about it with #fbblueprint #fbboost",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 18 16:46:18 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A dedicated follower if its within walking distance. Add me on Snapchat @realcolm Social media manager with @kamagames. Owner @reviewed_ie #alwaysbelearning",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "reviewed.ie",
+                        "expanded_url": "http://www.reviewed.ie",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/m4082kHeJd"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 225,
+        "follow_request_sent": false,
+        "followers_count": 482,
+        "following": false,
+        "friends_count": 1255,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 40911072,
+        "id_str": "40911072",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 33,
+        "location": "Dublin, Ireland",
+        "name": "Colm Reilly",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/435140568838979584/Eakv2C5E.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/435140568838979584/Eakv2C5E.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40911072/1436474708",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/708529294356717568/IJg-agD1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/708529294356717568/IJg-agD1_normal.jpg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "realcolm",
+        "statuses_count": 3639,
+        "time_zone": "Amsterdam",
+        "url": "https://t.co/m4082kHeJd",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

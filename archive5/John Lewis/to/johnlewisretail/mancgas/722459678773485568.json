@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 19 16:19:44 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 126664172,
+                "id_str": "126664172",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "John Lewis",
+                "screen_name": "johnlewisretail"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 722459678773485568,
+    "id_str": "722459678773485568",
+    "in_reply_to_screen_name": "johnlewisretail",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 126664172,
+    "in_reply_to_user_id_str": "126664172",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.36850399906372,
+                        49.8824720005481
+                    ],
+                    [
+                        -1.48573420014269,
+                        49.8824720005481
+                    ],
+                    [
+                        -1.48573420014269,
+                        52.1125420344225
+                    ],
+                    [
+                        -6.36850399906372,
+                        52.1125420344225
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "South West, England",
+        "id": "25d3e991f5637f5a",
+        "name": "South West",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/25d3e991f5637f5a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@johnlewisretail are you seriously saying a delivery will be between 7am&amp;4pm &amp; in the 21st century you cant tell us approx when it will be?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 08 18:53:24 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Analyst in Financial Services industry (views are mine not theirs) & Bristol Rovers nut (we have to be).",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 212,
+        "follow_request_sent": false,
+        "followers_count": 524,
+        "following": false,
+        "friends_count": 623,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20384188,
+        "id_str": "20384188",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 14,
+        "location": "St Issey Padstow Cornwall",
+        "name": "Mancgas",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/302595089/cake.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/302595089/cake.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20384188/1364647576",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000689742876/3f28dbdc909a015c0487cec3c4600151_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000689742876/3f28dbdc909a015c0487cec3c4600151_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mancgas",
+        "statuses_count": 15376,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

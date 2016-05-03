@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 02 19:50:43 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 716352179242713088,
+    "id_str": "716352179242713088",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.3219475,
+                        33.752879
+                    ],
+                    [
+                        -75.40012,
+                        33.752879
+                    ],
+                    [
+                        -75.40012,
+                        36.588118
+                    ],
+                    [
+                        -84.3219475,
+                        36.588118
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "North Carolina, USA",
+        "id": "3b98b02fba3f9753",
+        "name": "North Carolina",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/3b98b02fba3f9753.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanAir Your phone rep Kimberly was the most kind, nicest airline rep I've ever spoken with! Thank you so much for all the assistance!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 13 22:29:29 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "::Obligatory Son, Brother, Husband, Father intro:: I shoot rockets, raise a super cute kid, love my pug, and my wife, and photography, and beer. And pizza.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.com/brentschmidt",
+                        "expanded_url": "http://www.about.com/brentschmidt",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/8LRKSFdhdu"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 26415,
+        "follow_request_sent": false,
+        "followers_count": 234,
+        "following": false,
+        "friends_count": 295,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 15843342,
+        "id_str": "15843342",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "Fayetteville, NC via SoCal",
+        "name": "Brent Schmidt",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/10729169/Background.jpg.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/10729169/Background.jpg.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15843342/1452109495",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/675773168791896064/4mT-7VMu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/675773168791896064/4mT-7VMu_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C7B299",
+        "profile_text_color": "616161",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "brentschmidt",
+        "statuses_count": 10677,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/8LRKSFdhdu",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

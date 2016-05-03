@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 03 04:01:45 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 716475753425014784,
+    "id_str": "716475753425014784",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 716464902848647168,
+    "in_reply_to_status_id_str": "716464902848647168",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.856247,
+                        32.932133
+                    ],
+                    [
+                        -96.807772,
+                        32.932133
+                    ],
+                    [
+                        -96.807772,
+                        32.987442
+                    ],
+                    [
+                        -96.856247,
+                        32.987442
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Addison, TX",
+        "id": "570002ce3d2a7ac1",
+        "name": "Addison",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/570002ce3d2a7ac1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@AmericanAir Just checked and it\u2019s working. Thanks.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 20 21:26:27 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "UX/UI. Food snob. Sports nerd. Film geek. Contrarian. Darth Vader's father.\n\nPowered by smoked cow and Old Fashioneds.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "behance.net/sfhosley",
+                        "expanded_url": "http://behance.net/sfhosley",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/mkWjrbCRTB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1010,
+        "follow_request_sent": false,
+        "followers_count": 766,
+        "following": false,
+        "friends_count": 376,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 49125650,
+        "id_str": "49125650",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 49,
+        "location": "Addison, TX",
+        "name": "se\u00e1n\u26a1\ufe0f\u043d\u014dsley",
+        "notifications": false,
+        "profile_background_color": "EEEEEE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/166457866/tw_bkgd.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/166457866/tw_bkgd.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49125650/1456351786",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/691079703390621698/VsRZTorj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/691079703390621698/VsRZTorj_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "1A1A1A",
+        "profile_text_color": "878787",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "sfhosley",
+        "statuses_count": 62853,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/mkWjrbCRTB",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 15 16:16:45 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 721009376585056256,
+    "id_str": "721009376585056256",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 720987342312353792,
+    "in_reply_to_status_id_str": "720987342312353792",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -114.361117,
+                        43.680374
+                    ],
+                    [
+                        -114.334986,
+                        43.680374
+                    ],
+                    [
+                        -114.334986,
+                        43.716198
+                    ],
+                    [
+                        -114.361117,
+                        43.716198
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Sun Valley, ID",
+        "id": "5f95fda8b71078e8",
+        "name": "Sun Valley",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5f95fda8b71078e8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanAir Your customers from 90 years ago would slap your faces if you gave them the kind of service and seats that you have today.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 12 13:41:14 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Stanley, Idaho..population 63. Next closest town is 64 miles away. This is that place called Middle of Nowhere you've heard about. Mapquest knows us as BFE.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "sawtoothcamera.com/fullsize.html",
+                        "expanded_url": "http://www.sawtoothcamera.com/fullsize.html",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/B8lvICiLdD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 253,
+        "follow_request_sent": false,
+        "followers_count": 72,
+        "following": false,
+        "friends_count": 289,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3151434608,
+        "id_str": "3151434608",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Stanley, Idaho",
+        "name": "William Alford",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3151434608/1460225406",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/719333334782857216/0h0vLncI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/719333334782857216/0h0vLncI_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PrivateIdahoan",
+        "statuses_count": 1731,
+        "time_zone": null,
+        "url": "https://t.co/B8lvICiLdD",
+        "utc_offset": null,
+        "verified": false
+    }
+}

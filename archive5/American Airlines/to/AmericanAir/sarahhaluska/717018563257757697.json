@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Apr 04 15:58:41 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 717018563257757697,
+    "id_str": "717018563257757697",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 717018211300945921,
+    "in_reply_to_status_id_str": "717018211300945921",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.4181075,
+                        41.696088
+                    ],
+                    [
+                        -82.122971,
+                        41.696088
+                    ],
+                    [
+                        -82.122971,
+                        48.306272
+                    ],
+                    [
+                        -90.4181075,
+                        48.306272
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Michigan, USA",
+        "id": "67d92742f1ebf307",
+        "name": "Michigan",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/67d92742f1ebf307.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir I literally can't use any of my money on my card because of you. None of my transactions will go through this is ridiculous",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 13 00:01:32 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "let's run with reckless emotion (she/her)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/thisiswaters",
+                        "expanded_url": "http://twitter.com/thisiswaters",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/T60gFoetVY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 32931,
+        "follow_request_sent": false,
+        "followers_count": 1708,
+        "following": false,
+        "friends_count": 488,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 237496516,
+        "id_str": "237496516",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 67,
+        "location": "michigan",
+        "name": "sarah haluska",
+        "notifications": false,
+        "profile_background_color": "1F9EBE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000107754136/76d8c647d5042a53e89e7580ed3d9ff2.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000107754136/76d8c647d5042a53e89e7580ed3d9ff2.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237496516/1446351832",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/716784108651868161/sFgvytng_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/716784108651868161/sFgvytng_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sarahhaluska",
+        "statuses_count": 41161,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/T60gFoetVY",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 30 21:51:54 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 715295511490772992,
+    "id_str": "715295511490772992",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -78.739947,
+                        42.892376
+                    ],
+                    [
+                        -78.676988,
+                        42.892376
+                    ],
+                    [
+                        -78.676988,
+                        42.929405
+                    ],
+                    [
+                        -78.739947,
+                        42.929405
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Depew, NY",
+        "id": "956fd3d6e2d45da8",
+        "name": "Depew",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/956fd3d6e2d45da8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook is still gay",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 25 04:52:34 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Send me money please for I do not want to do porno. PO BOX 172 Depew NY 14043, 716 395 5480, qomiter@gmail.com",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1633,
+        "follow_request_sent": false,
+        "followers_count": 747,
+        "following": false,
+        "friends_count": 2234,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 4036553255,
+        "id_str": "4036553255",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 46,
+        "location": "Depew, NY",
+        "name": "Dan Dukat",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/659174737629872128/SBELMgtv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/659174737629872128/SBELMgtv_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "qomiter",
+        "statuses_count": 7947,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

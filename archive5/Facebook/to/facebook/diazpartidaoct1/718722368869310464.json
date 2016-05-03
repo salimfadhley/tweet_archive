@@ -1,0 +1,174 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -103.2690724,
+            20.488581
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sat Apr 09 08:49:00 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Jlg1CFgUB2",
+                "expanded_url": "http://twitter.com/diazpartidaoct1/status/718722368869310464/photo/1",
+                "id": 718722364897251328,
+                "id_str": "718722364897251328",
+                "indices": [
+                    10,
+                    33
+                ],
+                "media_url": "http://pbs.twimg.com/media/CflqLtPUUAAaMiU.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CflqLtPUUAAaMiU.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 470,
+                        "resize": "fit",
+                        "w": 470
+                    },
+                    "medium": {
+                        "h": 470,
+                        "resize": "fit",
+                        "w": 470
+                    },
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/Jlg1CFgUB2"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            20.488581,
+            -103.2690724
+        ],
+        "type": "Point"
+    },
+    "id": 718722368869310464,
+    "id_str": "718722368869310464",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -103.616261,
+                        20.3586421
+                    ],
+                    [
+                        -103.198901,
+                        20.3586421
+                    ],
+                    [
+                        -103.198901,
+                        20.6207761
+                    ],
+                    [
+                        -103.616261,
+                        20.6207761
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "M\u00e9xico",
+        "country_code": "MX",
+        "full_name": "Tlajomulco de Z\u00fa\u00f1iga, Jalisco",
+        "id": "7a41c007ca0ad00e",
+        "name": "Tlajomulco de Z\u00fa\u00f1iga",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7a41c007ca0ad00e.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook https://t.co/Jlg1CFgUB2",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 25 02:06:54 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3,
+        "follow_request_sent": false,
+        "followers_count": 0,
+        "following": false,
+        "friends_count": 4,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 713185356854730752,
+        "id_str": "713185356854730752",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 0,
+        "location": "",
+        "name": "octavioDiazpartida@m",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/713189181317459968/lhh5C69y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/713189181317459968/lhh5C69y_normal.jpg",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "diazpartidaoct1",
+        "statuses_count": 5,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

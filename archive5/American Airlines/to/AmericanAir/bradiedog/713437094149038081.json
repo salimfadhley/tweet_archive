@@ -1,0 +1,142 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 25 18:47:12 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    21,
+                    29
+                ],
+                "text": "cheated"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 6449282,
+                "id_str": "6449282",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "JetBlue Airways",
+                "screen_name": "JetBlue"
+            },
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    42,
+                    54
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 713437094149038081,
+    "id_str": "713437094149038081",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 713436178129620992,
+    "in_reply_to_status_id_str": "713436178129620992",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.172219,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.934311
+                    ],
+                    [
+                        -77.172219,
+                        38.934311
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Arlington, VA",
+        "id": "319ee7b36c9149da",
+        "name": "Arlington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@JetBlue I'm sorry I #cheated on you with @AmericanAir. She enticed me with her sexy prices, took my money and left me stranded.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 17 00:21:15 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Deal with it. Rock and roll.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 175,
+        "follow_request_sent": false,
+        "followers_count": 42,
+        "following": false,
+        "friends_count": 381,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3680057895,
+        "id_str": "3680057895",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "DC by way of Boston, MA",
+        "name": "Walter Sobchak \ufe0f",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3680057895/1452913935",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/644312321142181888/EoJIdWzK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/644312321142181888/EoJIdWzK_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bradiedog",
+        "statuses_count": 470,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

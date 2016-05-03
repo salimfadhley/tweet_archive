@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 02 13:34:09 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 716257412014059520,
+    "id_str": "716257412014059520",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 716257199090040832,
+    "in_reply_to_status_id_str": "716257199090040832",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.5086841,
+                        51.4551164
+                    ],
+                    [
+                        -0.3760375,
+                        51.4551164
+                    ],
+                    [
+                        -0.3760375,
+                        51.619006
+                    ],
+                    [
+                        -0.5086841,
+                        51.619006
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Hillingdon, London",
+        "id": "42d0cf7d49d27c95",
+        "name": "Hillingdon",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/42d0cf7d49d27c95.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir any online form for customer service?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 30 12:00:07 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Mobile & Open Source technologies, Friends, Surf and Live passionate. Bilba\u00edno born in Gij\u00f3n living in Fuenla and working in @bitergia",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/jsmanrique",
+                        "expanded_url": "http://about.me/jsmanrique",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/mJRvRuS4aa"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3919,
+        "follow_request_sent": false,
+        "followers_count": 1504,
+        "following": false,
+        "friends_count": 828,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 6440602,
+        "id_str": "6440602",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 322,
+        "location": "Fuenlabrada, Madrid, Spain",
+        "name": "Manrique Lopez",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2725096/cabo-penas-1280.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2725096/cabo-penas-1280.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6440602/1398237800",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672419365845925889/raiXjy4W_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672419365845925889/raiXjy4W_normal.jpg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "5A5A5A",
+        "profile_sidebar_fill_color": "D7D7D7",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jsmanrique",
+        "statuses_count": 23076,
+        "time_zone": "Madrid",
+        "url": "http://t.co/mJRvRuS4aa",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

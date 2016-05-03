@@ -1,0 +1,131 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 29 04:12:54 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    68,
+                    77
+                ],
+                "text": "flydelta"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 714666620174671873,
+    "id_str": "714666620174671873",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.321683,
+                        25.7090404
+                    ],
+                    [
+                        -80.144974,
+                        25.7090404
+                    ],
+                    [
+                        -80.144974,
+                        25.855667
+                    ],
+                    [
+                        -80.321683,
+                        25.855667
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Miami, FL",
+        "id": "04cb31bae3b3af93",
+        "name": "Miami",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/04cb31bae3b3af93.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir - 2hr maintenance delay. No updates. Just communicate. #flydelta",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 28 16:31:21 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 454,
+        "follow_request_sent": false,
+        "followers_count": 134,
+        "following": false,
+        "friends_count": 400,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 16499841,
+        "id_str": "16499841",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "",
+        "name": "carolei",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2695313184/36bd00c9de1822c752e8306ae7561e2c_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2695313184/36bd00c9de1822c752e8306ae7561e2c_normal.jpeg",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "carolei",
+        "statuses_count": 1345,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

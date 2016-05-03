@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 25 03:37:07 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 29123121,
+                "id_str": "29123121",
+                "indices": [
+                    13,
+                    22
+                ],
+                "name": "JDBV",
+                "screen_name": "jbfresh2"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 713208063101181952,
+    "id_str": "713208063101181952",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 713204723864580096,
+    "in_reply_to_status_id_str": "713204723864580096",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.147162,
+                        25.7613083
+                    ],
+                    [
+                        -80.1187628,
+                        25.7613083
+                    ],
+                    [
+                        -80.1187628,
+                        25.872623
+                    ],
+                    [
+                        -80.147162,
+                        25.872623
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Miami Beach, FL",
+        "id": "0121b92345f0e2b4",
+        "name": "Miami Beach",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0121b92345f0e2b4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir @jbfresh2 the joke is THE WEATHER IS NORMAL.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 13 04:18:00 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Toronto | New York in my culottes | Parsons Student | Insta: @OliviaIvey",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 228,
+        "follow_request_sent": false,
+        "followers_count": 576,
+        "following": false,
+        "friends_count": 565,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 30805406,
+        "id_str": "30805406",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Toronto, Ontario",
+        "name": "Olivia Bannock",
+        "notifications": false,
+        "profile_background_color": "4885E0",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/766153058/3a7adb62e4092bb260f2183ce0a8157e.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/766153058/3a7adb62e4092bb260f2183ce0a8157e.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30805406/1455820990",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700390763440513024/ivF1NDyk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700390763440513024/ivF1NDyk_normal.jpg",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "A7F2AD",
+        "profile_text_color": "259E9E",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "OliviaIvey",
+        "statuses_count": 3357,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 09 06:05:08 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    24,
+                    32
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 718681131424436224,
+    "id_str": "718681131424436224",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -75.563587,
+                        38.788657
+                    ],
+                    [
+                        -73.88506,
+                        38.788657
+                    ],
+                    [
+                        -73.88506,
+                        41.357424
+                    ],
+                    [
+                        -75.563587,
+                        41.357424
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "New Jersey, USA",
+        "id": "65b4760a2b411e11",
+        "name": "New Jersey",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/65b4760a2b411e11.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook is better tbh @twitter",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 20 13:59:07 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 985,
+        "follow_request_sent": false,
+        "followers_count": 367,
+        "following": false,
+        "friends_count": 382,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 585691630,
+        "id_str": "585691630",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "alex",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/690538182/a95148a51a502576404c96d7e7a436f7.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/690538182/a95148a51a502576404c96d7e7a436f7.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/585691630/1457725197",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671902923757101058/HcV2Hyo8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671902923757101058/HcV2Hyo8_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_AlexAngeles_",
+        "statuses_count": 6583,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

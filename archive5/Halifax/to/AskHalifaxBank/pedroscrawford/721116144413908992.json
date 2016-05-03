@@ -1,0 +1,270 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 15 23:21:01 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/AskLloydsBank/\u2026",
+                "expanded_url": "https://twitter.com/AskLloydsBank/status/721115607085817858",
+                "indices": [
+                    63,
+                    86
+                ],
+                "url": "https://t.co/n3SWB811Kq"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 194049387,
+                "id_str": "194049387",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Halifax",
+                "screen_name": "AskHalifaxBank"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 721116144413908992,
+    "id_str": "721116144413908992",
+    "in_reply_to_screen_name": "AskHalifaxBank",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 194049387,
+    "in_reply_to_user_id_str": "194049387",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.0361161,
+                        54.543241
+                    ],
+                    [
+                        -5.8207101,
+                        54.543241
+                    ],
+                    [
+                        -5.8207101,
+                        54.6484968
+                    ],
+                    [
+                        -6.0361161,
+                        54.6484968
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Belfast, Northern Ireland",
+        "id": "28679b23ed15b380",
+        "name": "Belfast",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/28679b23ed15b380.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Apr 15 23:18:53 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 102484246,
+                    "id_str": "102484246",
+                    "indices": [
+                        0,
+                        15
+                    ],
+                    "name": "Pete Crawford",
+                    "screen_name": "pedroscrawford"
+                },
+                {
+                    "id": 194049387,
+                    "id_str": "194049387",
+                    "indices": [
+                        104,
+                        119
+                    ],
+                    "name": "Halifax",
+                    "screen_name": "AskHalifaxBank"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 721115607085817858,
+        "id_str": "721115607085817858",
+        "in_reply_to_screen_name": "pedroscrawford",
+        "in_reply_to_status_id": 721108881510895616,
+        "in_reply_to_status_id_str": "721108881510895616",
+        "in_reply_to_user_id": 102484246,
+        "in_reply_to_user_id_str": "102484246",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "@pedroscrawford whether it's possible to do this the other way around, I'm afraid. One of my colleagues @AskHalifaxBank &amp; (2/3) ^IH",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 25 12:13:11 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "We're here 24/7 to answer customer queries. Please don\u2019t tweet any personal details. Privacy Policy:http://t.co/x29SEkWYCK & Terms of Use:http://t.co/vF6W7I9QxP",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "bit.ly/1iTXOFb",
+                            "expanded_url": "http://bit.ly/1iTXOFb",
+                            "indices": [
+                                100,
+                                122
+                            ],
+                            "url": "http://t.co/x29SEkWYCK"
+                        },
+                        {
+                            "display_url": "bit.ly/1gDMU31",
+                            "expanded_url": "http://bit.ly/1gDMU31",
+                            "indices": [
+                                138,
+                                160
+                            ],
+                            "url": "http://t.co/vF6W7I9QxP"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "lloydsbank.com",
+                            "expanded_url": "http://www.lloydsbank.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/dU1qZM7n7C"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 73525,
+            "following": false,
+            "friends_count": 13450,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 147932302,
+            "id_str": "147932302",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 476,
+            "location": "",
+            "name": "Lloyds Bank",
+            "notifications": false,
+            "profile_background_color": "006A4D",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/461537706468601856/YZhhwPvE.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/461537706468601856/YZhhwPvE.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/147932302/1460381205",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/666286836407533568/wcOFBr8b_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/666286836407533568/wcOFBr8b_normal.jpg",
+            "profile_link_color": "93A644",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "AskLloydsBank",
+            "statuses_count": 167465,
+            "time_zone": "London",
+            "url": "http://t.co/dU1qZM7n7C",
+            "utc_offset": 3600,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 721115607085817858,
+    "quoted_status_id_str": "721115607085817858",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AskHalifaxBank hi, are you able to BT from Halifax to lloyds? https://t.co/n3SWB811Kq",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 06 21:26:03 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "grumpy young man. pop punk is not dead.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1510,
+        "follow_request_sent": false,
+        "followers_count": 288,
+        "following": false,
+        "friends_count": 655,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 102484246,
+        "id_str": "102484246",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Belfast",
+        "name": "Pete Crawford",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/871324453/780028bdf4292a8b35ccc70088878869.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/871324453/780028bdf4292a8b35ccc70088878869.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/102484246/1456792684",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/704465697250930688/6S3cLHKk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/704465697250930688/6S3cLHKk_normal.jpg",
+        "profile_link_color": "1575DB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pedroscrawford",
+        "statuses_count": 5423,
+        "time_zone": "Casablanca",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

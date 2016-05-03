@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 08 04:11:00 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 718290017936936960,
+    "id_str": "718290017936936960",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 718282543339016194,
+    "in_reply_to_status_id_str": "718282543339016194",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -156.447259,
+                        20.645337
+                    ],
+                    [
+                        -156.3955662,
+                        20.645337
+                    ],
+                    [
+                        -156.3955662,
+                        20.714786
+                    ],
+                    [
+                        -156.447259,
+                        20.714786
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Wailea, HI",
+        "id": "004e1dcb60bdcfca",
+        "name": "Wailea",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/004e1dcb60bdcfca.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir any update our are your responses limited to a certain list of options. I would appreciate the seating upgrade",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 01 02:31:53 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Cloud Server builder, Web App Architect, and Combat Certified Diesel Mechanic...Yep and I have exploded 3 times in one day.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/braddschick",
+                        "expanded_url": "http://about.me/braddschick",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/KNpI8NgCM5"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 13,
+        "follow_request_sent": false,
+        "followers_count": 178,
+        "following": false,
+        "friends_count": 244,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14271601,
+        "id_str": "14271601",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Orlando, Fl",
+        "name": "Bradd Schick",
+        "notifications": false,
+        "profile_background_color": "B7B396",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/66670396/x8cfffe3f87f574a82f4fb67ed553c21.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/66670396/x8cfffe3f87f574a82f4fb67ed553c21.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1318947606/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1318947606/image_normal.jpg",
+        "profile_link_color": "97806B",
+        "profile_sidebar_border_color": "97806B",
+        "profile_sidebar_fill_color": "CDD6D0",
+        "profile_text_color": "616664",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "brutusram",
+        "statuses_count": 1304,
+        "time_zone": "America/Chicago",
+        "url": "http://t.co/KNpI8NgCM5",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

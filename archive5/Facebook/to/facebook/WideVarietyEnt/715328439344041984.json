@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 31 00:02:44 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 715328439344041984,
+    "id_str": "715328439344041984",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.387438,
+                        53.2987449
+                    ],
+                    [
+                        -6.1078047,
+                        53.2987449
+                    ],
+                    [
+                        -6.1078047,
+                        53.4110598
+                    ],
+                    [
+                        -6.387438,
+                        53.4110598
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ireland",
+        "country_code": "IE",
+        "full_name": "Dublin City, Ireland",
+        "id": "7dde0febc9ef245b",
+        "name": "Dublin City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook Hey guys! Can we verify our local business on Facebook?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 12 21:31:41 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Everything for your #Wedding, #Party or #Event in one place, saving you time and money! Based in #Dublin, #Ireland, #Nationwide service! See: widevariety.eu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "widevariety.eu",
+                        "expanded_url": "http://www.widevariety.eu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/E2WNWiQSVt"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 112,
+        "follow_request_sent": false,
+        "followers_count": 606,
+        "following": false,
+        "friends_count": 697,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2918481683,
+        "id_str": "2918481683",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en-gb",
+        "listed_count": 11,
+        "location": "Ireland",
+        "name": "Wide Variety Ent",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2918481683/1455984898",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/633627232561446912/txzLT9Ya_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/633627232561446912/txzLT9Ya_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "WideVarietyEnt",
+        "statuses_count": 520,
+        "time_zone": "London",
+        "url": "http://t.co/E2WNWiQSVt",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

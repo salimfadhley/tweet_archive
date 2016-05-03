@@ -1,0 +1,176 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 01 23:22:15 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HP3JQK0kl7",
+                "expanded_url": "http://twitter.com/smaloy/status/716043026070650880/photo/1",
+                "id": 716043017186988032,
+                "id_str": "716043017186988032",
+                "indices": [
+                    88,
+                    111
+                ],
+                "media_url": "http://pbs.twimg.com/media/Ce_lVJNUUAAv5cg.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Ce_lVJNUUAAv5cg.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 688,
+                        "resize": "fit",
+                        "w": 750
+                    },
+                    "medium": {
+                        "h": 550,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 312,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/HP3JQK0kl7"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 716043026070650880,
+    "id_str": "716043026070650880",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.254211,
+                        40.634285
+                    ],
+                    [
+                        -74.138838,
+                        40.634285
+                    ],
+                    [
+                        -74.138838,
+                        40.690673
+                    ],
+                    [
+                        -74.254211,
+                        40.690673
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Elizabeth, NJ",
+        "id": "b74cebcb62a1a686",
+        "name": "Elizabeth",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b74cebcb62a1a686.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir If my flight is \"on time\" why are we still sitting in the Newark terminal? https://t.co/HP3JQK0kl7",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 25 07:00:21 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Director of social media & more at @FuseTV/ @FM_TV. Former head of content marketing at @Shutterstock. Words at @Billboard, @Hypable, @EW. Email: sarah@maloy.co",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "snapchat.com/add/smaloy",
+                        "expanded_url": "http://snapchat.com/add/smaloy",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/fgbADX3bEx"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2657,
+        "follow_request_sent": false,
+        "followers_count": 2301,
+        "following": false,
+        "friends_count": 675,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17614569,
+        "id_str": "17614569",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 219,
+        "location": "NYC via Ohio",
+        "name": "Sarah Maloy",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453989520501792769/sLAn2nIW.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453989520501792769/sLAn2nIW.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17614569/1398198729",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3622560949/354a8334be645f15948b0eb5a508798e_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3622560949/354a8334be645f15948b0eb5a508798e_normal.jpeg",
+        "profile_link_color": "F16467",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "D7EB70",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "smaloy",
+        "statuses_count": 20172,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/fgbADX3bEx",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

@@ -1,0 +1,297 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 07 08:54:17 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    10,
+                    16
+                ],
+                "text": "Image"
+            },
+            {
+                "indices": [
+                    17,
+                    29
+                ],
+                "text": "Recognition"
+            },
+            {
+                "indices": [
+                    30,
+                    42
+                ],
+                "text": "Advertising"
+            },
+            {
+                "indices": [
+                    43,
+                    53
+                ],
+                "text": "Marketing"
+            },
+            {
+                "indices": [
+                    54,
+                    58
+                ],
+                "text": "NYC"
+            },
+            {
+                "indices": [
+                    59,
+                    66
+                ],
+                "text": "Beirut"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/Digiday/status\u2026",
+                "expanded_url": "https://twitter.com/Digiday/status/717997806116544512",
+                "indices": [
+                    67,
+                    90
+                ],
+                "url": "https://t.co/kHdAT82dsB"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 717998923470606336,
+    "id_str": "717998923470606336",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        35.0757711,
+                        33.054742
+                    ],
+                    [
+                        36.6232583,
+                        33.054742
+                    ],
+                    [
+                        36.6232583,
+                        34.6919892
+                    ],
+                    [
+                        35.0757711,
+                        34.6919892
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u0644\u0628\u0646\u0627\u0646",
+        "country_code": "LB",
+        "full_name": "Lebanon",
+        "id": "583bd538eb3129d1",
+        "name": "Lebanon",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/583bd538eb3129d1.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Apr 07 08:49:51 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "trib.al/jXjOi30",
+                    "expanded_url": "http://trib.al/jXjOi30",
+                    "indices": [
+                        115,
+                        138
+                    ],
+                    "url": "https://t.co/ne1lJ6dQrA"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "geo": null,
+        "id": 717997806116544512,
+        "id_str": "717997806116544512",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Marketers (being marketers) see Facebook's new image-recognition technology for the blind as a potential windfall. https://t.co/ne1lJ6dQrA",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Feb 11 23:40:05 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Authority, insight and honesty on digital media and marketing.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "digiday.com",
+                            "expanded_url": "http://www.digiday.com/",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/lMHUkrCirm"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 513,
+            "follow_request_sent": false,
+            "followers_count": 124987,
+            "following": false,
+            "friends_count": 173,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 20640328,
+            "id_str": "20640328",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 4971,
+            "location": "New York",
+            "name": "Digiday",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000020296333/4d87aa9e651d0342da469e5119333c91.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000020296333/4d87aa9e651d0342da469e5119333c91.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20640328/1454617473",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/458784310959431680/c6QvY6CX_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/458784310959431680/c6QvY6CX_normal.png",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "E3E0E0",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Digiday",
+            "statuses_count": 39718,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/lMHUkrCirm",
+            "utc_offset": -14400,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 717997806116544512,
+    "quoted_status_id_str": "717997806116544512",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook #Image #Recognition #Advertising #Marketing #NYC #Beirut https://t.co/kHdAT82dsB",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 15 15:17:24 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Endurance = Resilience+Wisdom ;\r\n               Because Wisdom Can't Be Taught.               \nConnecting The Dots Every Day.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/profile.php?re\u2026",
+                        "expanded_url": "http://www.facebook.com/profile.php?ref=profile&id=1024847190",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Mr0xHEHY7k"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5865,
+        "follow_request_sent": false,
+        "followers_count": 735,
+        "following": false,
+        "friends_count": 748,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 40260310,
+        "id_str": "40260310",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 400,
+        "location": "Beirut,  Lebanon",
+        "name": "Arz Lubnan",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/309975142/cedar.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/309975142/cedar.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40260310/1433440234",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/628070054031048704/Ou9G_9vg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/628070054031048704/Ou9G_9vg_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tallcedarofleb",
+        "statuses_count": 13825,
+        "time_zone": "Athens",
+        "url": "http://t.co/Mr0xHEHY7k",
+        "utc_offset": 10800,
+        "verified": false
+    }
+}

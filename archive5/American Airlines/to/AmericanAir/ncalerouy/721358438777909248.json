@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 16 15:23:48 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 19081001,
+                "id_str": "19081001",
+                "indices": [
+                    37,
+                    49
+                ],
+                "name": "Foo Fighters",
+                "screen_name": "foofighters"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 721358438777909248,
+    "id_str": "721358438777909248",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 721314268688220161,
+    "in_reply_to_status_id_str": "721314268688220161",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -56.430439,
+                        -34.937896
+                    ],
+                    [
+                        -56.029341,
+                        -34.937896
+                    ],
+                    [
+                        -56.029341,
+                        -34.701599
+                    ],
+                    [
+                        -56.430439,
+                        -34.701599
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Uruguay",
+        "country_code": "UY",
+        "full_name": "Montevideo, Uruguay",
+        "id": "01a9dbb9232f0fac",
+        "name": "Montevideo",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9dbb9232f0fac.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir last week I also became @foofighters fan after the special channel when my trip started. Love your new onboard music strategy",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 16 13:01:43 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Oracle & MySQL Specialist, @UYOUG Leader, speaker, father, non stop learner. Software Engineer, OCP, Oracle ACE, Oracle Database Consultant at Pythian.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "databaseindex.blogspot.com",
+                        "expanded_url": "http://databaseindex.blogspot.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/hpO3fE6Ce0"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 775,
+        "follow_request_sent": false,
+        "followers_count": 555,
+        "following": false,
+        "friends_count": 470,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 494029303,
+        "id_str": "494029303",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 25,
+        "location": "Montevideo, Uruguay",
+        "name": "Nelson Calero",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/550964092/my-living-view.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/550964092/my-living-view.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/494029303/1357483883",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3556321433/5ce1efc47a27426515f78ec5384cc937_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3556321433/5ce1efc47a27426515f78ec5384cc937_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ncalerouy",
+        "statuses_count": 901,
+        "time_zone": "Buenos Aires",
+        "url": "http://t.co/hpO3fE6Ce0",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

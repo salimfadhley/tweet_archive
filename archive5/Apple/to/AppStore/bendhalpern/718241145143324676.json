@@ -1,0 +1,167 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 08 00:56:47 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "pic.twitter.com/llGrPFJWLz",
+                "expanded_url": "http://twitter.com/bendhalpern/status/718241145143324676/photo/1",
+                "indices": [
+                    10,
+                    33
+                ],
+                "url": "https://t.co/llGrPFJWLz"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 718241145143324676,
+    "id_str": "718241145143324676",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": 718206244213751808,
+    "in_reply_to_status_id_str": "718206244213751808",
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AppStore https://t.co/llGrPFJWLz",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 30 20:15:57 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Creator of @ThePracticalDev, co-founder of https://t.co/Es2HQWejNp and https://t.co/yIsi5iISNA. Mount Allison grad, coder, buddhist , feminist, Batman.",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Texts.com",
+                        "expanded_url": "http://Texts.com",
+                        "indices": [
+                            43,
+                            66
+                        ],
+                        "url": "https://t.co/Es2HQWejNp"
+                    },
+                    {
+                        "display_url": "Threddit.com",
+                        "expanded_url": "http://Threddit.com",
+                        "indices": [
+                            71,
+                            94
+                        ],
+                        "url": "https://t.co/yIsi5iISNA"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "benhalpern.com",
+                        "expanded_url": "http://benhalpern.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/CjslAd4Mya"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5291,
+        "follow_request_sent": false,
+        "followers_count": 3276,
+        "following": false,
+        "friends_count": 1289,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 161419043,
+        "id_str": "161419043",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 128,
+        "location": "NYC",
+        "name": "Ben Halpern",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/161419043/1458087763",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/710120063903404032/bbFU0fof_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/710120063903404032/bbFU0fof_normal.jpg",
+        "profile_link_color": "3A1E75",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bendhalpern",
+        "statuses_count": 3337,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": "https://t.co/CjslAd4Mya",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

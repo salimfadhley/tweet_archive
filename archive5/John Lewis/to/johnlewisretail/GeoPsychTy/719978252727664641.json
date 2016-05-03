@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 12 19:59:26 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 126664172,
+                "id_str": "126664172",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "John Lewis",
+                "screen_name": "johnlewisretail"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 719978252727664641,
+    "id_str": "719978252727664641",
+    "in_reply_to_screen_name": "johnlewisretail",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 126664172,
+    "in_reply_to_user_id_str": "126664172",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.476463,
+                        50.883056
+                    ],
+                    [
+                        -1.3164712,
+                        50.883056
+                    ],
+                    [
+                        -1.3164712,
+                        50.959599
+                    ],
+                    [
+                        -1.476463,
+                        50.959599
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Southampton, England",
+        "id": "1b676cd4b8a8684a",
+        "name": "Southampton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1b676cd4b8a8684a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@johnlewisretail Its been eight days since I sent your customer services an email, I know it said you were busy but this is excessive!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 18 09:29:09 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Public Health Analyst with a background in Health Psychology and a PhD in young people's cannabis and tobacco co-consumption. Retweets = not endorsements",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "richetyler.wordpress.com",
+                        "expanded_url": "http://richetyler.wordpress.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/y5OfbrU4QC"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 65,
+        "follow_request_sent": false,
+        "followers_count": 366,
+        "following": false,
+        "friends_count": 564,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25049588,
+        "id_str": "25049588",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Chichester, West Sussex",
+        "name": "Dr Rich Tyler",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2820104157/e8c7d9ea1da45847261b1fbfc9f901c5_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2820104157/e8c7d9ea1da45847261b1fbfc9f901c5_normal.jpeg",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "GeoPsychTy",
+        "statuses_count": 2447,
+        "time_zone": "London",
+        "url": "http://t.co/y5OfbrU4QC",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
