@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 03 23:18:51 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 21043742,
+                "id_str": "21043742",
+                "indices": [
+                    72,
+                    80
+                ],
+                "name": "LehighValleyAirport",
+                "screen_name": "FLYLVIA"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 727638581586612225,
+    "id_str": "727638581586612225",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 727632976088080384,
+    "in_reply_to_status_id_str": "727632976088080384",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -75.280284,
+                        39.871811
+                    ],
+                    [
+                        -74.955712,
+                        39.871811
+                    ],
+                    [
+                        -74.955712,
+                        40.13792
+                    ],
+                    [
+                        -75.280284,
+                        40.13792
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Philadelphia, PA",
+        "id": "e4a0d228eb6be76b",
+        "name": "Philadelphia",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir you've tried to help, I will still fly you! Just maybe not @FLYLVIA - charming but too challenging. Made this a 9 hour trip.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 19 18:33:30 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Passions: Travel / Adventure / Fine Food & Spirits / Culture & Great Experiences. Opinions my own. Spring travel: #Frankfurt \u2022 #Paris \u2022 #Miami \u2022 #Seattle \u2022 #LA",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "city-and-sand.com",
+                        "expanded_url": "http://city-and-sand.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/4igwCs8qpZ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6788,
+        "follow_request_sent": false,
+        "followers_count": 20261,
+        "following": false,
+        "friends_count": 19217,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 106487111,
+        "id_str": "106487111",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 489,
+        "location": "Washington, DC (or traveling)",
+        "name": "Jennifer Lichty",
+        "notifications": false,
+        "profile_background_color": "99C9DB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/114298259/xc655044745e30c2121d4fe383adb4da.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/114298259/xc655044745e30c2121d4fe383adb4da.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106487111/1428962036",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/726141775065145344/Sfw3GbHK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/726141775065145344/Sfw3GbHK_normal.jpg",
+        "profile_link_color": "1982A8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "ADDB9B",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "cityandsand",
+        "statuses_count": 37842,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/4igwCs8qpZ",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

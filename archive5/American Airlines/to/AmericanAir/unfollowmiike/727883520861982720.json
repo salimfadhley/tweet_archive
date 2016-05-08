@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 04 15:32:09 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 2904172474,
+                "id_str": "2904172474",
+                "indices": [
+                    13,
+                    29
+                ],
+                "name": "Waitress Musical",
+                "screen_name": "WaitressMusical"
+            },
+            {
+                "id": 6211972,
+                "id_str": "6211972",
+                "indices": [
+                    30,
+                    44
+                ],
+                "name": "Sara Bareilles",
+                "screen_name": "SaraBareilles"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 727883520861982720,
+    "id_str": "727883520861982720",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 727623351800209408,
+    "in_reply_to_status_id_str": "727623351800209408",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.961087,
+                        40.609423
+                    ],
+                    [
+                        -79.898315,
+                        40.609423
+                    ],
+                    [
+                        -79.898315,
+                        40.691153
+                    ],
+                    [
+                        -79.961087,
+                        40.691153
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Bakerstown, PA",
+        "id": "01d68e410bf32d54",
+        "name": "Bakerstown",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01d68e410bf32d54.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir @WaitressMusical @SaraBareilles VEGAS! \ud83c\udfb0\ud83c\udf7e rocked out on my inbound commute this morning \ud83d\ude1c",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 01 01:51:14 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I'll do whatever it takes to earn your business.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4894,
+        "follow_request_sent": false,
+        "followers_count": 607,
+        "following": false,
+        "friends_count": 374,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 480031799,
+        "id_str": "480031799",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "~i am a yinzer~",
+        "name": "lower middleclass",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/480031799/1402029223",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/691059640147316736/KxmvchRC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/691059640147316736/KxmvchRC_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "unfollowmiike",
+        "statuses_count": 15954,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

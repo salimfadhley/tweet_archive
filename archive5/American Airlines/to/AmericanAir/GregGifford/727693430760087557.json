@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 04 02:56:48 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 727693430760087557,
+    "id_str": "727693430760087557",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 727649892345090049,
+    "in_reply_to_status_id_str": "727649892345090049",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir eh, it happens. More bummed about losing the miles and the first class seats, really...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 12 14:43:07 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I think I'm hilarious & laugh at all my own jokes. Totally jazzed about Local SEO, Internet marketing, web design, photography (& bacon - everyone loves bacon)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "dealeron.com",
+                        "expanded_url": "http://www.dealeron.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/4YEUcEnovU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4838,
+        "follow_request_sent": false,
+        "followers_count": 6771,
+        "following": false,
+        "friends_count": 303,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 39513154,
+        "id_str": "39513154",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 623,
+        "location": "Dallas, TX",
+        "name": "Greg Gifford",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/474592210264944640/aCiG8Cef.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/474592210264944640/aCiG8Cef.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39513154/1398197285",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/656490832481005568/XFTprgW8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/656490832481005568/XFTprgW8_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "GregGifford",
+        "statuses_count": 28201,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/4YEUcEnovU",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

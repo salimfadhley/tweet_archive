@@ -1,0 +1,251 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 04 01:38:17 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/tombielecki/st\u2026",
+                "expanded_url": "https://twitter.com/tombielecki/status/727671903943426048",
+                "indices": [
+                    20,
+                    43
+                ],
+                "url": "https://t.co/Dq8V7Y3EHy"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 727673673021165569,
+    "id_str": "727673673021165569",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed May 04 01:31:16 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        84,
+                        92
+                    ],
+                    "text": "ymmfire"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "geo": null,
+        "id": 727671903943426048,
+        "id_str": "727671903943426048",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -114.3160379,
+                            50.84278
+                        ],
+                        [
+                            -113.859664,
+                            50.84278
+                        ],
+                        [
+                            -113.859664,
+                            51.212548
+                        ],
+                        [
+                            -114.3160379,
+                            51.212548
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "Canada",
+            "country_code": "CA",
+            "full_name": "Calgary, Alberta",
+            "id": "53504716d445dcad",
+            "name": "Calgary",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/53504716d445dcad.json"
+        },
+        "retweet_count": 5,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Anyone have a contact at Facebook to create a disaster Safety Check for evacuees in #ymmfire? Can't find a way to suggest one",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 19 01:09:13 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "CEO @PrintToPeer Techstars London 2015. Manufacturing the future.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "printtopeer.com",
+                            "expanded_url": "http://www.printtopeer.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/WSrizpo2GH"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 32789,
+            "follow_request_sent": false,
+            "followers_count": 2474,
+            "following": false,
+            "friends_count": 3206,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 13650782,
+            "id_str": "13650782",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 151,
+            "location": "London/Calgary",
+            "name": "Tom Bielecki",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/13650782/1444870279",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/652423205982896128/b23w00eV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/652423205982896128/b23w00eV_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "tombielecki",
+            "statuses_count": 16301,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/WSrizpo2GH",
+            "utc_offset": -25200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 727671903943426048,
+    "quoted_status_id_str": "727671903943426048",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook see below https://t.co/Dq8V7Y3EHy",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 17 17:17:23 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Owned by 2 very awesome Siberian cats ;). Oilers fan. Avid Days fan. Love Bryan Dattilo, Kate Mansi, Lumi & EJabby. Always choose the red pill.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "secondchanceslumi.com",
+                        "expanded_url": "http://secondchanceslumi.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/O6ZQr0a77m"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8793,
+        "follow_request_sent": false,
+        "followers_count": 555,
+        "following": false,
+        "friends_count": 245,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 57698838,
+        "id_str": "57698838",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 20,
+        "location": "Edmonton, Alberta",
+        "name": "Norma",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/527635387594723329/mS-OzVlb.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/527635387594723329/mS-OzVlb.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/57698838/1453756933",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/622976354967879681/bwlcBIph_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/622976354967879681/bwlcBIph_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lumirules",
+        "statuses_count": 27580,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": "http://t.co/O6ZQr0a77m",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

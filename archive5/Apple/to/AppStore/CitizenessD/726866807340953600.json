@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 01 20:12:06 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 726866807340953600,
+    "id_str": "726866807340953600",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -117.9287892,
+                        33.905579
+                    ],
+                    [
+                        -117.800848,
+                        33.905579
+                    ],
+                    [
+                        -117.800848,
+                        33.947725
+                    ],
+                    [
+                        -117.9287892,
+                        33.947725
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Brea, CA",
+        "id": "341aa0cdb944022e",
+        "name": "Brea",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/341aa0cdb944022e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AppStore This sucks. I made an appt. I stood in a line to check in and a line to wait for a tech. My time is valuable too",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 09 17:43:52 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 8,
+        "following": false,
+        "friends_count": 31,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 236047902,
+        "id_str": "236047902",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Brynda De Arte",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3097176137/15a8015e715d4f78d01b91ab1fa436d4_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3097176137/15a8015e715d4f78d01b91ab1fa436d4_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CitizenessD",
+        "statuses_count": 54,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

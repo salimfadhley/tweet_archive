@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 04 15:28:09 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 727882512505147393,
+    "id_str": "727882512505147393",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.046876,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.416412
+                    ],
+                    [
+                        -81.046876,
+                        35.416412
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Charlotte, NC",
+        "id": "512a8a4a4c4b4be0",
+        "name": "Charlotte",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/512a8a4a4c4b4be0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir I'm on AA1815 to PIT today, and when I checked in I was disappointed to find my seat was moved from MCE to standard coach. Why?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 26 22:06:09 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "This skin and bones is a rental",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/timothygirard",
+                        "expanded_url": "http://about.me/timothygirard",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/RRHQEkzWwA"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3446,
+        "follow_request_sent": false,
+        "followers_count": 426,
+        "following": false,
+        "friends_count": 322,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 117870329,
+        "id_str": "117870329",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "Nashville",
+        "name": "Timothy Girard",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/192122426/nvbrokenwalls_twitter.br.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/192122426/nvbrokenwalls_twitter.br.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/117870329/1454172626",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/693475642902450177/J41KR39l_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/693475642902450177/J41KR39l_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "303030",
+        "profile_text_color": "757575",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "timothygirard",
+        "statuses_count": 8191,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/RRHQEkzWwA",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
