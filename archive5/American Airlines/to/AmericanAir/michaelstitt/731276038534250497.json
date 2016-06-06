@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat May 14 00:12:48 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/tu1VNpOpIs",
+                "expanded_url": "http://twitter.com/michaelstitt/status/731276038534250497/photo/1",
+                "id": 731276032981016576,
+                "id_str": "731276032981016576",
+                "indices": [
+                    36,
+                    59
+                ],
+                "media_url": "http://pbs.twimg.com/media/CiYDrXKXIAAE_s1.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CiYDrXKXIAAE_s1.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/tu1VNpOpIs"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    1,
+                    13
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 770375334,
+                "id_str": "770375334",
+                "indices": [
+                    14,
+                    27
+                ],
+                "name": "jenniefarfar",
+                "screen_name": "jenniefarfar"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 731276038534250497,
+    "id_str": "731276038534250497",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 731227558931501058,
+    "in_reply_to_status_id_str": "731227558931501058",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "tl",
+    "metadata": {
+        "iso_language_code": "tl",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.87434482574463,
+                        40.77506559226509
+                    ],
+                    [
+                        -73.87434482574463,
+                        40.77506559226509
+                    ],
+                    [
+                        -73.87434482574463,
+                        40.77506559226509
+                    ],
+                    [
+                        -73.87434482574463,
+                        40.77506559226509
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "American Airlines Admirals Club",
+        "id": "07d9db14aa881002",
+        "name": "American Airlines Admirals Club",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9db14aa881002.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": ".@AmericanAir @jenniefarfar LGA-ORD https://t.co/tu1VNpOpIs",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 07 05:18:04 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dad. @Travelzoo exec. @IowaState and @MITSloan Alum. Arkansas native. Green. Traveler. Tweets are my own. Get busy livin'",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 559,
+        "follow_request_sent": false,
+        "followers_count": 451,
+        "following": false,
+        "friends_count": 433,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 63646322,
+        "id_str": "63646322",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Chicago",
+        "name": "Michael Stitt",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/63646322/1433639691",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/622808678605848576/kP-np08W_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/622808678605848576/kP-np08W_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "michaelstitt",
+        "statuses_count": 1261,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

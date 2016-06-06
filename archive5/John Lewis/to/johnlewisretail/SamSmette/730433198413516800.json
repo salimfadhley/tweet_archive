@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 11 16:23:39 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 126664172,
+                "id_str": "126664172",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "John Lewis",
+                "screen_name": "johnlewisretail"
+            },
+            {
+                "id": 10501042,
+                "id_str": "10501042",
+                "indices": [
+                    27,
+                    37
+                ],
+                "name": "John Lewis",
+                "screen_name": "johnlewis"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 730433198413516800,
+    "id_str": "730433198413516800",
+    "in_reply_to_screen_name": "johnlewisretail",
+    "in_reply_to_status_id": 730433017576042497,
+    "in_reply_to_status_id_str": "730433017576042497",
+    "in_reply_to_user_id": 126664172,
+    "in_reply_to_user_id_str": "126664172",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.319934,
+                        53.343623
+                    ],
+                    [
+                        -2.147026,
+                        53.343623
+                    ],
+                    [
+                        -2.147026,
+                        53.5702824
+                    ],
+                    [
+                        -2.319934,
+                        53.5702824
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Manchester, England",
+        "id": "315b740b108481f6",
+        "name": "Manchester",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/315b740b108481f6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@johnlewisretail Expecting @johnlewis to tweet about this one!! ;-)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 31 20:39:58 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "25. Works in Sales & Marketing. Programme Manager @RadioHorton & blogger/journo. Newsletter Editor for @theHBAuk. Opinions & views expressed are 99.9% my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bythemic.xyz",
+                        "expanded_url": "http://www.bythemic.xyz",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/6N04WrDbcH"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 400,
+        "follow_request_sent": false,
+        "followers_count": 1060,
+        "following": false,
+        "friends_count": 1830,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 43751478,
+        "id_str": "43751478",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 22,
+        "location": "Banbury, England",
+        "name": "Sam Smette",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452850899367387136/mrjHE9WH.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452850899367387136/mrjHE9WH.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/43751478/1416070334",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/636962006067769344/JxiLchpX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/636962006067769344/JxiLchpX_normal.jpg",
+        "profile_link_color": "000066",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SamSmette",
+        "statuses_count": 43009,
+        "time_zone": "London",
+        "url": "http://t.co/6N04WrDbcH",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

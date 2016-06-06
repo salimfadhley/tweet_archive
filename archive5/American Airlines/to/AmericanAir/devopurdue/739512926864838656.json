@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 05 17:43:15 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    133,
+                    139
+                ],
+                "text": "delay"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 739512926864838656,
+    "id_str": "739512926864838656",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 739498135886520324,
+    "in_reply_to_status_id_str": "739498135886520324",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.046876,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.416412
+                    ],
+                    [
+                        -81.046876,
+                        35.416412
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Charlotte, NC",
+        "id": "512a8a4a4c4b4be0",
+        "name": "Charlotte",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/512a8a4a4c4b4be0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir I am but the flight I am on to make my destination was delayed 30 min and now I have 10 minutes to make my next flight. #delay",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 13 10:17:01 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I came I saw I tweeted.  \r\nPurdue fan in everything except basketball.  Which is the most important one.  Go Hoosiers!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2173,
+        "follow_request_sent": false,
+        "followers_count": 119,
+        "following": false,
+        "friends_count": 100,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 435687832,
+        "id_str": "435687832",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "",
+        "name": "Dan Enlow",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/435687832/1380869138",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/614075190385987584/6zzmxb0b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/614075190385987584/6zzmxb0b_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "devopurdue",
+        "statuses_count": 1470,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

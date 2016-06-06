@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 20 07:06:50 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 78084813,
+                "id_str": "78084813",
+                "indices": [
+                    50,
+                    60
+                ],
+                "name": "US Airways",
+                "screen_name": "USAirways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 733554561600737280,
+    "id_str": "733554561600737280",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.38267421722412,
+                        37.61715491745028
+                    ],
+                    [
+                        -122.38267421722412,
+                        37.61715491745028
+                    ],
+                    [
+                        -122.38267421722412,
+                        37.61715491745028
+                    ],
+                    [
+                        -122.38267421722412,
+                        37.61715491745028
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "American Airlines",
+        "id": "07d9e3ffafc81005",
+        "name": "American Airlines",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9e3ffafc81005.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir repainting but not retrofitting your @USAirways legacy A321's is a cruel cruel joke ... This is why we can't have nice things",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 23 06:04:29 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#SQL #Tableau #R #Hokies #Sports #Analytics #coffee #tacos #beer Always go for the green in two.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 646,
+        "follow_request_sent": false,
+        "followers_count": 345,
+        "following": false,
+        "friends_count": 494,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 41985368,
+        "id_str": "41985368",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 18,
+        "location": "Austin, Tx",
+        "name": "Cory Jez",
+        "notifications": false,
+        "profile_background_color": "3030B3",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000078531434/0baf32265ac0655ec863f868290ac723.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000078531434/0baf32265ac0655ec863f868290ac723.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41985368/1458921089",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3623474582/2f11305f70483004f0b42174e9caaecd_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3623474582/2f11305f70483004f0b42174e9caaecd_normal.jpeg",
+        "profile_link_color": "CC5414",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JezLax",
+        "statuses_count": 4805,
+        "time_zone": "Quito",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

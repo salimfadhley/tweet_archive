@@ -1,0 +1,141 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 11 17:11:33 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    94,
+                    110
+                ],
+                "text": "businessmanager"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 51263711,
+                "id_str": "51263711",
+                "indices": [
+                    22,
+                    38
+                ],
+                "name": "Google Analytics",
+                "screen_name": "googleanalytics"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 730445251798650880,
+    "id_str": "730445251798650880",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -93.8461837,
+                        41.5280075
+                    ],
+                    [
+                        -93.7033258,
+                        41.5280075
+                    ],
+                    [
+                        -93.7033258,
+                        41.600507
+                    ],
+                    [
+                        -93.8461837,
+                        41.600507
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "West Des Moines, IA",
+        "id": "4a9aecc7ad6b85e6",
+        "name": "West Des Moines",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4a9aecc7ad6b85e6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook's answer to @googleanalytics not recording FB data &amp; FB offering no solution in #businessmanager...results are 40% right or wrong.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 15 22:35:01 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Interactive researcher, digital devotee, path-paving career woman at the best digital agency around. You can find me outdoors somewhere.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 10,
+        "follow_request_sent": false,
+        "followers_count": 43,
+        "following": false,
+        "friends_count": 55,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2345827832,
+        "id_str": "2345827832",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "Des Moines, IA",
+        "name": "Stephanie Grangaard",
+        "notifications": false,
+        "profile_background_color": "251810",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/434830360421998593/nHVY2a8n.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/434830360421998593/nHVY2a8n.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/434823571924189185/YS_pYL1d_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/434823571924189185/YS_pYL1d_normal.jpeg",
+        "profile_link_color": "A98E6F",
+        "profile_sidebar_border_color": "94A4AE",
+        "profile_sidebar_fill_color": "1D110A",
+        "profile_text_color": "94A4AE",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Ad_StephG",
+        "statuses_count": 96,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

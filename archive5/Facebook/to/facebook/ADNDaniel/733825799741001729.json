@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat May 21 01:04:39 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    54,
+                    64
+                ],
+                "text": "messenger"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 733825799741001729,
+    "id_str": "733825799741001729",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -99.221136,
+                        19.456367
+                    ],
+                    [
+                        -99.1431163,
+                        19.456367
+                    ],
+                    [
+                        -99.1431163,
+                        19.5152003
+                    ],
+                    [
+                        -99.221136,
+                        19.5152003
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "M\u00e9xico",
+        "country_code": "MX",
+        "full_name": "Azcapotzalco, Distrito Federal",
+        "id": "6bb01c5f4cf295dc",
+        "name": "Azcapotzalco",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6bb01c5f4cf295dc.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook what if i told everyone you Can ser All our #messenger conversations? Whats next? Youre gonna Block my political thoughts?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 29 00:40:00 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Biotechnological Engineer and proudly Mexican. Biotech should be a driver for economical and social development in Latin America",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 88,
+        "follow_request_sent": false,
+        "followers_count": 350,
+        "following": false,
+        "friends_count": 915,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 43232370,
+        "id_str": "43232370",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 9,
+        "location": "",
+        "name": "Daniel Dominguez",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/43232370/1398534975",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/727338753216249856/-rUC7O3d_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/727338753216249856/-rUC7O3d_normal.jpg",
+        "profile_link_color": "04665E",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ADNDaniel",
+        "statuses_count": 400,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

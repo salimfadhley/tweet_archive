@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 04 00:07:12 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 738884772739457024,
+    "id_str": "738884772739457024",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 738884048215363585,
+    "in_reply_to_status_id_str": "738884048215363585",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.129669,
+                        32.8785707
+                    ],
+                    [
+                        -97.029639,
+                        32.8785707
+                    ],
+                    [
+                        -97.029639,
+                        32.985097
+                    ],
+                    [
+                        -97.129669,
+                        32.985097
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Grapevine, TX",
+        "id": "352cf4e7314da0b4",
+        "name": "Grapevine",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/352cf4e7314da0b4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir 2665",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 18 10:52:02 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Lover of live music. I shoot it. I book it. Preferred speed is 33 1/3. I tweet about music. I've been named a person of interest.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/analogrob",
+                        "expanded_url": "http://twitter.com/analogrob",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/LUqhhSel9h"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1943,
+        "follow_request_sent": false,
+        "followers_count": 331,
+        "following": false,
+        "friends_count": 599,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 16837886,
+        "id_str": "16837886",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "A city near you",
+        "name": "analogrob",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/541812251586347008/pQiybpFy.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/541812251586347008/pQiybpFy.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16837886/1382582219",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3290086177/9ae9b23009efb3e7312860c3f2397507_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3290086177/9ae9b23009efb3e7312860c3f2397507_normal.jpeg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AnalogRob",
+        "statuses_count": 11935,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/LUqhhSel9h",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

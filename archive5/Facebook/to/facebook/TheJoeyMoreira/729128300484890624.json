@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 08 01:58:28 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    67,
+                    75
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 729128300484890624,
+    "id_str": "729128300484890624",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.3027957,
+                        26.6809586
+                    ],
+                    [
+                        -80.2459278,
+                        26.6809586
+                    ],
+                    [
+                        -80.2459278,
+                        26.706871
+                    ],
+                    [
+                        -80.3027957,
+                        26.706871
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Loxahatchee, FL",
+        "id": "011553566df47c41",
+        "name": "Loxahatchee",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/011553566df47c41.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook You guys should lift the 5,000 friend limit on facebook. @twitter's doing it.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 04 21:30:14 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Just a young guy whos heart is filled with love. I'm also legendary if you didn't know! Singer~Songwriter~Multi-Instrumentalist~Producer~Engineer",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/channel/UC_ZN-\u2026",
+                        "expanded_url": "https://www.youtube.com/channel/UC_ZN--p7QnD6rS29ctK-Hqg",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/oOO4qTN0Gj"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 329,
+        "follow_request_sent": false,
+        "followers_count": 186,
+        "following": false,
+        "friends_count": 527,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2372453298,
+        "id_str": "2372453298",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Loxahatchee, FL",
+        "name": "Joey Moreira",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2372453298/1462738709",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/726169600308563968/oVeG5qii_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/726169600308563968/oVeG5qii_normal.jpg",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "TheJoeyMoreira",
+        "statuses_count": 296,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/oOO4qTN0Gj",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

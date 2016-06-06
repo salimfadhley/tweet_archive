@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 15 13:28:06 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 731838570357506048,
+    "id_str": "731838570357506048",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.351414,
+                        25.897971
+                    ],
+                    [
+                        -80.291808,
+                        25.897971
+                    ],
+                    [
+                        -80.291808,
+                        25.9276947
+                    ],
+                    [
+                        -80.351414,
+                        25.9276947
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Miami Lakes, FL",
+        "id": "d286131d0c030d06",
+        "name": "Miami Lakes",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/d286131d0c030d06.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir yesterday we cant use the dinner baucher becase the hotel service was closed ... Disappointed",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 26 11:57:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Happy father and passionate programmer",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "moove-it.com",
+                        "expanded_url": "http://www.moove-it.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Gu3AI66uTY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 73,
+        "follow_request_sent": false,
+        "followers_count": 52,
+        "following": false,
+        "friends_count": 100,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 22001171,
+        "id_str": "22001171",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 1,
+        "location": "Montevideo, Uruguay",
+        "name": "Pablo Ifran",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1418724449/elpic_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1418724449/elpic_normal.jpg",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "elneopic",
+        "statuses_count": 83,
+        "time_zone": "Buenos Aires",
+        "url": "https://t.co/Gu3AI66uTY",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

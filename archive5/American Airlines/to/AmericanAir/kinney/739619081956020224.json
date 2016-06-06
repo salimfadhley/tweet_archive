@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -87.90046528,
+            41.97305619
+        ],
+        "type": "Point"
+    },
+    "created_at": "Mon Jun 06 00:45:05 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            41.97305619,
+            -87.90046528
+        ],
+        "type": "Point"
+    },
+    "id": 739619081956020224,
+    "id_str": "739619081956020224",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "@AmericanAir Not a complaint, just curious. Why are pax kept on the tarmac for over an hour versus letting us stay in the terminal? AA2742",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 17 19:26:03 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u1d40\u1d3f\u1d2c\u1d30\u1d31\u1d3f",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3,
+        "follow_request_sent": false,
+        "followers_count": 1933,
+        "following": false,
+        "friends_count": 25,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 300439635,
+        "id_str": "300439635",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Chicago, IL",
+        "name": "Kinney",
+        "notifications": false,
+        "profile_background_color": "121314",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/300439635/1434135855",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/734293153252007936/lmb5w2li_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/734293153252007936/lmb5w2li_normal.jpg",
+        "profile_link_color": "45526E",
+        "profile_sidebar_border_color": "FAFAFA",
+        "profile_sidebar_fill_color": "D6D6D6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "kinney",
+        "statuses_count": 722,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

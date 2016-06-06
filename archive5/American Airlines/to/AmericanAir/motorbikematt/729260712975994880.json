@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 08 10:44:37 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 729260712975994880,
+    "id_str": "729260712975994880",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 729260055174909952,
+    "in_reply_to_status_id_str": "729260055174909952",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.28853,
+                        37.443954
+                    ],
+                    [
+                        -122.177339,
+                        37.443954
+                    ],
+                    [
+                        -122.177339,
+                        37.550633
+                    ],
+                    [
+                        -122.28853,
+                        37.550633
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Redwood City, CA",
+        "id": "a409256339a7c6a1",
+        "name": "Redwood City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a409256339a7c6a1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir an update on the status online or a phone call---as was promised in DCA--- world be great. That's a LOT of $$$ in gear you have",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 12 04:55:36 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Strategic Planning Manager: @GoPro Advanced Media & VR/360\u00b0 Content|\n#BurningMan Ranger & Webcast | Lover of #MakerFaire|#CampusParty|#Phish \n#Dent The Future!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "motorbikematt.com",
+                        "expanded_url": "http://motorbikematt.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/2EsObMGyuu"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1642,
+        "follow_request_sent": false,
+        "followers_count": 3245,
+        "following": false,
+        "friends_count": 774,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 7420552,
+        "id_str": "7420552",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 187,
+        "location": "San Francisco, CA",
+        "name": "Matthew F. Reyes",
+        "notifications": false,
+        "profile_background_color": "050505",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/415932128/twitterback.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/415932128/twitterback.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7420552/1425886100",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/563455243065647105/Mt4T_LPB_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/563455243065647105/Mt4T_LPB_normal.png",
+        "profile_link_color": "7D3C32",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "BAC5DE",
+        "profile_text_color": "465271",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "motorbikematt",
+        "statuses_count": 20554,
+        "time_zone": "America/Los_Angeles",
+        "url": "http://t.co/2EsObMGyuu",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

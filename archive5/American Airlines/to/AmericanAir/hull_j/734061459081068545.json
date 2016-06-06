@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat May 21 16:41:04 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 734061459081068545,
+    "id_str": "734061459081068545",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -112.0383105,
+                        40.6998952
+                    ],
+                    [
+                        -111.795741,
+                        40.6998952
+                    ],
+                    [
+                        -111.795741,
+                        40.8317151
+                    ],
+                    [
+                        -112.0383105,
+                        40.8317151
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Salt Lake City, UT",
+        "id": "bd7c511e9f8bc5da",
+        "name": "Salt Lake City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/bd7c511e9f8bc5da.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Kelli the flight attendant on flight 2510 DFW--&gt;SLC was fantastic! Thanks for her great service!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 12 16:32:55 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Fractional CTO. USMA, Darden grad. Cofounded @o19s, @myfinanswers. Soccer, travel nut. Dog lover. American Outlaw.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "sylvanusassociates.com",
+                        "expanded_url": "http://www.sylvanusassociates.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/n8CJKlLz76"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3164,
+        "follow_request_sent": false,
+        "followers_count": 2375,
+        "following": false,
+        "friends_count": 28,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18905581,
+        "id_str": "18905581",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 148,
+        "location": "Dallas, TX",
+        "name": "Jason Hull, CFP\u00ae",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5048833/parrot.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5048833/parrot.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/86279900/parrot_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/86279900/parrot_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "hull_j",
+        "statuses_count": 10214,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/n8CJKlLz76",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

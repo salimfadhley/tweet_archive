@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 16 20:20:51 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 194049387,
+                "id_str": "194049387",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Halifax",
+                "screen_name": "AskHalifaxBank"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 732304827976429569,
+    "id_str": "732304827976429569",
+    "in_reply_to_screen_name": "AskHalifaxBank",
+    "in_reply_to_status_id": 732304634790973442,
+    "in_reply_to_status_id_str": "732304634790973442",
+    "in_reply_to_user_id": 194049387,
+    "in_reply_to_user_id_str": "194049387",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        0.244138,
+                        50.750758
+                    ],
+                    [
+                        0.3280998,
+                        50.750758
+                    ],
+                    [
+                        0.3280998,
+                        50.8132927
+                    ],
+                    [
+                        0.244138,
+                        50.8132927
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Eastbourne, England",
+        "id": "3dc7b71f520e2d15",
+        "name": "Eastbourne",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3dc7b71f520e2d15.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@AskHalifaxBank initially via mobile but now via laptop",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 19 11:30:04 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Conference Tech, Mac fan, bleepy music lover, gadget freak, photography nut, husband and father.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "flavors.me/michaelvermaak",
+                        "expanded_url": "http://flavors.me/michaelvermaak",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/qny5sU5nZ3"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 336,
+        "follow_request_sent": false,
+        "followers_count": 211,
+        "following": false,
+        "friends_count": 95,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 21290933,
+        "id_str": "21290933",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 15,
+        "location": "iPhone: 50.791683,0.317876",
+        "name": "Michael Vermaak",
+        "notifications": false,
+        "profile_background_color": "8A3030",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/551221786/Twins1.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/551221786/Twins1.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21290933/1400665611",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/492203822484566016/A7PebVuD_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/492203822484566016/A7PebVuD_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "michaelvermaak",
+        "statuses_count": 7809,
+        "time_zone": "London",
+        "url": "http://t.co/qny5sU5nZ3",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

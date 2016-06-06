@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 22 01:14:05 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 734190565152194560,
+    "id_str": "734190565152194560",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 734178535728762881,
+    "in_reply_to_status_id_str": "734178535728762881",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.235287,
+                        32.944965
+                    ],
+                    [
+                        -80.109533,
+                        32.944965
+                    ],
+                    [
+                        -80.109533,
+                        33.054993
+                    ],
+                    [
+                        -80.235287,
+                        33.054993
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Summerville, SC",
+        "id": "676d5bedd73ca2ec",
+        "name": "Summerville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/676d5bedd73ca2ec.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir safe travels!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 15 23:42:45 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "The Captain",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 178,
+        "follow_request_sent": false,
+        "followers_count": 94,
+        "following": false,
+        "friends_count": 285,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 216172487,
+        "id_str": "216172487",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Charleston, SC",
+        "name": "KRMackins",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/216172487/1431442141",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/556179147089653760/52R7u4g2_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/556179147089653760/52R7u4g2_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KRMackins",
+        "statuses_count": 2154,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

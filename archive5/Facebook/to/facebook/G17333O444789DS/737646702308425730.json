@@ -1,0 +1,316 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 31 14:07:33 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/TSA/status/737\u2026",
+                "expanded_url": "https://twitter.com/TSA/status/737644249072574465",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/XUmPbs5qRw"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 737646702308425730,
+    "id_str": "737646702308425730",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -104.910562,
+                        38.741142
+                    ],
+                    [
+                        -104.668092,
+                        38.741142
+                    ],
+                    [
+                        -104.668092,
+                        39.035895
+                    ],
+                    [
+                        -104.910562,
+                        39.035895
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Colorado Springs, CO",
+        "id": "adc95f2911133646",
+        "name": "Colorado Springs",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/adc95f2911133646.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue May 31 13:57:48 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        11,
+                        23
+                    ],
+                    "text": "TSAontheJob"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/u3ptcxgGwD",
+                    "expanded_url": "http://twitter.com/TSA/status/737644249072574465/photo/1",
+                    "id": 737642808203431936,
+                    "id_str": "737642808203431936",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CjyiOdIWUAAW8vN.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CjyiOdIWUAAW8vN.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 678,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 397,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 225,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/u3ptcxgGwD"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "1.usa.gov/1Urj066",
+                    "expanded_url": "http://1.usa.gov/1Urj066",
+                    "indices": [
+                        80,
+                        103
+                    ],
+                    "url": "https://t.co/QGgXJuWPvn"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 5,
+        "favorited": false,
+        "geo": null,
+        "id": 737644249072574465,
+        "id_str": "737644249072574465",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Our latest #TSAontheJob blog post spotlights the work of our security officers. https://t.co/QGgXJuWPvn https://t.co/u3ptcxgGwD",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Nov 16 22:47:58 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "TSA was created to ensure the freedom of movement for people and commerce. Tweet to @AskTSA for customer service. https://t.co/OigivN5Wo9",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "tsa.gov/privacy",
+                            "expanded_url": "http://tsa.gov/privacy",
+                            "indices": [
+                                114,
+                                137
+                            ],
+                            "url": "https://t.co/OigivN5Wo9"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "tsa.gov",
+                            "expanded_url": "http://tsa.gov",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/Dc3TizFMmp"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 99,
+            "follow_request_sent": false,
+            "followers_count": 76859,
+            "following": false,
+            "friends_count": 440,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 414331122,
+            "id_str": "414331122",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 966,
+            "location": "United States",
+            "name": "TSA",
+            "notifications": false,
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/365715581/Step-and-Repeat-bkgrnd-web.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/365715581/Step-and-Repeat-bkgrnd-web.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/414331122/1438176627",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/695121003207233536/OTkSdMvE_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/695121003207233536/OTkSdMvE_normal.png",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "C6E2EE",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "TSA",
+            "statuses_count": 4035,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/Dc3TizFMmp",
+            "utc_offset": -14400,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 737644249072574465,
+    "quoted_status_id_str": "737644249072574465",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook Mark.... I'm more advanced than anyone in Silicon Valley.You all just cons and emotionally disturbed brats https://t.co/XUmPbs5qRw",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 03 08:05:48 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Entrepreneur, Finance Adviser, International Consultant,Chef & Iman #7DMC Consulting http://t.co/zIASLqwI0F & Chef @ #Lizzys http://t.co/Jydq8DnYMC",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "agooden3.wix.com/7dmc",
+                        "expanded_url": "http://agooden3.wix.com/7dmc",
+                        "indices": [
+                            85,
+                            107
+                        ],
+                        "url": "http://t.co/zIASLqwI0F"
+                    },
+                    {
+                        "display_url": "agooden3.wix.com/lizzysmobile",
+                        "expanded_url": "http://agooden3.wix.com/lizzysmobile",
+                        "indices": [
+                            125,
+                            147
+                        ],
+                        "url": "http://t.co/Jydq8DnYMC"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3120,
+        "follow_request_sent": false,
+        "followers_count": 308,
+        "following": false,
+        "friends_count": 207,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3306896668,
+        "id_str": "3306896668",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Akron, OH Colorado Springs, CO",
+        "name": "WhiteHorseBow1",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/655345733567053825/x2AZIIAW.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/655345733567053825/x2AZIIAW.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3306896668/1445082779",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655352187548258305/_dmGHiHW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655352187548258305/_dmGHiHW_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "G17333O444789DS",
+        "statuses_count": 76257,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

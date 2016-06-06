@@ -1,0 +1,169 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 12 20:59:09 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    10,
+                    18
+                ],
+                "text": "modeoff"
+            },
+            {
+                "indices": [
+                    19,
+                    24
+                ],
+                "text": "ios9"
+            },
+            {
+                "indices": [
+                    25,
+                    30
+                ],
+                "text": "fail"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 730864914777149440,
+    "id_str": "730864914777149440",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        12.6974365,
+                        41.7782363
+                    ],
+                    [
+                        12.7605467,
+                        41.7782363
+                    ],
+                    [
+                        12.7605467,
+                        41.8905976
+                    ],
+                    [
+                        12.6974365,
+                        41.8905976
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Italia",
+        "country_code": "IT",
+        "full_name": "Monte Compatri, Lazio",
+        "id": "dcbec30089f8c6e3",
+        "name": "Monte Compatri",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/dcbec30089f8c6e3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook #modeoff #ios9 #fail",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 15 21:17:34 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "L'Ideatore della society vwpc(https://t.co/g0N5GcBwSl)",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "vwpoloclub.com",
+                        "expanded_url": "http://www.vwpoloclub.com",
+                        "indices": [
+                            30,
+                            53
+                        ],
+                        "url": "https://t.co/g0N5GcBwSl"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/marcopedico",
+                        "expanded_url": "http://www.facebook.com/marcopedico",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/temXg6QIvM"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 18,
+        "follow_request_sent": false,
+        "followers_count": 247,
+        "following": false,
+        "friends_count": 671,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 133458050,
+        "id_str": "133458050",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "it",
+        "listed_count": 4,
+        "location": "41.807659,12.60886",
+        "name": "MarcoPedico\uf8ff",
+        "notifications": false,
+        "profile_background_color": "472814",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/401209278/DSC_0040.JPG",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/401209278/DSC_0040.JPG",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/133458050/1357680634",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2370884100/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2370884100/image_normal.jpg",
+        "profile_link_color": "9E9697",
+        "profile_sidebar_border_color": "1C197D",
+        "profile_sidebar_fill_color": "472814",
+        "profile_text_color": "DDE7EB",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MarcoPedico",
+        "statuses_count": 12263,
+        "time_zone": "Rome",
+        "url": "https://t.co/temXg6QIvM",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 10 00:43:54 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    72,
+                    77
+                ],
+                "text": "FAIL"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 346742249,
+                "id_str": "346742249",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "ZARA",
+                "screen_name": "ZARA"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 729834311843745792,
+    "id_str": "729834311843745792",
+    "in_reply_to_screen_name": "ZARA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 346742249,
+    "in_reply_to_user_id_str": "346742249",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -56.430439,
+                        -34.937896
+                    ],
+                    [
+                        -56.029341,
+                        -34.937896
+                    ],
+                    [
+                        -56.029341,
+                        -34.701599
+                    ],
+                    [
+                        -56.430439,
+                        -34.701599
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Uruguay",
+        "country_code": "UY",
+        "full_name": "Montevideo, Uruguay",
+        "id": "01a9dbb9232f0fac",
+        "name": "Montevideo",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9dbb9232f0fac.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ZARA qu\u00e9 desastre su pol\u00edtica de devoluciones, \u00bfel cliente no importa? #FAIL",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 12 04:37:39 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Casado con @Andreun, padre de @ilPiccoloPippo y @JulianaCaviglia. Millonario en sonrisas. Emprendedor https://t.co/yuH76qysoE \u2022 @vixur  Snapchat: jicaviglia",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "meit.re",
+                        "expanded_url": "http://meit.re",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "url": "https://t.co/yuH76qysoE"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/juanauta/",
+                        "expanded_url": "http://Instagram.com/juanauta/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/m01cgUOpgf"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 19348,
+        "follow_request_sent": false,
+        "followers_count": 1154,
+        "following": false,
+        "friends_count": 107,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 165645951,
+        "id_str": "165645951",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 46,
+        "location": "Montevideo, Uruguay",
+        "name": "Juan Ignacio",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000008367658/e2c1ad1fd49a70f0e634104cd1c2c7b8.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000008367658/e2c1ad1fd49a70f0e634104cd1c2c7b8.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/165645951/1446405164",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/660898767546286081/aY6sqINi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/660898767546286081/aY6sqINi_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "juancaviglia",
+        "statuses_count": 20365,
+        "time_zone": "Brasilia",
+        "url": "https://t.co/m01cgUOpgf",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 09 14:42:50 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 729683050347433985,
+    "id_str": "729683050347433985",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 729682039532703744,
+    "in_reply_to_status_id_str": "729682039532703744",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.035311,
+                        37.193164
+                    ],
+                    [
+                        -121.71215,
+                        37.193164
+                    ],
+                    [
+                        -121.71215,
+                        37.469154
+                    ],
+                    [
+                        -122.035311,
+                        37.469154
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Jose, CA",
+        "id": "7d62cffe6f98f349",
+        "name": "San Jose",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7d62cffe6f98f349.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Sent it but don't think it actually helps. Just pointing out that if someone uses a digital boarding pass and the app fails...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 02 04:44:33 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#Abstract watercolor artist. \u2764 Be nice to people. It feels good. Managing #social @udacity. Like the Facebook page for musings & arty things.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/artbyluzdonahu\u2026",
+                        "expanded_url": "https://facebook.com/artbyluzdonahue/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Yh9Z7g6zDm"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 512,
+        "follow_request_sent": false,
+        "followers_count": 9276,
+        "following": false,
+        "friends_count": 6380,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 246117033,
+        "id_str": "246117033",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 245,
+        "location": "Santa Cruz,CA",
+        "name": "Luz Donahue",
+        "notifications": false,
+        "profile_background_color": "FFF6E4",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/445859977714880513/tmTVUBnq.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/445859977714880513/tmTVUBnq.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/246117033/1456365897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/702675287511699456/FppTziYX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/702675287511699456/FppTziYX_normal.jpg",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CCFF",
+        "profile_text_color": "003399",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "luzdonahue",
+        "statuses_count": 13031,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/Yh9Z7g6zDm",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

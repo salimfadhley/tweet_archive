@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 02 20:22:40 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    69,
+                    78
+                ],
+                "text": "shutdown"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 738465880946802688,
+    "id_str": "738465880946802688",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.34266,
+                        37.699279
+                    ],
+                    [
+                        -122.114711,
+                        37.699279
+                    ],
+                    [
+                        -122.114711,
+                        37.8847092
+                    ],
+                    [
+                        -122.34266,
+                        37.8847092
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Oakland, CA",
+        "id": "ab2f2fac83aa388d",
+        "name": "Oakland",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ab2f2fac83aa388d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AppStore What's going on with y'all? I got some APPS I need to cop. #shutdown",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 12 03:44:49 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "This is the GoldenGriffin X3! One part of The Verbal Image artist collective. The emcee with a quality rhyme flow. Thanks for stopping by.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "TheVerbalimage.com",
+                        "expanded_url": "http://www.TheVerbalimage.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/pYx5kHcmHN"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 143,
+        "follow_request_sent": false,
+        "followers_count": 77,
+        "following": false,
+        "friends_count": 260,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2287573586,
+        "id_str": "2287573586",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "OAKLAND, CA",
+        "name": "Golden Griffin X3",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2287573586/1412141131",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/422264887704698880/iooWCFdj_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/422264887704698880/iooWCFdj_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GoldenGriffinX3",
+        "statuses_count": 1112,
+        "time_zone": null,
+        "url": "http://t.co/pYx5kHcmHN",
+        "utc_offset": null,
+        "verified": false
+    }
+}

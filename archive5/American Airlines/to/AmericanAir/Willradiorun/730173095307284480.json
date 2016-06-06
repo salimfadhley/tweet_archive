@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 10 23:10:06 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 730173095307284480,
+    "id_str": "730173095307284480",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 730172449044619264,
+    "in_reply_to_status_id_str": "730172449044619264",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir just talked to them and I've never heard dismissive responses like this",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 21 04:08:13 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Music and sports inclined person living in Dallas, TX. Focus on ice breaking. https://t.co/IhhUeQMuao",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "itunes.apple.com/us/podcast/bre\u2026",
+                        "expanded_url": "https://itunes.apple.com/us/podcast/breaking-the-ice/id1008559984?mt=2",
+                        "indices": [
+                            78,
+                            101
+                        ],
+                        "url": "https://t.co/IhhUeQMuao"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "soundcloud.com/makeastart",
+                        "expanded_url": "https://soundcloud.com/makeastart",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Bg1lRaBXRa"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4054,
+        "follow_request_sent": false,
+        "followers_count": 1118,
+        "following": false,
+        "friends_count": 987,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25637175,
+        "id_str": "25637175",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 25,
+        "location": "Dallas, Texas",
+        "name": "Will",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000042100177/b64f587dd1addb56bec8cab62e89c3c3.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000042100177/b64f587dd1addb56bec8cab62e89c3c3.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25637175/1440548771",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/729513368604708864/yat9KeXW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/729513368604708864/yat9KeXW_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Willradiorun",
+        "statuses_count": 7004,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/Bg1lRaBXRa",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

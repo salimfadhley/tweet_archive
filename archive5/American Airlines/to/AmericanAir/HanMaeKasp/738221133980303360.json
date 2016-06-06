@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 02 04:10:08 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    26,
+                    33
+                ],
+                "text": "AAPlus"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 738221133980303360,
+    "id_str": "738221133980303360",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 738172246292733954,
+    "in_reply_to_status_id_str": "738172246292733954",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.977527,
+                        32.620678
+                    ],
+                    [
+                        -96.54598,
+                        32.620678
+                    ],
+                    [
+                        -96.54598,
+                        33.019039
+                    ],
+                    [
+                        -96.977527,
+                        33.019039
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Dallas, TX",
+        "id": "18810aa5b43e76c7",
+        "name": "Dallas",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/18810aa5b43e76c7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir more like an #AAPlus am I right??",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 19 23:19:40 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "self-proclaimed babe",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5639,
+        "follow_request_sent": false,
+        "followers_count": 286,
+        "following": false,
+        "friends_count": 239,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 25407593,
+        "id_str": "25407593",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Dallas, TX",
+        "name": "Champagne Abuela",
+        "notifications": false,
+        "profile_background_color": "120838",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453199503848267776/BcftnD1h.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453199503848267776/BcftnD1h.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25407593/1450452402",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/726435243364753412/l2juQ4fR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/726435243364753412/l2juQ4fR_normal.jpg",
+        "profile_link_color": "93C24E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "ACDAE8",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HanMaeKasp",
+        "statuses_count": 10671,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

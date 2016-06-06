@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 13 18:33:22 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    42,
+                    55
+                ],
+                "text": "Schreibnacht"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 731190614721724416,
+    "id_str": "731190614721724416",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "de",
+    "metadata": {
+        "iso_language_code": "de",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        9.038755,
+                        48.692258
+                    ],
+                    [
+                        9.31594,
+                        48.692258
+                    ],
+                    [
+                        9.31594,
+                        48.866345
+                    ],
+                    [
+                        9.038755,
+                        48.866345
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Deutschland",
+        "country_code": "DE",
+        "full_name": "Stuttgart, Germany",
+        "id": "e385d4d639c6a423",
+        "name": "Stuttgart",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e385d4d639c6a423.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook fordert mich auf die Fragen zur #Schreibnacht langsamer zu beantworten, sondern blockieren sie die Funktion. WHAT THE HECK ...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 04 16:26:11 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Professional storyteller. Published author. Whovian.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "adriana-popescu.de",
+                        "expanded_url": "http://www.adriana-popescu.de",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/K1vhbVxs4i"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4110,
+        "follow_request_sent": false,
+        "followers_count": 1389,
+        "following": false,
+        "friends_count": 500,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 428319339,
+        "id_str": "428319339",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "de",
+        "listed_count": 73,
+        "location": "0711",
+        "name": "Adriana Popescu",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/495881326545731584/ncZIejke.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/495881326545731584/ncZIejke.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/428319339/1454746739",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/723869228231733249/JDUE453I_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/723869228231733249/JDUE453I_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WritingPanda_7",
+        "statuses_count": 19326,
+        "time_zone": "Athens",
+        "url": "https://t.co/K1vhbVxs4i",
+        "utc_offset": 10800,
+        "verified": false
+    }
+}

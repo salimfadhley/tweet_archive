@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 31 17:37:51 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 737699627051319297,
+    "id_str": "737699627051319297",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 737694255699791872,
+    "in_reply_to_status_id_str": "737694255699791872",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.6823831,
+                        38.205307
+                    ],
+                    [
+                        -122.584356,
+                        38.205307
+                    ],
+                    [
+                        -122.584356,
+                        38.283601
+                    ],
+                    [
+                        -122.6823831,
+                        38.283601
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Petaluma, CA",
+        "id": "239aa72871ae24ab",
+        "name": "Petaluma",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/239aa72871ae24ab.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir you might be required to if you want to sit with your family! Right??",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 09 16:31:50 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Grammar Expert. Check out my best- selling grammar books and The Grammar Diva blog! Got a grammar question? Just ask.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bigwords101.com",
+                        "expanded_url": "http://www.bigwords101.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/jGUh2IOcIi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 418,
+        "follow_request_sent": false,
+        "followers_count": 2563,
+        "following": false,
+        "friends_count": 1586,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 432642277,
+        "id_str": "432642277",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 142,
+        "location": "San Francisco North Bay Area ",
+        "name": "Arlene Miller",
+        "notifications": false,
+        "profile_background_color": "F54A0C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/802602899/0d6d870e53c76f57b35d52c5ff272338.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/802602899/0d6d870e53c76f57b35d52c5ff272338.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/432642277/1449161153",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/530611055458652160/QEo8OfLW_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/530611055458652160/QEo8OfLW_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TheGrammarDiva",
+        "statuses_count": 5387,
+        "time_zone": null,
+        "url": "http://t.co/jGUh2IOcIi",
+        "utc_offset": null,
+        "verified": false
+    }
+}

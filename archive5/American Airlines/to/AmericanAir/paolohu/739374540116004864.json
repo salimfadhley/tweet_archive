@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 05 08:33:21 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 739374540116004864,
+    "id_str": "739374540116004864",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 739373603368488960,
+    "in_reply_to_status_id_str": "739373603368488960",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -156.451736,
+                        20.882087
+                    ],
+                    [
+                        -156.392681,
+                        20.882087
+                    ],
+                    [
+                        -156.392681,
+                        20.914336
+                    ],
+                    [
+                        -156.451736,
+                        20.914336
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Spreckelsville, HI",
+        "id": "00a153942e628520",
+        "name": "Spreckelsville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00a153942e628520.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@AmericanAir I won\u2019t hold my breath",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 09 15:45:02 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Mostly harmless.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2110,
+        "follow_request_sent": false,
+        "followers_count": 227,
+        "following": false,
+        "friends_count": 310,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15060680,
+        "id_str": "15060680",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Sector ZZ9 Plural Z Alpha",
+        "name": "Paolo Hutchison",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15060680/1398202846",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/413367926566027264/rA8HIdBD_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/413367926566027264/rA8HIdBD_normal.jpeg",
+        "profile_link_color": "2C2CCF",
+        "profile_sidebar_border_color": "4B5739",
+        "profile_sidebar_fill_color": "577026",
+        "profile_text_color": "C7CF87",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "paolohu",
+        "statuses_count": 16556,
+        "time_zone": "Arizona",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

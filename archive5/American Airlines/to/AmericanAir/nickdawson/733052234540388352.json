@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 18 21:50:46 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 733052234540388352,
+    "id_str": "733052234540388352",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 733041945342181377,
+    "in_reply_to_status_id_str": "733041945342181377",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.7067967,
+                        38.917578
+                    ],
+                    [
+                        -84.606098,
+                        38.917578
+                    ],
+                    [
+                        -84.606098,
+                        39.060938
+                    ],
+                    [
+                        -84.7067967,
+                        39.060938
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Florence, KY",
+        "id": "dcd73905ee565216",
+        "name": "Florence",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/dcd73905ee565216.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@AmericanAir sorry that\u2019s talking out of both sides of your mouth. A destination is a destination. It should benefit y\u2019all if I go direct",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 20 16:31:09 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Run most days, ski when I can\n\nJohns Hopkins @SibleyHub\nDrawn to things that make life & healthcare better through design, tech & empathy\n@StanfordMedX & @s4pm",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "nickdawson.net",
+                        "expanded_url": "http://www.nickdawson.net",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/aMTwklFdth"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5228,
+        "follow_request_sent": false,
+        "followers_count": 7483,
+        "following": false,
+        "friends_count": 1646,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1644991,
+        "id_str": "1644991",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 613,
+        "location": "Washington, DC",
+        "name": "Nick Dawson",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/1223382/IMG_3919.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/1223382/IMG_3919.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1644991/1398264182",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/526473766323617792/BnulhyXV_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/526473766323617792/BnulhyXV_normal.jpeg",
+        "profile_link_color": "33333B",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nickdawson",
+        "statuses_count": 57287,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/aMTwklFdth",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

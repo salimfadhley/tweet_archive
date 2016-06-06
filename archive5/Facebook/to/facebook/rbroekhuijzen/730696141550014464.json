@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 12 09:48:30 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 730696141550014464,
+    "id_str": "730696141550014464",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        6.7243644,
+                        52.8046523
+                    ],
+                    [
+                        7.0456409,
+                        52.8046523
+                    ],
+                    [
+                        7.0456409,
+                        52.9933143
+                    ],
+                    [
+                        6.7243644,
+                        52.9933143
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Nederland",
+        "country_code": "NL",
+        "full_name": "Borger-Odoorn, Nederland",
+        "id": "dcd56821cc63f82e",
+        "name": "Borger-Odoorn",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/dcd56821cc63f82e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook why is it that I can't set up a Facebook live feed on my account? I was able before",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 02 08:53:33 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Richard Broekhuijzen | Fotograaf | Odoorn | #SpeakUpStopPesten",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bfotografie.nl",
+                        "expanded_url": "http://www.bfotografie.nl",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/CBNIyLc0yQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 385,
+        "follow_request_sent": false,
+        "followers_count": 781,
+        "following": false,
+        "friends_count": 854,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 22467315,
+        "id_str": "22467315",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "nl",
+        "listed_count": 11,
+        "location": "Netherlands",
+        "name": "Richard Broekhuijzen",
+        "notifications": false,
+        "profile_background_color": "100C07",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/556332246/xad59d535de342955616b9ab0c827b38.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/556332246/xad59d535de342955616b9ab0c827b38.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22467315/1436833709",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/691988286856888321/pBZcpZX9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/691988286856888321/pBZcpZX9_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EAD3AE",
+        "profile_text_color": "F3946A",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rbroekhuijzen",
+        "statuses_count": 28855,
+        "time_zone": "Amsterdam",
+        "url": "https://t.co/CBNIyLc0yQ",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

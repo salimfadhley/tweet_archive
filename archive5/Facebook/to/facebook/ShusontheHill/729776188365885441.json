@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 09 20:52:56 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 62152041,
+                "id_str": "62152041",
+                "indices": [
+                    32,
+                    46
+                ],
+                "name": "Justin Bieber News",
+                "screen_name": "justinbiebers"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 729776188365885441,
+    "id_str": "729776188365885441",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.172219,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.934311
+                    ],
+                    [
+                        -77.172219,
+                        38.934311
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Arlington, VA",
+        "id": "319ee7b36c9149da",
+        "name": "Arlington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook Stop telling me about @justinbiebers face tattoo! I don't care, and neither should the world!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 26 01:53:25 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Just the average American who attempts to practice politics. On the loose in our nations capitol. Hooah. Lobbyist. Advocate. Veteran. LGBT",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 178,
+        "follow_request_sent": false,
+        "followers_count": 346,
+        "following": false,
+        "friends_count": 1119,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1220205126,
+        "id_str": "1220205126",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 14,
+        "location": "Washingotn, DC",
+        "name": "Matthew Shuman",
+        "notifications": false,
+        "profile_background_color": "19CF86",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/800534833/409eed8e46a39292e16ca871f41fe1de.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/800534833/409eed8e46a39292e16ca871f41fe1de.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1220205126/1361845611",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/717003901468168192/Z_zxQmaI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/717003901468168192/Z_zxQmaI_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ShusontheHill",
+        "statuses_count": 1558,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

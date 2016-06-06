@@ -1,0 +1,329 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 04 09:27:31 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    19,
+                    23
+                ],
+                "text": "NYC"
+            },
+            {
+                "indices": [
+                    24,
+                    31
+                ],
+                "text": "Beirut"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/MikeQuindazzi/\u2026",
+                "expanded_url": "https://twitter.com/MikeQuindazzi/status/739019379665448960",
+                "indices": [
+                    32,
+                    55
+                ],
+                "url": "https://t.co/psKfOQsruf"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    10,
+                    18
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 739025783486742528,
+    "id_str": "739025783486742528",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        35.0757711,
+                        33.054742
+                    ],
+                    [
+                        36.6232583,
+                        33.054742
+                    ],
+                    [
+                        36.6232583,
+                        34.6919892
+                    ],
+                    [
+                        35.0757711,
+                        34.6919892
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u0644\u0628\u0646\u0627\u0646",
+        "country_code": "LB",
+        "full_name": "Lebanon",
+        "id": "583bd538eb3129d1",
+        "name": "Lebanon",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/583bd538eb3129d1.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Jun 04 09:02:05 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        0,
+                        3
+                    ],
+                    "text": "AI"
+                },
+                {
+                    "indices": [
+                        71,
+                        87
+                    ],
+                    "text": "machinelearning"
+                },
+                {
+                    "indices": [
+                        108,
+                        112
+                    ],
+                    "text": "PwC"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/ec2WQUilDj",
+                    "expanded_url": "http://twitter.com/MikeQuindazzi/status/739019379665448960/photo/1",
+                    "id": 739019376289013760,
+                    "id_str": "739019376289013760",
+                    "indices": [
+                        113,
+                        136
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CkGGNQ3WYAAKFsO.png",
+                    "media_url_https": "https://pbs.twimg.com/media/CkGGNQ3WYAAKFsO.png",
+                    "sizes": {
+                        "large": {
+                            "h": 743,
+                            "resize": "fit",
+                            "w": 1002
+                        },
+                        "medium": {
+                            "h": 743,
+                            "resize": "fit",
+                            "w": 1002
+                        },
+                        "small": {
+                            "h": 504,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/ec2WQUilDj"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 3,
+        "favorited": false,
+        "geo": null,
+        "id": 739019379665448960,
+        "id_str": "739019379665448960",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 6,
+        "retweeted": false,
+        "source": "<a href=\"https://statusbrew.com\" rel=\"nofollow\">Statusbrew</a>",
+        "text": "#AI: From photo tagging on Facebook to Netflix recommendations, how is #machinelearning touching your life? #PwC https://t.co/ec2WQUilDj",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Feb 15 04:17:08 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Business Development Leader @StrategyAnd @PwC_LLP | Co-Chair SoCal Aerospace @LAEDC | Tweets for C-Suite on Global Megatrends | #CEO #CFO #CMO #CIO #CDO #CISO |",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "WorldTrends.Info",
+                            "expanded_url": "http://WorldTrends.Info",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/ZdO0iJUntQ"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1298,
+            "follow_request_sent": false,
+            "followers_count": 12413,
+            "following": false,
+            "friends_count": 1343,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 2344530218,
+            "id_str": "2344530218",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 814,
+            "location": "Greater Los Angeles Area",
+            "name": "Mike Quindazzi",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2344530218/1456552659",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/710972032813404163/6IrFzK6c_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/710972032813404163/6IrFzK6c_normal.jpg",
+            "profile_link_color": "F00909",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "MikeQuindazzi",
+            "statuses_count": 6837,
+            "time_zone": null,
+            "url": "https://t.co/ZdO0iJUntQ",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 739019379665448960,
+    "quoted_status_id_str": "739019379665448960",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook @Netflix #NYC #Beirut https://t.co/psKfOQsruf",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 15 15:17:24 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Endurance = Resilience+Wisdom ;\r\n               Because Wisdom Can't Be Taught.               \nConnecting The Dots Every Day.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/profile.php?re\u2026",
+                        "expanded_url": "http://www.facebook.com/profile.php?ref=profile&id=1024847190",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Mr0xHEHY7k"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6897,
+        "follow_request_sent": false,
+        "followers_count": 872,
+        "following": false,
+        "friends_count": 913,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 40260310,
+        "id_str": "40260310",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 507,
+        "location": "Beirut,  Lebanon",
+        "name": "Arz Lubnan",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/309975142/cedar.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/309975142/cedar.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40260310/1464601357",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/731612699310706689/muPoeSfb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/731612699310706689/muPoeSfb_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tallcedarofleb",
+        "statuses_count": 15494,
+        "time_zone": "Athens",
+        "url": "http://t.co/Mr0xHEHY7k",
+        "utc_offset": 10800,
+        "verified": false
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 06 04:25:14 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 739674484190367744,
+    "id_str": "739674484190367744",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 739669798292840448,
+    "in_reply_to_status_id_str": "739669798292840448",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.147162,
+                        25.7613083
+                    ],
+                    [
+                        -80.1187628,
+                        25.7613083
+                    ],
+                    [
+                        -80.1187628,
+                        25.872623
+                    ],
+                    [
+                        -80.147162,
+                        25.872623
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Miami Beach, FL",
+        "id": "0121b92345f0e2b4",
+        "name": "Miami Beach",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0121b92345f0e2b4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanAir \"The majority of receipts\" does not = all receipts. Ridiculous for me to waste my time on hold to request proof of a charge.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 27 17:45:16 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Southeast US Brand Ambassador for Ardbeg and Glenmorangie Single Malt Scotch Whiskies. Views are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 473,
+        "follow_request_sent": false,
+        "followers_count": 528,
+        "following": false,
+        "friends_count": 1318,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 592086582,
+        "id_str": "592086582",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Miami, FL",
+        "name": "Clarke Boyer",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/692063199/596cb26248f1bb13ef2988039cb9b9ad.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/692063199/596cb26248f1bb13ef2988039cb9b9ad.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/592086582/1429473971",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671556451949645824/Xks59WnK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671556451949645824/Xks59WnK_normal.jpg",
+        "profile_link_color": "58FAD0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "doctordram",
+        "statuses_count": 436,
+        "time_zone": "Arizona",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

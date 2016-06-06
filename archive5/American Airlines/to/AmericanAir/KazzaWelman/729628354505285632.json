@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 09 11:05:30 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    72,
+                    82
+                ],
+                "text": "sortitout"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 729628354505285632,
+    "id_str": "729628354505285632",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.254563,
+                        51.463873
+                    ],
+                    [
+                        -0.177653,
+                        51.463873
+                    ],
+                    [
+                        -0.177653,
+                        51.532901
+                    ],
+                    [
+                        -0.254563,
+                        51.532901
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Hammersmith, London",
+        "id": "09ba692cbddfc92c",
+        "name": "Hammersmith",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/09ba692cbddfc92c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir we are now celebrating 5 months of delayed baggage payment #sortitout!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 30 15:10:45 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "pearlfisher.com",
+                        "expanded_url": "http://www.pearlfisher.com",
+                        "indices": [
+                            0,
+                            20
+                        ],
+                        "url": "http://t.co/WHZAwt7S"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 30,
+        "follow_request_sent": false,
+        "followers_count": 134,
+        "following": false,
+        "friends_count": 79,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 980634894,
+        "id_str": "980634894",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "London and New York City ",
+        "name": "Karen Welman",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2915019388/254827a88af25d50ce0409cd39d33460_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2915019388/254827a88af25d50ce0409cd39d33460_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KazzaWelman",
+        "statuses_count": 112,
+        "time_zone": null,
+        "url": "http://t.co/WHZAwt7S",
+        "utc_offset": null,
+        "verified": false
+    }
+}

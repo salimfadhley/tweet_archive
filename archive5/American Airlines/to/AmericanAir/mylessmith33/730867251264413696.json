@@ -1,0 +1,177 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 12 21:08:26 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    78,
+                    88
+                ],
+                "text": "promotion"
+            },
+            {
+                "indices": [
+                    89,
+                    108
+                ],
+                "text": "MilesforMilestones"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/zyuE3h25sx",
+                "expanded_url": "http://twitter.com/mylessmith33/status/730867251264413696/photo/1",
+                "id": 730867236877959169,
+                "id_str": "730867236877959169",
+                "indices": [
+                    109,
+                    132
+                ],
+                "media_url": "http://pbs.twimg.com/media/CiSP4TAVAAENcal.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CiSP4TAVAAENcal.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 682,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 400,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 226,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/zyuE3h25sx"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 730867251264413696,
+    "id_str": "730867251264413696",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.144435,
+                        38.789907
+                    ],
+                    [
+                        -77.037304,
+                        38.789907
+                    ],
+                    [
+                        -77.037304,
+                        38.8448531
+                    ],
+                    [
+                        -77.144435,
+                        38.8448531
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Alexandria, VA",
+        "id": "d6819fe60643ebc1",
+        "name": "Alexandria",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/d6819fe60643ebc1.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Just back from an amazing trip through the highlands of Scotland #promotion #MilesforMilestones https://t.co/zyuE3h25sx",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 09 04:30:22 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Cycling, Fly Fishing, USAF, Harvard Ext",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 769,
+        "follow_request_sent": false,
+        "followers_count": 91,
+        "following": false,
+        "friends_count": 441,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 45764209,
+        "id_str": "45764209",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Alexandria, VA",
+        "name": "Myles Smith",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1237116762/myles_1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237116762/myles_1_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mylessmith33",
+        "statuses_count": 1275,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

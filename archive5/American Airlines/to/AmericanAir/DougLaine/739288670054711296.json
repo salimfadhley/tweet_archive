@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 05 02:52:08 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 739288670054711296,
+    "id_str": "739288670054711296",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.514926,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.833238
+                    ],
+                    [
+                        -122.514926,
+                        37.833238
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Francisco, CA",
+        "id": "5a110d312052166f",
+        "name": "San Francisco",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir Is there a system problem?  There are no flights departing MSY in September!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 21 03:12:00 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm Doug Laine, here are my Synaptic Misfires, sometimes happy, sometime very angry.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/douglaine",
+                        "expanded_url": "http://about.me/douglaine",
+                        "indices": [
+                            0,
+                            20
+                        ],
+                        "url": "http://t.co/cRfgPiAm"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 123,
+        "follow_request_sent": false,
+        "followers_count": 466,
+        "following": false,
+        "friends_count": 816,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 8320962,
+        "id_str": "8320962",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 19,
+        "location": "San Francisco, CA",
+        "name": "Doug Laine",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/550521343/IMG_20120512_152135.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/550521343/IMG_20120512_152135.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/8320962/1420621476",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/657634170013810689/YS9wIEPF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/657634170013810689/YS9wIEPF_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DougLaine",
+        "statuses_count": 14709,
+        "time_zone": "America/Los_Angeles",
+        "url": "http://t.co/cRfgPiAm",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

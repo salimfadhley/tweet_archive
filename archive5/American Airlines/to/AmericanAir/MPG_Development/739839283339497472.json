@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 06 15:20:05 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    116,
+                    123
+                ],
+                "text": "thanks"
+            },
+            {
+                "indices": [
+                    124,
+                    137
+                ],
+                "text": "goodfollowup"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 739839283339497472,
+    "id_str": "739839283339497472",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 739837805732331520,
+    "in_reply_to_status_id_str": "739837805732331520",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.22808,
+                        36.672684
+                    ],
+                    [
+                        -75.9118121,
+                        36.672684
+                    ],
+                    [
+                        -75.9118121,
+                        36.932399
+                    ],
+                    [
+                        -76.22808,
+                        36.932399
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Virginia Beach, VA",
+        "id": "84229b03659050aa",
+        "name": "Virginia Beach",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/84229b03659050aa.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir thanks for the response.  Just think id rather hear more about flight and destination than credit card #thanks #goodfollowup",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 28 21:09:37 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A full service commercial real estate development and brokerage company based out of Charlotte, North Carolina.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "morganpg.com",
+                        "expanded_url": "http://www.morganpg.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/wBAwgYBrR3"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 790,
+        "follow_request_sent": false,
+        "followers_count": 311,
+        "following": false,
+        "friends_count": 468,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1129226672,
+        "id_str": "1129226672",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 22,
+        "location": "charlotte, nc",
+        "name": "Morgan Property",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1129226672/1359407881",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3176407451/d51f5d366e1a4524963236e55dd1bf07_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3176407451/d51f5d366e1a4524963236e55dd1bf07_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MPG_Development",
+        "statuses_count": 1281,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": "http://t.co/wBAwgYBrR3",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

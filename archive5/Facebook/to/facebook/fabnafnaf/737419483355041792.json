@@ -1,0 +1,143 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 30 23:04:40 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    40,
+                    47
+                ],
+                "text": "murder"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "m.facebook.com/story.php?stor\u2026",
+                "expanded_url": "https://m.facebook.com/story.php?story_fbid=10153546793377093&id=172530812092",
+                "indices": [
+                    55,
+                    78
+                ],
+                "url": "https://t.co/M3qacYDnKh"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 737419483355041792,
+    "id_str": "737419483355041792",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.908398,
+                        32.560686
+                    ],
+                    [
+                        -96.819191,
+                        32.560686
+                    ],
+                    [
+                        -96.819191,
+                        32.6476197
+                    ],
+                    [
+                        -96.908398,
+                        32.6476197
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Desoto, TX",
+        "id": "b186f530bda5c4b0",
+        "name": "Desoto",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b186f530bda5c4b0.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook refuses 2 take down photos of #murder victim https://t.co/M3qacYDnKh",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 22 00:27:51 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 137,
+        "follow_request_sent": false,
+        "followers_count": 315,
+        "following": false,
+        "friends_count": 541,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15523246,
+        "id_str": "15523246",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Dallas, TX",
+        "name": "fabnafnaf",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15523246/1422801505",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2394129120/1342189780464_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2394129120/1342189780464_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fabnafnaf",
+        "statuses_count": 4248,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

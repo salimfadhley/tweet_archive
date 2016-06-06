@@ -1,0 +1,328 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 31 14:23:10 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/smexaminer/sta\u2026",
+                "expanded_url": "https://twitter.com/smexaminer/status/737524936412012545",
+                "indices": [
+                    26,
+                    49
+                ],
+                "url": "https://t.co/LNqKf48G2x"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 15517632,
+                "id_str": "15517632",
+                "indices": [
+                    19,
+                    24
+                ],
+                "name": "Sean Swentek",
+                "screen_name": "swiz"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 737650635223355392,
+    "id_str": "737650635223355392",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.514926,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.833238
+                    ],
+                    [
+                        -122.514926,
+                        37.833238
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Francisco, CA",
+        "id": "5a110d312052166f",
+        "name": "San Francisco",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue May 31 06:03:42 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        23,
+                        36
+                    ],
+                    "text": "FacebookLive"
+                },
+                {
+                    "indices": [
+                        85,
+                        94
+                    ],
+                    "text": "Facebook"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/34a8f7fXGx",
+                    "expanded_url": "http://twitter.com/SMExaminer/status/737524936412012545/photo/1",
+                    "id": 737524934629425154,
+                    "id_str": "737524934629425154",
+                    "indices": [
+                        95,
+                        118
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Cjw3BT2UgAIq-fU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Cjw3BT2UgAIq-fU.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1024,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 600,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 340,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/34a8f7fXGx"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "bit.ly/1ORVhHV",
+                    "expanded_url": "http://bit.ly/1ORVhHV",
+                    "indices": [
+                        48,
+                        71
+                    ],
+                    "url": "https://t.co/edIvTKvEDI"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 14342350,
+                    "id_str": "14342350",
+                    "indices": [
+                        75,
+                        84
+                    ],
+                    "name": "Who's Blogging What",
+                    "screen_name": "wbw_Jeff"
+                }
+            ]
+        },
+        "favorite_count": 20,
+        "favorited": false,
+        "geo": null,
+        "id": 737524936412012545,
+        "id_str": "737524936412012545",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 10,
+        "retweeted": false,
+        "source": "<a href=\"https://www.socialoomph.com\" rel=\"nofollow\">SocialOomph</a>",
+        "text": "NEW: 6 Tips for Better #FacebookLive Broadcasts https://t.co/edIvTKvEDI by @wbw_Jeff #Facebook https://t.co/34a8f7fXGx",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Jul 05 14:56:18 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Follow us for news & how-to's to help you navigate the social media jungle.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "socialmediaexaminer.com",
+                            "expanded_url": "http://socialmediaexaminer.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/emf1MoVtRU"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 879,
+            "follow_request_sent": false,
+            "followers_count": 310605,
+            "following": false,
+            "friends_count": 2365,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 53925101,
+            "id_str": "53925101",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 17216,
+            "location": "The Social Media Jungle",
+            "name": "SocialMedia Examiner",
+            "notifications": false,
+            "profile_background_color": "19642D",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/184108158/sme__twitterpage2011.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/184108158/sme__twitterpage2011.jpg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/53925101/1399383763",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/463673794716909569/DvZl4mU3_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/463673794716909569/DvZl4mU3_normal.png",
+            "profile_link_color": "A25E37",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "CCE37F",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "SMExaminer",
+            "statuses_count": 25636,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/emf1MoVtRU",
+            "utc_offset": -25200,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 737524936412012545,
+    "quoted_status_id_str": "737524936412012545",
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Facebook LIVE via @swiz  https://t.co/LNqKf48G2x",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 07 16:49:00 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#AdAge Top 50 Marketers in America | #Retail Marketing Hall of Fame | Ranked industry's #1 #CMO, U.S Banker | Keynote #WRC2016 | #Digital #Social #CX",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jbraddavis.com",
+                        "expanded_url": "http://www.jbraddavis.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/5hqZMcMOHS"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 576,
+        "follow_request_sent": false,
+        "followers_count": 2401,
+        "following": false,
+        "friends_count": 1996,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2610081858,
+        "id_str": "2610081858",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 282,
+        "location": "San Francisco, CA",
+        "name": "Brad Davis",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2610081858/1462825894",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/617854603632115712/otPlW2oB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/617854603632115712/otPlW2oB_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BradDavisCMO",
+        "statuses_count": 2697,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/5hqZMcMOHS",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

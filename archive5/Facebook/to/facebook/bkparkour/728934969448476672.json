@@ -1,0 +1,148 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat May 07 13:10:14 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "messenger.com",
+                "expanded_url": "http://messenger.com",
+                "indices": [
+                    68,
+                    91
+                ],
+                "url": "https://t.co/F6Kh6aKxPU"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 728934969448476672,
+    "id_str": "728934969448476672",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -89.57151,
+                        36.497129
+                    ],
+                    [
+                        -81.964971,
+                        36.497129
+                    ],
+                    [
+                        -81.964971,
+                        39.147359
+                    ],
+                    [
+                        -89.57151,
+                        39.147359
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Kentucky, USA",
+        "id": "6ffcf3b0b904bbcb",
+        "name": "Kentucky",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/6ffcf3b0b904bbcb.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook Can my fb be switched back to not viewing all messages in https://t.co/F6Kh6aKxPU? I can't search through conversations that way",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 18 01:14:23 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "My life is one huge Murphy's law.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ask.fm/bkparkour",
+                        "expanded_url": "http://ask.fm/bkparkour",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/pnLbErChb0"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1174,
+        "follow_request_sent": false,
+        "followers_count": 200,
+        "following": false,
+        "friends_count": 580,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 954616322,
+        "id_str": "954616322",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "KY",
+        "name": "Brittany Parker",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/715075647/7d7f6850e7a2faab8b0a3a82615d8361.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/715075647/7d7f6850e7a2faab8b0a3a82615d8361.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/954616322/1372282691",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/477352875526348800/R-j-vyOx_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/477352875526348800/R-j-vyOx_normal.jpeg",
+        "profile_link_color": "E098DE",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bkparkour",
+        "statuses_count": 1139,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": "http://t.co/pnLbErChb0",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

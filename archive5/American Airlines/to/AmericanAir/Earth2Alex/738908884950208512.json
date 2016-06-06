@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 04 01:43:01 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 738908884950208512,
+    "id_str": "738908884950208512",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 738902768094564352,
+    "in_reply_to_status_id_str": "738902768094564352",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.9372588
+                    ],
+                    [
+                        -87.8347576,
+                        41.9372588
+                    ],
+                    [
+                        -87.8347576,
+                        42.009019
+                    ],
+                    [
+                        -87.940033,
+                        42.009019
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "O'Hare, Chicago",
+        "id": "5538a3aae89abc08",
+        "name": "O'Hare",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/5538a3aae89abc08.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@AmericanAir that would be super. Too bad when asked what we should do, your agent replied smugly \u201cI don\u2019t know, what do you want to do?\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 01 05:42:55 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Love's like a hurricane, I am a tree.\nhttp://t.co/sYxVqe8bXW",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "refiningalex.com",
+                        "expanded_url": "http://www.refiningalex.com",
+                        "indices": [
+                            38,
+                            60
+                        ],
+                        "url": "http://t.co/sYxVqe8bXW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 161,
+        "follow_request_sent": false,
+        "followers_count": 210,
+        "following": false,
+        "friends_count": 313,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 43838291,
+        "id_str": "43838291",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "",
+        "name": "Alex Fittin",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143328202/profile_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143328202/profile_normal.jpg",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Earth2Alex",
+        "statuses_count": 3770,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

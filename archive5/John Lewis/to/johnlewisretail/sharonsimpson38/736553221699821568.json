@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat May 28 13:42:27 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    126,
+                    139
+                ],
+                "text": "disappointed"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 126664172,
+                "id_str": "126664172",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "John Lewis",
+                "screen_name": "johnlewisretail"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 736553221699821568,
+    "id_str": "736553221699821568",
+    "in_reply_to_screen_name": "johnlewisretail",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 126664172,
+    "in_reply_to_user_id_str": "126664172",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.95729593780907,
+                        50.5746064789388
+                    ],
+                    [
+                        1.45178800018019,
+                        50.5746064789388
+                    ],
+                    [
+                        1.45178800018019,
+                        52.1962850088601
+                    ],
+                    [
+                        -1.95729593780907,
+                        52.1962850088601
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "South East, England",
+        "id": "06168d1feda43857",
+        "name": "South East",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@johnlewisretail surprised poor service from Chichester branch- tried to sell a scratched last TV with no stand and no remote #disappointed",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 05 13:54:58 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A professional, successful Invoice Financier who has worked in the Invoice Finance industry for 26 years \u2013 I love life to the full and always follow my heart!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "calvertonfinance.co.uk",
+                        "expanded_url": "http://calvertonfinance.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/zzvN1ii9fK"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 45,
+        "follow_request_sent": false,
+        "followers_count": 298,
+        "following": false,
+        "friends_count": 260,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 571768180,
+        "id_str": "571768180",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Brighton",
+        "name": "Sharon Simpson",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571768180/1390156825",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000857957158/2aBnS6Nu_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000857957158/2aBnS6Nu_normal.jpeg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sharonsimpson38",
+        "statuses_count": 1418,
+        "time_zone": null,
+        "url": "http://t.co/zzvN1ii9fK",
+        "utc_offset": null,
+        "verified": false
+    }
+}

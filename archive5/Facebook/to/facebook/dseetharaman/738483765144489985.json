@@ -1,0 +1,300 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 02 21:33:44 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/iansherr/statu\u2026",
+                "expanded_url": "https://twitter.com/iansherr/status/738483425313591297",
+                "indices": [
+                    63,
+                    86
+                ],
+                "url": "https://t.co/vglgYe3PWa"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 738483765144489985,
+    "id_str": "738483765144489985",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.514926,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.833238
+                    ],
+                    [
+                        -122.514926,
+                        37.833238
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Francisco, CA",
+        "id": "5a110d312052166f",
+        "name": "San Francisco",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jun 02 21:32:23 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/GqcqT04xaH",
+                    "expanded_url": "http://twitter.com/iansherr/status/738483425313591297/photo/1",
+                    "id": 738483422612463616,
+                    "id_str": "738483422612463616",
+                    "indices": [
+                        115,
+                        138
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Cj-ewp1UoAAgbIy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Cj-ewp1UoAAgbIy.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 226,
+                            "resize": "fit",
+                            "w": 750
+                        },
+                        "medium": {
+                            "h": 181,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 102,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/GqcqT04xaH"
+                }
+            ],
+            "symbols": [
+                {
+                    "indices": [
+                        29,
+                        32
+                    ],
+                    "text": "fb"
+                }
+            ],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "geo": null,
+        "id": 738483425313591297,
+        "id_str": "738483425313591297",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "This sucks. I actually found $fb's notify app helpful day-to-day. It took a little work setting up but I was a fan https://t.co/GqcqT04xaH",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jan 29 15:34:37 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Executive Editor @cnet, world's #1 tech news/reviews site. Cover VR, games, $MSFT & manage west coast team. Former @wsj @reuters @afp. 'That brash young fellow'",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "iansherr.com",
+                            "expanded_url": "http://iansherr.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/Lvsujl5C7E"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 2149,
+            "follow_request_sent": false,
+            "followers_count": 7176,
+            "following": false,
+            "friends_count": 797,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 726393,
+            "id_str": "726393",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 482,
+            "location": " ian.sherr@cnet.com",
+            "name": "Ian Sherr",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/726393/1421858961",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/683916854717362177/h2Xz-tVu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/683916854717362177/h2Xz-tVu_normal.jpg",
+            "profile_link_color": "454F4F",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "iansherr",
+            "statuses_count": 18774,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/Lvsujl5C7E",
+            "utc_offset": -25200,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 738483425313591297,
+    "quoted_status_id_str": "738483425313591297",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook is scrapping its Notify app, which launched in Nov.  https://t.co/vglgYe3PWa",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 05 19:26:30 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "WSJ tech reporter covering Facebook, LinkedIn. Ex-Reuters. Medill. Snapchat: deepas223. deepa.seetharaman@wsj.com My newsletter: https://t.co/iwM4NJOgxz",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "tinyletter.com/deepas",
+                        "expanded_url": "http://tinyletter.com/deepas",
+                        "indices": [
+                            129,
+                            152
+                        ],
+                        "url": "https://t.co/iwM4NJOgxz"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "wsj.com/news/author/82\u2026",
+                        "expanded_url": "http://www.wsj.com/news/author/8237",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/EVmAJzeYPa"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2725,
+        "follow_request_sent": false,
+        "followers_count": 6556,
+        "following": false,
+        "friends_count": 382,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 14663698,
+        "id_str": "14663698",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 341,
+        "location": "San Francisco",
+        "name": "Deepa Seetharaman",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14663698/1456119682",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/706930611311611906/Qz4MGP_8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/706930611311611906/Qz4MGP_8_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "dseetharaman",
+        "statuses_count": 12859,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/EVmAJzeYPa",
+        "utc_offset": -25200,
+        "verified": true
+    }
+}

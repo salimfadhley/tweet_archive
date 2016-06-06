@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 03 02:09:56 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 738553273339117568,
+    "id_str": "738553273339117568",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -117.0923548,
+                        34.8621374
+                    ],
+                    [
+                        -116.963954,
+                        34.8621374
+                    ],
+                    [
+                        -116.963954,
+                        34.926831
+                    ],
+                    [
+                        -117.0923548,
+                        34.926831
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Barstow, CA",
+        "id": "30c892dedb1a2c67",
+        "name": "Barstow",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/30c892dedb1a2c67.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook Dear Facebook, Live Notifications are sad in the corner and nobody likes them. Please stop having ideas.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 03 02:46:18 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Student of life",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/marcus.otero.73",
+                        "expanded_url": "https://www.facebook.com/marcus.otero.73",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/IZFGcHem35"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2172,
+        "follow_request_sent": false,
+        "followers_count": 198,
+        "following": false,
+        "friends_count": 516,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2324688596,
+        "id_str": "2324688596",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "Barstow",
+        "name": "Cool Guy Mark",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2324688596/1437452213",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/692442474392850432/IvydShzI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/692442474392850432/IvydShzI_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "CoolBeansMAO",
+        "statuses_count": 1666,
+        "time_zone": null,
+        "url": "https://t.co/IZFGcHem35",
+        "utc_offset": null,
+        "verified": false
+    }
+}

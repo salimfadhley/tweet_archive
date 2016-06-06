@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 22 08:19:47 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 734297695641341952,
+    "id_str": "734297695641341952",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        23.8825016,
+                        37.926125
+                    ],
+                    [
+                        23.9889378,
+                        37.926125
+                    ],
+                    [
+                        23.9889378,
+                        38.010289
+                    ],
+                    [
+                        23.8825016,
+                        38.010289
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u0395\u03bb\u03bb\u03ac\u03c2",
+        "country_code": "GR",
+        "full_name": "Spata-Loutsa, Greece",
+        "id": "001a091f27e88dd4",
+        "name": "Spata-Loutsa",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/001a091f27e88dd4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir paid full price for business class seat 3F on AA 759 Athens to Philly. Seat is broken and won't recline. Refund expected.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 14 19:30:08 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Hiking, Hadoop, craft beer, photography, working @twitter ... I'm all over the place",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jmeagher.net",
+                        "expanded_url": "http://jmeagher.net/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/ccl2WNIIp8"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 264,
+        "follow_request_sent": false,
+        "followers_count": 199,
+        "following": false,
+        "friends_count": 609,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14777359,
+        "id_str": "14777359",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "San Francisco, CA",
+        "name": "john_meagher",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14777359/1409975933",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3652437719/d9067b4ab4b54d5d24f81c20215b1f36_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3652437719/d9067b4ab4b54d5d24f81c20215b1f36_normal.jpeg",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "john_meagher",
+        "statuses_count": 974,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/ccl2WNIIp8",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 02 21:22:18 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    38,
+                    56
+                ],
+                "text": "mostlyblankscreen"
+            },
+            {
+                "indices": [
+                    57,
+                    70
+                ],
+                "text": "facebookdown"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 738480888640614400,
+    "id_str": "738480888640614400",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.352832,
+                        26.029413
+                    ],
+                    [
+                        -80.248923,
+                        26.029413
+                    ],
+                    [
+                        -80.248923,
+                        26.064864
+                    ],
+                    [
+                        -80.352832,
+                        26.064864
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Cooper City, FL",
+        "id": "c3a113bae16973a9",
+        "name": "Cooper City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c3a113bae16973a9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook seems to be having an issue #mostlyblankscreen #facebookdown",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 17 18:20:50 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Cyclist, Hurricane Hunter passenger, Wikipedia typer and author of Pasture Therapy @SCBWI Agent inquiries welcome. See my #hello page at https://t.co/1zRFRspr1k",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "frank-oliver.org",
+                        "expanded_url": "http://frank-oliver.org",
+                        "indices": [
+                            137,
+                            160
+                        ],
+                        "url": "https://t.co/1zRFRspr1k"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "scbwi.org",
+                        "expanded_url": "http://www.scbwi.org",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/eBX97tgF1o"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4146,
+        "follow_request_sent": false,
+        "followers_count": 404,
+        "following": false,
+        "friends_count": 700,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 21113668,
+        "id_str": "21113668",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 15,
+        "location": "Florida, USA",
+        "name": "Frank Peter Oliver",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/646778055944355840/CRB_Qi8A.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/646778055944355840/CRB_Qi8A.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21113668/1441846874",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/574281812832206848/fvsgZmcI_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/574281812832206848/fvsgZmcI_normal.jpeg",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Glades2",
+        "statuses_count": 6402,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/eBX97tgF1o",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

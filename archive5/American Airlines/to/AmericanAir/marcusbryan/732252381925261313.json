@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 16 16:52:27 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 732252381925261313,
+    "id_str": "732252381925261313",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 732252103159111680,
+    "in_reply_to_status_id_str": "732252103159111680",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.321683,
+                        25.7090404
+                    ],
+                    [
+                        -80.144974,
+                        25.7090404
+                    ],
+                    [
+                        -80.144974,
+                        25.855667
+                    ],
+                    [
+                        -80.321683,
+                        25.855667
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Miami, FL",
+        "id": "04cb31bae3b3af93",
+        "name": "Miami",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/04cb31bae3b3af93.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@AmericanAir Yes, in 10 minutes. Why not just land 10 minutes early instead?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 15 00:34:30 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Don't take everything I tweet seriously. At some point you have to figure out who you want to be and defend that with everything you have.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/marcusbryan",
+                        "expanded_url": "http://about.me/marcusbryan",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/6rgaP0cCSc"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5269,
+        "follow_request_sent": false,
+        "followers_count": 586,
+        "following": false,
+        "friends_count": 664,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 16289476,
+        "id_str": "16289476",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 37,
+        "location": "Waco, TX, USA",
+        "name": "marcus",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/795242767/cca413257cd92f625a635d2fe6601e35.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/795242767/cca413257cd92f625a635d2fe6601e35.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16289476/1457577993",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000426627524/d471bddae2c6281979cab955712510bf_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000426627524/d471bddae2c6281979cab955712510bf_normal.jpeg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "marcusbryan",
+        "statuses_count": 34791,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/6rgaP0cCSc",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

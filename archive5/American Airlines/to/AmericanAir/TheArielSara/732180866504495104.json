@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 16 12:08:16 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 732180866504495104,
+    "id_str": "732180866504495104",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 732180166777004032,
+    "in_reply_to_status_id_str": "732180166777004032",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Later flight now booked but sitting in the airport with no help for food or comfort for this long is absurd. Hours to go.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 05 00:55:55 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Recent college grad, foodie, theatre enthusiast, photographer, writer, watcher of too much television, former Disney cast member",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "arielindisney.tumblr.com",
+                        "expanded_url": "http://arielindisney.tumblr.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/k8U6zFDfou"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 384,
+        "follow_request_sent": false,
+        "followers_count": 127,
+        "following": false,
+        "friends_count": 306,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15012503,
+        "id_str": "15012503",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "New York, NY",
+        "name": "Ariel Sara",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/387136730/godspell.backgroundimage.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/387136730/godspell.backgroundimage.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15012503/1376528290",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/607707721375191040/4_4p37Rx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/607707721375191040/4_4p37Rx_normal.jpg",
+        "profile_link_color": "AD4545",
+        "profile_sidebar_border_color": "693D26",
+        "profile_sidebar_fill_color": "D4D4D4",
+        "profile_text_color": "FFFFFF",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TheArielSara",
+        "statuses_count": 425,
+        "time_zone": "Quito",
+        "url": "http://t.co/k8U6zFDfou",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

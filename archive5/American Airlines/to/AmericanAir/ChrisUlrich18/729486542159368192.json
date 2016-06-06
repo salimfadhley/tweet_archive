@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 09 01:41:59 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 729486542159368192,
+    "id_str": "729486542159368192",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 729483136862556160,
+    "in_reply_to_status_id_str": "729483136862556160",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.321683,
+                        25.7090404
+                    ],
+                    [
+                        -80.144974,
+                        25.7090404
+                    ],
+                    [
+                        -80.144974,
+                        25.855667
+                    ],
+                    [
+                        -80.321683,
+                        25.855667
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Miami, FL",
+        "id": "04cb31bae3b3af93",
+        "name": "Miami",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/04cb31bae3b3af93.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir what is the current status of 2435?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 07 22:27:53 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Rider of the #18 M4 Suzuki Superbike and Racing Editor for Roadracing World Magazine.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "roadracingworld.com",
+                        "expanded_url": "http://www.roadracingworld.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/G42k09ojd5"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5533,
+        "follow_request_sent": false,
+        "followers_count": 2079,
+        "following": false,
+        "friends_count": 562,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 262363180,
+        "id_str": "262363180",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 32,
+        "location": "Lake Elsinore, CA",
+        "name": "Chris Ulrich",
+        "notifications": false,
+        "profile_background_color": "D8D8D8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/492066404518993920/HZDB5JyW.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/492066404518993920/HZDB5JyW.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/262363180/1453934499",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/588545084188033025/WKkY4Ie3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/588545084188033025/WKkY4Ie3_normal.jpg",
+        "profile_link_color": "F01D1D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ChrisUlrich18",
+        "statuses_count": 4069,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/G42k09ojd5",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

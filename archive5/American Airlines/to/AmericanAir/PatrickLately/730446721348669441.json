@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 11 17:17:24 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 730446721348669441,
+    "id_str": "730446721348669441",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 730440593294295040,
+    "in_reply_to_status_id_str": "730440593294295040",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.847503,
+                        38.108678
+                    ],
+                    [
+                        -85.597188,
+                        38.108678
+                    ],
+                    [
+                        -85.597188,
+                        38.282432
+                    ],
+                    [
+                        -85.847503,
+                        38.282432
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Louisville, KY",
+        "id": "095534ad3107e0e6",
+        "name": "Louisville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/095534ad3107e0e6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir we sat on the runway for literally over an hour due to Chicago grounding flights before they let us going back in the terminal.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 14 22:48:21 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A city boy with a passion for all things entertainment. I'm currently working my way up the ladder within the entertainment industry!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 320,
+        "follow_request_sent": false,
+        "followers_count": 218,
+        "following": false,
+        "friends_count": 1006,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1961451638,
+        "id_str": "1961451638",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Charlotte, NC",
+        "name": "Patrick Scott",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120101826/2448b7a1fd097816786122c67514dddb.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120101826/2448b7a1fd097816786122c67514dddb.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1961451638/1414211398",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/613115629625847808/4MnfmoAp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/613115629625847808/4MnfmoAp_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PatrickLately",
+        "statuses_count": 1730,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

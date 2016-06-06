@@ -1,0 +1,285 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 31 01:12:25 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    10,
+                    25
+                ],
+                "text": "MarkZuckerberg"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/jdmiles11/stat\u2026",
+                "expanded_url": "https://twitter.com/jdmiles11/status/737405225711984642",
+                "indices": [
+                    113,
+                    136
+                ],
+                "url": "https://t.co/ZpFCzp8cCh"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 737451632988823553,
+    "id_str": "737451632988823553",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.908398,
+                        32.560686
+                    ],
+                    [
+                        -96.819191,
+                        32.560686
+                    ],
+                    [
+                        -96.819191,
+                        32.6476197
+                    ],
+                    [
+                        -96.908398,
+                        32.6476197
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Desoto, TX",
+        "id": "b186f530bda5c4b0",
+        "name": "Desoto",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b186f530bda5c4b0.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon May 30 22:08:00 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        0,
+                        9
+                    ],
+                    "text": "Breaking"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/0uHpNAB9Pj",
+                    "expanded_url": "http://twitter.com/jdmiles11/status/737405225711984642/photo/1",
+                    "id": 737405208305635328,
+                    "id_str": "737405208305635328",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CjvKIUiUkAAAOGL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CjvKIUiUkAAAOGL.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 768,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 450,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 255,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/0uHpNAB9Pj"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 4,
+        "favorited": false,
+        "geo": null,
+        "id": 737405225711984642,
+        "id_str": "737405225711984642",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 5,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "#Breaking Plano apartment complex where Jennifer Streit-Spears was found dead, murder pics posted on Facebook by BF https://t.co/0uHpNAB9Pj",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jul 25 04:54:54 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Emmy Award winning CBS 11 News Reporter, avid tennis player, classic R&B music collector and wannabe world traveler.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "cbsdfw.com",
+                            "expanded_url": "http://cbsdfw.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/kAu0ywmHB2"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1356,
+            "follow_request_sent": false,
+            "followers_count": 6040,
+            "following": false,
+            "friends_count": 947,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 59984883,
+            "id_str": "59984883",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 164,
+            "location": "Dallas/Ft. Worth",
+            "name": "J.D. Miles",
+            "notifications": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/59984883/1414641719",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/536255843935977472/PINjXQun_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/536255843935977472/PINjXQun_normal.jpeg",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "jdmiles11",
+            "statuses_count": 2457,
+            "time_zone": null,
+            "url": "https://t.co/kAu0ywmHB2",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 737405225711984642,
+    "quoted_status_id_str": "737405225711984642",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook #MarkZuckerberg refused 2 remove photos posted by the murderer 4 36 hrs. States pics r not a violation https://t.co/ZpFCzp8cCh",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 22 00:27:51 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 137,
+        "follow_request_sent": false,
+        "followers_count": 315,
+        "following": false,
+        "friends_count": 541,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15523246,
+        "id_str": "15523246",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Dallas, TX",
+        "name": "fabnafnaf",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15523246/1422801505",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2394129120/1342189780464_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2394129120/1342189780464_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fabnafnaf",
+        "statuses_count": 4252,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

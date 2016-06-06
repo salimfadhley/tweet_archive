@@ -1,0 +1,172 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 31 18:49:49 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    67,
+                    79
+                ],
+                "text": "socialmedia"
+            },
+            {
+                "indices": [
+                    80,
+                    91
+                ],
+                "text": "connection"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 2863488598,
+                "id_str": "2863488598",
+                "indices": [
+                    44,
+                    60
+                ],
+                "name": "Hamilton",
+                "screen_name": "HamiltonMusical"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 737717735979941888,
+    "id_str": "737717735979941888",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook headquarters in NY today with the @HamiltonMusical crew! #socialmedia #connection",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 12 23:02:50 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "choose joy. #theBullet #Hamilton https://t.co/XpgFKESFFj insta:@arianadebose",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "donate.broadwaycares.org/fundraise?fcid\u2026",
+                        "expanded_url": "https://donate.broadwaycares.org/fundraise?fcid=670137",
+                        "indices": [
+                            33,
+                            56
+                        ],
+                        "url": "https://t.co/XpgFKESFFj"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "donate.broadwaycares.org/fundraise?fcid\u2026",
+                        "expanded_url": "https://donate.broadwaycares.org/fundraise?fcid=670137",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/XpgFKESFFj"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7880,
+        "follow_request_sent": false,
+        "followers_count": 8392,
+        "following": false,
+        "friends_count": 1063,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 177733879,
+        "id_str": "177733879",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 111,
+        "location": "NY...ish",
+        "name": "Ariana DeBose",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/457015760355737600/BDJi2cS0.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/457015760355737600/BDJi2cS0.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/177733879/1459627116",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/735713026494455808/zhS4KgxK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/735713026494455808/zhS4KgxK_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ArianaDeBose",
+        "statuses_count": 7924,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/XpgFKESFFj",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

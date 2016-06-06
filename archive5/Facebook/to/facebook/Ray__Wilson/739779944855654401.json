@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 06 11:24:17 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    29,
+                    40
+                ],
+                "text": "mediawatch"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 739779944855654401,
+    "id_str": "739779944855654401",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        150.520928608,
+                        -34.1183470085
+                    ],
+                    [
+                        151.343020992,
+                        -34.1183470085
+                    ],
+                    [
+                        151.343020992,
+                        -33.578140996
+                    ],
+                    [
+                        150.520928608,
+                        -33.578140996
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Australia",
+        "country_code": "AU",
+        "full_name": "Sydney, New South Wales",
+        "id": "0073b76548e5984f",
+        "name": "Sydney",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook getting smashed on #mediawatch",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 29 00:02:03 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 74,
+        "follow_request_sent": false,
+        "followers_count": 207,
+        "following": false,
+        "friends_count": 914,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 704094241232793600,
+        "id_str": "704094241232793600",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "New South Wales, Australia",
+        "name": "Ray Wilson",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/704094241232793600/1465124195",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/739410430406201344/99ikQaCf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/739410430406201344/99ikQaCf_normal.jpg",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Ray__Wilson",
+        "statuses_count": 1516,
+        "time_zone": "Melbourne",
+        "url": null,
+        "utc_offset": 36000,
+        "verified": false
+    }
+}

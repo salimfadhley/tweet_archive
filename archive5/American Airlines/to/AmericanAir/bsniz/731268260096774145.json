@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 13 23:41:54 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 731268260096774145,
+    "id_str": "731268260096774145",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 731266287247089664,
+    "in_reply_to_status_id_str": "731266287247089664",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.321683,
+                        25.7090404
+                    ],
+                    [
+                        -80.144974,
+                        25.7090404
+                    ],
+                    [
+                        -80.144974,
+                        25.855667
+                    ],
+                    [
+                        -80.321683,
+                        25.855667
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Miami, FL",
+        "id": "04cb31bae3b3af93",
+        "name": "Miami",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/04cb31bae3b3af93.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir thanks",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 21 03:00:45 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Friendly Chicago guy. Enthusiastic about food, travel, Notre Dame football and digital business. EVP / Executive Digital Director @GolinGlobal - opinions my own",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "brianpatricksnyder.com",
+                        "expanded_url": "http://www.brianpatricksnyder.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/smVFGSKoiX"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8182,
+        "follow_request_sent": false,
+        "followers_count": 2242,
+        "following": false,
+        "friends_count": 1438,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 5371352,
+        "id_str": "5371352",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 162,
+        "location": "Chicago, IL, USA",
+        "name": "Brian Snyder",
+        "notifications": false,
+        "profile_background_color": "D6D5D3",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/491105664/twitter-background-20120403.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/491105664/twitter-background-20120403.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5371352/1424012887",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/724987462339043329/pIbc0m1T_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/724987462339043329/pIbc0m1T_normal.jpg",
+        "profile_link_color": "2152DB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "BCAF7B",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bsniz",
+        "statuses_count": 23178,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/smVFGSKoiX",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

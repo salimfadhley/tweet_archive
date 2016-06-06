@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 09 17:59:02 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 729732423861325828,
+    "id_str": "729732423861325828",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 729483062858289153,
+    "in_reply_to_status_id_str": "729483062858289153",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.073291,
+                        35.911849
+                    ],
+                    [
+                        -79.9174263,
+                        35.911849
+                    ],
+                    [
+                        -79.9174263,
+                        36.07826
+                    ],
+                    [
+                        -80.073291,
+                        36.07826
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "High Point, NC",
+        "id": "aef8c3da277ca498",
+        "name": "High Point",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/aef8c3da277ca498.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir flt # 4180. Thank you for looking into this!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 18 15:01:48 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "if it pleases and sparkles...",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 29,
+        "follow_request_sent": false,
+        "followers_count": 99,
+        "following": false,
+        "friends_count": 142,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 75300710,
+        "id_str": "75300710",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "\u00dcT: 42.352084,-71.053722",
+        "name": "lauren hemming",
+        "notifications": false,
+        "profile_background_color": "EDF2F5",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/59313616/pat_20060508200403.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/59313616/pat_20060508200403.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000850671514/2c6cdc4c66cac24d2ba222370c4c55d1_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000850671514/2c6cdc4c66cac24d2ba222370c4c55d1_normal.jpeg",
+        "profile_link_color": "4BB3B0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DCF5F4",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "hickeyhemming",
+        "statuses_count": 552,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

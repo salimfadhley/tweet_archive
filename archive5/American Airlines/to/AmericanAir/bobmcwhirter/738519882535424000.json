@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 02 23:57:15 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 738519882535424000,
+    "id_str": "738519882535424000",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 738519751652085762,
+    "in_reply_to_status_id_str": "738519751652085762",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.134296,
+                        37.965562
+                    ],
+                    [
+                        -76.321795,
+                        37.965562
+                    ],
+                    [
+                        -76.321795,
+                        40.289885
+                    ],
+                    [
+                        -79.134296,
+                        40.289885
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Washington DC",
+        "id": "97e96d6456068c5e",
+        "name": "Washington DC",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/97e96d6456068c5e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@AmericanAir so far! Only 1 segment so can\u2019t go too badly. Touch wood.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 11 02:55:37 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "TURBO CHICKEN",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bob.mcwhirter.org",
+                        "expanded_url": "http://bob.mcwhirter.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/TxncxvJqvE"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 64,
+        "follow_request_sent": false,
+        "followers_count": 1536,
+        "following": false,
+        "friends_count": 322,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 9366492,
+        "id_str": "9366492",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 118,
+        "location": "Wytheville",
+        "name": "Armadillo Bob",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9366492/1354205969",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/687759640520736770/wwt-g2Ts_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/687759640520736770/wwt-g2Ts_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bobmcwhirter",
+        "statuses_count": 9259,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/TxncxvJqvE",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

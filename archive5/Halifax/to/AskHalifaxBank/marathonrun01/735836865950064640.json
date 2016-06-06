@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 26 14:15:54 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 194049387,
+                "id_str": "194049387",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Halifax",
+                "screen_name": "AskHalifaxBank"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 735836865950064640,
+    "id_str": "735836865950064640",
+    "in_reply_to_screen_name": "AskHalifaxBank",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 194049387,
+    "in_reply_to_user_id_str": "194049387",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.3651943,
+                        49.8825312
+                    ],
+                    [
+                        1.768926,
+                        49.8825312
+                    ],
+                    [
+                        1.768926,
+                        55.8116485
+                    ],
+                    [
+                        -6.3651943,
+                        55.8116485
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "England, United Kingdom",
+        "id": "8ef32ff56ef11c22",
+        "name": "England",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/8ef32ff56ef11c22.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AskHalifaxBank - if i ask to replace my card does my current card stop working? Its expiry is next month so cannot use for future bookings.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 01 20:25:07 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Runner from Biddulph who runs marathons all over the UK, Europe and America. Marathon PB: 2h:57m:27s Berlin 2013. London & Lisbon or Amsterdam for 2016.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "marathonrun.co.uk",
+                        "expanded_url": "http://www.marathonrun.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/71gGKyYVzP"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 19,
+        "follow_request_sent": false,
+        "followers_count": 439,
+        "following": false,
+        "friends_count": 815,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3065803955,
+        "id_str": "3065803955",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 18,
+        "location": "Biddulph",
+        "name": "MarathonRun",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3065803955/1425312124",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/572131402380881920/l1FuLO2S_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/572131402380881920/l1FuLO2S_normal.jpeg",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "marathonrun01",
+        "statuses_count": 637,
+        "time_zone": "London",
+        "url": "http://t.co/71gGKyYVzP",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

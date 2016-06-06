@@ -1,0 +1,158 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 03 18:15:01 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    63,
+                    72
+                ],
+                "text": "DeepText"
+            },
+            {
+                "indices": [
+                    103,
+                    111
+                ],
+                "text": "newfeed"
+            },
+            {
+                "indices": [
+                    134,
+                    138
+                ],
+                "text": "ads"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 738796145732911104,
+    "id_str": "738796145732911104",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.265228,
+                        38.898565
+                    ],
+                    [
+                        -77.196534,
+                        38.898565
+                    ],
+                    [
+                        -77.196534,
+                        38.934957
+                    ],
+                    [
+                        -77.265228,
+                        38.934957
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Tysons Corner, VA",
+        "id": "ca12dbe04543ea95",
+        "name": "Tysons Corner",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ca12dbe04543ea95.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook - We totally get that you want to know us more using #DeepText but can you first pls fix the #newfeed. It's spammingus with #ads.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 12 19:12:40 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "At Kikr Labs, we build simple, unique apps that cater to a wide range of audience.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "kikrlabs.com",
+                        "expanded_url": "http://www.kikrlabs.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/7IRdjTFPpi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 19,
+        "follow_request_sent": false,
+        "followers_count": 15,
+        "following": false,
+        "friends_count": 75,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 730838117607837696,
+        "id_str": "730838117607837696",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Chandler, AZ",
+        "name": "Kikr Labs Inc",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/731246582440464384/uU4F0SnD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/731246582440464384/uU4F0SnD_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "kikrlabs",
+        "statuses_count": 21,
+        "time_zone": null,
+        "url": "https://t.co/7IRdjTFPpi",
+        "utc_offset": null,
+        "verified": false
+    }
+}

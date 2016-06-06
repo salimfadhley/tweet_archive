@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 20 15:13:22 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 733677001295331329,
+    "id_str": "733677001295331329",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.6903848,
+                        10.7075434
+                    ],
+                    [
+                        -82.6459656,
+                        10.7075434
+                    ],
+                    [
+                        -82.6459656,
+                        15.0259094
+                    ],
+                    [
+                        -87.6903848,
+                        15.0259094
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Nicaragua",
+        "country_code": "NI",
+        "full_name": "Nicaragua",
+        "id": "d2a0bb4acbd6b824",
+        "name": "Nicaragua",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/d2a0bb4acbd6b824.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook me gustar\u00eda informarles que me vale una semerenda y reverenda mierda los cumplea\u00f1os!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 18 17:20:30 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Voy a morir de C\u00e1ncer pero mi signo es Libra, Debian GNU/Linux, sexo y cerveza, 420.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "expanded_url": null,
+                        "indices": [
+                            0,
+                            31
+                        ],
+                        "url": "http://realdebian.blogspot.com/"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 10189,
+        "follow_request_sent": false,
+        "followers_count": 3945,
+        "following": false,
+        "friends_count": 2057,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 97710300,
+        "id_str": "97710300",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 10,
+        "location": "Managua, Nicaragua.",
+        "name": "RealDebian\u2122",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/97710300/1439412037",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/730043696272408576/kElAl5F5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/730043696272408576/kElAl5F5_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RealDebian",
+        "statuses_count": 47247,
+        "time_zone": "Central America",
+        "url": "http://realdebian.blogspot.com/",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

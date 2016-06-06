@@ -1,0 +1,155 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 02 18:43:03 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    113,
+                    127
+                ],
+                "text": "retailmatters"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 126664172,
+                "id_str": "126664172",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "John Lewis",
+                "screen_name": "johnlewisretail"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 738440811524837376,
+    "id_str": "738440811524837376",
+    "in_reply_to_screen_name": "johnlewisretail",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 126664172,
+    "in_reply_to_user_id_str": "126664172",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.422572,
+                        53.719616
+                    ],
+                    [
+                        -0.2453134,
+                        53.719616
+                    ],
+                    [
+                        -0.2453134,
+                        53.812018
+                    ],
+                    [
+                        -0.422572,
+                        53.812018
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Hull, England",
+        "id": "7bc0da87641dd821",
+        "name": "Hull",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@johnlewisretail please, please come to Hull. The 2017 city of culture needs you! Especially now BHS is closing. #retailmatters",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 02 16:01:13 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Founder of Movie Metropolis. Film critic. Eurovision geek. Delta lover. All views are my own. https://t.co/CqGhv2NCKr",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "moviemetropolis.net",
+                        "expanded_url": "http://moviemetropolis.net",
+                        "indices": [
+                            94,
+                            117
+                        ],
+                        "url": "https://t.co/CqGhv2NCKr"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "moviemetropolis.net",
+                        "expanded_url": "http://moviemetropolis.net",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/CqGhv2NCKr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 285,
+        "follow_request_sent": false,
+        "followers_count": 217,
+        "following": false,
+        "friends_count": 541,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 347307194,
+        "id_str": "347307194",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Kingston Upon Hull, UK",
+        "name": "Adam Brannon",
+        "notifications": false,
+        "profile_background_color": "59472F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/806883812/d5b892af209e212de112792342b7137c.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/806883812/d5b892af209e212de112792342b7137c.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/347307194/1460849786",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/554386531842920448/Oc9tmPLD_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/554386531842920448/Oc9tmPLD_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "061127",
+        "profile_text_color": "827972",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MovieMetropolis",
+        "statuses_count": 740,
+        "time_zone": "London",
+        "url": "https://t.co/CqGhv2NCKr",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

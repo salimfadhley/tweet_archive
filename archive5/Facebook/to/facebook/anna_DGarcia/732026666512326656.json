@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 16 01:55:32 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    90,
+                    98
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 732026666512326656,
+    "id_str": "732026666512326656",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -100.140978,
+                        25.2256459
+                    ],
+                    [
+                        -99.929097,
+                        25.2256459
+                    ],
+                    [
+                        -99.929097,
+                        25.3657741
+                    ],
+                    [
+                        -100.140978,
+                        25.3657741
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "M\u00e9xico",
+        "country_code": "MX",
+        "full_name": "Allende, Nuevo Le\u00f3n",
+        "id": "fdcb49c4ef13509e",
+        "name": "Allende",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/fdcb49c4ef13509e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook esta invadido por publicaciones de americanistas, Gracias a Dios por que existe @twitter",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 10 21:29:22 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Gerontologa por pasi\u00f3n -Me gusta el amor y escribir sobre \u00e9l y lo que le rodea- Mi \u2693 Firme esta en \u00c9l",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1448,
+        "follow_request_sent": false,
+        "followers_count": 162,
+        "following": false,
+        "friends_count": 439,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 201013229,
+        "id_str": "201013229",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 2,
+        "location": "",
+        "name": "La se\u00f1orita del \u2693",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/201013229/1433538482",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/729473199323258880/80C2UtDk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/729473199323258880/80C2UtDk_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "anna_DGarcia",
+        "statuses_count": 2012,
+        "time_zone": "Mexico City",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

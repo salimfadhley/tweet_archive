@@ -1,0 +1,156 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 10 20:28:43 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 180505807,
+                "id_str": "180505807",
+                "indices": [
+                    17,
+                    27
+                ],
+                "name": "Instagram",
+                "screen_name": "instagram"
+            },
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    32,
+                    40
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 730132480804556802,
+    "id_str": "730132480804556802",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.297884,
+                        26.228692
+                    ],
+                    [
+                        -80.2016611,
+                        26.228692
+                    ],
+                    [
+                        -80.2016611,
+                        26.31183
+                    ],
+                    [
+                        -80.297884,
+                        26.31183
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Coral Springs, FL",
+        "id": "6241025d720c4971",
+        "name": "Coral Springs",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6241025d720c4971.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook I like @instagram and @twitter",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 06 11:13:50 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com",
+                        "expanded_url": "http://twitter.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Pp9sifiU7f"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 31,
+        "follow_request_sent": false,
+        "followers_count": 25,
+        "following": false,
+        "friends_count": 170,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 728543287049478144,
+        "id_str": "728543287049478144",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "carlos figueroa",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/728544319070605313/4X_joBXF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/728544319070605313/4X_joBXF_normal.jpg",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Cashfigueroa31",
+        "statuses_count": 706,
+        "time_zone": null,
+        "url": "https://t.co/Pp9sifiU7f",
+        "utc_offset": null,
+        "verified": false
+    }
+}

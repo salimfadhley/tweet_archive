@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 05 19:30:15 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    64,
+                    79
+                ],
+                "text": "thanksfacebook"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 739539853587668992,
+    "id_str": "739539853587668992",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook showed me a pic from the day I first got dumped in HS #thanksfacebook \ud83d\ude02\nBreakupiversaries are celebrated with...cake? Froyo? Both.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 15 01:25:19 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "LITERALLY telling you what I'm doing all day...  @MSAModels @tallandsmallNYC @swipeRswipeL @nalinimethod",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "hannahkloepfer.com",
+                        "expanded_url": "http://www.hannahkloepfer.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/qNXa2bWsKU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 365,
+        "follow_request_sent": false,
+        "followers_count": 470,
+        "following": false,
+        "friends_count": 507,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 580416142,
+        "id_str": "580416142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "New York, NY",
+        "name": "Hannah Kloepfer",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/580416142/1453980177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/692669184317198336/F9FBsybC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/692669184317198336/F9FBsybC_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HannahKloepfer",
+        "statuses_count": 784,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/qNXa2bWsKU",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

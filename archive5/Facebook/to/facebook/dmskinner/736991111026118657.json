@@ -1,0 +1,149 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 29 18:42:28 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    47,
+                    51
+                ],
+                "text": "FBX"
+            },
+            {
+                "indices": [
+                    129,
+                    133
+                ],
+                "text": "dsp"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 43041901,
+                "id_str": "43041901",
+                "indices": [
+                    67,
+                    76
+                ],
+                "name": "LiveRail",
+                "screen_name": "LiveRail"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 736991111026118657,
+    "id_str": "736991111026118657",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook has had a busy month.  Shutting down #FBX; Shutting down @LiveRail; expanding its ad network.  Not a good time to be a #dsp",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 13 01:39:55 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Tech, ads, other.  Lead Partnerships @MerkleCRM.  #LongLA, #StrongNJ.  Good manners and bad breath get you nowhere. EC",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1100,
+        "follow_request_sent": false,
+        "followers_count": 460,
+        "following": false,
+        "friends_count": 779,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20739012,
+        "id_str": "20739012",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 17,
+        "location": "Los Angeles, CA",
+        "name": "David Skinner",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20739012/1399035609",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/600677107761618945/RIgZj-EB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/600677107761618945/RIgZj-EB_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dmskinner",
+        "statuses_count": 2010,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

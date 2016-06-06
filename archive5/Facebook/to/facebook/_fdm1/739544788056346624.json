@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 05 19:49:52 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 739544788056346624,
+    "id_str": "739544788056346624",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "it",
+    "metadata": {
+        "iso_language_code": "it",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        8.795686,
+                        47.208049
+                    ],
+                    [
+                        8.922022,
+                        47.208049
+                    ],
+                    [
+                        8.922022,
+                        47.251327
+                    ],
+                    [
+                        8.795686,
+                        47.251327
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Schweiz",
+        "country_code": "CH",
+        "full_name": "Rapperswil-Jona, Schweiz",
+        "id": "108d932c28e3c8e4",
+        "name": "Rapperswil-Jona",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/108d932c28e3c8e4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@facebook Di MAIO su spicciatevi ultime ore per votare su cORAGGIo, mettetevi la GIACHETTIna e via a votare !",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 28 13:18:29 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 25,
+        "follow_request_sent": false,
+        "followers_count": 62,
+        "following": false,
+        "friends_count": 104,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1128044090,
+        "id_str": "1128044090",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "it",
+        "listed_count": 2,
+        "location": "",
+        "name": "franco  de marco",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/468467588524015616/YYs0ZsRl_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/468467588524015616/YYs0ZsRl_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_fdm1",
+        "statuses_count": 13736,
+        "time_zone": "Athens",
+        "url": null,
+        "utc_offset": 10800,
+        "verified": false
+    }
+}

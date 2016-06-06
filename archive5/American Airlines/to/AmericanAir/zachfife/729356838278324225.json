@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 08 17:06:35 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 729356838278324225,
+    "id_str": "729356838278324225",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 729322738188357632,
+    "in_reply_to_status_id_str": "729322738188357632",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -112.3239143,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.8154652
+                    ],
+                    [
+                        -112.3239143,
+                        33.8154652
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Phoenix, AZ",
+        "id": "5c62ffb0f0f3479d",
+        "name": "Phoenix",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir seeing my mother on mother day is also important to me...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 07 02:49:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "actor. forever hungry",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/home.php?ref=h\u2026",
+                        "expanded_url": "http://www.facebook.com/home.php?ref=home",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/MBfHcvpRqq"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 531,
+        "follow_request_sent": false,
+        "followers_count": 393,
+        "following": false,
+        "friends_count": 233,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 29361866,
+        "id_str": "29361866",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Zach Fifer",
+        "notifications": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/171738569/sunrise.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/171738569/sunrise.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29361866/1416103095",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/682240750696828928/EkRwtPw9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/682240750696828928/EkRwtPw9_normal.jpg",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "zachfife",
+        "statuses_count": 3559,
+        "time_zone": "Quito",
+        "url": "https://t.co/MBfHcvpRqq",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

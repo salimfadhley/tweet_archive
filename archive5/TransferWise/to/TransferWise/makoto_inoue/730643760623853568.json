@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 12 06:20:21 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 228380252,
+                "id_str": "228380252",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "TransferWise",
+                "screen_name": "TransferWise"
+            },
+            {
+                "id": 82370079,
+                "id_str": "82370079",
+                "indices": [
+                    14,
+                    21
+                ],
+                "name": "Nilan",
+                "screen_name": "nilanp"
+            },
+            {
+                "id": 1399148563,
+                "id_str": "1399148563",
+                "indices": [
+                    83,
+                    92
+                ],
+                "name": "Kraken Exchange",
+                "screen_name": "krakenfx"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 730643760623853568,
+    "id_str": "730643760623853568",
+    "in_reply_to_screen_name": "TransferWise",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 228380252,
+    "in_reply_to_user_id_str": "228380252",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.080526,
+                        51.3434174
+                    ],
+                    [
+                        0.1331237,
+                        51.3434174
+                    ],
+                    [
+                        0.1331237,
+                        51.4452233
+                    ],
+                    [
+                        -0.080526,
+                        51.4452233
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Bromley, London",
+        "id": "135989ad972a5d9d",
+        "name": "Bromley",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/135989ad972a5d9d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@TransferWise @nilanp do you guys allow to send money to bitcoin exchanges such as @krakenfx ?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 21 09:52:36 +0000 2008",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "makoto.github.com/me/",
+                        "expanded_url": "http://makoto.github.com/me/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/pkqXAl4gXA"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 490,
+        "follow_request_sent": false,
+        "followers_count": 1396,
+        "following": false,
+        "friends_count": 684,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15188720,
+        "id_str": "15188720",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "ja",
+        "listed_count": 176,
+        "location": "London",
+        "name": "makoto_inoue",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15188720/1408108442",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000528684310/f81389f67f4818166ace5f4cf6529cbd_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000528684310/f81389f67f4818166ace5f4cf6529cbd_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "makoto_inoue",
+        "statuses_count": 5298,
+        "time_zone": "London",
+        "url": "http://t.co/pkqXAl4gXA",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

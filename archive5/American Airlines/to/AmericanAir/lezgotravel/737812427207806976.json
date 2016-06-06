@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 01 01:06:05 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 737812427207806976,
+    "id_str": "737812427207806976",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.042837,
+                        33.818392
+                    ],
+                    [
+                        -83.950981,
+                        33.818392
+                    ],
+                    [
+                        -83.950981,
+                        33.890635
+                    ],
+                    [
+                        -84.042837,
+                        33.890635
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Snellville, GA",
+        "id": "b2cdaa7db78ed09b",
+        "name": "Snellville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b2cdaa7db78ed09b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir Can you give me an update on flight from DFW to ATL. I have 4 clients that say the monitors show the flight is cancelled.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 14 01:48:52 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Have you collected so much information related to your dream honeymoon that you are overwhelmed by choices? I help busy couples plan a memorable honeymoon.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "lezgotravel.com",
+                        "expanded_url": "http://www.lezgotravel.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/aLGa24dhMW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 37,
+        "follow_request_sent": false,
+        "followers_count": 186,
+        "following": false,
+        "friends_count": 151,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 114074657,
+        "id_str": "114074657",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "Nationwide",
+        "name": "Lez Go Travel",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000116353700/7288f4a758003962384c47a265073da1.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000116353700/7288f4a758003962384c47a265073da1.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/114074657/1452441980",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/603031372916129794/UUgUiokp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/603031372916129794/UUgUiokp_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lezgotravel",
+        "statuses_count": 1402,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/aLGa24dhMW",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 12 12:33:19 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 147932302,
+                "id_str": "147932302",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Lloyds Bank",
+                "screen_name": "AskLloydsBank"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 730737620372885504,
+    "id_str": "730737620372885504",
+    "in_reply_to_screen_name": "AskLloydsBank",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 147932302,
+    "in_reply_to_user_id_str": "147932302",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.16179,
+                        52.8826584
+                    ],
+                    [
+                        -2.134514,
+                        52.8826584
+                    ],
+                    [
+                        -2.134514,
+                        52.901992
+                    ],
+                    [
+                        -2.16179,
+                        52.901992
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Walton, England",
+        "id": "3063d20c9a95b132",
+        "name": "Walton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3063d20c9a95b132.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "@AskLloydsBank Online banking isn't working right now - keeps saying it can't find the server",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 10 23:12:20 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Certified Symfony 2 Developer from the United Kingdom.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "github.com/mdavis1982",
+                        "expanded_url": "https://github.com/mdavis1982",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/pcd0xxmMho"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 220,
+        "follow_request_sent": false,
+        "followers_count": 434,
+        "following": false,
+        "friends_count": 342,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 10138992,
+        "id_str": "10138992",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 33,
+        "location": "Stoke-on-Trent, United Kingdom",
+        "name": "Matthew Davis",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/38421239/twitter.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/38421239/twitter.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000477445806/3fd3434fb7dbd2e2b996fbaaa707142c_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000477445806/3fd3434fb7dbd2e2b996fbaaa707142c_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mdavis1982",
+        "statuses_count": 3363,
+        "time_zone": "London",
+        "url": "https://t.co/pcd0xxmMho",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

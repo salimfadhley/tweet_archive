@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 01 04:41:09 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 737866551236386821,
+    "id_str": "737866551236386821",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.288056,
+                        42.255085
+                    ],
+                    [
+                        -82.91052,
+                        42.255085
+                    ],
+                    [
+                        -82.91052,
+                        42.450488
+                    ],
+                    [
+                        -83.288056,
+                        42.450488
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Detroit, MI",
+        "id": "b463d3bd6064861b",
+        "name": "Detroit",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b463d3bd6064861b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanAir Are y'all looking to offer any assistance?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 20 21:55:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I have not worked twice as hard for half as much only to end up living an unimpressive life. - Olivia Pope",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9020,
+        "follow_request_sent": false,
+        "followers_count": 802,
+        "following": false,
+        "friends_count": 625,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 41460449,
+        "id_str": "41460449",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Detroit//Oberlin",
+        "name": "Kam",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555187566085816320/hr4hVD7V.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/555187566085816320/hr4hVD7V.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41460449/1460769179",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/735145588145192960/-OVhr6NL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/735145588145192960/-OVhr6NL_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kamdunb",
+        "statuses_count": 30113,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

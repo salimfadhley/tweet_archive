@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 20 20:35:55 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 733758173471989760,
+    "id_str": "733758173471989760",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 733756727250817024,
+    "in_reply_to_status_id_str": "733756727250817024",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.5768961,
+                        51.591659
+                    ],
+                    [
+                        -0.541587,
+                        51.591659
+                    ],
+                    [
+                        -0.541587,
+                        51.626233
+                    ],
+                    [
+                        -0.5768961,
+                        51.626233
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Chalfont Saint Peter, South East",
+        "id": "5985f08f4e6615c9",
+        "name": "Chalfont Saint Peter",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5985f08f4e6615c9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir would that be enough miles to get to Doncaster? (They have an airport, there, you know)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 02 09:28:27 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Business Travel Agent - who still believes in service. Always better than online. Views are strictly my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "advantagetravel.co.uk",
+                        "expanded_url": "http://www.advantagetravel.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/9dTVxU33ia"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 67,
+        "follow_request_sent": false,
+        "followers_count": 1612,
+        "following": false,
+        "friends_count": 451,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18549275,
+        "id_str": "18549275",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 78,
+        "location": "Gerrards Cross",
+        "name": "Murray Harrold",
+        "notifications": false,
+        "profile_background_color": "3B8686",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/126960054/x151dfb77e932efcb915de28aeb0de5b.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/126960054/x151dfb77e932efcb915de28aeb0de5b.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080016910/ame1_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080016910/ame1_normal.jpeg",
+        "profile_link_color": "093747",
+        "profile_sidebar_border_color": "0D5280",
+        "profile_sidebar_fill_color": "B1BDC9",
+        "profile_text_color": "080108",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hurrymurray",
+        "statuses_count": 48845,
+        "time_zone": "London",
+        "url": "http://t.co/9dTVxU33ia",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

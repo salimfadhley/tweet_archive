@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat May 21 10:46:21 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 733972191243468800,
+    "id_str": "733972191243468800",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 733970393438945280,
+    "in_reply_to_status_id_str": "733970393438945280",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        6.688728,
+                        51.124357
+                    ],
+                    [
+                        6.939888,
+                        51.124357
+                    ],
+                    [
+                        6.939888,
+                        51.352537
+                    ],
+                    [
+                        6.688728,
+                        51.352537
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Deutschland",
+        "country_code": "DE",
+        "full_name": "D\u00fcsseldorf, Germany",
+        "id": "b7d3c12268abd20e",
+        "name": "D\u00fcsseldorf",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b7d3c12268abd20e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir thanks. But why the 5 security chex within 25' of each other, starting with interrogation by AA, not security? Police at plane?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 01 16:47:31 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Author 'Romantic Violence: Memoirs of an American Skinhead.' Founder of @LifeAfterHate. Emmy-nominated producer. CVE practitioner. Speaker. \u262e \u2736\u2736 Chicago \u2736\u2736",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "christianpicciolini.com",
+                        "expanded_url": "http://www.christianpicciolini.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/WKT1vHNMxw"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1471,
+        "follow_request_sent": false,
+        "followers_count": 3257,
+        "following": false,
+        "friends_count": 1482,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 14276135,
+        "id_str": "14276135",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 89,
+        "location": "Chicago, IL",
+        "name": "Christian Picciolini",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/563440656006135809/RMtcaiDd.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/563440656006135809/RMtcaiDd.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14276135/1430163729",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/710864967583473664/G2QcACZB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/710864967583473664/G2QcACZB_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cpicciolini",
+        "statuses_count": 7489,
+        "time_zone": "America/New_York",
+        "url": "http://t.co/WKT1vHNMxw",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

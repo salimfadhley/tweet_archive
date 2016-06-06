@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 16 14:43:23 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 163246124,
+                "id_str": "163246124",
+                "indices": [
+                    13,
+                    24
+                ],
+                "name": "LeonardoLoureiro",
+                "screen_name": "ljloureiro"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 732219904200335360,
+    "id_str": "732219904200335360",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 732029265256927232,
+    "in_reply_to_status_id_str": "732029265256927232",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -56.430439,
+                        -34.937896
+                    ],
+                    [
+                        -56.029341,
+                        -34.937896
+                    ],
+                    [
+                        -56.029341,
+                        -34.701599
+                    ],
+                    [
+                        -56.430439,
+                        -34.701599
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Uruguay",
+        "country_code": "UY",
+        "full_name": "Montevideo, Uruguay",
+        "id": "01a9dbb9232f0fac",
+        "name": "Montevideo",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9dbb9232f0fac.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir @ljloureiro ocurre SIEMPRE !!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 20 01:46:44 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "More than 10 years experience on Technical Sales all over Latin America in the IT Industry. Currently being Presales Manager for Business Analytics @IBM",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 21,
+        "follow_request_sent": false,
+        "followers_count": 123,
+        "following": false,
+        "friends_count": 398,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 134994129,
+        "id_str": "134994129",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 4,
+        "location": "Latin America",
+        "name": "Alan Schcolnik",
+        "notifications": false,
+        "profile_background_color": "EBC1C1",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/644639405659963392/2sN4S9Hi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/644639405659963392/2sN4S9Hi_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "331D2C",
+        "profile_text_color": "32D91C",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "alan_schcolnik",
+        "statuses_count": 436,
+        "time_zone": "Buenos Aires",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

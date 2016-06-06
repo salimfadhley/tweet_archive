@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 09 12:09:24 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 729644438767677441,
+    "id_str": "729644438767677441",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.446302,
+                        42.179271
+                    ],
+                    [
+                        -83.306006,
+                        42.179271
+                    ],
+                    [
+                        -83.306006,
+                        42.268212
+                    ],
+                    [
+                        -83.446302,
+                        42.268212
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Romulus, MI",
+        "id": "781e991b9f95b37f",
+        "name": "Romulus",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/781e991b9f95b37f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir what is the milestone rewards that you are giving out at the moment?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 19 00:30:30 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "https://t.co/turpMGCmVN",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/RyanDynasty",
+                        "expanded_url": "http://www.youtube.com/RyanDynasty",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/turpMGCmVN"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/ryandynasty",
+                        "expanded_url": "http://youtube.com/ryandynasty",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/gc3qISHhip"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2081,
+        "follow_request_sent": false,
+        "followers_count": 10350,
+        "following": false,
+        "friends_count": 94,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 48549715,
+        "id_str": "48549715",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 60,
+        "location": "",
+        "name": "ryan greenspan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/48549715/1417315659",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1447728498/image.php_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1447728498/image.php_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ryangreenspan",
+        "statuses_count": 5246,
+        "time_zone": null,
+        "url": "https://t.co/gc3qISHhip",
+        "utc_offset": null,
+        "verified": false
+    }
+}

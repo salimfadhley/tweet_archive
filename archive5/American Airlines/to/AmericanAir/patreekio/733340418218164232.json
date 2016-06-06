@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 19 16:55:55 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    13,
+                    20
+                ],
+                "text": "United"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 733340418218164232,
+    "id_str": "733340418218164232",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 733018359659290624,
+    "in_reply_to_status_id_str": "733018359659290624",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -116.5677878,
+                        33.7794258
+                    ],
+                    [
+                        -116.466791,
+                        33.7794258
+                    ],
+                    [
+                        -116.466791,
+                        33.8707332
+                    ],
+                    [
+                        -116.5677878,
+                        33.8707332
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Palm Springs, CA",
+        "id": "4265ece9285a2872",
+        "name": "Palm Springs",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4265ece9285a2872.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir #United",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 26 20:09:18 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "patreekio.com",
+                        "expanded_url": "http://www.patreekio.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Q2JSV2wjRj"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 48,
+        "follow_request_sent": false,
+        "followers_count": 71,
+        "following": false,
+        "friends_count": 76,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 22054541,
+        "id_str": "22054541",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Chicago",
+        "name": "Patrick Brandell",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/713155707386732544/m__SX4iL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/713155707386732544/m__SX4iL_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "patreekio",
+        "statuses_count": 442,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/Q2JSV2wjRj",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

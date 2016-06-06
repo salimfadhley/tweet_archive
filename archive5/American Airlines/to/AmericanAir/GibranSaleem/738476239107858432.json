@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 02 21:03:50 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 738476239107858432,
+    "id_str": "738476239107858432",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 738475841986822144,
+    "in_reply_to_status_id_str": "738475841986822144",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.962582,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.8000371
+                    ],
+                    [
+                        -73.962582,
+                        40.8000371
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Queens, NY",
+        "id": "00c39537733fa112",
+        "name": "Queens",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c39537733fa112.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir can you wheels up to my bank and refund me for the time and money I'm losing.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 18 01:10:25 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm just here for the free pizza. Bookings: GibranSaleem@gmail.com\nhttp://t.co/O1FqoCbNXE",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "favstar.fm/users/GibranSa\u2026",
+                        "expanded_url": "http://favstar.fm/users/GibranSaleem",
+                        "indices": [
+                            67,
+                            89
+                        ],
+                        "url": "http://t.co/O1FqoCbNXE"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/gibransaleem",
+                        "expanded_url": "http://instagram.com/gibransaleem",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/gLvdOHkxIJ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1498,
+        "follow_request_sent": false,
+        "followers_count": 2100,
+        "following": false,
+        "friends_count": 1469,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 204144236,
+        "id_str": "204144236",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 51,
+        "location": "NYC Comedian/Writer",
+        "name": "Gibran Saleem",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/749782768/851c05fd00277f31f8422ab902a8f101.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/749782768/851c05fd00277f31f8422ab902a8f101.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/204144236/1420828726",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000818558396/20f1e6a641ad74ed68eb61b0a023b263_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000818558396/20f1e6a641ad74ed68eb61b0a023b263_normal.png",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GibranSaleem",
+        "statuses_count": 4295,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/gLvdOHkxIJ",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

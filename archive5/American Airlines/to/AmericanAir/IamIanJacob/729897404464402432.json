@@ -1,0 +1,148 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 10 04:54:36 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "AA.com",
+                "expanded_url": "http://AA.com",
+                "indices": [
+                    40,
+                    63
+                ],
+                "url": "https://t.co/9q0zbuxoHe"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 729897404464402432,
+    "id_str": "729897404464402432",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 726516286444867584,
+    "in_reply_to_status_id_str": "726516286444867584",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir the counter directed us to https://t.co/9q0zbuxoHe, seems this won't be easy or simple \ud83d\udc4e\ud83c\udffc",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 15 00:24:40 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Artist/Poet/Model newly transplanted to Orlando.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "iamianjacob.com",
+                        "expanded_url": "http://www.iamianjacob.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/eu5Cr2EahW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 716,
+        "follow_request_sent": false,
+        "followers_count": 508,
+        "following": false,
+        "friends_count": 487,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 82495536,
+        "id_str": "82495536",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Florida, USA",
+        "name": "ian jacob",
+        "notifications": false,
+        "profile_background_color": "CB9E7B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/498659000754266112/XDZWu509.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/498659000754266112/XDZWu509.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82495536/1453177475",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/687789485434781699/05B3mJOq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/687789485434781699/05B3mJOq_normal.jpg",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "IamIanJacob",
+        "statuses_count": 8392,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/eu5Cr2EahW",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

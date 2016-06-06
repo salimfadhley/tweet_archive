@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat May 21 03:38:26 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 733864503482286080,
+    "id_str": "733864503482286080",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 733722622043754496,
+    "in_reply_to_status_id_str": "733722622043754496",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -91.51308,
+                        36.970298
+                    ],
+                    [
+                        -87.019935,
+                        36.970298
+                    ],
+                    [
+                        -87.019935,
+                        42.508303
+                    ],
+                    [
+                        -91.51308,
+                        42.508303
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Illinois, USA",
+        "id": "f54a2170ff4b15f7",
+        "name": "Illinois",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/f54a2170ff4b15f7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@AmericanAir it's gonna be a while...  50 bucks in credit for making me sleep in the Dallas airport rent a car Hime still stings.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 13 06:21:39 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Local beer guy, podcast host of Central Illinois' favorite beercast, travel junky, indi comic nerd with a touch of foodie thrown in to keep up with the hipsters",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "thebeerreport.com",
+                        "expanded_url": "http://www.thebeerreport.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/WKAWHpoerk"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 885,
+        "follow_request_sent": false,
+        "followers_count": 317,
+        "following": false,
+        "friends_count": 482,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 113840373,
+        "id_str": "113840373",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 29,
+        "location": "Pekin IL",
+        "name": "Groucho",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113840373/1409928272",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/733256329/lienie200x200_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/733256329/lienie200x200_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "thebeerreport",
+        "statuses_count": 3278,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/WKAWHpoerk",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

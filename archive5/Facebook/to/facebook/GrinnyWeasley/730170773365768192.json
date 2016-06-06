@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 10 23:00:52 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 24141214,
+                "id_str": "24141214",
+                "indices": [
+                    47,
+                    63
+                ],
+                "name": "Tessa Valentine",
+                "screen_name": "AllOfMyLoveTess"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 730170773365768192,
+    "id_str": "730170773365768192",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.76259,
+                        40.477383
+                    ],
+                    [
+                        -71.777492,
+                        40.477383
+                    ],
+                    [
+                        -71.777492,
+                        45.015851
+                    ],
+                    [
+                        -79.76259,
+                        45.015851
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "New York, USA",
+        "id": "94965b2c45386f87",
+        "name": "New York",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/94965b2c45386f87.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook can you please fix whatever problems @AllOfMyLoveTess is having with her FaceBook so she and I can chat?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 13 02:53:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm a nerd girl, living in my own little nerd world. If you're not okay with that straight up don't follow me. #FlanTrashNumber1 #K2O",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 13432,
+        "follow_request_sent": false,
+        "followers_count": 701,
+        "following": false,
+        "friends_count": 1230,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 39671176,
+        "id_str": "39671176",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 20,
+        "location": "Hyrule",
+        "name": "Cocky Tomato Face",
+        "notifications": false,
+        "profile_background_color": "FFEEC2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/370300969/x2121ff596424ab6705b60a5b55671b9.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/370300969/x2121ff596424ab6705b60a5b55671b9.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39671176/1462307524",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/727588858695651328/iU8N36-n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/727588858695651328/iU8N36-n_normal.jpg",
+        "profile_link_color": "F80174",
+        "profile_sidebar_border_color": "322C8E",
+        "profile_sidebar_fill_color": "C4037A",
+        "profile_text_color": "FE9E8E",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GrinnyWeasley",
+        "statuses_count": 35023,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

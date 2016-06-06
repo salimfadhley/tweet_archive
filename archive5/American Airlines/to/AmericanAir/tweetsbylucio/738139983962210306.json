@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 01 22:47:40 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 738139983962210306,
+    "id_str": "738139983962210306",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.962582,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.8000371
+                    ],
+                    [
+                        -73.962582,
+                        40.8000371
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Queens, NY",
+        "id": "00c39537733fa112",
+        "name": "Queens",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c39537733fa112.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir the phones at JFK to reschedule a connection flight is the worst kind of costumer service I have ever experienced.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 22 05:49:09 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Photographer | Tinker Street*",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "luciomx.tumblr.com",
+                        "expanded_url": "http://luciomx.tumblr.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/QrfoklTFhE"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2004,
+        "follow_request_sent": false,
+        "followers_count": 504,
+        "following": false,
+        "friends_count": 241,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15195407,
+        "id_str": "15195407",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 15,
+        "location": "Brooklyn ",
+        "name": "Lucio Bracamontes",
+        "notifications": false,
+        "profile_background_color": "414141",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/415418516/gray-bg.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/415418516/gray-bg.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15195407/1389811212",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/535906589929385984/uRwMei38_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/535906589929385984/uRwMei38_normal.jpeg",
+        "profile_link_color": "5E9732",
+        "profile_sidebar_border_color": "DCDCDC",
+        "profile_sidebar_fill_color": "DCDCDC",
+        "profile_text_color": "414141",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tweetsbylucio",
+        "statuses_count": 4956,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/QrfoklTFhE",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

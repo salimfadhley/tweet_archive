@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 05 22:03:29 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    71,
+                    80
+                ],
+                "text": "Facebook"
+            },
+            {
+                "indices": [
+                    81,
+                    90
+                ],
+                "text": "WhatsApp"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "qatarday.com/blog/technolog\u2026",
+                "expanded_url": "http://www.qatarday.com/blog/technology/facebook-might-be-about-to-steal-whatsapps-most/15314",
+                "indices": [
+                    91,
+                    114
+                ],
+                "url": "https://t.co/HeCTmsdB27"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 40148479,
+                "id_str": "40148479",
+                "indices": [
+                    34,
+                    43
+                ],
+                "name": "WhatsApp Inc.",
+                "screen_name": "WhatsApp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 739578414202490880,
+    "id_str": "739578414202490880",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        51.4477039,
+                        25.2216
+                    ],
+                    [
+                        51.630581,
+                        25.2216
+                    ],
+                    [
+                        51.630581,
+                        25.4277362
+                    ],
+                    [
+                        51.4477039,
+                        25.4277362
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u062f\u0648\u0644\u0629 \u0642\u0637\u0631",
+        "country_code": "QA",
+        "full_name": "Doha, Qatar",
+        "id": "0181f32937df0de8",
+        "name": "Doha",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/0181f32937df0de8.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook might be about to steal @WhatsApp 's most impressive feature #Facebook #WhatsApp https://t.co/HeCTmsdB27",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 28 10:01:31 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Qatar Day is every individual\u2019s pit stop before they plan a weekend, shopping, or a movie. It is your friend which will make life simpler and mobile.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "qatarday.com",
+                        "expanded_url": "http://www.qatarday.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/HcxKxlAc5B"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3079,
+        "follow_request_sent": false,
+        "followers_count": 59939,
+        "following": false,
+        "friends_count": 602,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 208995765,
+        "id_str": "208995765",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 548,
+        "location": "Doha, Qatar",
+        "name": "Qatar Day",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452407395088470016/OmejW5bz.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452407395088470016/OmejW5bz.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/208995765/1391932620",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/484305466751598593/HVyXBNTx_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/484305466751598593/HVyXBNTx_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "qatarday",
+        "statuses_count": 66643,
+        "time_zone": "Kuwait",
+        "url": "http://t.co/HcxKxlAc5B",
+        "utc_offset": 10800,
+        "verified": false
+    }
+}

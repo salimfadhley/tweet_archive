@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 16 10:45:02 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    90,
+                    98
+                ],
+                "text": "Notfair"
+            },
+            {
+                "indices": [
+                    99,
+                    109
+                ],
+                "text": "Inclusion"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            },
+            {
+                "id": 243381107,
+                "id_str": "243381107",
+                "indices": [
+                    25,
+                    36
+                ],
+                "name": "Google Play",
+                "screen_name": "GooglePlay"
+            },
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    78,
+                    87
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 732159920230010880,
+    "id_str": "732159920230010880",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        3.4023218,
+                        6.3962643
+                    ],
+                    [
+                        3.6013694,
+                        6.3962643
+                    ],
+                    [
+                        3.6013694,
+                        6.4867971
+                    ],
+                    [
+                        3.4023218,
+                        6.4867971
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Nigeria",
+        "country_code": "NG",
+        "full_name": "Victoria Island, Nigeria",
+        "id": "01ed1f9a43bfb9bd",
+        "name": "Victoria Island",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01ed1f9a43bfb9bd.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@AppStore please, why is @GooglePlay Gboard keyboard not available in Nigeria @AppStore ? #Notfair #Inclusion",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 21 01:42:09 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Legal and Random Tweets!\n\nTeam @ChelseaFC",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/ijezie",
+                        "expanded_url": "http://www.facebook.com/ijezie",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/5slQT3ARyb"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 167,
+        "follow_request_sent": false,
+        "followers_count": 441,
+        "following": false,
+        "friends_count": 1456,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 98252210,
+        "id_str": "98252210",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Lagos, Nigeria",
+        "name": "Ij\u00e9Zie",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/582454187360927744/nbdDFt35_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/582454187360927744/nbdDFt35_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ijeziem",
+        "statuses_count": 6544,
+        "time_zone": "West Central Africa",
+        "url": "http://t.co/5slQT3ARyb",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

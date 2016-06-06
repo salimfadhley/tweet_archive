@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 08 12:31:57 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 729287724990107649,
+    "id_str": "729287724990107649",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 729285116292304896,
+    "in_reply_to_status_id_str": "729285116292304896",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanAir thanks! :) so quick",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 25 21:37:45 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Builder of things and occasional mountain climber.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "robertmaisano.com",
+                        "expanded_url": "http://robertmaisano.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Eplmx7tkXu"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2357,
+        "follow_request_sent": false,
+        "followers_count": 677,
+        "following": false,
+        "friends_count": 2054,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1546739095,
+        "id_str": "1546739095",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 46,
+        "location": "New York",
+        "name": "Robert T. Maisano",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546739095/1462417752",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000045944541/751a53dc9dba8e5d362e49d1098bef45_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000045944541/751a53dc9dba8e5d362e49d1098bef45_normal.jpeg",
+        "profile_link_color": "D50000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Robert_Maisano",
+        "statuses_count": 2368,
+        "time_zone": null,
+        "url": "https://t.co/Eplmx7tkXu",
+        "utc_offset": null,
+        "verified": false
+    }
+}

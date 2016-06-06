@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat May 21 00:36:08 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 733818624062967808,
+    "id_str": "733818624062967808",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 733818067415797761,
+    "in_reply_to_status_id_str": "733818067415797761",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.507905,
+                        28.3882177
+                    ],
+                    [
+                        -81.2276403,
+                        28.3882177
+                    ],
+                    [
+                        -81.2276403,
+                        28.615139
+                    ],
+                    [
+                        -81.507905,
+                        28.615139
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Orlando, FL",
+        "id": "55b4f9e5c516e0b6",
+        "name": "Orlando",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/55b4f9e5c516e0b6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir i'm sure you are. I love this airline but i feel kinda of dissapointed. I lost the entire day",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 15 23:52:34 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "the end is just the beginning.. new adventures..",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 8739,
+        "follow_request_sent": false,
+        "followers_count": 222,
+        "following": false,
+        "friends_count": 185,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 31565308,
+        "id_str": "31565308",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Florida, USA",
+        "name": "m\u0454n\u0e04",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/820369981/23f80f0ccbf6eaf093ea38399525d3a1.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/820369981/23f80f0ccbf6eaf093ea38399525d3a1.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31565308/1463484205",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/718767550083936258/NCk1dxOx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/718767550083936258/NCk1dxOx_normal.jpg",
+        "profile_link_color": "642D8B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SimpleAsMena",
+        "statuses_count": 56017,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

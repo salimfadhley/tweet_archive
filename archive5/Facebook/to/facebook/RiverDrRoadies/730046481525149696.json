@@ -1,0 +1,159 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 10 14:46:59 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    74,
+                    83
+                ],
+                "text": "Facebook"
+            },
+            {
+                "indices": [
+                    100,
+                    113
+                ],
+                "text": "TuesdayTruth"
+            },
+            {
+                "indices": [
+                    114,
+                    127
+                ],
+                "text": "LehighValley"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 730046481525149696,
+    "id_str": "730046481525149696",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        5.2811016,
+                        49.1126807
+                    ],
+                    [
+                        5.4405117,
+                        49.1126807
+                    ],
+                    [
+                        5.4405117,
+                        49.1753839
+                    ],
+                    [
+                        5.2811016,
+                        49.1753839
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Verdun, France",
+        "id": "3d45b216de799176",
+        "name": "Verdun",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3d45b216de799176.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook's organic reach (how many people you can reach for free on your #Facebook page) is dying. #TuesdayTruth #LehighValley",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 15 17:40:43 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Take a ride with us on the coolest road in the #LehighValley, one #Tweet at a time to reclaim it from the trash.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/pages/Keep-Our\u2026",
+                        "expanded_url": "https://www.facebook.com/pages/Keep-Our-Road-Beautiful/456045731164972",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/7mybuBsaBV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1421,
+        "follow_request_sent": false,
+        "followers_count": 135,
+        "following": false,
+        "friends_count": 132,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2496806280,
+        "id_str": "2496806280",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Allentown & Bethlehem",
+        "name": "KeepOurRoadBeautiful",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2496806280/1456959856",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/507203637093744641/mCQKoxvp_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/507203637093744641/mCQKoxvp_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RiverDrRoadies",
+        "statuses_count": 1235,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/7mybuBsaBV",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

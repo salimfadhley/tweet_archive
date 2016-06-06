@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 12 04:12:21 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 730611548431863809,
+    "id_str": "730611548431863809",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 730588330283294722,
+    "in_reply_to_status_id_str": "730588330283294722",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir honestly it feels like you're trying to punish the people in group 3 who didn't pay for priority. Over 12 ppl had to check \ud83d\udc5c",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 04 18:00:51 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Have we met? Guy getting out of shower. Guy waiting in line for food. Occasionally professional entertainer. Free album? Free words free dot com slash free",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "freewordsfree.com/free",
+                        "expanded_url": "http://freewordsfree.com/free",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/tmRfBEVBr2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1244,
+        "follow_request_sent": false,
+        "followers_count": 1202,
+        "following": false,
+        "friends_count": 341,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 37714790,
+        "id_str": "37714790",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 22,
+        "location": "Los Angeles",
+        "name": "Chozinn Pickar",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/41176534/JasonPickar.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/41176534/JasonPickar.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/37714790/1394755509",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/444262616601341953/b3bVSdMO_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/444262616601341953/b3bVSdMO_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "jasonpickar",
+        "statuses_count": 13468,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/tmRfBEVBr2",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 15 23:34:35 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    53,
+                    60
+                ],
+                "text": "travel"
+            },
+            {
+                "indices": [
+                    61,
+                    65
+                ],
+                "text": "FOJ"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 731991195967225860,
+    "id_str": "731991195967225860",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 731988663450509312,
+    "in_reply_to_status_id_str": "731988663450509312",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Thank YOU!!! My friend my the flight!!! #travel #FOJ\u2708\ufe0f",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 14 02:22:58 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/JodiBrockington",
+                        "expanded_url": "http://about.me/JodiBrockington",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/OTGrqfirrD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 107,
+        "follow_request_sent": false,
+        "followers_count": 2959,
+        "following": false,
+        "friends_count": 3318,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 143660223,
+        "id_str": "143660223",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 220,
+        "location": "NYC or a plane ticket away...",
+        "name": "FriendsOfJodi",
+        "notifications": false,
+        "profile_background_color": "403E3D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/123478672/foj_twitterbackSmallBBc.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/123478672/foj_twitterbackSmallBBc.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3199144866/11dee5873e8673cbcecd8d6080a442e0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3199144866/11dee5873e8673cbcecd8d6080a442e0_normal.jpeg",
+        "profile_link_color": "2B6D70",
+        "profile_sidebar_border_color": "EDEDED",
+        "profile_sidebar_fill_color": "C3C4C7",
+        "profile_text_color": "665C5C",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FriendsOfJodi",
+        "statuses_count": 35503,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/OTGrqfirrD",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

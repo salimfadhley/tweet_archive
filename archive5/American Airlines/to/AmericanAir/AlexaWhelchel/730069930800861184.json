@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 10 16:20:10 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 730069930800861184,
+    "id_str": "730069930800861184",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 730066480847462400,
+    "in_reply_to_status_id_str": "730066480847462400",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.436232,
+                        47.4953154
+                    ],
+                    [
+                        -122.2249728,
+                        47.4953154
+                    ],
+                    [
+                        -122.2249728,
+                        47.734319
+                    ],
+                    [
+                        -122.436232,
+                        47.734319
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Seattle, WA",
+        "id": "300bcc6e23a88361",
+        "name": "Seattle",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/300bcc6e23a88361.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir gate agent was very rude.I had flight confirmation, was there on time, and still wasn't let back on a connecting flight.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 26 19:48:34 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "HKOE",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2237,
+        "follow_request_sent": false,
+        "followers_count": 316,
+        "following": false,
+        "friends_count": 392,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 537505150,
+        "id_str": "537505150",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Kappa Delta- WSU",
+        "name": "Alexa Whelchel",
+        "notifications": false,
+        "profile_background_color": "FCEBB6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000110169377/ba77f6607788b153d59e7ebf97baba91.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000110169377/ba77f6607788b153d59e7ebf97baba91.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/537505150/1355276751",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/426106680837799936/qOvvTmvB_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/426106680837799936/qOvvTmvB_normal.jpeg",
+        "profile_link_color": "CE7834",
+        "profile_sidebar_border_color": "F0A830",
+        "profile_sidebar_fill_color": "78C0A8",
+        "profile_text_color": "5E412F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AlexaWhelchel",
+        "statuses_count": 1456,
+        "time_zone": "Arizona",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

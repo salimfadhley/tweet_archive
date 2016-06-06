@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 09 03:35:48 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 729515186881626112,
+    "id_str": "729515186881626112",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 729514871864197120,
+    "in_reply_to_status_id_str": "729514871864197120",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -112.3239143,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.8154652
+                    ],
+                    [
+                        -112.3239143,
+                        33.8154652
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Phoenix, AZ",
+        "id": "5c62ffb0f0f3479d",
+        "name": "Phoenix",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@AmericanAir as far as I can tell. Never seen that issue on other airbuses.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 19 02:30:46 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Director, Portfolio Strategy @PlayStation and King of the Skies \\\\ Former Frontman at Harmonix + Drummer for @TheMainDrag \\\\Loves games, music, TV, & Diet Coke.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "johntdrake.tumblr.com",
+                        "expanded_url": "http://johntdrake.tumblr.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/bSzyrjR8hF"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3685,
+        "follow_request_sent": false,
+        "followers_count": 32102,
+        "following": false,
+        "friends_count": 2354,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 15488968,
+        "id_str": "15488968",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 691,
+        "location": "San Francisco, CA",
+        "name": "johntdrake",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/470027748035940352/iwwEsvzk_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/470027748035940352/iwwEsvzk_normal.jpeg",
+        "profile_link_color": "2B3991",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "johntdrake",
+        "statuses_count": 45661,
+        "time_zone": "Quito",
+        "url": "http://t.co/bSzyrjR8hF",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 12 02:56:47 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            },
+            {
+                "id": 180505807,
+                "id_str": "180505807",
+                "indices": [
+                    10,
+                    20
+                ],
+                "name": "Instagram",
+                "screen_name": "instagram"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 730592531017306112,
+    "id_str": "730592531017306112",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": 730426071565275136,
+    "in_reply_to_status_id_str": "730426071565275136",
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -57.8153496,
+                        -25.9842911
+                    ],
+                    [
+                        -57.1550064,
+                        -25.9842911
+                    ],
+                    [
+                        -57.1550064,
+                        -25.1088905
+                    ],
+                    [
+                        -57.8153496,
+                        -25.1088905
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Paraguay",
+        "country_code": "PY",
+        "full_name": "Central, Paraguay",
+        "id": "016ea1445db12efb",
+        "name": "Central",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/016ea1445db12efb.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AppStore @instagram no me gusta el nuevo logo. \ud83d\ude2b",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 21 18:42:29 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Welcome to my silly life :')",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 128,
+        "follow_request_sent": false,
+        "followers_count": 245,
+        "following": false,
+        "friends_count": 576,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 169175731,
+        "id_str": "169175731",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 4,
+        "location": "Paraguay",
+        "name": "Germ\u00e1n Lugo",
+        "notifications": false,
+        "profile_background_color": "030005",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/267317236/tumblr_llupdfmbjS1qajhgvo1_500.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/267317236/tumblr_llupdfmbjS1qajhgvo1_500.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/169175731/1402593462",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/657921496346697728/HoYPk-4h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/657921496346697728/HoYPk-4h_normal.jpg",
+        "profile_link_color": "0793B3",
+        "profile_sidebar_border_color": "02121A",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "820855",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Ger_wish",
+        "statuses_count": 8033,
+        "time_zone": "Santiago",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

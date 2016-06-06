@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat May 14 12:49:02 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 731466350644887552,
+    "id_str": "731466350644887552",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 731465688049549314,
+    "in_reply_to_status_id_str": "731465688049549314",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.0574361,
+                        41.2765605
+                    ],
+                    [
+                        2.146839,
+                        41.2765605
+                    ],
+                    [
+                        2.146839,
+                        41.3484986
+                    ],
+                    [
+                        2.0574361,
+                        41.3484986
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Espa\u00f1a",
+        "country_code": "ES",
+        "full_name": "el Prat de Llobregat, Espanya",
+        "id": "37ded68f419372ee",
+        "name": "el Prat de Llobregat",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/37ded68f419372ee.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir There are zero agents at the gate in BCN. Absolutely zero AA agents. There is no direction. Ppl are livid. I'm getting angry 2.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 14 03:22:09 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "JHU alum, student of history, tech professional, organic gardener, soccer fan, and @HillaryClinton volunteer. WI Delegate to the DNC 2016. #DemsInPhilly",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "hillaryclinton.com/welcome",
+                        "expanded_url": "http://www.hillaryclinton.com/welcome",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/kGnCGbxnGk"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 17,
+        "follow_request_sent": false,
+        "followers_count": 185,
+        "following": false,
+        "friends_count": 445,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 96683681,
+        "id_str": "96683681",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Madison, WI",
+        "name": "Frank Long",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/96683681/1403794998",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/697807767885713408/Sou_DNym_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/697807767885713408/Sou_DNym_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "frankhlong",
+        "statuses_count": 415,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/kGnCGbxnGk",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

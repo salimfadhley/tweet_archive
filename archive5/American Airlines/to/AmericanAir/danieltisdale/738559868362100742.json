@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 03 02:36:09 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 738559868362100742,
+    "id_str": "738559868362100742",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.815054,
+                        32.8365233
+                    ],
+                    [
+                        -96.7710486,
+                        32.8365233
+                    ],
+                    [
+                        -96.7710486,
+                        32.865496
+                    ],
+                    [
+                        -96.815054,
+                        32.865496
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "University Park, TX",
+        "id": "f90baaeac804e75f",
+        "name": "University Park",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/f90baaeac804e75f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir flight delayed for over 45 minutes from Calgary to Dallas.  Flight number AA1166. I missed an important meeting. Can you help?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 09 22:28:34 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "University of Texas grad, born and bred in Austin with a passion for sports. Longhorns, Patriots, Celtics, Red Sox, and Bruins.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 11,
+        "follow_request_sent": false,
+        "followers_count": 112,
+        "following": false,
+        "friends_count": 467,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 23514565,
+        "id_str": "23514565",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Austin,TX",
+        "name": "Daniel Tisdale",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/255380479/Austin_Half_2009_normal.bmp",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/255380479/Austin_Half_2009_normal.bmp",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "danieltisdale",
+        "statuses_count": 156,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

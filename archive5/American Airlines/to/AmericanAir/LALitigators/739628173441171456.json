@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 06 01:21:12 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 739628173441171456,
+    "id_str": "739628173441171456",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -156.451736,
+                        20.882087
+                    ],
+                    [
+                        -156.392681,
+                        20.882087
+                    ],
+                    [
+                        -156.392681,
+                        20.914336
+                    ],
+                    [
+                        -156.451736,
+                        20.914336
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Spreckelsville, HI",
+        "id": "00a153942e628520",
+        "name": "Spreckelsville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00a153942e628520.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir landed an hour ago in Maui, still no bags at all.  Cuba is more efficient!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 01 20:01:57 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Los Angeles Plaintiffs' Law Firm. Taking down corporate bullies and other miscreants on behalf of those who need it most.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "kristensenlaw.com",
+                        "expanded_url": "http://www.kristensenlaw.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/LPHdU2kPWD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 48,
+        "follow_request_sent": false,
+        "followers_count": 98,
+        "following": false,
+        "friends_count": 145,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2699123413,
+        "id_str": "2699123413",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Los Angeles, California",
+        "name": "Kristensen Weisberg",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/495303650776850432/773IUMde_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/495303650776850432/773IUMde_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LALitigators",
+        "statuses_count": 1284,
+        "time_zone": null,
+        "url": "http://t.co/LPHdU2kPWD",
+        "utc_offset": null,
+        "verified": false
+    }
+}

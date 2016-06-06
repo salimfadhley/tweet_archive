@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 18 21:56:50 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 733053758444343297,
+    "id_str": "733053758444343297",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 733053382114430976,
+    "in_reply_to_status_id_str": "733053382114430976",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.191421,
+                        42.227797
+                    ],
+                    [
+                        -70.986004,
+                        42.227797
+                    ],
+                    [
+                        -70.986004,
+                        42.399542
+                    ],
+                    [
+                        -71.191421,
+                        42.399542
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Boston, MA",
+        "id": "67b98f17fdcf20be",
+        "name": "Boston",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/67b98f17fdcf20be.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir 793! Things are looking good for boarding this one. Thank you !",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 23 22:52:27 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "graphical design",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "evanecorder.com",
+                        "expanded_url": "http://evanecorder.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/NUi7Khx7ub"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1477,
+        "follow_request_sent": false,
+        "followers_count": 247,
+        "following": false,
+        "friends_count": 206,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 419896631,
+        "id_str": "419896631",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "clt via nyc via tx",
+        "name": "Evane Williams",
+        "notifications": false,
+        "profile_background_color": "EFEFEF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/580087375012868096/HGPtR0XG.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/580087375012868096/HGPtR0XG.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/419896631/1388939315",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/722616997318672385/PW8VBQri_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/722616997318672385/PW8VBQri_normal.jpg",
+        "profile_link_color": "AFAFAF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFD859",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "evanecorder",
+        "statuses_count": 3161,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/NUi7Khx7ub",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

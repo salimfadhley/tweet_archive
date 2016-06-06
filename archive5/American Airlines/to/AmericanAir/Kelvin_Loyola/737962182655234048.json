@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 01 11:01:09 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    90,
+                    106
+                ],
+                "text": "customerservice"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 737962182655234048,
+    "id_str": "737962182655234048",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.321683,
+                        25.7090404
+                    ],
+                    [
+                        -80.144974,
+                        25.7090404
+                    ],
+                    [
+                        -80.144974,
+                        25.855667
+                    ],
+                    [
+                        -80.321683,
+                        25.855667
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Miami, FL",
+        "id": "04cb31bae3b3af93",
+        "name": "Miami",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/04cb31bae3b3af93.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir for the love of mercy have better service. No Juice on a 10hr flight really? #customerservice",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 28 18:12:09 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "American living in Uruguay, Married, Soccer fan, Social Media freak, and Genuine pain in the butt.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/kelvinloyola/",
+                        "expanded_url": "https://instagram.com/kelvinloyola/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/DE0afFUH4I"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3320,
+        "follow_request_sent": false,
+        "followers_count": 200,
+        "following": false,
+        "friends_count": 580,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 400233083,
+        "id_str": "400233083",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 16,
+        "location": "Montevideo, Uruguay",
+        "name": "Kelvin Loyola",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/400233083/1457834556",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/679491978585882625/9IxYaL_d_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/679491978585882625/9IxYaL_d_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Kelvin_Loyola",
+        "statuses_count": 6070,
+        "time_zone": "Greenland",
+        "url": "https://t.co/DE0afFUH4I",
+        "utc_offset": -7200,
+        "verified": false
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 05 20:11:54 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    120,
+                    126
+                ],
+                "text": "error"
+            },
+            {
+                "indices": [
+                    127,
+                    132
+                ],
+                "text": "fail"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 194049387,
+                "id_str": "194049387",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Halifax",
+                "screen_name": "AskHalifaxBank"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 739550333001728001,
+    "id_str": "739550333001728001",
+    "in_reply_to_screen_name": "AskHalifaxBank",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 194049387,
+    "in_reply_to_user_id_str": "194049387",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.659992,
+                        53.6298227
+                    ],
+                    [
+                        -2.608159,
+                        53.6298227
+                    ],
+                    [
+                        -2.608159,
+                        53.673185
+                    ],
+                    [
+                        -2.659992,
+                        53.673185
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Chorley, England",
+        "id": "771cc930c7344732",
+        "name": "Chorley",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/771cc930c7344732.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AskHalifaxBank Didn't have such a \"Tip Top\" experience applying for a travel credit card on your website this evening. #error #fail",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 03 10:05:59 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Web Systems Developer (BSc) & Keen Biker. Owner of @icewebuk",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "maxgilbert.co.uk",
+                        "expanded_url": "http://www.maxgilbert.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/mCnbZyBvin"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 358,
+        "follow_request_sent": false,
+        "followers_count": 369,
+        "following": false,
+        "friends_count": 908,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 211463769,
+        "id_str": "211463769",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 14,
+        "location": "United Kingdom",
+        "name": "Max Gilbert",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000117071410/6d02de4526a147747ce8d660d48f4e5f.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000117071410/6d02de4526a147747ce8d660d48f4e5f.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/211463769/1450442497",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/677830691086712832/nZ6AGugZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/677830691086712832/nZ6AGugZ_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mgilberties",
+        "statuses_count": 2112,
+        "time_zone": "London",
+        "url": "http://t.co/mCnbZyBvin",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

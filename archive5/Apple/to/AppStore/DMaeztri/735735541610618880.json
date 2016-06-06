@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 26 07:33:17 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            },
+            {
+                "id": 40148479,
+                "id_str": "40148479",
+                "indices": [
+                    10,
+                    19
+                ],
+                "name": "WhatsApp Inc.",
+                "screen_name": "WhatsApp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 735735541610618880,
+    "id_str": "735735541610618880",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        106.801353,
+                        -6.226841
+                    ],
+                    [
+                        106.832922,
+                        -6.226841
+                    ],
+                    [
+                        106.832922,
+                        -6.17638
+                    ],
+                    [
+                        106.801353,
+                        -6.17638
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Indonesia",
+        "country_code": "ID",
+        "full_name": "Tanah Abang, Indonesia",
+        "id": "019ffe0a3471b036",
+        "name": "Tanah Abang",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/019ffe0a3471b036.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AppStore @WhatsApp updated to ios 9.3.2, my app crashed, restrating didnt work. Uninstalled and reinstalled. Still crashing. Why?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 03 06:55:32 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A black cat crossing your path signifies that the animal is going somewhere - Groucho Marx",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "devinmaeztri.com",
+                        "expanded_url": "http://www.devinmaeztri.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/QI0iRio8is"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1417,
+        "follow_request_sent": false,
+        "followers_count": 214,
+        "following": false,
+        "friends_count": 606,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 799798800,
+        "id_str": "799798800",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Jakarta",
+        "name": "Devo",
+        "notifications": false,
+        "profile_background_color": "F4F5FC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/865667767/00a8fb432cca6cf62fe19de21708adce.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/865667767/00a8fb432cca6cf62fe19de21708adce.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/799798800/1391155308",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/619117805036646400/isM1hOEU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/619117805036646400/isM1hOEU_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DMaeztri",
+        "statuses_count": 1880,
+        "time_zone": "Bangkok",
+        "url": "https://t.co/QI0iRio8is",
+        "utc_offset": 25200,
+        "verified": false
+    }
+}

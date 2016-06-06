@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 13 05:12:20 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    88,
+                    106
+                ],
+                "text": "FirstClassService"
+            },
+            {
+                "indices": [
+                    107,
+                    115
+                ],
+                "text": "sarcasm"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "pic.twitter.com/xWeruffehE",
+                "expanded_url": "http://twitter.com/joshreaume/status/730989028280012800/photo/1",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/xWeruffehE"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 730989028280012800,
+    "id_str": "730989028280012800",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.046876,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.416412
+                    ],
+                    [
+                        -81.046876,
+                        35.416412
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Charlotte, NC",
+        "id": "512a8a4a4c4b4be0",
+        "name": "Charlotte",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/512a8a4a4c4b4be0.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir how I feel about the announcement our pilots finally arrived... Epic delay!#FirstClassService #sarcasm https://t.co/xWeruffehE",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 01 01:10:23 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Driver in the Nascar Xfinity Series. Mech Eng, MK, TCK, DC! Working my way up the NASCAR ladder one race at a time!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "joshreaume.com",
+                        "expanded_url": "http://www.joshreaume.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/s4O3g4IDX5"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 467,
+        "follow_request_sent": false,
+        "followers_count": 1331,
+        "following": false,
+        "friends_count": 428,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 43796026,
+        "id_str": "43796026",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 43,
+        "location": "Mooresville, NC",
+        "name": "Josh Reaume",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493102921853050881/1GoksIVR.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493102921853050881/1GoksIVR.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/43796026/1462289651",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/576801366946942978/URQEE2c5_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/576801366946942978/URQEE2c5_normal.jpeg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "joshreaume",
+        "statuses_count": 1561,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/s4O3g4IDX5",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

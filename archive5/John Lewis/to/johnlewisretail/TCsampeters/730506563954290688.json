@@ -1,0 +1,155 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 11 21:15:11 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    122,
+                    138
+                ],
+                "text": "heknowshisstuff"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 126664172,
+                "id_str": "126664172",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "John Lewis",
+                "screen_name": "johnlewisretail"
+            },
+            {
+                "id": 491195550,
+                "id_str": "491195550",
+                "indices": [
+                    17,
+                    32
+                ],
+                "name": "Jo Malone London",
+                "screen_name": "JoMaloneLondon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 730506563954290688,
+    "id_str": "730506563954290688",
+    "in_reply_to_screen_name": "johnlewisretail",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 126664172,
+    "in_reply_to_user_id_str": "126664172",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.838006,
+                        51.050942
+                    ],
+                    [
+                        -1.765956,
+                        51.050942
+                    ],
+                    [
+                        -1.765956,
+                        51.093695
+                    ],
+                    [
+                        -1.838006,
+                        51.093695
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Salisbury, England",
+        "id": "00fd3b1ffb89eb31",
+        "name": "Salisbury",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00fd3b1ffb89eb31.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@johnlewisretail @JoMaloneLondon Excellent customer service from the chap in Joe Malone-Southampton. Highly recommend him #heknowshisstuff",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 29 14:49:44 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Travel expert with over 23yrs experience offering a bespoke personal service at a time to suit you. All aspects of travel incl Cruises and Sandals Specialist.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "travelcounsellors.co.uk/sam.peters",
+                        "expanded_url": "http://www.travelcounsellors.co.uk/sam.peters",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/rfbDyUNeQc"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 259,
+        "follow_request_sent": false,
+        "followers_count": 398,
+        "following": false,
+        "friends_count": 812,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 289973480,
+        "id_str": "289973480",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 20,
+        "location": "Salisbury UK Tel:01722 325525 ",
+        "name": "Sam Peters",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/289973480/1452642893",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1673774441/Twitter_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1673774441/Twitter_normal.png",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TCsampeters",
+        "statuses_count": 1612,
+        "time_zone": null,
+        "url": "https://t.co/rfbDyUNeQc",
+        "utc_offset": null,
+        "verified": false
+    }
+}

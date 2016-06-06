@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 04 06:47:40 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 738985554906226688,
+    "id_str": "738985554906226688",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 738826363394785280,
+    "in_reply_to_status_id_str": "738826363394785280",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.187894,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.5164655
+                    ],
+                    [
+                        -0.187894,
+                        51.5164655
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "London, England",
+        "id": "457b4814b4240d87",
+        "name": "London",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/457b4814b4240d87.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanAir Back in '79, I was able to write postcards, hand them off to stewardess (yes, the term then) and they would be mailed off. Now?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 27 05:32:09 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Work Hard, Play Hard, Stay Hard",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/ramonmarkuskadi",
+                        "expanded_url": "http://about.me/ramonmarkuskadi",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/5bsKlZI0eD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 57,
+        "follow_request_sent": false,
+        "followers_count": 75,
+        "following": false,
+        "friends_count": 126,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 69211886,
+        "id_str": "69211886",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Global",
+        "name": "Ram\u00f3n Markus Kadi",
+        "notifications": false,
+        "profile_background_color": "A4B45D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/161964855/x25f3f537293c2b54f9884eba479a3ff.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/161964855/x25f3f537293c2b54f9884eba479a3ff.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/69211886/1463751853",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/714147083947786240/bqseKalp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/714147083947786240/bqseKalp_normal.jpg",
+        "profile_link_color": "8C9C43",
+        "profile_sidebar_border_color": "A4B45D",
+        "profile_sidebar_fill_color": "CEDBD7",
+        "profile_text_color": "635026",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ramonmarkuskadi",
+        "statuses_count": 939,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/5bsKlZI0eD",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

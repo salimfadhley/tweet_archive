@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 09 13:53:50 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 729670716849795072,
+    "id_str": "729670716849795072",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.3540725,
+                        0.648837
+                    ],
+                    [
+                        -59.8037796,
+                        0.648837
+                    ],
+                    [
+                        -59.8037796,
+                        12.1968022
+                    ],
+                    [
+                        -73.3540725,
+                        12.1968022
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Venezuela",
+        "country_code": "VE",
+        "full_name": "Venezuela",
+        "id": "043383f8b2b79918",
+        "name": "Venezuela",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook tengo un poco de incoveniente para jusgar en facebook mis juegos faveritos",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 10 16:02:41 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3,
+        "follow_request_sent": false,
+        "followers_count": 7,
+        "following": false,
+        "friends_count": 36,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1952018034,
+        "id_str": "1952018034",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 0,
+        "location": "",
+        "name": "alcides.gonzalez",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1952018034/1418042405",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/597869280122777600/9OXgi-79_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/597869280122777600/9OXgi-79_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "alcides94912243",
+        "statuses_count": 75,
+        "time_zone": "Caracas",
+        "url": null,
+        "utc_offset": -16200,
+        "verified": false
+    }
+}

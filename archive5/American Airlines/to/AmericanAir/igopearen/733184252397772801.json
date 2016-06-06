@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 19 06:35:22 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 733184252397772801,
+    "id_str": "733184252397772801",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 733180159210192896,
+    "in_reply_to_status_id_str": "733180159210192896",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -123.102655,
+                        49.295539
+                    ],
+                    [
+                        -123.037795,
+                        49.295539
+                    ],
+                    [
+                        -123.037795,
+                        49.335674
+                    ],
+                    [
+                        -123.102655,
+                        49.335674
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "North Vancouver, British Columbia",
+        "id": "71ae4593b0caefd3",
+        "name": "North Vancouver",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/71ae4593b0caefd3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir the point of asking here is so I don't have to wait until 2 hours prior to \"work\" with a gate agent.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 20 16:05:55 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A happy dude, if you know what I mean, and dad of twins.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/igocm",
+                        "expanded_url": "http://www.facebook.com/igocm",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/bA4KpJ5TQ5"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 69,
+        "follow_request_sent": false,
+        "followers_count": 191,
+        "following": false,
+        "friends_count": 207,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 49041443,
+        "id_str": "49041443",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Vancouver, BC. Canada",
+        "name": "Igo MP",
+        "notifications": false,
+        "profile_background_color": "BF4F0A",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/535151049275744256/ZNW2leGf.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/535151049275744256/ZNW2leGf.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49041443/1409111941",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3705161636/7c2260fd44cca2f37f626730633a0fd5_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3705161636/7c2260fd44cca2f37f626730633a0fd5_normal.jpeg",
+        "profile_link_color": "22660F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E8D8B1",
+        "profile_text_color": "143E99",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "igopearen",
+        "statuses_count": 4157,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/bA4KpJ5TQ5",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

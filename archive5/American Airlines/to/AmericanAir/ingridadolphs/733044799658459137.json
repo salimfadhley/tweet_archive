@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 18 21:21:14 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 161356481,
+                "id_str": "161356481",
+                "indices": [
+                    13,
+                    22
+                ],
+                "name": "LAURA ARDILA",
+                "screen_name": "LJARDILA"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 733044799658459137,
+    "id_str": "733044799658459137",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 732972766371008513,
+    "in_reply_to_status_id_str": "732972766371008513",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.346338,
+                        41.451004
+                    ],
+                    [
+                        -71.285606,
+                        41.451004
+                    ],
+                    [
+                        -71.285606,
+                        41.52333
+                    ],
+                    [
+                        -71.346338,
+                        41.52333
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Newport, RI",
+        "id": "6e3daa43345fa8e3",
+        "name": "Newport",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6e3daa43345fa8e3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir @LJARDILA said 4 BROKEN strollers!!! \ud83d\ude21",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 26 20:31:11 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 23,
+        "follow_request_sent": false,
+        "followers_count": 76,
+        "following": false,
+        "friends_count": 74,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2771149352,
+        "id_str": "2771149352",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "",
+        "name": "Ingrid Adolphs",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/504370825969926144/TsAMSQ-4_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/504370825969926144/TsAMSQ-4_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ingridadolphs",
+        "statuses_count": 90,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

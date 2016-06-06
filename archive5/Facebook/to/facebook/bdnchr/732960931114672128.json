@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 18 15:47:58 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 68639853,
+                "id_str": "68639853",
+                "indices": [
+                    10,
+                    25
+                ],
+                "name": "Facebook Engineering",
+                "screen_name": "fb_engineering"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 732960931114672128,
+    "id_str": "732960931114672128",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -111.9320661,
+                        40.623952
+                    ],
+                    [
+                        -111.862386,
+                        40.623952
+                    ],
+                    [
+                        -111.862386,
+                        40.684428
+                    ],
+                    [
+                        -111.9320661,
+                        40.684428
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Murray, UT",
+        "id": "5811c847bb5f82b6",
+        "name": "Murray",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5811c847bb5f82b6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook @fb_engineering PLEASE give us the ability to block a group. Think of the children.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 08 17:18:29 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Grown in Idaho\u00ae \u2022 Reader \u2022 Explorer \u2022 Existential \u2022 Internet Engineer",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 34,
+        "follow_request_sent": false,
+        "followers_count": 56,
+        "following": false,
+        "friends_count": 216,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 518689632,
+        "id_str": "518689632",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Rocky Mountains, USA",
+        "name": "Brandon Christensen",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678459467/4b61b605d008b759a7aee0f33e5b1fa0.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678459467/4b61b605d008b759a7aee0f33e5b1fa0.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/518689632/1418267250",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/542878418568617984/jwpN_p_Z_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/542878418568617984/jwpN_p_Z_normal.jpeg",
+        "profile_link_color": "282445",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bdnchr",
+        "statuses_count": 660,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

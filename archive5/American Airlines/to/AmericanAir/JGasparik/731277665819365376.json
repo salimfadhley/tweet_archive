@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat May 14 00:19:16 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    61,
+                    66
+                ],
+                "text": "love"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 731277665819365376,
+    "id_str": "731277665819365376",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.046876,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.416412
+                    ],
+                    [
+                        -81.046876,
+                        35.416412
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Charlotte, NC",
+        "id": "512a8a4a4c4b4be0",
+        "name": "Charlotte",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/512a8a4a4c4b4be0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir thanks Dominque Valenza for being a super star! #love having people like you at the gates! Gate B8 flight#1390 CLT to EWR",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 19 10:53:25 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Director, Big Truck Sales - Americas for Hyster & Yale at NACCO Materials Handling Group",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "hyster.com/north-america/\u2026",
+                        "expanded_url": "http://hyster.com/north-america/en-us/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/T6soSZBhfI"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 431,
+        "follow_request_sent": false,
+        "followers_count": 548,
+        "following": false,
+        "friends_count": 1645,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1103416717,
+        "id_str": "1103416717",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 14,
+        "location": "Charlotte, NC",
+        "name": "Jason Gasparik",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1103416717/1444506086",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/659136901803343872/kjBdNMg3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/659136901803343872/kjBdNMg3_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JGasparik",
+        "statuses_count": 810,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": "http://t.co/T6soSZBhfI",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

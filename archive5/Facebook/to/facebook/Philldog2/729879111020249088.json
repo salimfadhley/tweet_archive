@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 10 03:41:55 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/gnWRczfy7o",
+                "expanded_url": "http://twitter.com/Philldog2/status/729879111020249088/photo/1",
+                "id": 729879107907948545,
+                "id_str": "729879107907948545",
+                "indices": [
+                    10,
+                    33
+                ],
+                "media_url": "http://pbs.twimg.com/media/CiENLnvVEAEa3SQ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CiENLnvVEAEa3SQ.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 160,
+                        "resize": "fit",
+                        "w": 114
+                    },
+                    "medium": {
+                        "h": 160,
+                        "resize": "fit",
+                        "w": 114
+                    },
+                    "small": {
+                        "h": 160,
+                        "resize": "fit",
+                        "w": 114
+                    },
+                    "thumb": {
+                        "h": 114,
+                        "resize": "crop",
+                        "w": 114
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/gnWRczfy7o"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 729879111020249088,
+    "id_str": "729879111020249088",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.334287,
+                        36.820791
+                    ],
+                    [
+                        -76.177085,
+                        36.820791
+                    ],
+                    [
+                        -76.177085,
+                        36.969373
+                    ],
+                    [
+                        -76.334287,
+                        36.969373
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Norfolk, VA",
+        "id": "b004be67b9fd6d8f",
+        "name": "Norfolk",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b004be67b9fd6d8f.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook https://t.co/gnWRczfy7o",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 06 01:58:10 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3,
+        "follow_request_sent": false,
+        "followers_count": 3,
+        "following": false,
+        "friends_count": 61,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 4720241229,
+        "id_str": "4720241229",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "PHILL DOG",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/684593514697637888/847pGhT5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/684593514697637888/847pGhT5_normal.jpg",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Philldog2",
+        "statuses_count": 4,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

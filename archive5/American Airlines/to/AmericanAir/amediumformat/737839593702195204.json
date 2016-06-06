@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 01 02:54:02 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 737839593702195204,
+    "id_str": "737839593702195204",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 737747237313216512,
+    "in_reply_to_status_id_str": "737747237313216512",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.248462,
+                        38.971077
+                    ],
+                    [
+                        -77.1418208,
+                        38.971077
+                    ],
+                    [
+                        -77.1418208,
+                        39.0693022
+                    ],
+                    [
+                        -77.248462,
+                        39.0693022
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Potomac, MD",
+        "id": "6a83705c6ef0b6b0",
+        "name": "Potomac",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6a83705c6ef0b6b0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir I don't think I'd ever fly American again after this experience",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 04 15:47:45 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "not a drummer or preacher",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "aaronstern.us",
+                        "expanded_url": "http://aaronstern.us",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/00cdU92nBw"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5025,
+        "follow_request_sent": false,
+        "followers_count": 14760,
+        "following": false,
+        "friends_count": 376,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 79759935,
+        "id_str": "79759935",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 32,
+        "location": "Manhattan, NY",
+        "name": "Aaron Stern",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/789035265/ba5f3a2c444b3118ea923b605f791aa3.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/789035265/ba5f3a2c444b3118ea923b605f791aa3.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/79759935/1402351413",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/713223939540041728/09_m11zw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/713223939540041728/09_m11zw_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "amediumformat",
+        "statuses_count": 7216,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/00cdU92nBw",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

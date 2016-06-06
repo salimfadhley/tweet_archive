@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 15 18:12:04 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 731910032447528960,
+    "id_str": "731910032447528960",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 731905076835422208,
+    "in_reply_to_status_id_str": "731905076835422208",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir thanks so much. It's appreciated.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 06 17:00:05 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Security and privacy editor at @CBSi. Email me: zack.whittaker@gmail.com. PGP key: https://t.co/QI0LASDXgh",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "goo.gl/6TDoy5",
+                        "expanded_url": "https://goo.gl/6TDoy5",
+                        "indices": [
+                            83,
+                            106
+                        ],
+                        "url": "https://t.co/QI0LASDXgh"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "zdnet.com/zackwhittaker",
+                        "expanded_url": "http://zdnet.com/zackwhittaker",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/DqqgE5H2JG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 25080,
+        "follow_request_sent": false,
+        "followers_count": 12230,
+        "following": false,
+        "friends_count": 987,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15752235,
+        "id_str": "15752235",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 686,
+        "location": "New York, NY",
+        "name": "Zack Whittaker",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/809681927/6c19d9f054b46f26b806db82b65989f4.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/809681927/6c19d9f054b46f26b806db82b65989f4.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15752235/1453743768",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/723353197478326272/Eqs0GgZh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/723353197478326272/Eqs0GgZh_normal.jpg",
+        "profile_link_color": "36345C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "zackwhittaker",
+        "statuses_count": 46162,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/DqqgE5H2JG",
+        "utc_offset": -14400,
+        "verified": true
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 31 01:15:49 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    10,
+                    25
+                ],
+                "text": "MarkZuckerberg"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/mmeddki8855747\u2026",
+                "expanded_url": "https://twitter.com/mmeddki88557474/status/737393513218908162",
+                "indices": [
+                    112,
+                    135
+                ],
+                "url": "https://t.co/aOHbq2IelJ"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 737452488211582976,
+    "id_str": "737452488211582976",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.908398,
+                        32.560686
+                    ],
+                    [
+                        -96.819191,
+                        32.560686
+                    ],
+                    [
+                        -96.819191,
+                        32.6476197
+                    ],
+                    [
+                        -96.908398,
+                        32.6476197
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Desoto, TX",
+        "id": "b186f530bda5c4b0",
+        "name": "Desoto",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b186f530bda5c4b0.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon May 30 21:21:28 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        0,
+                        5
+                    ],
+                    "text": "news"
+                },
+                {
+                    "indices": [
+                        25,
+                        34
+                    ],
+                    "text": "BREAKING"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/IvV2xU9Wq5",
+                    "expanded_url": "http://twitter.com/JustinWWaldrop/status/737391647483432964/photo/1",
+                    "id": 737391077699751939,
+                    "id_str": "737391077699751939",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Cju9Rz7WEAMXzQF.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Cju9Rz7WEAMXzQF.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 480,
+                            "resize": "fit",
+                            "w": 384
+                        },
+                        "medium": {
+                            "h": 480,
+                            "resize": "fit",
+                            "w": 384
+                        },
+                        "small": {
+                            "h": 425,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "source_status_id": 737391647483432964,
+                    "source_status_id_str": "737391647483432964",
+                    "source_user_id": 53612020,
+                    "source_user_id_str": "53612020",
+                    "type": "photo",
+                    "url": "https://t.co/IvV2xU9Wq5"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 737393513218908162,
+        "id_str": "737393513218908162",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "text": "#news RT JustinWWaldrop: #BREAKING: 45 y/o Kenneth Amyx in Collin Co. Jail for murder of Jennifer Streit-Spears. P\u2026 https://t.co/IvV2xU9Wq5",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Aug 12 19:27:12 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": true,
+            "description": "",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 239,
+            "following": false,
+            "friends_count": 0,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 3313622070,
+            "id_str": "3313622070",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 282,
+            "location": "",
+            "name": "moha.mmeddki88557474",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "mmeddki88557474",
+            "statuses_count": 284496,
+            "time_zone": null,
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 737393513218908162,
+    "quoted_status_id_str": "737393513218908162",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook #MarkZuckerberg refused to remove the murder photos 4 36 hrs. States murder photos r not a violation. https://t.co/aOHbq2IelJ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 22 00:27:51 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 137,
+        "follow_request_sent": false,
+        "followers_count": 316,
+        "following": false,
+        "friends_count": 541,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15523246,
+        "id_str": "15523246",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Dallas, TX",
+        "name": "fabnafnaf",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15523246/1422801505",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2394129120/1342189780464_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2394129120/1342189780464_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fabnafnaf",
+        "statuses_count": 4253,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

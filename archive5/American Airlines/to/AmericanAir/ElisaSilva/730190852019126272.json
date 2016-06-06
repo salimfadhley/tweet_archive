@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 11 00:20:40 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 730190852019126272,
+    "id_str": "730190852019126272",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 729499096218656768,
+    "in_reply_to_status_id_str": "729499096218656768",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.041878,
+                        40.570842
+                    ],
+                    [
+                        -73.855673,
+                        40.570842
+                    ],
+                    [
+                        -73.855673,
+                        40.739434
+                    ],
+                    [
+                        -74.041878,
+                        40.739434
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Brooklyn, NY",
+        "id": "011add077f4d2da3",
+        "name": "Brooklyn",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanAir I did. And thank you for the complimentary turkey sandwich.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 06 17:36:22 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "West Coast girl living on the East Coast. Currently @NBCUniversal Broadcast Finance. Yogi, runner, traveler, spending my free time with MacD",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/lissilva",
+                        "expanded_url": "http://instagram.com/lissilva",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Tb0kZvjm6k"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 81,
+        "follow_request_sent": false,
+        "followers_count": 236,
+        "following": false,
+        "friends_count": 227,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15334176,
+        "id_str": "15334176",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "New York City & Los Angeles ",
+        "name": "Lis Silva",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/387039127/Ref-Photo-Abstract-sea3.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/387039127/Ref-Photo-Abstract-sea3.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15334176/1398344996",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000517115060/92f70c1144592049a022b06eaa08c284_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000517115060/92f70c1144592049a022b06eaa08c284_normal.jpeg",
+        "profile_link_color": "09AD5E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "88959E",
+        "profile_text_color": "F0EBF0",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ElisaSilva",
+        "statuses_count": 2607,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/Tb0kZvjm6k",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

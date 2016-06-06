@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 20 02:54:59 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/1Hz7MHywKI",
+                "expanded_url": "http://twitter.com/arturobella/status/733491179262750720/photo/1",
+                "id": 733491177673134081,
+                "id_str": "733491177673134081",
+                "indices": [
+                    71,
+                    94
+                ],
+                "media_url": "http://pbs.twimg.com/media/Ci3iVwMXEAENzBp.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Ci3iVwMXEAENzBp.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 614,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 204,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/1Hz7MHywKI"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            },
+            {
+                "id": 953625918,
+                "id_str": "953625918",
+                "indices": [
+                    36,
+                    48
+                ],
+                "name": "arturo bella",
+                "screen_name": "arturobella"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 733491179262750720,
+    "id_str": "733491179262750720",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        9.040628,
+                        45.3867262
+                    ],
+                    [
+                        9.2780451,
+                        45.3867262
+                    ],
+                    [
+                        9.2780451,
+                        45.5359644
+                    ],
+                    [
+                        9.040628,
+                        45.5359644
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Italia",
+        "country_code": "IT",
+        "full_name": "Milan, Lombardy",
+        "id": "1ea588c12abd39d7",
+        "name": "Milan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1ea588c12abd39d7.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AppStore  dowload free el capitain @arturobella Bella.arturo@alice.it https://t.co/1Hz7MHywKI",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 17 14:02:45 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2,
+        "follow_request_sent": false,
+        "followers_count": 10,
+        "following": false,
+        "friends_count": 53,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 953625918,
+        "id_str": "953625918",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "it",
+        "listed_count": 0,
+        "location": "",
+        "name": "arturo bella",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/953625918/1461643883",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/724813398710603777/7eznkP4y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/724813398710603777/7eznkP4y_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "arturobella",
+        "statuses_count": 62,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

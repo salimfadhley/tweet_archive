@@ -1,0 +1,185 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 15 18:46:37 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    80,
+                    88
+                ],
+                "text": "TWCNews"
+            },
+            {
+                "indices": [
+                    89,
+                    94
+                ],
+                "text": "ncwx"
+            },
+            {
+                "indices": [
+                    95,
+                    100
+                ],
+                "text": "B767"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/sDRs2v5RuF",
+                "expanded_url": "http://twitter.com/GStephenson_Wx/status/731918727437033476/photo/1",
+                "id": 731918725721522176,
+                "id_str": "731918725721522176",
+                "indices": [
+                    101,
+                    124
+                ],
+                "media_url": "http://pbs.twimg.com/media/CihMNAMWgAAkO9D.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CihMNAMWgAAkO9D.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 683,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 400,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 227,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/sDRs2v5RuF"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 731918727437033476,
+    "id_str": "731918727437033476",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -78.818343,
+                        35.7158045
+                    ],
+                    [
+                        -78.497331,
+                        35.7158045
+                    ],
+                    [
+                        -78.497331,
+                        35.9721579
+                    ],
+                    [
+                        -78.818343,
+                        35.9721579
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Raleigh, NC",
+        "id": "161d2f18e3a0445a",
+        "name": "Raleigh",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/161d2f18e3a0445a.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanAir 767 inbound from London on Sunday afternoon in a severe clear sky. #TWCNews #ncwx #B767 https://t.co/sDRs2v5RuF",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 08 01:14:23 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Chief Meteorologist for Time Warner Cable News for central & eastern NC. Commercial Pilot, I like bird watching, writing, space science, WWII airplanes and Sci",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 568,
+        "follow_request_sent": false,
+        "followers_count": 1058,
+        "following": false,
+        "friends_count": 1651,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 262427633,
+        "id_str": "262427633",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 80,
+        "location": "Raleigh, NC",
+        "name": "Gary Stephenson",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/267199272/ooiss027e036710-1.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/267199272/ooiss027e036710-1.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/262427633/1461970664",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/609306433084125185/4gCrBJFs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/609306433084125185/4gCrBJFs_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GStephenson_Wx",
+        "statuses_count": 10598,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

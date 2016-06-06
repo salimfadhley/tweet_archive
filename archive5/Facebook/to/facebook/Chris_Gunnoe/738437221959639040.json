@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 02 18:28:47 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 738437221959639040,
+    "id_str": "738437221959639040",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -114.07623,
+                        35.1741305
+                    ],
+                    [
+                        -113.959184,
+                        35.1741305
+                    ],
+                    [
+                        -113.959184,
+                        35.273374
+                    ],
+                    [
+                        -114.07623,
+                        35.273374
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Kingman, AZ",
+        "id": "d88ba04b7e693c48",
+        "name": "Kingman",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/d88ba04b7e693c48.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook these emojis in messenger on the update are dumb asf. Tf you guys thinking cuz?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 29 20:24:27 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5670,
+        "follow_request_sent": false,
+        "followers_count": 738,
+        "following": false,
+        "friends_count": 813,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1556440980,
+        "id_str": "1556440980",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Kingman Arizona",
+        "name": "Chris Gunnoe",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1556440980/1464673710",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/734983143195713536/cRIWT8Ig_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/734983143195713536/cRIWT8Ig_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Chris_Gunnoe",
+        "statuses_count": 2438,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

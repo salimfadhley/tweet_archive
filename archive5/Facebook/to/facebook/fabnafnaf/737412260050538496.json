@@ -1,0 +1,277 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 30 22:35:57 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    99,
+                    114
+                ],
+                "text": "MarkZuckerberg"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/JustinWWaldrop\u2026",
+                "expanded_url": "https://twitter.com/JustinWWaldrop/status/737404975848919040",
+                "indices": [
+                    115,
+                    138
+                ],
+                "url": "https://t.co/TqGsaXcgOa"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 737412260050538496,
+    "id_str": "737412260050538496",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.908398,
+                        32.560686
+                    ],
+                    [
+                        -96.819191,
+                        32.560686
+                    ],
+                    [
+                        -96.819191,
+                        32.6476197
+                    ],
+                    [
+                        -96.908398,
+                        32.6476197
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Desoto, TX",
+        "id": "b186f530bda5c4b0",
+        "name": "Desoto",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b186f530bda5c4b0.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon May 30 22:07:01 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/wuiM6k8U7p",
+                    "expanded_url": "http://twitter.com/JustinWWaldrop/status/737404975848919040/photo/1",
+                    "id": 737404792507486208,
+                    "id_str": "737404792507486208",
+                    "indices": [
+                        115,
+                        138
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CjvJwHkUUAA6THb.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CjvJwHkUUAA6THb.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 399,
+                            "resize": "fit",
+                            "w": 350
+                        },
+                        "medium": {
+                            "h": 399,
+                            "resize": "fit",
+                            "w": 350
+                        },
+                        "small": {
+                            "h": 388,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/wuiM6k8U7p"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 5,
+        "favorited": false,
+        "geo": null,
+        "id": 737404975848919040,
+        "id_str": "737404975848919040",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 6,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "UPDATE: Friends of slain Plano woman say Facebook won't remove pictures of murder saying they don't violate terms. https://t.co/wuiM6k8U7p",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jul 04 06:17:28 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Assignment Editor at @Fox4. Former photog, producer and managing editor, permanent critic. All views are my own.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "justinwwaldrop.com",
+                            "expanded_url": "http://www.justinwwaldrop.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/SbDE88VWj3"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 364,
+            "follow_request_sent": false,
+            "followers_count": 851,
+            "following": false,
+            "friends_count": 368,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 53612020,
+            "id_str": "53612020",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 37,
+            "location": "Dallas, TX",
+            "name": "Justin W. Waldrop",
+            "notifications": false,
+            "profile_background_color": "251810",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/478939646592679936/McIr-8_G.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/478939646592679936/McIr-8_G.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/53612020/1462144637",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000538325203/f57793d24b341220ed36f0c877a8e82a_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000538325203/f57793d24b341220ed36f0c877a8e82a_normal.jpeg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "94A4AE",
+            "profile_sidebar_fill_color": "1D110A",
+            "profile_text_color": "94A4AE",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "JustinWWaldrop",
+            "statuses_count": 3861,
+            "time_zone": "Central Time (US & Canada)",
+            "url": "https://t.co/SbDE88VWj3",
+            "utc_offset": -18000,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 737404975848919040,
+    "quoted_status_id_str": "737404975848919040",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook refuses 2 remove the murder photo of Jennifer. States it doesnt violate their standards. #MarkZuckerberg https://t.co/TqGsaXcgOa",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 22 00:27:51 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 137,
+        "follow_request_sent": false,
+        "followers_count": 315,
+        "following": false,
+        "friends_count": 540,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15523246,
+        "id_str": "15523246",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Dallas, TX",
+        "name": "fabnafnaf",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15523246/1422801505",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2394129120/1342189780464_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2394129120/1342189780464_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fabnafnaf",
+        "statuses_count": 4246,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 19 10:30:10 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 733243343988215809,
+    "id_str": "733243343988215809",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 733039833484951552,
+    "in_reply_to_status_id_str": "733039833484951552",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        20.8525518,
+                        52.0977088
+                    ],
+                    [
+                        21.2710282,
+                        52.0977088
+                    ],
+                    [
+                        21.2710282,
+                        52.3679617
+                    ],
+                    [
+                        20.8525518,
+                        52.3679617
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Polska",
+        "country_code": "PL",
+        "full_name": "Warsaw, Poland",
+        "id": "535f0c2de0121451",
+        "name": "Warsaw",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/535f0c2de0121451.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir thanks!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 11 14:36:59 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Co-founded @WeWorkLabs. Previously @WeWork. Investor @LeoForKids, @AuthDigital, @getsquire, @JackPocketApp, @classpass, @ThunderclapIt, @JoinTheRukkus & more.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "angel.co/srcasm",
+                        "expanded_url": "http://angel.co/srcasm",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/fER7Cvffd2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12594,
+        "follow_request_sent": false,
+        "followers_count": 6287,
+        "following": false,
+        "friends_count": 819,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 4188111,
+        "id_str": "4188111",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 369,
+        "location": "New York",
+        "name": "Jesse Middleton",
+        "notifications": false,
+        "profile_background_color": "59678A",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/1283482/main-bg.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/1283482/main-bg.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4188111/1347974440",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/679679742090477569/s1Pc7QyY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/679679742090477569/s1Pc7QyY_normal.jpg",
+        "profile_link_color": "949494",
+        "profile_sidebar_border_color": "F5E646",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "srcasm",
+        "statuses_count": 34236,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/fER7Cvffd2",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
