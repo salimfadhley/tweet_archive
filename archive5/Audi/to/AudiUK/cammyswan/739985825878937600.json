@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 07 01:02:23 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 47645546,
+                "id_str": "47645546",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Audi UK",
+                "screen_name": "AudiUK"
+            },
+            {
+                "id": 495419759,
+                "id_str": "495419759",
+                "indices": [
+                    8,
+                    20
+                ],
+                "name": "Adam",
+                "screen_name": "adam_sugden"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 739985825878937600,
+    "id_str": "739985825878937600",
+    "in_reply_to_screen_name": "AudiUK",
+    "in_reply_to_status_id": 739847661776457728,
+    "in_reply_to_status_id_str": "739847661776457728",
+    "in_reply_to_user_id": 47645546,
+    "in_reply_to_user_id_str": "47645546",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -4.0157952,
+                        55.9572757
+                    ],
+                    [
+                        -3.9714651,
+                        55.9572757
+                    ],
+                    [
+                        -3.9714651,
+                        55.9717653
+                    ],
+                    [
+                        -4.0157952,
+                        55.9717653
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Cumbernauld Village, Scotland",
+        "id": "4b86bbfdf3a3632a",
+        "name": "Cumbernauld Village",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4b86bbfdf3a3632a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AudiUK @adam_sugden",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 21 21:12:47 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "dearly beloved ... we are gathered here today to get through this thing called life ..",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 11225,
+        "follow_request_sent": false,
+        "followers_count": 674,
+        "following": false,
+        "friends_count": 1110,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 107206786,
+        "id_str": "107206786",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Scotland, United Kingdom",
+        "name": "cambo",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/107206786/1453923264",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/701489775954550784/0-VgSBHI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/701489775954550784/0-VgSBHI_normal.jpg",
+        "profile_link_color": "022330",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cammyswan",
+        "statuses_count": 15881,
+        "time_zone": "Edinburgh",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
