@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 08 20:25:48 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/myoddballs/sta\u2026",
+                "expanded_url": "https://twitter.com/myoddballs/status/740640059423096833",
+                "indices": [
+                    18,
+                    41
+                ],
+                "url": "https://t.co/pdQofASWlq"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 126664172,
+                "id_str": "126664172",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "John Lewis",
+                "screen_name": "johnlewisretail"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 740640994396360705,
+    "id_str": "740640994396360705",
+    "in_reply_to_screen_name": "johnlewisretail",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 126664172,
+    "in_reply_to_user_id_str": "126664172",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.95729593780907,
+                        50.5746064789388
+                    ],
+                    [
+                        1.45178800018019,
+                        50.5746064789388
+                    ],
+                    [
+                        1.45178800018019,
+                        52.1962850088601
+                    ],
+                    [
+                        -1.95729593780907,
+                        52.1962850088601
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "South East, England",
+        "id": "06168d1feda43857",
+        "name": "South East",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status_id": 740640059423096833,
+    "quoted_status_id_str": "740640059423096833",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@johnlewisretail  https://t.co/pdQofASWlq",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 05 22:48:39 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Hello I'm Tom Wyer i'm 22 years old, I'm just living life and pushing my body to new heights. training to play with Chichester 3rds team this year!! #rugby",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3414,
+        "follow_request_sent": false,
+        "followers_count": 111,
+        "following": false,
+        "friends_count": 363,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3237175395,
+        "id_str": "3237175395",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Chichester, England",
+        "name": "Tom wyer",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3237175395/1447005543",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/738853208198615041/bQcpV0h0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/738853208198615041/bQcpV0h0_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "tom_wyer21",
+        "statuses_count": 3330,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

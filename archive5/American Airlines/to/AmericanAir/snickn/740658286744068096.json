@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 08 21:34:30 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 740658286744068096,
+    "id_str": "740658286744068096",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 740653388044468225,
+    "in_reply_to_status_id_str": "740653388044468225",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.755394,
+                        30.4684424
+                    ],
+                    [
+                        -97.59007,
+                        30.4684424
+                    ],
+                    [
+                        -97.59007,
+                        30.5702392
+                    ],
+                    [
+                        -97.755394,
+                        30.5702392
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Round Rock, TX",
+        "id": "00c44eeb126d2fcd",
+        "name": "Round Rock",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c44eeb126d2fcd.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanAir I tried that. She told me to call back when I found my bagtag.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 05 21:38:13 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Business & Corporate Development @ StackPath",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "stackpath.com",
+                        "expanded_url": "http://www.stackpath.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/6miyDxqNbn"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 402,
+        "follow_request_sent": false,
+        "followers_count": 1818,
+        "following": false,
+        "friends_count": 1218,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17908809,
+        "id_str": "17908809",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "Dallas, TX",
+        "name": "Nick Nelson",
+        "notifications": false,
+        "profile_background_color": "0054BA",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/834772067/a9425c63d59ce0c327a8c7474866fbc5.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/834772067/a9425c63d59ce0c327a8c7474866fbc5.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/725723343207337984/Zc0fRiWT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/725723343207337984/Zc0fRiWT_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "snickn",
+        "statuses_count": 11474,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/6miyDxqNbn",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

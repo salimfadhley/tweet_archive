@@ -1,0 +1,300 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 08 16:04:55 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    77,
+                    84
+                ],
+                "text": "letsGo"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/fastcompany/st\u2026",
+                "expanded_url": "https://twitter.com/fastcompany/status/740571403007733760",
+                "indices": [
+                    86,
+                    109
+                ],
+                "url": "https://t.co/d2dEHktxBV"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 740575342868369409,
+    "id_str": "740575342868369409",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -78.528507,
+                        38.009553
+                    ],
+                    [
+                        -78.446389,
+                        38.009553
+                    ],
+                    [
+                        -78.446389,
+                        38.07052
+                    ],
+                    [
+                        -78.528507,
+                        38.07052
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Charlottesville, VA",
+        "id": "531a6942bb8056b9",
+        "name": "Charlottesville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/531a6942bb8056b9.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Jun 08 15:49:16 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/MYej0Z22TK",
+                    "expanded_url": "http://twitter.com/FastCompany/status/740571403007733760/photo/1",
+                    "id": 740571401103519744,
+                    "id_str": "740571401103519744",
+                    "indices": [
+                        87,
+                        110
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CkcJw_2WsAAilmV.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CkcJw_2WsAAilmV.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 533,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 533,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "small": {
+                            "h": 354,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/MYej0Z22TK"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "buff.ly/1UAeYWa",
+                    "expanded_url": "http://buff.ly/1UAeYWa",
+                    "indices": [
+                        63,
+                        86
+                    ],
+                    "url": "https://t.co/0wr32d3Ggi"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 9,
+        "favorited": false,
+        "geo": null,
+        "id": 740571403007733760,
+        "id_str": "740571403007733760",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 23,
+        "retweeted": false,
+        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+        "text": "More than 60% of apps downloaded last month were Facebook apps https://t.co/0wr32d3Ggi https://t.co/MYej0Z22TK",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Mar 28 22:39:21 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Official Twitter feed for the Fast Company business media brand;  inspiring readers to think beyond traditional boundaries & create the future of business.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "fastcompany.com",
+                            "expanded_url": "http://www.fastcompany.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/GBtvUq9rZp"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1934,
+            "follow_request_sent": false,
+            "followers_count": 2080371,
+            "following": false,
+            "friends_count": 3939,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2735591,
+            "id_str": "2735591",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 43150,
+            "location": "New York, NY",
+            "name": "Fast Company",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/425029708/2048x1600-fc-twitter-backgrd.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/425029708/2048x1600-fc-twitter-backgrd.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2735591/1463407059",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/552466516851957760/4cONiOi4_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/552466516851957760/4cONiOi4_normal.jpeg",
+            "profile_link_color": "9AB2B4",
+            "profile_sidebar_border_color": "5A5A5A",
+            "profile_sidebar_fill_color": "CCCCCC",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "FastCompany",
+            "statuses_count": 136923,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/GBtvUq9rZp",
+            "utc_offset": -14400,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 740571403007733760,
+    "quoted_status_id_str": "740571403007733760",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Facebook, you are a tremendous company! Keep that stock price headed North! #letsGo  https://t.co/d2dEHktxBV",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 03 22:24:16 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "President @VMVbrands: ads, branding, digital, real estate. Our brands: @Scoutology (5.7 mil users), @CVilleFood, @LoveCVille. Award-winning writer. Pro Speaker.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "JerryMillerNow.com",
+                        "expanded_url": "http://JerryMillerNow.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/U8flUMI9MW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 910,
+        "follow_request_sent": false,
+        "followers_count": 584,
+        "following": false,
+        "friends_count": 64,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 62639060,
+        "id_str": "62639060",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 34,
+        "location": "I Love CVille (#iLoveCVille)",
+        "name": "Jerry Miller",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000139844916/BMTYgyLu.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000139844916/BMTYgyLu.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/62639060/1424375354",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/587823204397375488/ntFDN7dW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/587823204397375488/ntFDN7dW_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JerryMillerNow",
+        "statuses_count": 5442,
+        "time_zone": "Quito",
+        "url": "https://t.co/U8flUMI9MW",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

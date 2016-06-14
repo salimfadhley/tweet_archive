@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 06 22:51:23 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 739952856938209280,
+    "id_str": "739952856938209280",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -94.61771,
+                        33.004106
+                    ],
+                    [
+                        -89.644838,
+                        33.004106
+                    ],
+                    [
+                        -89.644838,
+                        36.499767
+                    ],
+                    [
+                        -94.61771,
+                        36.499767
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Arkansas, USA",
+        "id": "e8ad2641c1cb666c",
+        "name": "Arkansas",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/e8ad2641c1cb666c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir en route DFW-LGA spent $7.99 to watch London is Falling and system repeatedly crashes and freezes. Please help",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 15 19:16:45 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "An Englishman in New York - now an American too!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 727,
+        "follow_request_sent": false,
+        "followers_count": 58,
+        "following": false,
+        "friends_count": 153,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2413430908,
+        "id_str": "2413430908",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "Jonny",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/477485679795249152/KaLtoXoq_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/477485679795249152/KaLtoXoq_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "thejonnyfine",
+        "statuses_count": 873,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

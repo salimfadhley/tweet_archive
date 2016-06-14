@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 14 19:10:07 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Tesla Motors",
+                "screen_name": "TeslaMotors"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 742796275830120448,
+    "id_str": "742796275830120448",
+    "in_reply_to_screen_name": "TeslaMotors",
+    "in_reply_to_status_id": 742789355295510533,
+    "in_reply_to_status_id_str": "742789355295510533",
+    "in_reply_to_user_id": 13298072,
+    "in_reply_to_user_id_str": "13298072",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        18.925169,
+                        47.3494477
+                    ],
+                    [
+                        19.3344868,
+                        47.3494477
+                    ],
+                    [
+                        19.3344868,
+                        47.613013
+                    ],
+                    [
+                        18.925169,
+                        47.613013
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Magyarorsz\u00e1g",
+        "country_code": "HU",
+        "full_name": "Budapest, Hungary",
+        "id": "e52e231315b975c1",
+        "name": "Budapest",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e52e231315b975c1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@TeslaMotors can\u2019t wait :-)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 22 09:38:33 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "eyedea.hu",
+                        "expanded_url": "http://www.eyedea.hu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/MX59O99IUK"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1430,
+        "follow_request_sent": false,
+        "followers_count": 350,
+        "following": false,
+        "friends_count": 663,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 9594412,
+        "id_str": "9594412",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 87,
+        "location": "Budapest",
+        "name": "Attila Hajdrik",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9594412/1404064469",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/623749158898262016/CsVDJza1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/623749158898262016/CsVDJza1_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "2FC2EF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "attilah",
+        "statuses_count": 7661,
+        "time_zone": "Budapest",
+        "url": "http://t.co/MX59O99IUK",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

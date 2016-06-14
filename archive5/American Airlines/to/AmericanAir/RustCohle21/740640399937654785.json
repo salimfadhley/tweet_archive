@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 08 20:23:26 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/TrKfr72m9X",
+                "expanded_url": "http://twitter.com/RustCohle21/status/740640399937654785/photo/1",
+                "id": 740640392555712513,
+                "id_str": "740640392555712513",
+                "indices": [
+                    94,
+                    117
+                ],
+                "media_url": "http://pbs.twimg.com/media/CkdIg1CW0AEwZ4Z.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CkdIg1CW0AEwZ4Z.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 1536
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/TrKfr72m9X"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 740640399937654785,
+    "id_str": "740640399937654785",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 740639814429478913,
+    "in_reply_to_status_id_str": "740639814429478913",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.767088,
+                        39.094164
+                    ],
+                    [
+                        -76.6421747,
+                        39.094164
+                    ],
+                    [
+                        -76.6421747,
+                        39.214142
+                    ],
+                    [
+                        -76.767088,
+                        39.214142
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Severn, MD",
+        "id": "1c98b097b6fcb4d6",
+        "name": "Severn",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1c98b097b6fcb4d6.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir I don't know what happened with this modern beacon of technology, anyone's guess https://t.co/TrKfr72m9X",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 31 14:22:48 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Do whatever you want.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 452,
+        "follow_request_sent": false,
+        "followers_count": 1367,
+        "following": false,
+        "friends_count": 535,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 86536179,
+        "id_str": "86536179",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "Airports",
+        "name": "Jeff",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/86536179/1459468041",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/726894194413867008/7vRep941_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/726894194413867008/7vRep941_normal.jpg",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RustCohle21",
+        "statuses_count": 4776,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

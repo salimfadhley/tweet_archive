@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 08 21:01:44 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 740650038104186880,
+    "id_str": "740650038104186880",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 740649576785289216,
+    "in_reply_to_status_id_str": "740649576785289216",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Thank you. Our group would greatly appreciate it.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 25 19:33:02 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "(Video) blogger, TV/radio personality, Prof & Host helping you EARN your dreams! #UncommonKids Author https://t.co/d6PXvJUEe6",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/UncommonKids",
+                        "expanded_url": "http://bit.ly/UncommonKids",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "url": "https://t.co/d6PXvJUEe6"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "SamiCone.com",
+                        "expanded_url": "http://SamiCone.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/nLfYsM2xYO"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 533,
+        "follow_request_sent": false,
+        "followers_count": 5261,
+        "following": false,
+        "friends_count": 2337,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 68784417,
+        "id_str": "68784417",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 292,
+        "location": "Nashville, TN",
+        "name": "Sami Cone",
+        "notifications": false,
+        "profile_background_color": "D6C0F0",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/725573014511706112/sBTNio_7.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/725573014511706112/sBTNio_7.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68784417/1402176237",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2765514389/47c4f1eb1c092e33cdf543eb58992ab6_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2765514389/47c4f1eb1c092e33cdf543eb58992ab6_normal.jpeg",
+        "profile_link_color": "310D40",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F9F8FB",
+        "profile_text_color": "303033",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TheSamiCone",
+        "statuses_count": 34535,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/nLfYsM2xYO",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

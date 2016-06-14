@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 06 22:51:12 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 739952811664920576,
+    "id_str": "739952811664920576",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "fr",
+    "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.4004601,
+                        48.6793073
+                    ],
+                    [
+                        2.4545178,
+                        48.6793073
+                    ],
+                    [
+                        2.4545178,
+                        48.725347
+                    ],
+                    [
+                        2.4004601,
+                        48.725347
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Vigneux-sur-Seine, France",
+        "id": "6b3ebc7bf8d27ddd",
+        "name": "Vigneux-sur-Seine",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6b3ebc7bf8d27ddd.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir bonjour, qu'elles cartes de cr\u00e9dit sont accept\u00e9s pour r\u00e9server un billet d'avion ?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 20 18:43:15 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#ContramalMonAmour\u2764\ufe0f /",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 17441,
+        "follow_request_sent": false,
+        "followers_count": 1238,
+        "following": false,
+        "friends_count": 1614,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 320914242,
+        "id_str": "320914242",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 109,
+        "location": "",
+        "name": "AGhuraba / \u0625\u064a\u0645\u0627\u0646",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493921520024969216/ci4ioApx.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493921520024969216/ci4ioApx.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/320914242/1451645124",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/739558703477731328/zoqatcr0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/739558703477731328/zoqatcr0_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AGhuraba",
+        "statuses_count": 129945,
+        "time_zone": "Paris",
+        "url": null,
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

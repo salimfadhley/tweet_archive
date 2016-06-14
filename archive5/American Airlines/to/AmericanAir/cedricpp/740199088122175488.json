@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 07 15:09:49 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    132,
+                    137
+                ],
+                "text": "FAIL"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 740199088122175488,
+    "id_str": "740199088122175488",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 739929996987224065,
+    "in_reply_to_status_id_str": "739929996987224065",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.213503,
+                        51.512805
+                    ],
+                    [
+                        -0.105303,
+                        51.512805
+                    ],
+                    [
+                        -0.105303,
+                        51.572068
+                    ],
+                    [
+                        -0.213503,
+                        51.572068
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Camden Town, London",
+        "id": "5de8cffc145c486b",
+        "name": "Camden Town",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5de8cffc145c486b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanAir there's no sign of the record there. Learnt via your LHR team that 1 of them was sent back 2 LAX, other still 2b found #FAIL",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 10 08:40:42 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Comedy please! Learns languages to enjoy more of it. Works @YouTube, ex-@Gaumont_Anim, bike commuter, swimmer, runner, foodie, avgeek, polyglot & barytone.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 112,
+        "follow_request_sent": false,
+        "followers_count": 108,
+        "following": false,
+        "friends_count": 88,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 30186815,
+        "id_str": "30186815",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "London, England",
+        "name": "CEDTalks",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/123447436/foto.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/123447436/foto.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30186815/1404896360",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/564023803403960321/xT7kxcAo_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/564023803403960321/xT7kxcAo_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cedricpp",
+        "statuses_count": 2157,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

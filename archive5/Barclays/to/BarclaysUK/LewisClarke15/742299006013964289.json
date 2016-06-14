@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 13 10:14:08 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/lX4skVOhKS",
+                "expanded_url": "http://twitter.com/LewisClarke15/status/742299006013964289/photo/1",
+                "id": 742298997830848512,
+                "id_str": "742298997830848512",
+                "indices": [
+                    95,
+                    118
+                ],
+                "media_url": "http://pbs.twimg.com/media/Ck0tAXLWEAA7dyG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Ck0tAXLWEAA7dyG.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1334,
+                        "resize": "fit",
+                        "w": 750
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 675
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 382
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/lX4skVOhKS"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 338559800,
+                "id_str": "338559800",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Barclays UK",
+                "screen_name": "BarclaysUK"
+            },
+            {
+                "id": 3046525515,
+                "id_str": "3046525515",
+                "indices": [
+                    12,
+                    27
+                ],
+                "name": "Barclays UK Help",
+                "screen_name": "BarclaysUKHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 742299006013964289,
+    "id_str": "742299006013964289",
+    "in_reply_to_screen_name": "BarclaysUK",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 338559800,
+    "in_reply_to_user_id_str": "338559800",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        0.0873022,
+                        52.1642435
+                    ],
+                    [
+                        0.18453,
+                        52.1642435
+                    ],
+                    [
+                        0.18453,
+                        52.237704
+                    ],
+                    [
+                        0.0873022,
+                        52.237704
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Cambridge, England",
+        "id": "3aa1b1861c56d910",
+        "name": "Cambridge",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3aa1b1861c56d910.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BarclaysUK @BarclaysUKHelp hi, i received this by text and i dont even bank with barclays.... https://t.co/lX4skVOhKS",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 13 23:39:38 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "It's better to fail aiming high, than to succeed aiming low - Bill Nicholson",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7223,
+        "follow_request_sent": false,
+        "followers_count": 477,
+        "following": false,
+        "friends_count": 1050,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 523803249,
+        "id_str": "523803249",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "",
+        "name": "LewisOLBG",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/523803249/1451348474",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/665677593245519872/5BWzNXjB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/665677593245519872/5BWzNXjB_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LewisClarke15",
+        "statuses_count": 18083,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

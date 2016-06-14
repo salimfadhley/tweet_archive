@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 06 21:29:57 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 739932363677917185,
+    "id_str": "739932363677917185",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 739932123453227008,
+    "in_reply_to_status_id_str": "739932123453227008",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -66.043086,
+                        18.353142
+                    ],
+                    [
+                        -65.918779,
+                        18.353142
+                    ],
+                    [
+                        -65.918779,
+                        18.458693
+                    ],
+                    [
+                        -66.043086,
+                        18.458693
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Carolina, USA",
+        "id": "862fdecf3a49a2c9",
+        "name": "Carolina",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/862fdecf3a49a2c9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir I appreciate you apologies and they are accepted.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 25 12:49:50 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Married to a great and beautiful wife, father of two princesses and ready to be a history maker. Pastor, Latin Grammy nominee singer, author and songwriter.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jacoboramos.com",
+                        "expanded_url": "http://jacoboramos.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/zZw9sYljRo"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 166,
+        "follow_request_sent": false,
+        "followers_count": 67219,
+        "following": false,
+        "friends_count": 254,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 26489012,
+        "id_str": "26489012",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 188,
+        "location": "Puerto Rico ",
+        "name": "Jacobo Ramos",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000071472609/44b6880addad6fc2fc128683069b134f.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000071472609/44b6880addad6fc2fc128683069b134f.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26489012/1378839546",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000439751741/4b002233c2dc2043130e671fd22f0013_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000439751741/4b002233c2dc2043130e671fd22f0013_normal.jpeg",
+        "profile_link_color": "152533",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jacoboramos",
+        "statuses_count": 12965,
+        "time_zone": "Quito",
+        "url": "http://t.co/zZw9sYljRo",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

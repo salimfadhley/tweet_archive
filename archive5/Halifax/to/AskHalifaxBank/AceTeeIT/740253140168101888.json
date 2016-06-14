@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 07 18:44:36 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    24,
+                    35
+                ],
+                "text": "flintstone"
+            },
+            {
+                "indices": [
+                    68,
+                    75
+                ],
+                "text": "topcat"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 194049387,
+                "id_str": "194049387",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Halifax",
+                "screen_name": "AskHalifaxBank"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 740253140168101888,
+    "id_str": "740253140168101888",
+    "in_reply_to_screen_name": "AskHalifaxBank",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 194049387,
+    "in_reply_to_user_id_str": "194049387",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.544194,
+                        52.4904571
+                    ],
+                    [
+                        -1.418509,
+                        52.4904571
+                    ],
+                    [
+                        -1.418509,
+                        52.542857
+                    ],
+                    [
+                        -1.544194,
+                        52.542857
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Nuneaton, England",
+        "id": "2a0101ab07454619",
+        "name": "Nuneaton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2a0101ab07454619.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AskHalifaxBank the new #flintstone advert is ok but I still prefer #topcat",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 22 11:13:42 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Live life free of compromise, and step into the shadows without complaint or regret.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "acetee.co.uk",
+                        "expanded_url": "http://www.acetee.co.uk",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/SAne5HAAub"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 110,
+        "follow_request_sent": false,
+        "followers_count": 61,
+        "following": false,
+        "friends_count": 78,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 193653922,
+        "id_str": "193653922",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Nuneaton",
+        "name": "Just Martin",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/193653922/1458250700",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/710581055506554881/AY5QHe1J_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/710581055506554881/AY5QHe1J_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AceTeeIT",
+        "statuses_count": 2363,
+        "time_zone": "London",
+        "url": "https://t.co/SAne5HAAub",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

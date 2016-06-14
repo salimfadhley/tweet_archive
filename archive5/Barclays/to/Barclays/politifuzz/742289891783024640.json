@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 13 09:37:55 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/JgAFJjJKpk",
+                "expanded_url": "http://twitter.com/politifuzz/status/742289891783024640/photo/1",
+                "id": 742289888687579136,
+                "id_str": "742289888687579136",
+                "indices": [
+                    114,
+                    137
+                ],
+                "media_url": "http://pbs.twimg.com/media/Ck0kuI-WYAABjvR.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Ck0kuI-WYAABjvR.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 917
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 917
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 609
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/JgAFJjJKpk"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 191781601,
+                "id_str": "191781601",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Barclays Bank",
+                "screen_name": "Barclays"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 742289891783024640,
+    "id_str": "742289891783024640",
+    "in_reply_to_screen_name": "Barclays",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 191781601,
+    "in_reply_to_user_id_str": "191781601",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.681911,
+                        53.318095
+                    ],
+                    [
+                        -2.6461865,
+                        53.318095
+                    ],
+                    [
+                        -2.6461865,
+                        53.3493816
+                    ],
+                    [
+                        -2.681911,
+                        53.3493816
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Norton, England",
+        "id": "07393a75a826852b",
+        "name": "Norton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/07393a75a826852b.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@Barclays had these messages re a transaction but I don't bank with you and the tel number is to a diff business! https://t.co/JgAFJjJKpk",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 25 19:28:46 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Lovely but angry citizen engaged and annoyed with politics. Former Labour Party Member. Animal lover, Man lover. All views my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 78,
+        "follow_request_sent": false,
+        "followers_count": 247,
+        "following": false,
+        "friends_count": 385,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 68783146,
+        "id_str": "68783146",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 17,
+        "location": "Manchester, UK",
+        "name": "Steve Clarke-Keating",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/425082016/tiger_19__767x628_.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/425082016/tiger_19__767x628_.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68783146/1398332269",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/733360217279332352/OJjVuRHX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/733360217279332352/OJjVuRHX_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "politifuzz",
+        "statuses_count": 5283,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

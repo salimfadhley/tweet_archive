@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 06 23:00:18 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 739955102912544768,
+    "id_str": "739955102912544768",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 739954758111232000,
+    "in_reply_to_status_id_str": "739954758111232000",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir deal with that all the time. Happens. Rude gate agents are unnecessary.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 11 18:11:21 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Chief Strategy Officer and Co-Owner of Geonetric, keynote speaker, SHSMD board member, healthcare web strategist, @IAAccelerator founding team, recovering geek",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "GeoVoices.geonetric.com",
+                        "expanded_url": "http://GeoVoices.geonetric.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/6GQPVwfmgn"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 997,
+        "follow_request_sent": false,
+        "followers_count": 3826,
+        "following": false,
+        "friends_count": 3421,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 17315376,
+        "id_str": "17315376",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 229,
+        "location": "Iowa",
+        "name": "Ben Dillon",
+        "notifications": false,
+        "profile_background_color": "383832",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/18508905/ben-twitter.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/18508905/ben-twitter.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17315376/1398349761",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/529424961031925760/Sm9wJXO2_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/529424961031925760/Sm9wJXO2_normal.jpeg",
+        "profile_link_color": "8B0F04",
+        "profile_sidebar_border_color": "A6A6A0",
+        "profile_sidebar_fill_color": "E6E5D3",
+        "profile_text_color": "383832",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "benatgeo",
+        "statuses_count": 5630,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/6GQPVwfmgn",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

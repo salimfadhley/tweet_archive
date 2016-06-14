@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 07 18:12:04 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 740244952337244161,
+    "id_str": "740244952337244161",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.962582,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.8000371
+                    ],
+                    [
+                        -73.962582,
+                        40.8000371
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Queens, NY",
+        "id": "00c39537733fa112",
+        "name": "Queens",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c39537733fa112.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Flight #4213 the flight attendant is taking 3 hours to get here from Laguardia Airport",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 18 13:24:53 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "2x Combat Veteran & Writer of The Breakup Agency, Check out & download the feature screenplay from InkTip at https://t.co/Jbgde3W4gy",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "inktip.com/script/1bjngvi",
+                        "expanded_url": "https://www.inktip.com/script/1bjngvi",
+                        "indices": [
+                            109,
+                            132
+                        ],
+                        "url": "https://t.co/Jbgde3W4gy"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "thebreakupagency.com",
+                        "expanded_url": "http://www.thebreakupagency.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/iJ3j3XQQaE"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 251,
+        "follow_request_sent": false,
+        "followers_count": 5022,
+        "following": false,
+        "friends_count": 476,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 703057843,
+        "id_str": "703057843",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Manhattan, NY",
+        "name": "Brian Steuber",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/703057843/1457648611",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/726917168470827009/wZ9sAK9i_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/726917168470827009/wZ9sAK9i_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "briansteuber",
+        "statuses_count": 795,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/iJ3j3XQQaE",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

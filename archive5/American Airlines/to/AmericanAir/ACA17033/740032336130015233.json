@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 07 04:07:12 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 740032336130015233,
+    "id_str": "740032336130015233",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        126.691744114082,
+                        37.5301869717773
+                    ],
+                    [
+                        126.75193586351,
+                        37.5301869717773
+                    ],
+                    [
+                        126.75193586351,
+                        37.5734517184258
+                    ],
+                    [
+                        126.691744114082,
+                        37.5734517184258
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\ub300\ud55c\ubbfc\uad6d",
+        "country_code": "KR",
+        "full_name": "Gyeyang-gu, Republic of Korea",
+        "id": "019ed1552e140545",
+        "name": "Gyeyang-gu",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/019ed1552e140545.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Hi there, Is there any change in arrival time of AA281 bound to Seoul, Incheon?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 21 00:32:32 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 208,
+        "follow_request_sent": false,
+        "followers_count": 8,
+        "following": false,
+        "friends_count": 71,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 4616923524,
+        "id_str": "4616923524",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "ko",
+        "listed_count": 0,
+        "location": "",
+        "name": "Kimwoos",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/691638534763999232/lkUsP98H_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/691638534763999232/lkUsP98H_normal.jpg",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ACA17033",
+        "statuses_count": 81,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

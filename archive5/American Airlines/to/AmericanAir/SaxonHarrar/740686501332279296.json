@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 08 23:26:37 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 47432560,
+                "id_str": "47432560",
+                "indices": [
+                    13,
+                    26
+                ],
+                "name": "Brad Dains",
+                "screen_name": "thamessenjah"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 740686501332279296,
+    "id_str": "740686501332279296",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 740681916051922944,
+    "in_reply_to_status_id_str": "740681916051922944",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir @thamessenjah brad was expecting a free flight for the head checks.  ;)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 30 21:47:53 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Adventurer, ultra runner, cliff jumper, fixed gear biker. cofee/beer/whiskey/pizza lover. Team @HOKAONEONE @tifosioptics and @alignedmodern",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/saxonharrar/",
+                        "expanded_url": "https://www.instagram.com/saxonharrar/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/aoKnJzhnWr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 670,
+        "follow_request_sent": false,
+        "followers_count": 1239,
+        "following": false,
+        "friends_count": 29,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 365111958,
+        "id_str": "365111958",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 34,
+        "location": "Chicago, IL",
+        "name": "Saxon Harrar",
+        "notifications": false,
+        "profile_background_color": "666666",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/507756684807139328/b7UhWk5P.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/507756684807139328/b7UhWk5P.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/365111958/1465067351",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/735694127954722816/KKAfdlfo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/735694127954722816/KKAfdlfo_normal.jpg",
+        "profile_link_color": "555555",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SaxonHarrar",
+        "statuses_count": 3774,
+        "time_zone": null,
+        "url": "https://t.co/aoKnJzhnWr",
+        "utc_offset": null,
+        "verified": false
+    }
+}
