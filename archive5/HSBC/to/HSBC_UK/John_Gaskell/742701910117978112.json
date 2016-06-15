@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 14 12:55:08 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2922732233,
+                "id_str": "2922732233",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "HSBC UK",
+                "screen_name": "HSBC_UK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 742701910117978112,
+    "id_str": "742701910117978112",
+    "in_reply_to_screen_name": "HSBC_UK",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2922732233,
+    "in_reply_to_user_id_str": "2922732233",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.775262,
+                        53.74809
+                    ],
+                    [
+                        -2.628013,
+                        53.74809
+                    ],
+                    [
+                        -2.628013,
+                        53.8000915
+                    ],
+                    [
+                        -2.775262,
+                        53.8000915
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Preston, England",
+        "id": "232d6454d6094e9b",
+        "name": "Preston",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/232d6454d6094e9b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@HSBC_UK I'm a Premier customer and I'm going to the USA. Will I be charged for ATM withdrawls using my HSBC Premier Debit Card?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 13 14:55:35 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "In my thirties, happily taken by my lovely Ana. Love cars, motorsport, Everton, technology and multimedia.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "johngaskell.co.uk",
+                        "expanded_url": "http://www.johngaskell.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/MUxtu5gbif"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 23,
+        "follow_request_sent": false,
+        "followers_count": 395,
+        "following": false,
+        "friends_count": 920,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 65380975,
+        "id_str": "65380975",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Crosby, Liverpool",
+        "name": "Johnny G",
+        "notifications": false,
+        "profile_background_color": "001F66",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/691680283045793792/30mX9ZUw.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/691680283045793792/30mX9ZUw.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/65380975/1439466246",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1499003018/298054_10150341724505799_513230798_9560077_3511729_n_1__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1499003018/298054_10150341724505799_513230798_9560077_3511729_n_1__normal.jpg",
+        "profile_link_color": "4C42C3",
+        "profile_sidebar_border_color": "BFBFBF",
+        "profile_sidebar_fill_color": "60B5F9",
+        "profile_text_color": "1C1F23",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "John_Gaskell",
+        "statuses_count": 11952,
+        "time_zone": "London",
+        "url": "http://t.co/MUxtu5gbif",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
