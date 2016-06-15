@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 15 19:58:39 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 469358921,
+                "id_str": "469358921",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Nationwide UK",
+                "screen_name": "AskNationwide"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743170878913937408,
+    "id_str": "743170878913937408",
+    "in_reply_to_screen_name": "AskNationwide",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 469358921,
+    "in_reply_to_user_id_str": "469358921",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.23560072135158,
+                        51.8259029271059
+                    ],
+                    [
+                        -1.17213601934124,
+                        51.8259029271059
+                    ],
+                    [
+                        -1.17213601934124,
+                        53.2262100153425
+                    ],
+                    [
+                        -3.23560072135158,
+                        53.2262100153425
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "West Midlands, England",
+        "id": "60160252aeb7e3e5",
+        "name": "West Midlands",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/60160252aeb7e3e5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AskNationwide Hi there, can I order a replacement card please. My current one has warped so it's unusable.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 12 12:31:43 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Tell 'em Steve-Dave. LFC.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1801,
+        "follow_request_sent": false,
+        "followers_count": 678,
+        "following": false,
+        "friends_count": 594,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 65021797,
+        "id_str": "65021797",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "England",
+        "name": "Cameron H",
+        "notifications": false,
+        "profile_background_color": "00A7FA",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/804341189/0250b0ff142031c233e140fd4fb29980.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/804341189/0250b0ff142031c233e140fd4fb29980.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/733061551972814849/NL85k_mY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/733061551972814849/NL85k_mY_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Klopptastic",
+        "statuses_count": 34467,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
