@@ -1,0 +1,307 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 14 12:56:03 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    91,
+                    109
+                ],
+                "text": "20percenttextrule"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/fbforbusiness/\u2026",
+                "expanded_url": "https://twitter.com/fbforbusiness/status/742288055512539142",
+                "indices": [
+                    110,
+                    133
+                ],
+                "url": "https://t.co/VJg9lszb6Y"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 742702139902988288,
+    "id_str": "742702139902988288",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "it",
+    "metadata": {
+        "iso_language_code": "it",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        12.1720976,
+                        42.9932168
+                    ],
+                    [
+                        12.565321,
+                        42.9932168
+                    ],
+                    [
+                        12.565321,
+                        43.2854505
+                    ],
+                    [
+                        12.1720976,
+                        43.2854505
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Italia",
+        "country_code": "IT",
+        "full_name": "Perugia, Umbria",
+        "id": "558d98a00817bf36",
+        "name": "Perugia",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/558d98a00817bf36.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Jun 13 09:30:38 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        71,
+                        83
+                    ],
+                    "text": "FacebookAds"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/ZGb7QbEpFS",
+                    "expanded_url": "http://twitter.com/FBforBusiness/status/742288055512539142/photo/1",
+                    "id": 742288051955765248,
+                    "id_str": "742288051955765248",
+                    "indices": [
+                        84,
+                        107
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Ck0jDOnXEAAEi2c.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Ck0jDOnXEAAEi2c.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 311,
+                            "resize": "fit",
+                            "w": 595
+                        },
+                        "medium": {
+                            "h": 311,
+                            "resize": "fit",
+                            "w": 595
+                        },
+                        "small": {
+                            "h": 311,
+                            "resize": "fit",
+                            "w": 595
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/ZGb7QbEpFS"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "jonloomer.com/2016/04/07/fac\u2026",
+                    "expanded_url": "http://www.jonloomer.com/2016/04/07/facebook-20-text-rule-changing/?utm_medium=social&utm_source=twitter",
+                    "indices": [
+                        47,
+                        70
+                    ],
+                    "url": "https://t.co/YWMgXy9pXE"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "geo": null,
+        "id": 742288055512539142,
+        "id_str": "742288055512539142",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "it",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://www.scoop.it\" rel=\"nofollow\">Scoop.it</a>",
+        "text": "Facebook 20-Percent Text Rule: Is It Changing? https://t.co/YWMgXy9pXE #FacebookAds https://t.co/ZGb7QbEpFS",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Mar 15 17:07:36 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Use a Facebook business page to engage Fans - to learn, listen, interact and market to potential customers.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "fbforbusinessmarketing.com",
+                            "expanded_url": "http://fbforbusinessmarketing.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/1oS3dJdgKV"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 20,
+            "follow_request_sent": false,
+            "followers_count": 889,
+            "following": false,
+            "friends_count": 704,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 266694900,
+            "id_str": "266694900",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 78,
+            "location": "Chicago",
+            "name": "Facebook for Busines",
+            "notifications": false,
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1273978475/174682_15850174449_6784836_n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1273978475/174682_15850174449_6784836_n_normal.jpg",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "C6E2EE",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "FBforBusiness",
+            "statuses_count": 2385,
+            "time_zone": "Central Time (US & Canada)",
+            "url": "http://t.co/1oS3dJdgKV",
+            "utc_offset": -18000,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 742288055512539142,
+    "quoted_status_id_str": "742288055512539142",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook ha cancellato la regola del 20% di testo sulle immagini per adv? Qui la risposta #20percenttextrule https://t.co/VJg9lszb6Y",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 10 09:50:09 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "it.linkedin.com/in/fbromo82",
+                        "expanded_url": "https://it.linkedin.com/in/fbromo82",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/XY3Vffl2mK"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 24,
+        "follow_request_sent": false,
+        "followers_count": 68,
+        "following": false,
+        "friends_count": 406,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 520260319,
+        "id_str": "520260319",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "it",
+        "listed_count": 16,
+        "location": "Perugia, Umbria",
+        "name": "Francesco Bromo",
+        "notifications": false,
+        "profile_background_color": "0084B4",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/520260319/1461685398",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/477730576984989696/4wJMiHKQ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/477730576984989696/4wJMiHKQ_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FrancescoBromo",
+        "statuses_count": 1832,
+        "time_zone": null,
+        "url": "https://t.co/XY3Vffl2mK",
+        "utc_offset": null,
+        "verified": false
+    }
+}

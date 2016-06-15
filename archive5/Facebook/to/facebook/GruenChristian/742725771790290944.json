@@ -1,0 +1,328 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 14 14:29:57 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    14,
+                    21
+                ],
+                "text": "Brexit"
+            },
+            {
+                "indices": [
+                    34,
+                    42
+                ],
+                "text": "Bremain"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/tineurope/stat\u2026",
+                "expanded_url": "https://twitter.com/tineurope/status/742723949667192832",
+                "indices": [
+                    52,
+                    75
+                ],
+                "url": "https://t.co/TehY8PfEBK"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 742725771790290944,
+    "id_str": "742725771790290944",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "de",
+    "metadata": {
+        "iso_language_code": "de",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        11.517518,
+                        52.025756
+                    ],
+                    [
+                        11.766524,
+                        52.025756
+                    ],
+                    [
+                        11.766524,
+                        52.22828
+                    ],
+                    [
+                        11.517518,
+                        52.22828
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Deutschland",
+        "country_code": "DE",
+        "full_name": "Magdeburg, Germany",
+        "id": "4d6e86b07e4383c8",
+        "name": "Magdeburg",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4d6e86b07e4383c8.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Jun 14 14:22:43 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Pd9iJLuDfn",
+                    "expanded_url": "http://twitter.com/tineurope/status/742723949667192832/photo/1",
+                    "id": 742723934487973888,
+                    "id_str": "742723934487973888",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Ck6ve7lWEAAaEYC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Ck6ve7lWEAAaEYC.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1564,
+                            "resize": "fit",
+                            "w": 1564
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/Pd9iJLuDfn"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "jonworth.eu/facebooks-pro-\u2026",
+                    "expanded_url": "https://jonworth.eu/facebooks-pro-brexit-bias/",
+                    "indices": [
+                        53,
+                        76
+                    ],
+                    "url": "https://t.co/og6vB5sr4b"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 17442320,
+                    "id_str": "17442320",
+                    "indices": [
+                        1,
+                        10
+                    ],
+                    "name": "Jon Worth",
+                    "screen_name": "jonworth"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 742723949667192832,
+        "id_str": "742723949667192832",
+        "in_reply_to_screen_name": "jonworth",
+        "in_reply_to_status_id": 742715856317190144,
+        "in_reply_to_status_id_str": "742715856317190144",
+        "in_reply_to_user_id": 17442320,
+        "in_reply_to_user_id_str": "17442320",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "de",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 7,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": ".@jonworth has discovered Facebook's pro-Brexit bias https://t.co/og6vB5sr4b  I can confirm for Android https://t.co/Pd9iJLuDfn",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Dec 26 13:41:14 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Research Fellow @delorsinstitut, EU Politics&Institutions / Economic Governance #EMUreform https://t.co/AqaFW2OSkm, currently researching the #EuropeanSemester",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "delorsinstitut.de/en/about-us/te\u2026",
+                            "expanded_url": "http://www.delorsinstitut.de/en/about-us/team-en/core-team/valentin-kreilinger/",
+                            "indices": [
+                                91,
+                                114
+                            ],
+                            "url": "https://t.co/AqaFW2OSkm"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "tineurope.wordpress.com",
+                            "expanded_url": "https://tineurope.wordpress.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/wogriKQrRd"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1840,
+            "follow_request_sent": false,
+            "followers_count": 1618,
+            "following": false,
+            "friends_count": 877,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 230725056,
+            "id_str": "230725056",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 86,
+            "location": "Berlin",
+            "name": "Valentin Kreilinger",
+            "notifications": false,
+            "profile_background_color": "9FE7F6",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/185416302/xccd574462827deb0caa656915c38db5.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/185416302/xccd574462827deb0caa656915c38db5.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/230725056/1429099153",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/674321221337669632/SVvdCVrn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/674321221337669632/SVvdCVrn_normal.jpg",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "1A9DB1",
+            "profile_sidebar_fill_color": "7E9499",
+            "profile_text_color": "95DDD9",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "tineurope",
+            "statuses_count": 3863,
+            "time_zone": "Paris",
+            "url": "https://t.co/wogriKQrRd",
+            "utc_offset": 7200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 742723949667192832,
+    "quoted_status_id_str": "742723949667192832",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook f\u00fcr #Brexit? Wo ist die #Bremain-Option?  https://t.co/TehY8PfEBK",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 17 18:05:14 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Sprecher @AltmarkGruene | Stadtrat der Hansestadt #Salzwedel | Sprecher @queergruenlsa | Student",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "christian-franke.org",
+                        "expanded_url": "http://www.christian-franke.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/AiJM5gxDsb"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 17924,
+        "follow_request_sent": false,
+        "followers_count": 1496,
+        "following": false,
+        "friends_count": 1253,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 17446510,
+        "id_str": "17446510",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "de",
+        "listed_count": 84,
+        "location": "Altmarkkreis Salzwedel, Sachsen-Anhalt",
+        "name": "Christian Franke",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17446510/1462744984",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/724938403024900097/PiWMohGf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/724938403024900097/PiWMohGf_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GruenChristian",
+        "statuses_count": 28371,
+        "time_zone": "Berlin",
+        "url": "https://t.co/AiJM5gxDsb",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}
