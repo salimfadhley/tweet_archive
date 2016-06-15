@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 15 17:59:10 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743140809285918720,
+    "id_str": "743140809285918720",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 743139430781771776,
+    "in_reply_to_status_id_str": "743139430781771776",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.147162,
+                        25.7613083
+                    ],
+                    [
+                        -80.1187628,
+                        25.7613083
+                    ],
+                    [
+                        -80.1187628,
+                        25.872623
+                    ],
+                    [
+                        -80.147162,
+                        25.872623
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Miami Beach, FL",
+        "id": "0121b92345f0e2b4",
+        "name": "Miami Beach",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0121b92345f0e2b4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir ok thanks I'll keep a check",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 03 11:51:17 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Instagram: @kevtulip",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 126,
+        "follow_request_sent": false,
+        "followers_count": 53,
+        "following": false,
+        "friends_count": 330,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 404065516,
+        "id_str": "404065516",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Eindhoven, the Netherlands",
+        "name": "Kev Tulip",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/504959655580545024/G-39QX0C_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/504959655580545024/G-39QX0C_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KevTulip",
+        "statuses_count": 356,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
