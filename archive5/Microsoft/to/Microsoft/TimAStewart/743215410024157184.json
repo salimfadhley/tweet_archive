@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 15 22:55:36 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            },
+            {
+                "id": 59889953,
+                "id_str": "59889953",
+                "indices": [
+                    23,
+                    31
+                ],
+                "name": "Verizon",
+                "screen_name": "verizon"
+            },
+            {
+                "id": 19380829,
+                "id_str": "19380829",
+                "indices": [
+                    36,
+                    42
+                ],
+                "name": "Yahoo",
+                "screen_name": "Yahoo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743215410024157184,
+    "id_str": "743215410024157184",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.741123,
+                        37.247278
+                    ],
+                    [
+                        -76.6653867,
+                        37.247278
+                    ],
+                    [
+                        -76.6653867,
+                        37.31071
+                    ],
+                    [
+                        -76.741123,
+                        37.31071
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Williamsburg, VA",
+        "id": "e39414c8fa720aae",
+        "name": "Williamsburg",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e39414c8fa720aae.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Microsoft , don't let @verizon buy @Yahoo.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 25 16:54:09 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "tech enthusiast, automotive website development architect, founder of @DriveCities, runner, blogger, husband, father and Fork Union Military Academy graduate",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "DriveGroup.com",
+                        "expanded_url": "http://DriveGroup.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/hwKPtjvlYv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 73,
+        "follow_request_sent": false,
+        "followers_count": 20,
+        "following": false,
+        "friends_count": 68,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1300227810,
+        "id_str": "1300227810",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Williamsburg, VA",
+        "name": "Tim Stewart",
+        "notifications": false,
+        "profile_background_color": "C42128",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/824309593/c8c47b881cc5c03f17a389cb309d871e.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/824309593/c8c47b881cc5c03f17a389cb309d871e.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300227810/1422980118",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/506803869318266880/1-JsXvT9_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/506803869318266880/1-JsXvT9_normal.png",
+        "profile_link_color": "025EAB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TimAStewart",
+        "statuses_count": 299,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/hwKPtjvlYv",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
