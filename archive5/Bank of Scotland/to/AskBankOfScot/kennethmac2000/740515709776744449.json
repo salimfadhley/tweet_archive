@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 08 12:07:57 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 196122701,
+                "id_str": "196122701",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Bank of Scotland",
+                "screen_name": "AskBankOfScot"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 740515709776744449,
+    "id_str": "740515709776744449",
+    "in_reply_to_screen_name": "AskBankOfScot",
+    "in_reply_to_status_id": 740496090756177920,
+    "in_reply_to_status_id_str": "740496090756177920",
+    "in_reply_to_user_id": 196122701,
+    "in_reply_to_user_id_str": "196122701",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        13.088304,
+                        52.338079
+                    ],
+                    [
+                        13.760909,
+                        52.338079
+                    ],
+                    [
+                        13.760909,
+                        52.675323
+                    ],
+                    [
+                        13.088304,
+                        52.675323
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Deutschland",
+        "country_code": "DE",
+        "full_name": "Berlin, Germany",
+        "id": "3078869807f9dd36",
+        "name": "Berlin",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AskBankOfScot Very frustrating getting an e-mail on my phone about a new message and not being able to deal with it right there and then.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 28 15:51:41 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Scottish European. From Scotland to London via Stockholm and Berlin. \u2764\ufe0f cities, coffee, EDM, the EU, politics, product, sun, tech & travel. Member of @theSNP",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5902,
+        "follow_request_sent": false,
+        "followers_count": 702,
+        "following": false,
+        "friends_count": 2643,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2679991,
+        "id_str": "2679991",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "de",
+        "listed_count": 65,
+        "location": "London",
+        "name": "Kenneth MacArthur",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/807321561/a2bef4b44842fe35ae066d686882e718.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/807321561/a2bef4b44842fe35ae066d686882e718.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2679991/1439382352",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700815631977820160/LrC6QMX8_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700815631977820160/LrC6QMX8_normal.png",
+        "profile_link_color": "C78E0A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kennethmac2000",
+        "statuses_count": 10233,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
