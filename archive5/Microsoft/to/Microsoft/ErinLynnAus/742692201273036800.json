@@ -1,0 +1,292 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 14 12:16:33 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/wef/status/742\u2026",
+                "expanded_url": "https://twitter.com/wef/status/742690686248574976",
+                "indices": [
+                    13,
+                    36
+                ],
+                "url": "https://t.co/T8NQKn8Sjk"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 742692201273036800,
+    "id_str": "742692201273036800",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        144.593741856,
+                        -38.433859306
+                    ],
+                    [
+                        145.512528832,
+                        -38.433859306
+                    ],
+                    [
+                        145.512528832,
+                        -37.5112737225
+                    ],
+                    [
+                        144.593741856,
+                        -37.5112737225
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Australia",
+        "country_code": "AU",
+        "full_name": "Melbourne, Victoria",
+        "id": "01864a8a64df9dc4",
+        "name": "Melbourne",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01864a8a64df9dc4.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Jun 14 12:10:32 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/B2bKSkkUvz",
+                    "expanded_url": "http://twitter.com/wef/status/742690686248574976/photo/1",
+                    "id": 742690683396468736,
+                    "id_str": "742690683396468736",
+                    "indices": [
+                        103,
+                        126
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Ck6RPdnWsAAx9rr.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Ck6RPdnWsAAx9rr.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 426,
+                            "resize": "fit",
+                            "w": 878
+                        },
+                        "medium": {
+                            "h": 426,
+                            "resize": "fit",
+                            "w": 878
+                        },
+                        "small": {
+                            "h": 330,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/B2bKSkkUvz"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "wef.ch/25XQtKO",
+                    "expanded_url": "http://wef.ch/25XQtKO",
+                    "indices": [
+                        79,
+                        102
+                    ],
+                    "url": "https://t.co/X5fpkba8lE"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 61,
+        "favorited": false,
+        "geo": null,
+        "id": 742690686248574976,
+        "id_str": "742690686248574976",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 36,
+        "retweeted": false,
+        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+        "text": "The best ways to land your dream job, according to LinkedIn, which should know https://t.co/X5fpkba8lE https://t.co/B2bKSkkUvz",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Apr 18 14:00:19 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "The international organization for public private cooperation. Follow us for research, insight and analysis on global issues. Annual Meeting hashtag: #wef",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "wef.ch/agenda",
+                            "expanded_url": "http://wef.ch/agenda",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/1vmI17VRPv"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1871,
+            "follow_request_sent": false,
+            "followers_count": 2885464,
+            "following": false,
+            "friends_count": 310,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 5120691,
+            "id_str": "5120691",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 19753,
+            "location": "Geneva, Switzerland",
+            "name": "World Economic Forum",
+            "notifications": false,
+            "profile_background_color": "FCFCFC",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459256738458267648/NQmn-I-R.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459256738458267648/NQmn-I-R.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5120691/1464876663",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/565498192171507712/r2Hb2gvX_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/565498192171507712/r2Hb2gvX_normal.png",
+            "profile_link_color": "419FCF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "wef",
+            "statuses_count": 46319,
+            "time_zone": "Bern",
+            "url": "http://t.co/1vmI17VRPv",
+            "utc_offset": 7200,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 742690686248574976,
+    "quoted_status_id_str": "742690686248574976",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Microsoft ? https://t.co/T8NQKn8Sjk",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 30 03:13:45 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Academic and entrepreneur @monashuni | Director @generateworld & @dicekids. Policy Hack winner. Aus-India enthusiast. Aus delegate @y20turkey",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "generateworldwide.com",
+                        "expanded_url": "http://www.generateworldwide.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/42IcGKx2oY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3370,
+        "follow_request_sent": false,
+        "followers_count": 1170,
+        "following": false,
+        "friends_count": 2131,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 184646091,
+        "id_str": "184646091",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 113,
+        "location": "Melbourne, Victoria",
+        "name": "Erin Watson-Lynn",
+        "notifications": false,
+        "profile_background_color": "DD2E44",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/184646091/1461478090",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/731085143922745344/V-PdQ8mC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/731085143922745344/V-PdQ8mC_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ErinLynnAus",
+        "statuses_count": 8217,
+        "time_zone": "Sydney",
+        "url": "https://t.co/42IcGKx2oY",
+        "utc_offset": 36000,
+        "verified": false
+    }
+}
