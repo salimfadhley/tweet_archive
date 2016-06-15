@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 15 20:50:29 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743183922889035776,
+    "id_str": "743183922889035776",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 743179036268978176,
+    "in_reply_to_status_id_str": "743179036268978176",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.7134422,
+                        45.5825007
+                    ],
+                    [
+                        -122.4645067,
+                        45.5825007
+                    ],
+                    [
+                        -122.4645067,
+                        45.6786765
+                    ],
+                    [
+                        -122.7134422,
+                        45.6786765
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Vancouver, WA",
+        "id": "5a16f6443a850916",
+        "name": "Vancouver",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5a16f6443a850916.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Thanks!! I ended up showing my admirals club receipt so the agent could see my expiration date. Worked like a charm!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 17 05:07:59 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "J\u2019ai quitt\u00e9 Paris et m\u00eame la France, parce que la tour Eiffel finissait par m\u2019ennuyer trop. Photographer and wanderer, forever dancing to my next destination.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 26,
+        "follow_request_sent": false,
+        "followers_count": 4,
+        "following": false,
+        "friends_count": 17,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 4820151507,
+        "id_str": "4820151507",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "New York, New York",
+        "name": "Mik | La Vie Errante",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4820151507/1453007756",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/736689636668526592/azdF8rQE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/736689636668526592/azdF8rQE_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "mavieerrante",
+        "statuses_count": 58,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
