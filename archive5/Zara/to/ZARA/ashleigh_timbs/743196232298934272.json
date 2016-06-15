@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 15 21:39:24 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 346742249,
+                "id_str": "346742249",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "ZARA",
+                "screen_name": "ZARA"
+            },
+            {
+                "id": 585670483,
+                "id_str": "585670483",
+                "indices": [
+                    6,
+                    19
+                ],
+                "name": "lesley timbs",
+                "screen_name": "lesley_timbs"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743196232298934272,
+    "id_str": "743196232298934272",
+    "in_reply_to_screen_name": "ZARA",
+    "in_reply_to_status_id": 743115938338340864,
+    "in_reply_to_status_id_str": "743115938338340864",
+    "in_reply_to_user_id": 346742249,
+    "in_reply_to_user_id_str": "346742249",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.793542,
+                        53.9208985
+                    ],
+                    [
+                        -0.7630311,
+                        53.9208985
+                    ],
+                    [
+                        -0.7630311,
+                        53.9379186
+                    ],
+                    [
+                        -0.793542,
+                        53.9379186
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Pocklington, England",
+        "id": "762714ecbc3782b6",
+        "name": "Pocklington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/762714ecbc3782b6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ZARA @lesley_timbs",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 07 11:49:27 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "20. Fashion Student. Never be scared to be yourself, because being 'normal' is boring.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2623,
+        "follow_request_sent": false,
+        "followers_count": 380,
+        "following": false,
+        "friends_count": 549,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 601883994,
+        "id_str": "601883994",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "",
+        "name": "Ash",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/601883994/1410530123",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/686950178469900288/LNHpTktT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/686950178469900288/LNHpTktT_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ashleigh_timbs",
+        "statuses_count": 5489,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
