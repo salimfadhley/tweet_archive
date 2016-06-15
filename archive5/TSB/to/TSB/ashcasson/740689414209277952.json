@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 08 23:38:12 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 746954528,
+                "id_str": "746954528",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "TSB",
+                "screen_name": "TSB"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 740689414209277952,
+    "id_str": "740689414209277952",
+    "in_reply_to_screen_name": "TSB",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 746954528,
+    "in_reply_to_user_id_str": "746954528",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -4.3932845,
+                        55.796184
+                    ],
+                    [
+                        -4.0902182,
+                        55.796184
+                    ],
+                    [
+                        -4.0902182,
+                        55.9204214
+                    ],
+                    [
+                        -4.3932845,
+                        55.9204214
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Glasgow, Scotland",
+        "id": "791e00bcadc4615f",
+        "name": "Glasgow",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TSB Any plans to start supporting Android Pay anytime soon?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 30 20:05:22 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Freelance writer for The Herald and TechRadar. I once followed a pigeon for a week. Occasional liar. I love technology, science, comedy, politics and stuff.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 132,
+        "follow_request_sent": false,
+        "followers_count": 429,
+        "following": false,
+        "friends_count": 142,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 52503104,
+        "id_str": "52503104",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 16,
+        "location": "",
+        "name": "Ash K. Casson",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/711549356/9f0fb88d5865fd4fdaab6ef680586c10.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/711549356/9f0fb88d5865fd4fdaab6ef680586c10.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/52503104/1447405932",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/742439323774164992/2i-9-VRu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/742439323774164992/2i-9-VRu_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ashcasson",
+        "statuses_count": 21833,
+        "time_zone": "Edinburgh",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
