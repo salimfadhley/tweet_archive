@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 14 23:13:30 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 742857525742186496,
+    "id_str": "742857525742186496",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook messenger beta is slowly becoming its own mobile operating system.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 09 21:15:37 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "This is the official twitter page of Greg Pace | Student @ University of Illinois at Champaign Urbana | Product Manager at Chicago Digital",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "greg.tech",
+                        "expanded_url": "http://greg.tech",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/jadQDQi8il"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 474,
+        "follow_request_sent": false,
+        "followers_count": 158,
+        "following": false,
+        "friends_count": 231,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 23502721,
+        "id_str": "23502721",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Champaign, IL",
+        "name": "Greg Pace",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23502721/1454385745",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/704852753282174976/TZ-qTZTl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/704852753282174976/TZ-qTZTl_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GregPace",
+        "statuses_count": 570,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/jadQDQi8il",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
