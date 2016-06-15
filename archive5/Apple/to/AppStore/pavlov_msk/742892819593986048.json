@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 15 01:33:45 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 742892819593986048,
+    "id_str": "742892819593986048",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": 741228446873833472,
+    "in_reply_to_status_id_str": "741228446873833472",
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "ru",
+    "metadata": {
+        "iso_language_code": "ru",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        36.8878157,
+                        55.4883244
+                    ],
+                    [
+                        37.9674694,
+                        55.4883244
+                    ],
+                    [
+                        37.9674694,
+                        56.0212511
+                    ],
+                    [
+                        36.8878157,
+                        56.0212511
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u0420\u043e\u0441\u0441\u0438\u044f",
+        "country_code": "RU",
+        "full_name": "Moscow, Russia",
+        "id": "4303d1afc1e98c37",
+        "name": "Moscow",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AppStore \u0441\u0442\u043e\u0438\u0442 \u0434\u043e\u0444\u0438\u0433\u0430 \u0432\u0430\u0448 \u0410\u0439\u0444\u043e\u043d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 23 18:30:46 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3928,
+        "follow_request_sent": false,
+        "followers_count": 737,
+        "following": false,
+        "friends_count": 631,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2307038720,
+        "id_str": "2307038720",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "ru",
+        "listed_count": 11,
+        "location": "Moscow Russia",
+        "name": "\u041f\u0410\u0412\u041b\u041e\u0412_\u041c\u0421\u041a",
+        "notifications": false,
+        "profile_background_color": "785551",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/483343861045932032/PkFr3Zmz.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/483343861045932032/PkFr3Zmz.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/629724671697551360/coIaUrwJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/629724671697551360/coIaUrwJ_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "pavlov_msk",
+        "statuses_count": 29520,
+        "time_zone": "Abu Dhabi",
+        "url": null,
+        "utc_offset": 14400,
+        "verified": false
+    }
+}
