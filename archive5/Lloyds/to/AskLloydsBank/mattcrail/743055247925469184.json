@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 15 12:19:11 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 147932302,
+                "id_str": "147932302",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Lloyds Bank",
+                "screen_name": "AskLloydsBank"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743055247925469184,
+    "id_str": "743055247925469184",
+    "in_reply_to_screen_name": "AskLloydsBank",
+    "in_reply_to_status_id": 743054928659263488,
+    "in_reply_to_status_id_str": "743054928659263488",
+    "in_reply_to_user_id": 147932302,
+    "in_reply_to_user_id_str": "147932302",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.112442,
+                        51.5068
+                    ],
+                    [
+                        -0.0733794,
+                        51.5068
+                    ],
+                    [
+                        -0.0733794,
+                        51.522161
+                    ],
+                    [
+                        -0.112442,
+                        51.522161
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "City of London, London",
+        "id": "3eb2c704fe8a50cb",
+        "name": "City of London",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3eb2c704fe8a50cb.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AskLloydsBank There is a bug when I try to choose my branch and can't proceed in the process.. I've wasted two hours on this now",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 19 07:44:35 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Principal @QuantiplyCo, amateur #vexillologist, future senior tour golfer. Opinions are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "quantiply.co",
+                        "expanded_url": "http://www.quantiply.co",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ruFMeIaHb3"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 89,
+        "follow_request_sent": false,
+        "followers_count": 476,
+        "following": false,
+        "friends_count": 1271,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 17482130,
+        "id_str": "17482130",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 47,
+        "location": "California // London",
+        "name": "Matt Johnson",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668513777466400768/h3rTryk9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668513777466400768/h3rTryk9_normal.jpg",
+        "profile_link_color": "E20613",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "mattcrail",
+        "statuses_count": 511,
+        "time_zone": "London",
+        "url": "https://t.co/ruFMeIaHb3",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
