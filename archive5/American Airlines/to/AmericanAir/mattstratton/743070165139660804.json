@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 15 13:18:27 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743070165139660804,
+    "id_str": "743070165139660804",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 743069963343167488,
+    "in_reply_to_status_id_str": "743069963343167488",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.9372588
+                    ],
+                    [
+                        -87.8347576,
+                        41.9372588
+                    ],
+                    [
+                        -87.8347576,
+                        42.009019
+                    ],
+                    [
+                        -87.940033,
+                        42.009019
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "O'Hare, Chicago",
+        "id": "5538a3aae89abc08",
+        "name": "O'Hare",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/5538a3aae89abc08.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@AmericanAir pretty sure that\u2019s where we are sitting. You\u2019re not helpful.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 06 18:20:17 +0000 2006",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Host of @ArrestedDevOps. Whipping up awesome at @chef. Whovian. Unicorn conspiracy theorist. Your opinions are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mattstratton.com",
+                        "expanded_url": "http://mattstratton.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/ITfGZ0nDgQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3219,
+        "follow_request_sent": false,
+        "followers_count": 4160,
+        "following": false,
+        "friends_count": 1710,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 46113,
+        "id_str": "46113",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 328,
+        "location": "Chicago and stuff",
+        "name": "Rainbow DashOps",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/18203192/twitbacks_background.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/18203192/twitbacks_background.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/46113/1356981433",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/742899889311469569/8SF6s1q1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/742899889311469569/8SF6s1q1_normal.jpg",
+        "profile_link_color": "8484F0",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mattstratton",
+        "statuses_count": 42638,
+        "time_zone": "America/Chicago",
+        "url": "http://t.co/ITfGZ0nDgQ",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
