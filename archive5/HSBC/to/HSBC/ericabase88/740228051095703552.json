@@ -1,0 +1,180 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 07 17:04:54 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    32,
+                    43
+                ],
+                "text": "lincolnUni"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/sG5JYKx3AQ",
+                "expanded_url": "http://twitter.com/ericabase88/status/740228051095703552/photo/1",
+                "id": 740228035476127744,
+                "id_str": "740228035476127744",
+                "indices": [
+                    67,
+                    90
+                ],
+                "media_url": "http://pbs.twimg.com/media/CkXRefNXAAAR1RQ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CkXRefNXAAAR1RQ.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1536,
+                        "resize": "fit",
+                        "w": 2048
+                    },
+                    "medium": {
+                        "h": 900,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 510,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/sG5JYKx3AQ"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 467368287,
+                "id_str": "467368287",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "HSBC",
+                "screen_name": "HSBC"
+            },
+            {
+                "id": 262077040,
+                "id_str": "262077040",
+                "indices": [
+                    55,
+                    66
+                ],
+                "name": "Streets Accountants",
+                "screen_name": "StreetsAcc"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 740228051095703552,
+    "id_str": "740228051095703552",
+    "in_reply_to_screen_name": "HSBC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 467368287,
+    "in_reply_to_user_id_str": "467368287",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.5993999,
+                        53.186267
+                    ],
+                    [
+                        -0.49538,
+                        53.186267
+                    ],
+                    [
+                        -0.49538,
+                        53.2551753
+                    ],
+                    [
+                        -0.5993999,
+                        53.2551753
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Lincoln, England",
+        "id": "4caac408027bf2e3",
+        "name": "Lincoln",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4caac408027bf2e3.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@HSBC Charity football event at #lincolnUni Go Streets @StreetsAcc https://t.co/sG5JYKx3AQ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 04 10:43:18 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "What's life without sport #RUFC #MUFC #tigers",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 848,
+        "follow_request_sent": false,
+        "followers_count": 74,
+        "following": false,
+        "friends_count": 90,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 348393048,
+        "id_str": "348393048",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Lincoln",
+        "name": "Erica Manderfield",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/664764889194475520/r04CiCMR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/664764889194475520/r04CiCMR_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ericabase88",
+        "statuses_count": 1094,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
