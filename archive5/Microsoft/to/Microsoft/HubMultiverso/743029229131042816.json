@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 15 10:35:47 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    55,
+                    70
+                ],
+                "text": "socialnetworks"
+            },
+            {
+                "indices": [
+                    71,
+                    76
+                ],
+                "text": "jobs"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/1UNAy9Z",
+                "expanded_url": "http://bit.ly/1UNAy9Z",
+                "indices": [
+                    78,
+                    101
+                ],
+                "url": "https://t.co/C29Mx56pw8"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            },
+            {
+                "id": 13058772,
+                "id_str": "13058772",
+                "indices": [
+                    18,
+                    27
+                ],
+                "name": "LinkedIn",
+                "screen_name": "LinkedIn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743029229131042816,
+    "id_str": "743029229131042816",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "it",
+    "metadata": {
+        "iso_language_code": "it",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        10.7111330008681,
+                        43.4522911741033
+                    ],
+                    [
+                        11.7529769984171,
+                        43.4522911741033
+                    ],
+                    [
+                        11.7529769984171,
+                        44.2392349975014
+                    ],
+                    [
+                        10.7111330008681,
+                        44.2392349975014
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Italia",
+        "country_code": "IT",
+        "full_name": "Firenze, Toscana",
+        "id": "11c389a83b36fe6a",
+        "name": "Firenze",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/11c389a83b36fe6a.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Microsoft compra @LinkedIn per 26 miliardi di dollari #socialnetworks #jobs \nhttps://t.co/C29Mx56pw8",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 22 17:42:33 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Multiverso \u00e8 un network di coworking del Centro Italia: Firenze, Lucca, Siena, Foligno, Pistoia, Valdarno, Milano Teletrasporto attivo! #opencoworking",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "multiverso.biz",
+                        "expanded_url": "http://www.multiverso.biz",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/z4jBzGscIu"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 301,
+        "follow_request_sent": false,
+        "followers_count": 1302,
+        "following": false,
+        "friends_count": 924,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 322129540,
+        "id_str": "322129540",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "it",
+        "listed_count": 126,
+        "location": "Multiverso Coworking Network",
+        "name": "Hub Multiverso",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/279656667/multiverso.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/279656667/multiverso.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/322129540/1399892915",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1424421778/Multiverso_Web_P_500_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1424421778/Multiverso_Web_P_500_normal.jpg",
+        "profile_link_color": "00A6FF",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HubMultiverso",
+        "statuses_count": 2867,
+        "time_zone": "Rome",
+        "url": "http://t.co/z4jBzGscIu",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}
