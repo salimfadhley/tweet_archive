@@ -1,0 +1,236 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 15 18:03:50 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    10,
+                    20
+                ],
+                "text": "Peligroso"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/NotiUnoEc/stat\u2026",
+                "expanded_url": "https://twitter.com/NotiUnoEc/status/743141384459329536",
+                "indices": [
+                    24,
+                    47
+                ],
+                "url": "https://t.co/VtBx0y6F2C"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743141983938580481,
+    "id_str": "743141983938580481",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Jun 15 18:01:27 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "tinyurl.com/zdxqzyn",
+                    "expanded_url": "http://tinyurl.com/zdxqzyn",
+                    "indices": [
+                        61,
+                        84
+                    ],
+                    "url": "https://t.co/4MwSLVhY5l"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 743141384459329536,
+        "id_str": "743141384459329536",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "es",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -92.0089729991592,
+                            -5.01328501466524
+                        ],
+                        [
+                            -75.1926269408408,
+                            -5.01328501466524
+                        ],
+                        [
+                            -75.1926269408408,
+                            1.68183399966524
+                        ],
+                        [
+                            -92.0089729991592,
+                            1.68183399966524
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "Ecuador",
+            "country_code": "EC",
+            "full_name": "Ecuador",
+            "id": "4e43cac8250a8b20",
+            "name": "Ecuador",
+            "place_type": "country",
+            "url": "https://api.twitter.com/1.1/geo/id/4e43cac8250a8b20.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Un hombre asesin\u00f3 a su pareja tras leer mensajes en Facebook https://t.co/4MwSLVhY5l .GS",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed May 29 16:43:12 +0000 2013",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Ent\u00e9rate de todo el acontecer nacional e internacional, con Responsabilidad y Criterio Informativo",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 157,
+            "follow_request_sent": false,
+            "followers_count": 7203,
+            "following": false,
+            "friends_count": 1457,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 1467696480,
+            "id_str": "1467696480",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "es",
+            "listed_count": 105,
+            "location": "",
+            "name": "NotiUno Ecuador",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1467696480/1461283855",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/432847401435398144/SECef6PH_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/432847401435398144/SECef6PH_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "NotiUnoEc",
+            "statuses_count": 135631,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": null,
+            "utc_offset": -14400,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 743141384459329536,
+    "quoted_status_id_str": "743141384459329536",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook #Peligroso... https://t.co/VtBx0y6F2C",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 05 15:12:02 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Viva La #RevolucionCiudadana.Viva @mashirafael #PatriaParaSiempre.en el 2017 #Venceremos.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 22651,
+        "follow_request_sent": false,
+        "followers_count": 79568,
+        "following": false,
+        "friends_count": 87413,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1570723766,
+        "id_str": "1570723766",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 205,
+        "location": "ECUADOR",
+        "name": "ECUADOR MUNDIAL",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1570723766/1465016266",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/717749423816712192/aL5QU6Da_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/717749423816712192/aL5QU6Da_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "parischiquitoo",
+        "statuses_count": 206528,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
