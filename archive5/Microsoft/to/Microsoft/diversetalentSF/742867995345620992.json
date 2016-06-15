@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 14 23:55:06 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    105,
+                    115
+                ],
+                "text": "diversity"
+            },
+            {
+                "indices": [
+                    116,
+                    121
+                ],
+                "text": "tech"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            },
+            {
+                "id": 13058772,
+                "id_str": "13058772",
+                "indices": [
+                    11,
+                    20
+                ],
+                "name": "LinkedIn",
+                "screen_name": "LinkedIn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 742867995345620992,
+    "id_str": "742867995345620992",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.514926,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.833238
+                    ],
+                    [
+                        -122.514926,
+                        37.833238
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Francisco, CA",
+        "id": "5a110d312052166f",
+        "name": "San Francisco",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Microsoft @LinkedIn You have now joined resources. Use that power to change the diversity story in tech.#diversity #tech",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 05 20:40:51 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#Diverse #talent guru partnering with clients to deliver customized, #innovative and #inclusive #solutions that impact the bottom line.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "diversetalentsolutions.com",
+                        "expanded_url": "http://www.diversetalentsolutions.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/t8BWqHA2Z9"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11,
+        "follow_request_sent": false,
+        "followers_count": 64,
+        "following": false,
+        "friends_count": 132,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2863181895,
+        "id_str": "2863181895",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "SF, CA",
+        "name": "Becky Bearse",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2863181895/1442438567",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/723225931356114944/Ujm4kuW7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/723225931356114944/Ujm4kuW7_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "diversetalentSF",
+        "statuses_count": 204,
+        "time_zone": "Tijuana",
+        "url": "http://t.co/t8BWqHA2Z9",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}
