@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 16 19:56:40 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743532766990569472,
+    "id_str": "743532766990569472",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.816622,
+                        51.331934
+                    ],
+                    [
+                        -0.758244,
+                        51.331934
+                    ],
+                    [
+                        -0.758244,
+                        51.358602
+                    ],
+                    [
+                        -0.816622,
+                        51.358602
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Sandhurst, South East",
+        "id": "3393e5f6e7eca8b8",
+        "name": "Sandhurst",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3393e5f6e7eca8b8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook how can I speak to someone about a potential hack on my account ?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 22 07:40:13 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1370,
+        "follow_request_sent": false,
+        "followers_count": 206,
+        "following": false,
+        "friends_count": 194,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 587230787,
+        "id_str": "587230787",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "",
+        "name": "SJ",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/559676021/mqpunksplats.br.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/559676021/mqpunksplats.br.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/736499984590331904/GRCrYffI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/736499984590331904/GRCrYffI_normal.jpg",
+        "profile_link_color": "0ECC96",
+        "profile_sidebar_border_color": "222222",
+        "profile_sidebar_fill_color": "A705CA",
+        "profile_text_color": "222222",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "EssieJLouise",
+        "statuses_count": 3437,
+        "time_zone": "Amsterdam",
+        "url": null,
+        "utc_offset": 7200,
+        "verified": false
+    }
+}
