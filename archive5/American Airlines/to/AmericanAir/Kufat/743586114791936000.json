@@ -1,0 +1,148 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -73.9374772,
+            40.7489124
+        ],
+        "type": "Point"
+    },
+    "created_at": "Thu Jun 16 23:28:39 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            40.7489124,
+            -73.9374772
+        ],
+        "type": "Point"
+    },
+    "id": 743586114791936000,
+    "id_str": "743586114791936000",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.962582,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.8000371
+                    ],
+                    [
+                        -73.962582,
+                        40.8000371
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Queens, NY",
+        "id": "00c39537733fa112",
+        "name": "Queens",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c39537733fa112.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://klinkerapps.com\" rel=\"nofollow\">Talon (Plus)</a>",
+    "text": "@AmericanAir It looks like AA267 is pretty delayed. As an Alaska MVP, would it be possible to SDCC to AA7020 tomorrow morning? Thanks!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 25 21:10:11 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Kufat!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "kufat.net",
+                        "expanded_url": "http://www.kufat.net",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/qtqYAx9Sd7"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 595,
+        "follow_request_sent": false,
+        "followers_count": 122,
+        "following": false,
+        "friends_count": 110,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 207691003,
+        "id_str": "207691003",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "An island in the East River",
+        "name": "Kufat",
+        "notifications": false,
+        "profile_background_color": "FDFCEC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/178546327/kufat.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/178546327/kufat.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1183443619/icon_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1183443619/icon_normal.png",
+        "profile_link_color": "5E051D",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Kufat",
+        "statuses_count": 10575,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/qtqYAx9Sd7",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
