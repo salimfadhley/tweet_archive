@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 16 17:52:24 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Tesla Motors",
+                "screen_name": "TeslaMotors"
+            },
+            {
+                "id": 15162193,
+                "id_str": "15162193",
+                "indices": [
+                    13,
+                    23
+                ],
+                "name": "Nordstrom",
+                "screen_name": "Nordstrom"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743501495694401536,
+    "id_str": "743501495694401536",
+    "in_reply_to_screen_name": "TeslaMotors",
+    "in_reply_to_status_id": 743500523773452288,
+    "in_reply_to_status_id_str": "743500523773452288",
+    "in_reply_to_user_id": 13298072,
+    "in_reply_to_user_id_str": "13298072",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        11.7184075,
+                        45.4958625
+                    ],
+                    [
+                        11.843586,
+                        45.4958625
+                    ],
+                    [
+                        11.843586,
+                        45.5924236
+                    ],
+                    [
+                        11.7184075,
+                        45.5924236
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Italia",
+        "country_code": "IT",
+        "full_name": "Piazzola sul Brenta, Veneto",
+        "id": "b473527171475eee",
+        "name": "Piazzola sul Brenta",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b473527171475eee.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TeslaMotors @Nordstrom right place where sell this amazing car!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 04 16:02:58 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 534,
+        "follow_request_sent": false,
+        "followers_count": 35,
+        "following": false,
+        "friends_count": 20,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 151923886,
+        "id_str": "151923886",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "Dario Malfatti",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/873658793/ef469c5d0c9744d940894a98f736229e.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/873658793/ef469c5d0c9744d940894a98f736229e.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/151923886/1369118473",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1110523016/me_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110523016/me_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "badlydone",
+        "statuses_count": 111,
+        "time_zone": "Rome",
+        "url": null,
+        "utc_offset": 7200,
+        "verified": false
+    }
+}
