@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 16 18:35:26 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743512322564587520,
+    "id_str": "743512322564587520",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "fr",
+    "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.223748,
+                        48.7744813
+                    ],
+                    [
+                        2.27999,
+                        48.7744813
+                    ],
+                    [
+                        2.27999,
+                        48.8169763
+                    ],
+                    [
+                        2.223748,
+                        48.8169763
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Clamart, France",
+        "id": "73359fdfabb928fb",
+        "name": "Clamart",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/73359fdfabb928fb.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook vs faites quoi la faite marcher messenger \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 29 10:40:20 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Anbu de Clm \n#92140 #3F snap:jaja92140",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ntm.com",
+                        "expanded_url": "http://ntm.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/TFlbZ2LxDw"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 717,
+        "follow_request_sent": false,
+        "followers_count": 450,
+        "following": false,
+        "friends_count": 1565,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1044466718,
+        "id_str": "1044466718",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 4,
+        "location": "La Scampia",
+        "name": "Malamore",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1044466718/1465490167",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/740945306280431616/TcT7OciP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/740945306280431616/TcT7OciP_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JajaClm",
+        "statuses_count": 1890,
+        "time_zone": null,
+        "url": "https://t.co/TFlbZ2LxDw",
+        "utc_offset": null,
+        "verified": false
+    }
+}
