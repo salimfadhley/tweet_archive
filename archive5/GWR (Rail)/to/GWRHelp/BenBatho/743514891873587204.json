@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 16 18:45:38 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15589815,
+                "id_str": "15589815",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "GWR Help",
+                "screen_name": "GWRHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743514891873587204,
+    "id_str": "743514891873587204",
+    "in_reply_to_screen_name": "GWRHelp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15589815,
+    "in_reply_to_user_id_str": "15589815",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.457966,
+                        51.420633
+                    ],
+                    [
+                        -0.243419,
+                        51.420633
+                    ],
+                    [
+                        -0.243419,
+                        51.502851
+                    ],
+                    [
+                        -0.457966,
+                        51.502851
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Hounslow, London",
+        "id": "0b30aadf406d13cc",
+        "name": "Hounslow",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0b30aadf406d13cc.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@GWRHelp Hi, was stuck in Paddington to get to Bristol Parkway, and am in a taxi to Reading. Whats the likelihood of trains from there?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 04 19:40:46 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I don't do faff and I don't do beige...",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "benbatho.com",
+                        "expanded_url": "http://www.benbatho.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Oy1cBWyUQu"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 34,
+        "follow_request_sent": false,
+        "followers_count": 125,
+        "following": false,
+        "friends_count": 251,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 222894672,
+        "id_str": "222894672",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "In a car of some sort ",
+        "name": "Ben Batho",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/222894672/1436650364",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/521787699116904448/qrcOopON_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/521787699116904448/qrcOopON_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BenBatho",
+        "statuses_count": 2777,
+        "time_zone": "London",
+        "url": "http://t.co/Oy1cBWyUQu",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
