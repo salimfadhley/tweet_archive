@@ -1,0 +1,172 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 16 03:16:36 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    103,
+                    111
+                ],
+                "text": "nohotel"
+            },
+            {
+                "indices": [
+                    112,
+                    119
+                ],
+                "text": "refund"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 2159933683,
+                "id_str": "2159933683",
+                "indices": [
+                    13,
+                    29
+                ],
+                "name": "ALI MADISON",
+                "screen_name": "alimadisonmusic"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743281094099775488,
+    "id_str": "743281094099775488",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 743277312280453120,
+    "in_reply_to_status_id_str": "743277312280453120",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -95.823268,
+                        29.522325
+                    ],
+                    [
+                        -95.069705,
+                        29.522325
+                    ],
+                    [
+                        -95.069705,
+                        30.1546646
+                    ],
+                    [
+                        -95.823268,
+                        30.1546646
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Houston, TX",
+        "id": "1c69a67ad480e1b1",
+        "name": "Houston",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir @alimadisonmusic she's trying to get home..flight after flight canceled all day#stuckinla #nohotel #refund",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 25 01:45:23 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "God, Family, and Music https://t.co/ZCbXc3EsDs",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "reverbnation.com/alimadison",
+                        "expanded_url": "http://www.reverbnation.com/alimadison",
+                        "indices": [
+                            23,
+                            46
+                        ],
+                        "url": "https://t.co/ZCbXc3EsDs"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/alimadisonmusi\u2026",
+                        "expanded_url": "http://www.facebook.com/alimadisonmusicpage",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/gEniXNvRvz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3778,
+        "follow_request_sent": false,
+        "followers_count": 159,
+        "following": false,
+        "friends_count": 284,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 21822797,
+        "id_str": "21822797",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Frisco,Tx",
+        "name": "Lisa Mc",
+        "notifications": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21822797/1438534920",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640733467945205760/Lum7eT1E_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/640733467945205760/Lum7eT1E_normal.jpg",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mcpherli",
+        "statuses_count": 1466,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/gEniXNvRvz",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
