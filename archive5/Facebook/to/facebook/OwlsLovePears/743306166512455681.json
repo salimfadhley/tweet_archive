@@ -1,0 +1,282 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 16 04:56:14 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/KittenFlower/s\u2026",
+                "expanded_url": "https://twitter.com/KittenFlower/status/743297611138891776",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/WYjHDHjEt3"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743306166512455681,
+    "id_str": "743306166512455681",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        129.065135052414,
+                        35.0912161444022
+                    ],
+                    [
+                        129.129147310278,
+                        35.0912161444022
+                    ],
+                    [
+                        129.129147310278,
+                        35.1526619714588
+                    ],
+                    [
+                        129.065135052414,
+                        35.1526619714588
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\ub300\ud55c\ubbfc\uad6d",
+        "country_code": "KR",
+        "full_name": "Nam-gu, Republic of Korea",
+        "id": "0096f3714b5c9fe5",
+        "name": "Nam-gu",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0096f3714b5c9fe5.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jun 16 04:22:14 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/A3ixvkzEpg",
+                    "expanded_url": "http://twitter.com/KittenFlower/status/743297611138891776/photo/1",
+                    "id": 743297598052700160,
+                    "id_str": "743297598052700160",
+                    "indices": [
+                        103,
+                        126
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ClC5Oi5VEAAa5Ny.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ClC5Oi5VEAAa5Ny.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 662,
+                            "resize": "fit",
+                            "w": 831
+                        },
+                        "medium": {
+                            "h": 662,
+                            "resize": "fit",
+                            "w": 831
+                        },
+                        "small": {
+                            "h": 542,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/A3ixvkzEpg"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 3,
+        "favorited": false,
+        "geo": null,
+        "id": 743297611138891776,
+        "id_str": "743297611138891776",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "So facebook says this is not ok, but pictures of women that have been beaten to a pulp are just dandy. https://t.co/A3ixvkzEpg",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon May 18 01:45:08 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "You've never met anyone like me and I'm teaching your children. Sometimes I will try to make you buy my Arts.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "hippiewithadragon.blogspot.com.au",
+                            "expanded_url": "http://hippiewithadragon.blogspot.com.au",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/Q7Iy7TRegF"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 14469,
+            "follow_request_sent": false,
+            "followers_count": 1488,
+            "following": false,
+            "friends_count": 1157,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 40785142,
+            "id_str": "40785142",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 82,
+            "location": "Brisbane, Queensland",
+            "name": "Cassie Candimere",
+            "notifications": false,
+            "profile_background_color": "490A3D",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/64509591/piggy.JPG",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/64509591/piggy.JPG",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/40785142/1445784849",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/734635226853429248/cv524dYf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/734635226853429248/cv524dYf_normal.jpg",
+            "profile_link_color": "9D71B3",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F8CA00",
+            "profile_text_color": "BD1550",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "KittenFlower",
+            "statuses_count": 131794,
+            "time_zone": "Brisbane",
+            "url": "https://t.co/Q7Iy7TRegF",
+            "utc_offset": 36000,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 743297611138891776,
+    "quoted_status_id_str": "743297611138891776",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook how is this worse than the racist memes or the comments that incite/threaten violence that aren't removed? https://t.co/WYjHDHjEt3",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 16 16:03:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@FedBusSchool student, @NewColomboPlan alumni & #CFAVic volunteer. interests: uni engagement, hockey & blue cheese. Mainly blue cheese. I have a bike.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "eleganceofeconomics.wordpress.com",
+                        "expanded_url": "https://eleganceofeconomics.wordpress.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/yxO4VNKm4P"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7512,
+        "follow_request_sent": false,
+        "followers_count": 339,
+        "following": false,
+        "friends_count": 805,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 40488219,
+        "id_str": "40488219",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 42,
+        "location": "Busan, Republic of Korea",
+        "name": "Cate Elliott",
+        "notifications": false,
+        "profile_background_color": "E0E0E0",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000102838125/d44397908e876f54fc92d2f428d111df.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000102838125/d44397908e876f54fc92d2f428d111df.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40488219/1460269155",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/742401619753459712/ytGnrdqD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/742401619753459712/ytGnrdqD_normal.jpg",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "78C0A8",
+        "profile_text_color": "5E412F",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "OwlsLovePears",
+        "statuses_count": 11402,
+        "time_zone": "Melbourne",
+        "url": "https://t.co/yxO4VNKm4P",
+        "utc_offset": 36000,
+        "verified": false
+    }
+}
