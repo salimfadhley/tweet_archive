@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 16 21:03:26 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 16888571,
+                "id_str": "16888571",
+                "indices": [
+                    119,
+                    125
+                ],
+                "name": "NATCA",
+                "screen_name": "NATCA"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743549571360399360,
+    "id_str": "743549571360399360",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 743528197371813889,
+    "in_reply_to_status_id_str": "743528197371813889",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -106.645646,
+                        25.837092
+                    ],
+                    [
+                        -93.508131,
+                        25.837092
+                    ],
+                    [
+                        -93.508131,
+                        36.500695
+                    ],
+                    [
+                        -106.645646,
+                        36.500695
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Texas, USA",
+        "id": "e0060cda70f5f341",
+        "name": "Texas",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/e0060cda70f5f341.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanAir it will always be National Airport to me. Reagan's actions against PATCO still affect ATC staffing today! @NATCA",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 02 17:04:50 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Gay, air traffic controller, liberal, atheist, anglophile addicted to Eli Lieb #LIEBERATOR, Adam Lambert, & so many more! Honesty and rational thinking a must!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/scott.montroy",
+                        "expanded_url": "http://www.facebook.com/scott.montroy",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/zpGNYamTit"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 743,
+        "follow_request_sent": false,
+        "followers_count": 378,
+        "following": false,
+        "friends_count": 1009,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 366695879,
+        "id_str": "366695879",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Texas =(",
+        "name": "Scott Montroy",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/746670238/485beeb8452f67c777260ea49d10b724.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/746670238/485beeb8452f67c777260ea49d10b724.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/366695879/1426018028",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575387168551538688/skgbHxJT_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/575387168551538688/skgbHxJT_normal.jpeg",
+        "profile_link_color": "2974AD",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "FF0000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ScottMontroy",
+        "statuses_count": 4644,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/zpGNYamTit",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
