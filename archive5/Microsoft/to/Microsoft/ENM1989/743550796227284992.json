@@ -1,0 +1,176 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 16 21:08:18 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/dMk84pyNC1",
+                "expanded_url": "http://twitter.com/ENM1989/status/743550796227284992/photo/1",
+                "id": 743550718104084481,
+                "id_str": "743550718104084481",
+                "indices": [
+                    23,
+                    46
+                ],
+                "media_url": "http://pbs.twimg.com/media/ClGfcEkUoAEgWhz.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ClGfcEkUoAEgWhz.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1536,
+                        "resize": "fit",
+                        "w": 2048
+                    },
+                    "medium": {
+                        "h": 900,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 510,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/dMk84pyNC1"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743550796227284992,
+    "id_str": "743550796227284992",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        6.772567,
+                        50.830287
+                    ],
+                    [
+                        7.162373,
+                        50.830287
+                    ],
+                    [
+                        7.162373,
+                        51.0849471
+                    ],
+                    [
+                        6.772567,
+                        51.0849471
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Deutschland",
+        "country_code": "DE",
+        "full_name": "Cologne, Germany",
+        "id": "8abc99434d4f5d28",
+        "name": "Cologne",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Microsoft ...just wow https://t.co/dMk84pyNC1",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 04 18:50:28 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#PHP #Developer #ConstantLearner #Blogger",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "enm1989.github.io",
+                        "expanded_url": "http://enm1989.github.io/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/uoDvIFkLb1"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1571,
+        "follow_request_sent": false,
+        "followers_count": 135,
+        "following": false,
+        "friends_count": 319,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 311007997,
+        "id_str": "311007997",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "de",
+        "listed_count": 113,
+        "location": "Emseloh, Deutschland",
+        "name": "Nico M\u00fcller",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/311007997/1421532775",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/720398420565966848/pJYafebY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/720398420565966848/pJYafebY_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ENM1989",
+        "statuses_count": 3675,
+        "time_zone": "Berlin",
+        "url": "https://t.co/uoDvIFkLb1",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}
