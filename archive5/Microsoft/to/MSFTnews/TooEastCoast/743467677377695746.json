@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 16 15:38:01 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 24741685,
+                "id_str": "24741685",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Microsoft News",
+                "screen_name": "MSFTnews"
+            },
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    10,
+                    20
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            },
+            {
+                "id": 3192806986,
+                "id_str": "3192806986",
+                "indices": [
+                    21,
+                    30
+                ],
+                "name": "Wand Messaging",
+                "screen_name": "WandLabs"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743467677377695746,
+    "id_str": "743467677377695746",
+    "in_reply_to_screen_name": "MSFTnews",
+    "in_reply_to_status_id": 743444771574800385,
+    "in_reply_to_status_id_str": "743444771574800385",
+    "in_reply_to_user_id": 24741685,
+    "in_reply_to_user_id_str": "24741685",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.796517,
+                        39.283539
+                    ],
+                    [
+                        -76.711092,
+                        39.283539
+                    ],
+                    [
+                        -76.711092,
+                        39.327477
+                    ],
+                    [
+                        -76.796517,
+                        39.327477
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Woodlawn, MD",
+        "id": "bf64a5dd9b5f1cf2",
+        "name": "Woodlawn",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/bf64a5dd9b5f1cf2.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@MSFTnews @Microsoft @WandLabs wow",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 13 05:00:50 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I use to deejay, now I sit back & chill. Let my investments do all the work. Strictly #Organic #TeamRavens #TeamXbox #GamingPC",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "reverbnation.com/tooeastcoast",
+                        "expanded_url": "https://www.reverbnation.com/tooeastcoast",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/lNWIsuhc4d"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6413,
+        "follow_request_sent": false,
+        "followers_count": 156,
+        "following": false,
+        "friends_count": 102,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2289118980,
+        "id_str": "2289118980",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 26,
+        "location": "Baltimore",
+        "name": "Tony Brown",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000167282417/FUp42ATs.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000167282417/FUp42ATs.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2289118980/1465152559",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/685916836353937412/y3TLIj3K_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/685916836353937412/y3TLIj3K_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TooEastCoast",
+        "statuses_count": 5696,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/lNWIsuhc4d",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
