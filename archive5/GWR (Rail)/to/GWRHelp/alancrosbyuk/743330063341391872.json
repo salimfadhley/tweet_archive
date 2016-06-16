@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 16 06:31:12 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15589815,
+                "id_str": "15589815",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "GWR Help",
+                "screen_name": "GWRHelp"
+            },
+            {
+                "id": 114159349,
+                "id_str": "114159349",
+                "indices": [
+                    9,
+                    25
+                ],
+                "name": "michael porter",
+                "screen_name": "michael_jporter"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 743330063341391872,
+    "id_str": "743330063341391872",
+    "in_reply_to_screen_name": "GWRHelp",
+    "in_reply_to_status_id": 743326161162272774,
+    "in_reply_to_status_id_str": "743326161162272774",
+    "in_reply_to_user_id": 15589815,
+    "in_reply_to_user_id_str": "15589815",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.2160701,
+                        51.5098789
+                    ],
+                    [
+                        -0.1301597,
+                        51.5098789
+                    ],
+                    [
+                        -0.1301597,
+                        51.5397916
+                    ],
+                    [
+                        -0.2160701,
+                        51.5397916
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Paddington, London",
+        "id": "56c45474148ca4da",
+        "name": "Paddington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/56c45474148ca4da.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@GWRHelp @michael_jporter Remind us when these new trains are coming, Grant? I've heard lots about them...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 11 22:01:46 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Media geek, gig & festival fanatic, proud dad, husband to an awesome Mackem girl.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/alancrosby",
+                        "expanded_url": "http://facebook.com/alancrosby",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/rZh32x4sJj"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 103,
+        "follow_request_sent": false,
+        "followers_count": 77,
+        "following": false,
+        "friends_count": 117,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20633041,
+        "id_str": "20633041",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Maidenhead, via WC2E & Suffolk",
+        "name": "Alan Crosby",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20633041/1411409788",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2212208548/me_shirt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2212208548/me_shirt_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "alancrosbyuk",
+        "statuses_count": 2465,
+        "time_zone": null,
+        "url": "http://t.co/rZh32x4sJj",
+        "utc_offset": null,
+        "verified": false
+    }
+}
