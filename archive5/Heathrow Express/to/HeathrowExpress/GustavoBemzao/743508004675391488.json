@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 16 18:18:16 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20240678,
+                "id_str": "20240678",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Heathrow Express",
+                "screen_name": "HeathrowExpress"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743508004675391488,
+    "id_str": "743508004675391488",
+    "in_reply_to_screen_name": "HeathrowExpress",
+    "in_reply_to_status_id": 743507263906848769,
+    "in_reply_to_status_id_str": "743507263906848769",
+    "in_reply_to_user_id": 20240678,
+    "in_reply_to_user_id_str": "20240678",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.419679,
+                        51.491499
+                    ],
+                    [
+                        -0.302681,
+                        51.491499
+                    ],
+                    [
+                        -0.302681,
+                        51.559366
+                    ],
+                    [
+                        -0.419679,
+                        51.559366
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Southall, London",
+        "id": "21a9d859b598883a",
+        "name": "Southall",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/21a9d859b598883a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@HeathrowExpress Is it safe remain stuck in the train because confortable it isn't.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 25 16:41:53 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 4,
+        "following": false,
+        "friends_count": 119,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1119754184,
+        "id_str": "1119754184",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 0,
+        "location": "",
+        "name": "Gustavo Coutinho",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GustavoBemzao",
+        "statuses_count": 1,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
