@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 16 22:29:17 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 27650674,
+                "id_str": "27650674",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Audi",
+                "screen_name": "Audi"
+            },
+            {
+                "id": 21200953,
+                "id_str": "21200953",
+                "indices": [
+                    6,
+                    19
+                ],
+                "name": "Road & Track",
+                "screen_name": "RoadandTrack"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743571172462256128,
+    "id_str": "743571172462256128",
+    "in_reply_to_screen_name": "Audi",
+    "in_reply_to_status_id": 743570688808607744,
+    "in_reply_to_status_id_str": "743570688808607744",
+    "in_reply_to_user_id": 27650674,
+    "in_reply_to_user_id_str": "27650674",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -86.505805,
+                        35.751433
+                    ],
+                    [
+                        -86.313415,
+                        35.751433
+                    ],
+                    [
+                        -86.313415,
+                        35.943407
+                    ],
+                    [
+                        -86.505805,
+                        35.943407
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Murfreesboro, TN",
+        "id": "19e2bff2e89dc38e",
+        "name": "Murfreesboro",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/19e2bff2e89dc38e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Audi @RoadandTrack well played",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 22 01:17:08 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 601,
+        "follow_request_sent": false,
+        "followers_count": 21,
+        "following": false,
+        "friends_count": 134,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 4562700034,
+        "id_str": "4562700034",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "",
+        "name": "zoo",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4562700034/1461698971",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/738872365178753024/nXLJuQkj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/738872365178753024/nXLJuQkj_normal.jpg",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ghost_zoo",
+        "statuses_count": 1424,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
