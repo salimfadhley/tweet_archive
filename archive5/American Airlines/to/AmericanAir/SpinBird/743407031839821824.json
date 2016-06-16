@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 16 11:37:02 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    80,
+                    85
+                ],
+                "text": "fail"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743407031839821824,
+    "id_str": "743407031839821824",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.022482,
+                        35.9945681
+                    ],
+                    [
+                        -86.560616,
+                        35.9945681
+                    ],
+                    [
+                        -86.560616,
+                        36.405448
+                    ],
+                    [
+                        -87.022482,
+                        36.405448
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Nashville, TN",
+        "id": "00ab941b685334e3",
+        "name": "Nashville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00ab941b685334e3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir - I have now been in line for over an hour trying to get a flight- #fail",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 10 13:06:37 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Jesus believer. People helper. #WordCamp Speaker. Graphics lover. #WordPress Builder. Part of #TheWPCrowd Lover of #GenesisWP",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "spinbirdgroup.com",
+                        "expanded_url": "http://spinbirdgroup.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/FINgzCLRPv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2093,
+        "follow_request_sent": false,
+        "followers_count": 2076,
+        "following": false,
+        "friends_count": 1496,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 15072759,
+        "id_str": "15072759",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 217,
+        "location": "Dead Center, Tennessee",
+        "name": "SpinBird",
+        "notifications": false,
+        "profile_background_color": "222832",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/525671655582887936/M1lZ3kE4.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/525671655582887936/M1lZ3kE4.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15072759/1413415616",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/698264856445583361/zmMlOeNa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/698264856445583361/zmMlOeNa_normal.jpg",
+        "profile_link_color": "DD5700",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DEC930",
+        "profile_text_color": "3A2F4F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SpinBird",
+        "statuses_count": 8579,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/FINgzCLRPv",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
