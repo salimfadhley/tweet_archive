@@ -1,0 +1,302 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 17 08:33:04 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/GWRHelp/status\u2026",
+                "expanded_url": "https://twitter.com/GWRHelp/status/743694875011358722",
+                "indices": [
+                    103,
+                    126
+                ],
+                "url": "https://t.co/t4ONkctNvP"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 371351707,
+                "id_str": "371351707",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Katie John",
+                "screen_name": "jaybird_katie"
+            },
+            {
+                "id": 33546465,
+                "id_str": "33546465",
+                "indices": [
+                    15,
+                    31
+                ],
+                "name": "National Rail",
+                "screen_name": "nationalrailenq"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743723121853632512,
+    "id_str": "743723121853632512",
+    "in_reply_to_screen_name": "jaybird_katie",
+    "in_reply_to_status_id": 743722776624652288,
+    "in_reply_to_status_id_str": "743722776624652288",
+    "in_reply_to_user_id": 371351707,
+    "in_reply_to_user_id_str": "371351707",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jun 17 06:40:50 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/CDHBare4hk",
+                    "expanded_url": "http://twitter.com/GWRHelp/status/743694875011358722/photo/1",
+                    "id": 743694870548615169,
+                    "id_str": "743694870548615169",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ClIii2RUkAEtQpf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ClIii2RUkAEtQpf.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 639,
+                            "resize": "fit",
+                            "w": 644
+                        },
+                        "medium": {
+                            "h": 639,
+                            "resize": "fit",
+                            "w": 644
+                        },
+                        "small": {
+                            "h": 639,
+                            "resize": "fit",
+                            "w": 644
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/CDHBare4hk"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "gwr.com/travel-updates\u2026",
+                    "expanded_url": "https://www.gwr.com/travel-updates/check-your-journey",
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "url": "https://t.co/nWtsIovC6n"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 11,
+        "favorited": false,
+        "geo": null,
+        "id": 743694875011358722,
+        "id_str": "743694875011358722",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -0.2160701,
+                            51.5098789
+                        ],
+                        [
+                            -0.1301597,
+                            51.5098789
+                        ],
+                        [
+                            -0.1301597,
+                            51.5397916
+                        ],
+                        [
+                            -0.2160701,
+                            51.5397916
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United Kingdom",
+            "country_code": "GB",
+            "full_name": "Paddington, London",
+            "id": "56c45474148ca4da",
+            "name": "Paddington",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/56c45474148ca4da.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 38,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Reduced service to/from Paddington because of a derailed train. Visit https://t.co/nWtsIovC6n to check your journey. https://t.co/CDHBare4hk",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jul 24 22:09:21 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "This is the customer service channel for Great Western Railway. We\u2019re building a #GreaterWest and here to answer your queries 24/7.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "gwr.com",
+                            "expanded_url": "http://www.gwr.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/YagmwiPgzi"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 11075,
+            "follow_request_sent": false,
+            "followers_count": 593203,
+            "following": false,
+            "friends_count": 289,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 15589815,
+            "id_str": "15589815",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 908,
+            "location": "South West, England",
+            "name": "GWR Help",
+            "notifications": false,
+            "profile_background_color": "3F3034",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/507438907282034688/hjMxjn3i.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/507438907282034688/hjMxjn3i.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15589815/1464878997",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/645904834768576512/K4_zLUN5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/645904834768576512/K4_zLUN5_normal.jpg",
+            "profile_link_color": "334433",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "GWRHelp",
+            "statuses_count": 550867,
+            "time_zone": "London",
+            "url": "http://t.co/YagmwiPgzi",
+            "utc_offset": 3600,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 743694875011358722,
+    "quoted_status_id_str": "743694875011358722",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.conversocial.com\" rel=\"nofollow\">Conversocial</a>",
+    "text": "@jaybird_katie @nationalrailenq Hi. The XX:45 services currently running. Please see the overview here https://t.co/t4ONkctNvP Grant",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 24 22:09:21 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "This is the customer service channel for Great Western Railway. We\u2019re building a #GreaterWest and here to answer your queries 24/7.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "gwr.com",
+                        "expanded_url": "http://www.gwr.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/YagmwiPgzi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11075,
+        "follow_request_sent": false,
+        "followers_count": 593203,
+        "following": false,
+        "friends_count": 289,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15589815,
+        "id_str": "15589815",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 908,
+        "location": "South West, England",
+        "name": "GWR Help",
+        "notifications": false,
+        "profile_background_color": "3F3034",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/507438907282034688/hjMxjn3i.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/507438907282034688/hjMxjn3i.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15589815/1464878997",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/645904834768576512/K4_zLUN5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/645904834768576512/K4_zLUN5_normal.jpg",
+        "profile_link_color": "334433",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "GWRHelp",
+        "statuses_count": 550867,
+        "time_zone": "London",
+        "url": "http://t.co/YagmwiPgzi",
+        "utc_offset": 3600,
+        "verified": true
+    }
+}
