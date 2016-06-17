@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 17 05:13:00 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743672773801762816,
+    "id_str": "743672773801762816",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 743672225207726080,
+    "in_reply_to_status_id_str": "743672225207726080",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        139.729893,
+                        35.668551
+                    ],
+                    [
+                        139.782836,
+                        35.668551
+                    ],
+                    [
+                        139.782836,
+                        35.705218
+                    ],
+                    [
+                        139.729893,
+                        35.705218
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u65e5\u672c",
+        "country_code": "JP",
+        "full_name": "Chiyoda-ku, Tokyo",
+        "id": "28b9063fdce43645",
+        "name": "Chiyoda-ku",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/28b9063fdce43645.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanAir I am sorry but the delay has ruined all the plans I had for tonight and would appreciate some sort of compensation.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 24 13:11:34 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "always give yourself to others even if you know you won't receive anythibg in return. --- marie k",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mariedabest.com",
+                        "expanded_url": "http://mariedabest.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/SyjSH0mQev"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1381,
+        "follow_request_sent": false,
+        "followers_count": 384,
+        "following": false,
+        "friends_count": 789,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 287170522,
+        "id_str": "287170522",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Zimbabwe",
+        "name": "Marie Ku \u2653\ufe0f",
+        "notifications": false,
+        "profile_background_color": "E04EC3",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238547510/cute-cupcakes-cupcakes-9397657-418-385.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238547510/cute-cupcakes-cupcakes-9397657-418-385.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/287170522/1453078807",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/483348948963176448/UDIdwCc9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/483348948963176448/UDIdwCc9_normal.jpeg",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "2231CC",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "marmarieeee",
+        "statuses_count": 3086,
+        "time_zone": "Tokyo",
+        "url": "https://t.co/SyjSH0mQev",
+        "utc_offset": 32400,
+        "verified": false
+    }
+}
