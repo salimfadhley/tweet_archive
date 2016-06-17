@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 17 05:20:04 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20240678,
+                "id_str": "20240678",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Heathrow Express",
+                "screen_name": "HeathrowExpress"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743674552471814144,
+    "id_str": "743674552471814144",
+    "in_reply_to_screen_name": "HeathrowExpress",
+    "in_reply_to_status_id": 743673765406486528,
+    "in_reply_to_status_id_str": "743673765406486528",
+    "in_reply_to_user_id": 20240678,
+    "in_reply_to_user_id_str": "20240678",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.510364798739281,
+                        51.2867019756122
+                    ],
+                    [
+                        0.334043461659515,
+                        51.2867019756122
+                    ],
+                    [
+                        0.334043461659515,
+                        51.6918240878432
+                    ],
+                    [
+                        -0.510364798739281,
+                        51.6918240878432
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "London, England",
+        "id": "5d838f7a011f4a2d",
+        "name": "London",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/5d838f7a011f4a2d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@HeathrowExpress 41 min wait?! Can we get a refund?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 12 09:54:54 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Heading up #SocialMedia for Expedia in Europe. My tweets are all my own thoughts (ish), and do not represent any company",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 102,
+        "follow_request_sent": false,
+        "followers_count": 533,
+        "following": false,
+        "friends_count": 487,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 201652574,
+        "id_str": "201652574",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 18,
+        "location": "London",
+        "name": "James Davies",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3479465835/d9843c3fac60f0992ae80dcdae397191_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3479465835/d9843c3fac60f0992ae80dcdae397191_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Digital_Comms",
+        "statuses_count": 2039,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
