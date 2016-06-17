@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 17 00:24:41 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743600214322384896,
+    "id_str": "743600214322384896",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -75.313867,
+                        39.855915
+                    ],
+                    [
+                        -75.215819,
+                        39.855915
+                    ],
+                    [
+                        -75.215819,
+                        39.882522
+                    ],
+                    [
+                        -75.313867,
+                        39.882522
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Lester, PA",
+        "id": "005f17f27f43a1d7",
+        "name": "Lester",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/005f17f27f43a1d7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir is messing up my life",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 25 19:24:44 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I laugh at my own jokes",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 8683,
+        "follow_request_sent": false,
+        "followers_count": 373,
+        "following": false,
+        "friends_count": 135,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 26568980,
+        "id_str": "26568980",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "south jerz",
+        "name": "Rachel McNish",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000068076077/ddc76785383737f03bb19f84083ba7dd.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000068076077/ddc76785383737f03bb19f84083ba7dd.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/480138566887309312/TTcV3Q4h_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/480138566887309312/TTcV3Q4h_normal.jpeg",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "raemcnasty",
+        "statuses_count": 8312,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
