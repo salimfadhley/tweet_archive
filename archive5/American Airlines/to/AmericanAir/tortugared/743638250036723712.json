@@ -1,0 +1,149 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -118.40674596,
+            33.94537164
+        ],
+        "type": "Point"
+    },
+    "created_at": "Fri Jun 17 02:55:49 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    10,
+                    22
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            33.94537164,
+            -118.40674596
+        ],
+        "type": "Point"
+    },
+    "id": 743638250036723712,
+    "id_str": "743638250036723712",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 743531444195123200,
+    "in_reply_to_status_id_str": "743531444195123200",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "Of course @AmericanAir\u2018s AirPort team solved the issue in the worst way possible. Also, My baggage is in another city.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 04 06:56:46 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Content Producer de #Xbox LATAM y futuro esposo de @eliiarredondo. \u00a1Soy el wey m\u00e1s \u00f1o\u00f1o y cool de todo M\u00e9xico!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "tortugared.tumblr.com",
+                        "expanded_url": "http://tortugared.tumblr.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/yDdiTW1OV7"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1878,
+        "follow_request_sent": false,
+        "followers_count": 442,
+        "following": false,
+        "friends_count": 466,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 44564401,
+        "id_str": "44564401",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 18,
+        "location": "M\u00e9xico",
+        "name": "Quique Franco",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44564401/1452088284",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/733049830012948480/PEItl8da_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/733049830012948480/PEItl8da_normal.jpg",
+        "profile_link_color": "CC2C24",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "tortugared",
+        "statuses_count": 14046,
+        "time_zone": "Mexico City",
+        "url": "https://t.co/yDdiTW1OV7",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
