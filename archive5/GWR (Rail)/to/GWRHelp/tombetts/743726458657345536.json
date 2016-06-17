@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 17 08:46:20 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15589815,
+                "id_str": "15589815",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "GWR Help",
+                "screen_name": "GWRHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743726458657345536,
+    "id_str": "743726458657345536",
+    "in_reply_to_screen_name": "GWRHelp",
+    "in_reply_to_status_id": 743723846318972929,
+    "in_reply_to_status_id_str": "743723846318972929",
+    "in_reply_to_user_id": 15589815,
+    "in_reply_to_user_id_str": "15589815",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.36850399906372,
+                        49.8824720005481
+                    ],
+                    [
+                        -1.48573420014269,
+                        49.8824720005481
+                    ],
+                    [
+                        -1.48573420014269,
+                        52.1125420344225
+                    ],
+                    [
+                        -6.36850399906372,
+                        52.1125420344225
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "South West, England",
+        "id": "25d3e991f5637f5a",
+        "name": "South West",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/25d3e991f5637f5a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@GWRHelp be handy to know for those who need to make alternative arrangements..",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 14 15:08:50 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Chief Data Officer @FinancialTimes, but views are my own (naturally). I occasionally think about non-data stuff too.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1462,
+        "follow_request_sent": false,
+        "followers_count": 1489,
+        "following": false,
+        "friends_count": 727,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20851374,
+        "id_str": "20851374",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 109,
+        "location": "London/Stroud",
+        "name": "Tom Betts",
+        "notifications": false,
+        "profile_background_color": "E6E6E6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/139657637/P1050859.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/139657637/P1050859.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/78452951/n895810313_1749949_3665_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/78452951/n895810313_1749949_3665_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "E1E0E6",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tombetts",
+        "statuses_count": 4885,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
