@@ -1,0 +1,292 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 17 06:46:14 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/GWRHelp/status\u2026",
+                "expanded_url": "https://twitter.com/GWRHelp/status/743669445764100096",
+                "indices": [
+                    35,
+                    58
+                ],
+                "url": "https://t.co/AFRndyH3qd"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 406261382,
+                "id_str": "406261382",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Natalie Kow",
+                "screen_name": "nataliehkow"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743696235349958656,
+    "id_str": "743696235349958656",
+    "in_reply_to_screen_name": "nataliehkow",
+    "in_reply_to_status_id": 743694318435610624,
+    "in_reply_to_status_id_str": "743694318435610624",
+    "in_reply_to_user_id": 406261382,
+    "in_reply_to_user_id_str": "406261382",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jun 17 04:59:47 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/WRmbL4Wmoi",
+                    "expanded_url": "http://twitter.com/GWRHelp/status/743669445764100096/photo/1",
+                    "id": 743669442215698432,
+                    "id_str": "743669442215698432",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ClILauWUYAAlOVa.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ClILauWUYAAlOVa.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 541,
+                            "resize": "fit",
+                            "w": 637
+                        },
+                        "medium": {
+                            "h": 541,
+                            "resize": "fit",
+                            "w": 637
+                        },
+                        "small": {
+                            "h": 541,
+                            "resize": "fit",
+                            "w": 637
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/WRmbL4Wmoi"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "gwr.com/travel-updates\u2026",
+                    "expanded_url": "https://www.gwr.com/travel-updates/check-your-journey",
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "url": "https://t.co/nWtsIovC6n"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 5,
+        "favorited": false,
+        "geo": null,
+        "id": 743669445764100096,
+        "id_str": "743669445764100096",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -0.2160701,
+                            51.5098789
+                        ],
+                        [
+                            -0.1301597,
+                            51.5098789
+                        ],
+                        [
+                            -0.1301597,
+                            51.5397916
+                        ],
+                        [
+                            -0.2160701,
+                            51.5397916
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United Kingdom",
+            "country_code": "GB",
+            "full_name": "Paddington, London",
+            "id": "56c45474148ca4da",
+            "name": "Paddington",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/56c45474148ca4da.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 29,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Reduced service to/from Paddington because of a derailed train. Visit https://t.co/nWtsIovC6n to check your journey. https://t.co/WRmbL4Wmoi",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jul 24 22:09:21 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "This is the customer service channel for Great Western Railway. We\u2019re building a #GreaterWest and here to answer your queries 24/7.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "gwr.com",
+                            "expanded_url": "http://www.gwr.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/YagmwiPgzi"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 11067,
+            "follow_request_sent": false,
+            "followers_count": 593129,
+            "following": false,
+            "friends_count": 289,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 15589815,
+            "id_str": "15589815",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 908,
+            "location": "South West, England",
+            "name": "GWR Help",
+            "notifications": false,
+            "profile_background_color": "3F3034",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/507438907282034688/hjMxjn3i.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/507438907282034688/hjMxjn3i.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15589815/1464878997",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/645904834768576512/K4_zLUN5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/645904834768576512/K4_zLUN5_normal.jpg",
+            "profile_link_color": "334433",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "GWRHelp",
+            "statuses_count": 550633,
+            "time_zone": "London",
+            "url": "http://t.co/YagmwiPgzi",
+            "utc_offset": 3600,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 743669445764100096,
+    "quoted_status_id_str": "743669445764100096",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.conversocial.com\" rel=\"nofollow\">Conversocial</a>",
+    "text": "@nataliehkow Hi. Yes it is running https://t.co/AFRndyH3qd Grant",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 24 22:09:21 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "This is the customer service channel for Great Western Railway. We\u2019re building a #GreaterWest and here to answer your queries 24/7.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "gwr.com",
+                        "expanded_url": "http://www.gwr.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/YagmwiPgzi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11067,
+        "follow_request_sent": false,
+        "followers_count": 593129,
+        "following": false,
+        "friends_count": 289,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15589815,
+        "id_str": "15589815",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 908,
+        "location": "South West, England",
+        "name": "GWR Help",
+        "notifications": false,
+        "profile_background_color": "3F3034",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/507438907282034688/hjMxjn3i.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/507438907282034688/hjMxjn3i.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15589815/1464878997",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/645904834768576512/K4_zLUN5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/645904834768576512/K4_zLUN5_normal.jpg",
+        "profile_link_color": "334433",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "GWRHelp",
+        "statuses_count": 550633,
+        "time_zone": "London",
+        "url": "http://t.co/YagmwiPgzi",
+        "utc_offset": 3600,
+        "verified": true
+    }
+}
