@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 18 21:55:51 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 744287537661894656,
+    "id_str": "744287537661894656",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.172219,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.934311
+                    ],
+                    [
+                        -77.172219,
+                        38.934311
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Arlington, VA",
+        "id": "319ee7b36c9149da",
+        "name": "Arlington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir why the f*ck would you load my bag on flight 52 when it was tagged for flight 240? Inconvenience me because my flight was full?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 27 21:29:11 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Entertainment: talent supervisor on award shows & specials (Oscars, Emmys, & the like), actor, writer, director, producer.  Many hats & wouldn't change a thing!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "michaelredford.tv",
+                        "expanded_url": "http://www.michaelredford.tv",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/vERGRRg0zG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8,
+        "follow_request_sent": false,
+        "followers_count": 573,
+        "following": false,
+        "friends_count": 162,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14561888,
+        "id_str": "14561888",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 15,
+        "location": "Los Angeles, California",
+        "name": "MichaelRedfordCarney",
+        "notifications": false,
+        "profile_background_color": "59472F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/866969542/7f2f1071e98566c45f3a9c666a20669c.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/866969542/7f2f1071e98566c45f3a9c666a20669c.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000177105626/1ce6644a8171dce41602d3e3e8319f3c_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000177105626/1ce6644a8171dce41602d3e3e8319f3c_normal.jpeg",
+        "profile_link_color": "52555C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "061127",
+        "profile_text_color": "827972",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "michaelcarney",
+        "statuses_count": 1604,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/vERGRRg0zG",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

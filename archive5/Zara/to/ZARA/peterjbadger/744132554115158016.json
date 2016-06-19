@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 18 11:40:00 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/mWsEmOPk1G",
+                "expanded_url": "http://twitter.com/peterjbadger/status/744132554115158016/photo/1",
+                "id": 744132536834605056,
+                "id_str": "744132536834605056",
+                "indices": [
+                    109,
+                    132
+                ],
+                "media_url": "http://pbs.twimg.com/media/ClOwmYPWQAA9f7g.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ClOwmYPWQAA9f7g.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 1152
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 675
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 383
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/mWsEmOPk1G"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 346742249,
+                "id_str": "346742249",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "ZARA",
+                "screen_name": "ZARA"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 744132554115158016,
+    "id_str": "744132554115158016",
+    "in_reply_to_screen_name": "ZARA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 346742249,
+    "in_reply_to_user_id_str": "346742249",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.659936,
+                        51.399367
+                    ],
+                    [
+                        -2.510844,
+                        51.399367
+                    ],
+                    [
+                        -2.510844,
+                        51.516387
+                    ],
+                    [
+                        -2.659936,
+                        51.516387
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Bristol, England",
+        "id": "7f15dd80ac78ef40",
+        "name": "Bristol",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7f15dd80ac78ef40.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ZARA Awful queues in Cabot Circus, Bristol. Not impressed! You need more staff on Saturdays! 20minute wait! https://t.co/mWsEmOPk1G",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 21 15:53:44 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Animal by name, (almost) human by nature. Bristolian and Secretary of @oldmarketbrs. Follow @TheUrbanBadger for Built Environment tweets.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 340,
+        "follow_request_sent": false,
+        "followers_count": 282,
+        "following": false,
+        "friends_count": 257,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 158032235,
+        "id_str": "158032235",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "Bristol, UK",
+        "name": "Peter Badger",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/144862351/IMGP2016.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/144862351/IMGP2016.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2569754796/kNTWi9Ne_normal",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2569754796/kNTWi9Ne_normal",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "peterjbadger",
+        "statuses_count": 5886,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

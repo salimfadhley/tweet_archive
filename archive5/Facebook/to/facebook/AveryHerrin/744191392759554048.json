@@ -1,0 +1,280 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 18 15:33:49 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/jenn_abrams/st\u2026",
+                "expanded_url": "https://twitter.com/jenn_abrams/status/744115956671098880",
+                "indices": [
+                    110,
+                    133
+                ],
+                "url": "https://t.co/qkyVOWohVI"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 744191392759554048,
+    "id_str": "744191392759554048",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.605166,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        35.000771
+                    ],
+                    [
+                        -85.605166,
+                        35.000771
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Georgia, USA",
+        "id": "7142eb97ae21e839",
+        "name": "Georgia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Jun 18 10:34:03 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Kf5zm5TKja",
+                    "expanded_url": "http://twitter.com/Jenn_Abrams/status/744115956671098880/photo/1",
+                    "id": 744105129759154176,
+                    "id_str": "744105129759154176",
+                    "indices": [
+                        58,
+                        81
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ClOXrE7XIAActEH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ClOXrE7XIAActEH.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 790,
+                            "resize": "fit",
+                            "w": 499
+                        },
+                        "medium": {
+                            "h": 790,
+                            "resize": "fit",
+                            "w": 499
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 430
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/Kf5zm5TKja"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 2425151,
+                    "id_str": "2425151",
+                    "indices": [
+                        21,
+                        30
+                    ],
+                    "name": "Facebook",
+                    "screen_name": "facebook"
+                }
+            ]
+        },
+        "favorite_count": 136,
+        "favorited": false,
+        "geo": null,
+        "id": 744115956671098880,
+        "id_str": "744115956671098880",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 151,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Oh, how nice of you, @facebook!\n\nGood morning, my friends https://t.co/Kf5zm5TKja",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Oct 29 16:57:18 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Politics is a circus of hypocrisy. I DO care. Email me jennnabrams@gmail.com",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "jennabrams.wordpress.com",
+                            "expanded_url": "http://jennabrams.wordpress.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/33WQXGtg8R"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 6978,
+            "follow_request_sent": false,
+            "followers_count": 51461,
+            "following": false,
+            "friends_count": 10935,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 2882331822,
+            "id_str": "2882331822",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 344,
+            "location": "USA",
+            "name": "Jenna Abrams",
+            "notifications": false,
+            "profile_background_color": "000FFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/634296353888202752/YCrkStAD.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/634296353888202752/YCrkStAD.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2882331822/1440080809",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/634352491795124224/dUYauU2R_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/634352491795124224/dUYauU2R_normal.jpg",
+            "profile_link_color": "9D582E",
+            "profile_sidebar_border_color": "D9B17E",
+            "profile_sidebar_fill_color": "EADEAA",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Jenn_Abrams",
+            "statuses_count": 16963,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/33WQXGtg8R",
+            "utc_offset": -14400,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 744115956671098880,
+    "quoted_status_id_str": "744115956671098880",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook time and time again you push the liberal agenda onto your users! America has had enough of media bs https://t.co/qkyVOWohVI",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 08 20:39:31 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Life's a dance, you learn as you go. | Ga Southern '20 | IG @averyherrin #Lutzie43 #GATA  SCB 12/4/15 \u2764\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5494,
+        "follow_request_sent": false,
+        "followers_count": 368,
+        "following": false,
+        "friends_count": 239,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 868652822,
+        "id_str": "868652822",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Marietta, GA, USA",
+        "name": "Avery Cason Herrin",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/868652822/1465276797",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/740050641679179776/RBCAZhsb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/740050641679179776/RBCAZhsb_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AveryHerrin",
+        "statuses_count": 5492,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

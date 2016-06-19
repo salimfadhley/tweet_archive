@@ -1,0 +1,175 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 19 00:34:11 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    36,
+                    44
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 744327383155515393,
+    "id_str": "744327383155515393",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -123.866609,
+                        46.170435
+                    ],
+                    [
+                        -123.759277,
+                        46.170435
+                    ],
+                    [
+                        -123.759277,
+                        46.204256
+                    ],
+                    [
+                        -123.866609,
+                        46.204256
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Astoria, OR",
+        "id": "2de5a4517dbb4271",
+        "name": "Astoria",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2de5a4517dbb4271.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook: What's on your mind?\nme: @twitter",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 26 20:26:11 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Chief Scientist at @NitroHQ.  Founder,  https://t.co/vRrP9cBNgI, https://t.co/fMBSMvUUzl.  What would Buddha do? Dad of four.  https://t.co/9GRtBjVAvF",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "data.bythebay.io",
+                        "expanded_url": "http://data.bythebay.io",
+                        "indices": [
+                            40,
+                            63
+                        ],
+                        "url": "https://t.co/vRrP9cBNgI"
+                    },
+                    {
+                        "display_url": "scala.bythebay.io",
+                        "expanded_url": "http://scala.bythebay.io",
+                        "indices": [
+                            65,
+                            88
+                        ],
+                        "url": "https://t.co/fMBSMvUUzl"
+                    },
+                    {
+                        "display_url": "alman.ac",
+                        "expanded_url": "https://alman.ac",
+                        "indices": [
+                            127,
+                            150
+                        ],
+                        "url": "https://t.co/9GRtBjVAvF"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "chiefscientist.org",
+                        "expanded_url": "http://www.chiefscientist.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/6Fi46wPCCc"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5053,
+        "follow_request_sent": false,
+        "followers_count": 2193,
+        "following": false,
+        "friends_count": 3042,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 258032124,
+        "id_str": "258032124",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 192,
+        "location": "By the Bay (bythebay.io)",
+        "name": "ussr.io",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/210582013/body_bg.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/210582013/body_bg.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/258032124/1415659214",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/531938275456348161/pC89wEoc_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/531938275456348161/pC89wEoc_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ChiefScientist",
+        "statuses_count": 6349,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": "https://t.co/6Fi46wPCCc",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 19 00:49:40 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 744331276879011841,
+    "id_str": "744331276879011841",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 744329695273979904,
+    "in_reply_to_status_id_str": "744329695273979904",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -75.280284,
+                        39.871811
+                    ],
+                    [
+                        -74.955712,
+                        39.871811
+                    ],
+                    [
+                        -74.955712,
+                        40.13792
+                    ],
+                    [
+                        -75.280284,
+                        40.13792
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Philadelphia, PA",
+        "id": "e4a0d228eb6be76b",
+        "name": "Philadelphia",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir As well as the extra day parking?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 14 19:22:23 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#RVA family doc, work w/ underserved patients/communities, teach in #MedEd. Opinions = mine. Communications VP for @NPALive. \u00a1Yo hablo espa\u00f1ol!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "RichmondDoc.blogspot.com",
+                        "expanded_url": "http://www.RichmondDoc.blogspot.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/tjLRueJDNa"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1438,
+        "follow_request_sent": false,
+        "followers_count": 7619,
+        "following": false,
+        "friends_count": 2476,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20865979,
+        "id_str": "20865979",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 566,
+        "location": "Richmond, VA",
+        "name": "Mark Ryan",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/44182372/Esfuerzos_de_Paraiso.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/44182372/Esfuerzos_de_Paraiso.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20865979/1355707016",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000654941102/edd80e388c4051d9e4918046a087f238_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000654941102/edd80e388c4051d9e4918046a087f238_normal.jpeg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RichmondDoc",
+        "statuses_count": 57038,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/tjLRueJDNa",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

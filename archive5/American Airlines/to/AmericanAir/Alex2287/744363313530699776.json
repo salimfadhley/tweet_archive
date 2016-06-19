@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 19 02:56:58 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 744363313530699776,
+    "id_str": "744363313530699776",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -111.842244,
+                        33.204608
+                    ],
+                    [
+                        -111.634889,
+                        33.204608
+                    ],
+                    [
+                        -111.634889,
+                        33.3858215
+                    ],
+                    [
+                        -111.842244,
+                        33.3858215
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Gilbert, AZ",
+        "id": "006b48995ede9bcc",
+        "name": "Gilbert",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/006b48995ede9bcc.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir! The flight I booked 4 days ago just dropped! Any way you could help out? (Please and thank you) \ud83d\udcb8\ud83d\ude31 \ud83d\ude05\ud83d\ude30",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 24 01:35:49 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I tweet, therefore I am.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4,
+        "follow_request_sent": false,
+        "followers_count": 74,
+        "following": false,
+        "friends_count": 57,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 17582543,
+        "id_str": "17582543",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Mesa, AZ",
+        "name": "Alex2287",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000405795481/029ff0cf9c066b596675e9537f463cdb_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000405795481/029ff0cf9c066b596675e9537f463cdb_normal.jpeg",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Alex2287",
+        "statuses_count": 1095,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

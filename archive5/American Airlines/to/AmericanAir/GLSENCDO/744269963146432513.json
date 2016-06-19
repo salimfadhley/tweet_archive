@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 18 20:46:01 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 744269963146432513,
+    "id_str": "744269963146432513",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 744262124956844032,
+    "in_reply_to_status_id_str": "744262124956844032",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Yes, a few minutes after my tweet.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 26 15:04:42 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@GLSEN Chief Development Officer, pursuing equality for LGBT youth and respect for all at school.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "glsen.org",
+                        "expanded_url": "http://www.glsen.org/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/N4dUoxZkO9"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 294,
+        "follow_request_sent": false,
+        "followers_count": 191,
+        "following": false,
+        "friends_count": 466,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 220018587,
+        "id_str": "220018587",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "New York, NY",
+        "name": "David R. Murray",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/220018587/1438716935",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/459725210489344000/pZmc8p-8_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/459725210489344000/pZmc8p-8_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GLSENCDO",
+        "statuses_count": 151,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/N4dUoxZkO9",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

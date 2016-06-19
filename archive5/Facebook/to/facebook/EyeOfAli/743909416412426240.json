@@ -1,0 +1,149 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -121.9012175,
+            37.4070479
+        ],
+        "type": "Point"
+    },
+    "created_at": "Fri Jun 17 20:53:20 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            37.4070479,
+            -121.9012175
+        ],
+        "type": "Point"
+    },
+    "id": 743909416412426240,
+    "id_str": "743909416412426240",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -121.931305,
+                        37.39609
+                    ],
+                    [
+                        -121.861025,
+                        37.39609
+                    ],
+                    [
+                        -121.861025,
+                        37.466856
+                    ],
+                    [
+                        -121.931305,
+                        37.466856
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Milpitas, CA",
+        "id": "6ef29a7e78ca38a5",
+        "name": "Milpitas",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6ef29a7e78ca38a5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+    "text": "@facebook my account is logged out and I am being asked for government id. Please fix this. I don't intend to give my ID. Thanks!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 10 05:47:52 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Jack of all trades! Player of many games... Collector of hearts!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "sharetheview.wordpress.com",
+                        "expanded_url": "http://sharetheview.wordpress.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/F09apQslNS"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 71,
+        "follow_request_sent": false,
+        "followers_count": 31,
+        "following": false,
+        "friends_count": 31,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 279877276,
+        "id_str": "279877276",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Milpitas, CA",
+        "name": "~AZ~",
+        "notifications": false,
+        "profile_background_color": "9266CC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643946708934619136/C5Qk2l5_.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643946708934619136/C5Qk2l5_.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/279877276/1405330594",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/651306186927542272/vB-wixVX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/651306186927542272/vB-wixVX_normal.jpg",
+        "profile_link_color": "FF5A01",
+        "profile_sidebar_border_color": "F4AB67",
+        "profile_sidebar_fill_color": "FDFCFA",
+        "profile_text_color": "106BA0",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "EyeOfAli",
+        "statuses_count": 1108,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/F09apQslNS",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

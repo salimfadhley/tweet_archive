@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 18 19:21:54 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 744248792464011265,
+    "id_str": "744248792464011265",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -99.118665,
+                        19.484399
+                    ],
+                    [
+                        -98.970224,
+                        19.484399
+                    ],
+                    [
+                        -98.970224,
+                        19.6521613
+                    ],
+                    [
+                        -99.118665,
+                        19.6521613
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "M\u00e9xico",
+        "country_code": "MX",
+        "full_name": "Ecatepec de Morelos, M\u00e9xico",
+        "id": "f879e41db043d14c",
+        "name": "Ecatepec de Morelos",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/f879e41db043d14c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 21 08:34:23 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1,
+        "follow_request_sent": false,
+        "followers_count": 2,
+        "following": false,
+        "friends_count": 8,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 733938980501098496,
+        "id_str": "733938980501098496",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 0,
+        "location": "",
+        "name": "Joseluis Castro Varg",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Jolucv64Vargas",
+        "statuses_count": 4,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

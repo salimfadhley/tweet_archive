@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 18 14:06:14 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 744169354405748736,
+    "id_str": "744169354405748736",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.041878,
+                        40.570842
+                    ],
+                    [
+                        -73.855673,
+                        40.570842
+                    ],
+                    [
+                        -73.855673,
+                        40.739434
+                    ],
+                    [
+                        -74.041878,
+                        40.739434
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Brooklyn, NY",
+        "id": "011add077f4d2da3",
+        "name": "Brooklyn",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir still waiting for a response to an email I wrote a week ago following an incident with a flight canceled due to mech issue :/",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 13 18:39:00 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Product @Percolate. Feminist. My phone's about to die.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "veronicasepe.tumblr.com",
+                        "expanded_url": "http://veronicasepe.tumblr.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/i7Ek3B9eAQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 278,
+        "follow_request_sent": false,
+        "followers_count": 476,
+        "following": false,
+        "friends_count": 606,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 46938308,
+        "id_str": "46938308",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 18,
+        "location": "New York, New York",
+        "name": "Veronica K. Sepe",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/449796924/flowers.JPG",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/449796924/flowers.JPG",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/46938308/1369245900",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3695326535/211ef72a8d815da06f26e0b37634fc41_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3695326535/211ef72a8d815da06f26e0b37634fc41_normal.png",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MsSepe",
+        "statuses_count": 2348,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/i7Ek3B9eAQ",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
