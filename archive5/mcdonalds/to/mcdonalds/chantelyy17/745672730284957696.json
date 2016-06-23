@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 22 17:40:07 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            },
+            {
+                "id": 3403206857,
+                "id_str": "3403206857",
+                "indices": [
+                    11,
+                    24
+                ],
+                "name": "skyler",
+                "screen_name": "skydajohnsss"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 745672730284957696,
+    "id_str": "745672730284957696",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": 745672451909124096,
+    "in_reply_to_status_id_str": "745672451909124096",
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.932832,
+                        34.257033
+                    ],
+                    [
+                        -118.820164,
+                        34.257033
+                    ],
+                    [
+                        -118.820164,
+                        34.309133
+                    ],
+                    [
+                        -118.932832,
+                        34.309133
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Moorpark, CA",
+        "id": "d33ae8dc83295778",
+        "name": "Moorpark",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/d33ae8dc83295778.json"
+    },
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@McDonalds @skydajohnsss do you deliver",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 14 16:48:16 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "deadass",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "vsco.com/chantelyy",
+                        "expanded_url": "http://vsco.com/chantelyy",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/jkUsWUZ1Bv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9055,
+        "follow_request_sent": false,
+        "followers_count": 382,
+        "following": false,
+        "friends_count": 297,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1089542096,
+        "id_str": "1089542096",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "mhs/california//sc:chantelyy17",
+        "name": "chantel",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000077436464/7d14c0a2eaa20eafb98820186ae3659c.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000077436464/7d14c0a2eaa20eafb98820186ae3659c.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1089542096/1462031994",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/734035531424616449/8j4DNEE1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/734035531424616449/8j4DNEE1_normal.jpg",
+        "profile_link_color": "41FABC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "chantelyy17",
+        "statuses_count": 3561,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/jkUsWUZ1Bv",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

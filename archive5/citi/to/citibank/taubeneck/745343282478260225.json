@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 21 19:51:01 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 80374332,
+                "id_str": "80374332",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Citibank",
+                "screen_name": "Citibank"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 745343282478260225,
+    "id_str": "745343282478260225",
+    "in_reply_to_screen_name": "Citibank",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 80374332,
+    "in_reply_to_user_id_str": "80374332",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Citibank can't resend a card because I don't have the number from the card sent to the wrong address. and now all support numbers hang up",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 24 00:14:56 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "data | python | brewing",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "skien.cc",
+                        "expanded_url": "http://skien.cc",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/PxARDo9JKK"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 287,
+        "follow_request_sent": false,
+        "followers_count": 361,
+        "following": false,
+        "friends_count": 522,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 19424046,
+        "id_str": "19424046",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 19,
+        "location": "Brooklyn, NY",
+        "name": "Erik Taubeneck",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/531867839288709121/8SLGopYD.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/531867839288709121/8SLGopYD.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19424046/1428781219",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3737574877/26e06b32b8e72136e2d0cf90f288ecc0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3737574877/26e06b32b8e72136e2d0cf90f288ecc0_normal.png",
+        "profile_link_color": "4A49E9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "D5D5D8",
+        "profile_text_color": "1C1C1C",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "taubeneck",
+        "statuses_count": 1418,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/PxARDo9JKK",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

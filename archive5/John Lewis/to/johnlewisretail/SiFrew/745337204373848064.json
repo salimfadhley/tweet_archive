@@ -1,0 +1,327 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 21 19:26:51 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    43,
+                    57
+                ],
+                "text": "vacuumcleaner"
+            },
+            {
+                "indices": [
+                    102,
+                    109
+                ],
+                "text": "London"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/johnlewisretai\u2026",
+                "expanded_url": "https://twitter.com/johnlewisretail/status/745183725210771456",
+                "indices": [
+                    111,
+                    134
+                ],
+                "url": "https://t.co/dzuU1rfv2a"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 126664172,
+                "id_str": "126664172",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "John Lewis",
+                "screen_name": "johnlewisretail"
+            },
+            {
+                "id": 217030924,
+                "id_str": "217030924",
+                "indices": [
+                    30,
+                    42
+                ],
+                "name": "BoschGlobal",
+                "screen_name": "BoschGlobal"
+            },
+            {
+                "id": 179491236,
+                "id_str": "179491236",
+                "indices": [
+                    88,
+                    99
+                ],
+                "name": "John Lewis",
+                "screen_name": "JLcustserv"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745337204373848064,
+    "id_str": "745337204373848064",
+    "in_reply_to_screen_name": "johnlewisretail",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 126664172,
+    "in_reply_to_user_id_str": "126664172",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.112442,
+                        51.5068
+                    ],
+                    [
+                        -0.0733794,
+                        51.5068
+                    ],
+                    [
+                        -0.0733794,
+                        51.522161
+                    ],
+                    [
+                        -0.112442,
+                        51.522161
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "City of London, London",
+        "id": "3eb2c704fe8a50cb",
+        "name": "City of London",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3eb2c704fe8a50cb.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Jun 21 09:16:59 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/uEToxSe0Dk",
+                    "expanded_url": "http://twitter.com/johnlewisretail/status/745183725210771456/photo/1",
+                    "id": 745183714192171009,
+                    "id_str": "745183714192171009",
+                    "indices": [
+                        78,
+                        101
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Cldso9DUoAEstoy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Cldso9DUoAEstoy.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 628,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "medium": {
+                            "h": 628,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 356,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/uEToxSe0Dk"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "bit.ly/28JTOZK",
+                    "expanded_url": "http://bit.ly/28JTOZK",
+                    "indices": [
+                        54,
+                        77
+                    ],
+                    "url": "https://t.co/26CiwBKRpO"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 231,
+        "favorited": false,
+        "geo": null,
+        "id": 745183725210771456,
+        "id_str": "745183725210771456",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 62,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Shop for offers across Home, Fashion and Electricals: https://t.co/26CiwBKRpO https://t.co/uEToxSe0Dk",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Mar 26 15:59:41 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "The official Twitter account for John Lewis. Follow for news and views from Britain's favourite retailer",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "johnlewis.com",
+                            "expanded_url": "http://www.johnlewis.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/MyuZXm8TFU"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 836,
+            "follow_request_sent": false,
+            "followers_count": 299777,
+            "following": false,
+            "friends_count": 9685,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 126664172,
+            "id_str": "126664172",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1252,
+            "location": "UK",
+            "name": "John Lewis",
+            "notifications": false,
+            "profile_background_color": "FAF7F1",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/462143892167487488/ZdM8_6jJ.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/462143892167487488/ZdM8_6jJ.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/126664172/1466450507",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/680072078704390145/U5TWO7pq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/680072078704390145/U5TWO7pq_normal.jpg",
+            "profile_link_color": "274F35",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DEDBD2",
+            "profile_text_color": "284E36",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "johnlewisretail",
+            "statuses_count": 22775,
+            "time_zone": "London",
+            "url": "https://t.co/MyuZXm8TFU",
+            "utc_offset": 3600,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 745183725210771456,
+    "quoted_status_id_str": "745183725210771456",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@johnlewisretail - I bought a @BoschGlobal #vacuumcleaner today, despite what I said to @JLcustserv - #London  https://t.co/dzuU1rfv2a",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 04 19:09:54 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Started work at the #BankofEngland, lived in #Bermuda for 6 years and was in #Qatar for 9 years. Bank regulator who loves #FourSeasons, #VeuveClicquot etc",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "sifrew.com",
+                        "expanded_url": "http://www.sifrew.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/m0zvpcqu5E"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 14673,
+        "follow_request_sent": false,
+        "followers_count": 1565,
+        "following": false,
+        "friends_count": 2353,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 455115804,
+        "id_str": "455115804",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 143,
+        "location": "City of London, London",
+        "name": "Simon Frew",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/455115804/1448188086",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/702972588566253568/Vc_soTJT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/702972588566253568/Vc_soTJT_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SiFrew",
+        "statuses_count": 11055,
+        "time_zone": null,
+        "url": "https://t.co/m0zvpcqu5E",
+        "utc_offset": null,
+        "verified": false
+    }
+}

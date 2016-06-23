@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 22 20:29:10 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 745715274150780929,
+    "id_str": "745715274150780929",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -70.5759633,
+                        43.340404
+                    ],
+                    [
+                        -70.474378,
+                        43.340404
+                    ],
+                    [
+                        -70.474378,
+                        43.4143165
+                    ],
+                    [
+                        -70.5759633,
+                        43.4143165
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Kennebunk, ME",
+        "id": "300164acabb89158",
+        "name": "Kennebunk",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/300164acabb89158.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks please figure out a better workflow for your smoothies. Waiting for a coffee order after 5 smoothie orders is painful.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 21 18:55:20 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Director of Business Strategy for an urban design and planning firm, SMPS Boston member and board member.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 35,
+        "follow_request_sent": false,
+        "followers_count": 766,
+        "following": false,
+        "friends_count": 801,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 11412732,
+        "id_str": "11412732",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 93,
+        "location": "Boston",
+        "name": "Valerie Conyngham",
+        "notifications": false,
+        "profile_background_color": "3C2C22",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614251276/eivbt9t84g7p7j7zqku1.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614251276/eivbt9t84g7p7j7zqku1.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11412732/1348088668",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666663642700472320/j7KH_gFb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666663642700472320/j7KH_gFb_normal.jpg",
+        "profile_link_color": "54493E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "281E17",
+        "profile_text_color": "7A5C45",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ValConyngham",
+        "statuses_count": 1976,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

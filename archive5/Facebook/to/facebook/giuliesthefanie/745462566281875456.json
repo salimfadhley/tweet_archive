@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 22 03:45:00 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/NHijvN5HP1",
+                "expanded_url": "http://twitter.com/giuliesthefanie/status/745462566281875456/photo/1",
+                "id": 745462558484742144,
+                "id_str": "745462558484742144",
+                "indices": [
+                    10,
+                    33
+                ],
+                "media_url": "http://pbs.twimg.com/media/ClhqP0_WQAAk62G.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ClhqP0_WQAAk62G.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 388,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "medium": {
+                        "h": 388,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "small": {
+                        "h": 388,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/NHijvN5HP1"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745462566281875456,
+    "id_str": "745462566281875456",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -48.6103127,
+                        -27.8389356
+                    ],
+                    [
+                        -48.3474853,
+                        -27.8389356
+                    ],
+                    [
+                        -48.3474853,
+                        -27.3804458
+                    ],
+                    [
+                        -48.6103127,
+                        -27.3804458
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Florian\u00f3polis, Brazil",
+        "id": "c44302d542084bfe",
+        "name": "Florian\u00f3polis",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c44302d542084bfe.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook https://t.co/NHijvN5HP1",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 11 00:05:57 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "sup, I'm awkward.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 878,
+        "follow_request_sent": false,
+        "followers_count": 79,
+        "following": false,
+        "friends_count": 86,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3614691675,
+        "id_str": "3614691675",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 0,
+        "location": "Brasil",
+        "name": "Giulia Sth\u00e9fanie",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3614691675/1465955011",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/743573916426379264/ImzhuPHz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/743573916426379264/ImzhuPHz_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "giuliesthefanie",
+        "statuses_count": 726,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

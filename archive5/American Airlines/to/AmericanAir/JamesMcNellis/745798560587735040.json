@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 23 02:00:07 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745798560587735040,
+    "id_str": "745798560587735040",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.119401,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.801826
+                    ],
+                    [
+                        -76.909396,
+                        38.9953797
+                    ],
+                    [
+                        -77.119401,
+                        38.9953797
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Washington, DC",
+        "id": "01fbe706f872cb32",
+        "name": "Washington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanAir How long does it take to process a refund? I've been waiting two weeks; refund still says \"Pending Review\"",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 13 03:23:20 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "C++ maven. Systems programmer. Scotch connoisseur. Classical music enthusiast. Hobbyist photographer. Senior engineer on the Microsoft Visual C++ team. AMDG.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jamesmcnellis.com",
+                        "expanded_url": "http://www.jamesmcnellis.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/oRSSuBrNvY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 182,
+        "follow_request_sent": false,
+        "followers_count": 2807,
+        "following": false,
+        "friends_count": 196,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 215146656,
+        "id_str": "215146656",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 111,
+        "location": "Washington, DC",
+        "name": "James McNellis",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/215146656/1432266925",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/651973468234256384/vWoB0NQv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/651973468234256384/vWoB0NQv_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "JamesMcNellis",
+        "statuses_count": 9961,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/oRSSuBrNvY",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

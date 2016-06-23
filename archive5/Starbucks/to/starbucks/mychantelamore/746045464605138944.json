@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 23 18:21:14 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746045464605138944,
+    "id_str": "746045464605138944",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -121.576613,
+                        38.43792
+                    ],
+                    [
+                        -121.362715,
+                        38.43792
+                    ],
+                    [
+                        -121.362715,
+                        38.6855236
+                    ],
+                    [
+                        -121.576613,
+                        38.6855236
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Sacramento, CA",
+        "id": "b71fac2ee9792cbe",
+        "name": "Sacramento",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b71fac2ee9792cbe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks I just saw the barista put half water in my cold brew vanilla sweet cream I'm perturbed that is not just coffee and cream",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 04 02:37:37 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Texas born, Cali raised, Touch Rugby Playing, Listener by trade, Instagram taking, Ex-Ex-Pat adjusting to life after Japan.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 50,
+        "follow_request_sent": false,
+        "followers_count": 154,
+        "following": false,
+        "friends_count": 141,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 28720927,
+        "id_str": "28720927",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Sacramento, CA",
+        "name": "Myia McClendon",
+        "notifications": false,
+        "profile_background_color": "2B00B9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/12884851/800px-Panda_Cub_from_Wolong_2C_Sichuan_2C_China.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/12884851/800px-Panda_Cub_from_Wolong_2C_Sichuan_2C_China.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28720927/1430176053",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/716792422601072642/TO1bxRd2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/716792422601072642/TO1bxRd2_normal.jpg",
+        "profile_link_color": "0074B9",
+        "profile_sidebar_border_color": "162E3C",
+        "profile_sidebar_fill_color": "E25A71",
+        "profile_text_color": "0F0E10",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mychantelamore",
+        "statuses_count": 2384,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

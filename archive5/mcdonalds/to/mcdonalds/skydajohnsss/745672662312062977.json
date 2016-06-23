@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 22 17:39:51 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745672662312062977,
+    "id_str": "745672662312062977",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": 745672451909124096,
+    "in_reply_to_status_id_str": "745672451909124096",
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.932832,
+                        34.257033
+                    ],
+                    [
+                        -118.820164,
+                        34.257033
+                    ],
+                    [
+                        -118.820164,
+                        34.309133
+                    ],
+                    [
+                        -118.932832,
+                        34.309133
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Moorpark, CA",
+        "id": "d33ae8dc83295778",
+        "name": "Moorpark",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/d33ae8dc83295778.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@McDonalds heck ya",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 04 20:07:00 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "open heart & open mind",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtu.be/i2yqLwiH7lc",
+                        "expanded_url": "http://youtu.be/i2yqLwiH7lc",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/b8m5Aw8sM4"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5414,
+        "follow_request_sent": false,
+        "followers_count": 403,
+        "following": false,
+        "friends_count": 363,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3403206857,
+        "id_str": "3403206857",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "California, USA",
+        "name": "skyler",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3403206857/1465868977",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/742534383794409472/Kir0JAMb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/742534383794409472/Kir0JAMb_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "skydajohnsss",
+        "statuses_count": 5302,
+        "time_zone": "CDT",
+        "url": "https://t.co/b8m5Aw8sM4",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

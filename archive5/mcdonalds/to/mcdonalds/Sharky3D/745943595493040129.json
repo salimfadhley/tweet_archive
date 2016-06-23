@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 23 11:36:26 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745943595493040129,
+    "id_str": "745943595493040129",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.2925791,
+                        51.555179
+                    ],
+                    [
+                        -0.12921,
+                        51.555179
+                    ],
+                    [
+                        -0.12921,
+                        51.6685903
+                    ],
+                    [
+                        -0.2925791,
+                        51.6685903
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Barnet, London",
+        "id": "7ef79c5ab17d518c",
+        "name": "Barnet",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7ef79c5ab17d518c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@McDonalds nearly had my daughter arm ripped off with your automatic doors in friern barnet thanx to a customer for helping pull her arm out",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 15 01:48:22 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "i could write something here but i choose not to",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/user/MrSharkMa\u2026",
+                        "expanded_url": "https://www.youtube.com/user/MrSharkMan3D",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/WbU57M6kSp"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 539,
+        "follow_request_sent": false,
+        "followers_count": 91,
+        "following": false,
+        "friends_count": 481,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 24467700,
+        "id_str": "24467700",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "London",
+        "name": "Sharky3D",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24467700/1444435762",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/714232242889957377/QNGEhWqd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/714232242889957377/QNGEhWqd_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Sharky3D",
+        "statuses_count": 3041,
+        "time_zone": "London",
+        "url": "https://t.co/WbU57M6kSp",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

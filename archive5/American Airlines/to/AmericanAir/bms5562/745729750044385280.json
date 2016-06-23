@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 22 21:26:42 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745729750044385280,
+    "id_str": "745729750044385280",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 745727689567285248,
+    "in_reply_to_status_id_str": "745727689567285248",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir just cancelled the flight after 5 delays",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 05 13:41:04 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "small business owner, dad, political hack and business analyst. These are my opinions and not to be confused with reality.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jimbutlerautogroup.com",
+                        "expanded_url": "http://www.jimbutlerautogroup.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/4wTG8gkKE4"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 980,
+        "follow_request_sent": false,
+        "followers_count": 773,
+        "following": false,
+        "friends_count": 1904,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 261209521,
+        "id_str": "261209521",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 29,
+        "location": "saint louis",
+        "name": "Brad Michael Sowers",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000115897805/8df8424a3cfdd2afac9b57ebaf9111d2.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000115897805/8df8424a3cfdd2afac9b57ebaf9111d2.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/261209521/1462238075",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/727305314282934273/T8Fs3-p7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/727305314282934273/T8Fs3-p7_normal.jpg",
+        "profile_link_color": "8C0099",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bms5562",
+        "statuses_count": 4982,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/4wTG8gkKE4",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

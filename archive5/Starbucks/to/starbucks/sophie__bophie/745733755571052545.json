@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 22 21:42:37 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 745733755571052545,
+    "id_str": "745733755571052545",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": 745632591361904641,
+    "in_reply_to_status_id_str": "745632591361904641",
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.555441,
+                        47.742554
+                    ],
+                    [
+                        -122.470205,
+                        47.742554
+                    ],
+                    [
+                        -122.470205,
+                        47.780466
+                    ],
+                    [
+                        -122.555441,
+                        47.780466
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Indianola, WA",
+        "id": "204cf8d953aff300",
+        "name": "Indianola",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/204cf8d953aff300.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks that's not a macchiato stop confusing the world.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 28 20:36:25 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "are we out of, or under control.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2902,
+        "follow_request_sent": false,
+        "followers_count": 202,
+        "following": false,
+        "friends_count": 241,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2651160400,
+        "id_str": "2651160400",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "america",
+        "name": "soph",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2651160400/1462807349",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/745239008804933633/KZu8jrcm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/745239008804933633/KZu8jrcm_normal.jpg",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "sophie__bophie",
+        "statuses_count": 3103,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

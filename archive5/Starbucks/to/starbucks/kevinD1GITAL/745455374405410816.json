@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 22 03:16:25 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745455374405410816,
+    "id_str": "745455374405410816",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.758209,
+                        27.694323
+                    ],
+                    [
+                        -82.587597,
+                        27.694323
+                    ],
+                    [
+                        -82.587597,
+                        27.8971155
+                    ],
+                    [
+                        -82.758209,
+                        27.8971155
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "St Petersburg, FL",
+        "id": "5d231ed8656fcf5a",
+        "name": "St Petersburg",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5d231ed8656fcf5a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Starbucks did Mr. Jerry, Zev, and Gordon have \"robbing customers\" in their original business plan?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 21 21:23:34 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "My name's Kevin Richards, and all my life I wanted to be famous. I knew I was made for better things, I just didn't know what as.\n#Digital #1989",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/thekevinrules",
+                        "expanded_url": "http://facebook.com/thekevinrules",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/YqpPlLE4PR"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 32,
+        "follow_request_sent": false,
+        "followers_count": 88,
+        "following": false,
+        "friends_count": 277,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 21518187,
+        "id_str": "21518187",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Florida, Saint Petersburg",
+        "name": "Kevin Richards",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000070995096/849454d9c1c6c582d7f53fdc2d241a6f.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000070995096/849454d9c1c6c582d7f53fdc2d241a6f.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21518187/1413758414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/628998377989107712/ciQtUyzh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/628998377989107712/ciQtUyzh_normal.jpg",
+        "profile_link_color": "000DFA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kevinD1GITAL",
+        "statuses_count": 2642,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/YqpPlLE4PR",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

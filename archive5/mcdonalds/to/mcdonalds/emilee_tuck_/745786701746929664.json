@@ -1,0 +1,238 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 23 01:13:00 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/mentionto/stat\u2026",
+                "expanded_url": "https://twitter.com/mentionto/status/745786024643727361",
+                "indices": [
+                    12,
+                    35
+                ],
+                "url": "https://t.co/ELFYl99KMo"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745786701746929664,
+    "id_str": "745786701746929664",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.786106,
+                        32.7528097
+                    ],
+                    [
+                        -83.522053,
+                        32.7528097
+                    ],
+                    [
+                        -83.522053,
+                        32.944825
+                    ],
+                    [
+                        -83.786106,
+                        32.944825
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Macon, GA",
+        "id": "11a2c1d62d4084d1",
+        "name": "Macon",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/11a2c1d62d4084d1.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jun 23 01:10:18 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        0,
+                        10
+                    ],
+                    "text": "MentionTo"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 23,
+        "favorited": false,
+        "geo": null,
+        "id": 745786024643727361,
+        "id_str": "745786024643727361",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 3,
+        "retweeted": false,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "text": "#MentionTo someone you cant live without.",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jun 30 06:27:51 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "A twitter game! Mentions to your friends and have fun!\n\nAdvertising:",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "mentionto.com",
+                            "expanded_url": "http://mentionto.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/cCqGZ24kcd"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 73,
+            "follow_request_sent": false,
+            "followers_count": 413679,
+            "following": false,
+            "friends_count": 9,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 326622252,
+            "id_str": "326622252",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 800,
+            "location": "\u2514A",
+            "name": "Mention To",
+            "notifications": false,
+            "profile_background_color": "39AAF5",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/280755871/xdba880032d90a45aee1bc26e56ca579.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/280755871/xdba880032d90a45aee1bc26e56ca579.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/326622252/1353257721",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1419972992/mentionsto2_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1419972992/mentionsto2_normal.png",
+            "profile_link_color": "BF002D",
+            "profile_sidebar_border_color": "BD9F88",
+            "profile_sidebar_fill_color": "5D9998",
+            "profile_text_color": "0A0303",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "MentionTo",
+            "statuses_count": 19522,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/cCqGZ24kcd",
+            "utc_offset": -25200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 745786024643727361,
+    "quoted_status_id_str": "745786024643727361",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@McDonalds  https://t.co/ELFYl99KMo",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 03 17:26:20 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "insta: baby.tuck sc: emileetuck",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3163,
+        "follow_request_sent": false,
+        "followers_count": 571,
+        "following": false,
+        "friends_count": 391,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 923649828,
+        "id_str": "923649828",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Hazlehurst, GA",
+        "name": "Emilee Tucker",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/923649828/1462039997",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/726474447109165057/mZgdYN8W_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/726474447109165057/mZgdYN8W_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "emilee_tuck_",
+        "statuses_count": 5925,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

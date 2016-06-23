@@ -1,0 +1,258 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 17 20:39:37 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/ErikVoorhees/s\u2026",
+                "expanded_url": "https://twitter.com/ErikVoorhees/status/743876042163556352",
+                "indices": [
+                    41,
+                    64
+                ],
+                "url": "https://t.co/g5vwN1lZS8"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 253167239,
+                "id_str": "253167239",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Goldman Sachs",
+                "screen_name": "GoldmanSachs"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743905963787190273,
+    "id_str": "743905963787190273",
+    "in_reply_to_screen_name": "GoldmanSachs",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 253167239,
+    "in_reply_to_user_id_str": "253167239",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -115.384091,
+                        36.129459
+                    ],
+                    [
+                        -115.062159,
+                        36.129459
+                    ],
+                    [
+                        -115.062159,
+                        36.336371
+                    ],
+                    [
+                        -115.384091,
+                        36.336371
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Las Vegas, NV",
+        "id": "5c2b5e46ab891f07",
+        "name": "Las Vegas",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c2b5e46ab891f07.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jun 17 18:40:43 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        108,
+                        116
+                    ],
+                    "text": "bitcoin"
+                },
+                {
+                    "indices": [
+                        117,
+                        126
+                    ],
+                    "text": "ethereum"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 323,
+        "favorited": false,
+        "geo": null,
+        "id": 743876042163556352,
+        "id_str": "743876042163556352",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 180,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Sad to see some Bitcoiners gloating over the ETH/DAO issue today. Other crypto technology is not the enemy. #bitcoin #ethereum",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jul 30 06:58:21 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Toward peace, markets, and Bitcoin.  CEO of ShapeShift.io",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "MoneyAndState.com",
+                            "expanded_url": "http://MoneyAndState.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/eLUb66DpZG"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 209,
+            "follow_request_sent": false,
+            "followers_count": 27812,
+            "following": false,
+            "friends_count": 2636,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 61417559,
+            "id_str": "61417559",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 962,
+            "location": "Bitcoinland",
+            "name": "Erik Voorhees",
+            "notifications": false,
+            "profile_background_color": "1F1F1F",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/491083136684392448/pxccTlqW.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/491083136684392448/pxccTlqW.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/61417559/1426808753",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/339147710/atlas_02-1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/339147710/atlas_02-1_normal.jpg",
+            "profile_link_color": "999999",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "ErikVoorhees",
+            "statuses_count": 6025,
+            "time_zone": "Quito",
+            "url": "http://t.co/eLUb66DpZG",
+            "utc_offset": -18000,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 743876042163556352,
+    "quoted_status_id_str": "743876042163556352",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@GoldmanSachs is the enemy are you high? https://t.co/g5vwN1lZS8",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 04 01:56:48 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Music Maker | Bitcoin | Mad Scientist",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Soundcloud.com/Metaballo",
+                        "expanded_url": "https://Soundcloud.com/Metaballo",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/409autjmaz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4634,
+        "follow_request_sent": false,
+        "followers_count": 707,
+        "following": false,
+        "friends_count": 653,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1567096106,
+        "id_str": "1567096106",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 311,
+        "location": "United States",
+        "name": "Metaballo",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567096106/1438156039",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000084720156/1f2911e68abcd8d02a4f7c461a6af793_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000084720156/1f2911e68abcd8d02a4f7c461a6af793_normal.jpeg",
+        "profile_link_color": "1294EB",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Metaballo",
+        "statuses_count": 12207,
+        "time_zone": null,
+        "url": "https://t.co/409autjmaz",
+        "utc_offset": null,
+        "verified": false
+    }
+}

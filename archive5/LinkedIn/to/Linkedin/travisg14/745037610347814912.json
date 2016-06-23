@@ -1,0 +1,154 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 20 23:36:23 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "youtu.be/Dsd7CQBeNHU",
+                "expanded_url": "https://youtu.be/Dsd7CQBeNHU",
+                "indices": [
+                    37,
+                    60
+                ],
+                "url": "https://t.co/URz62Ezh5C"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 13058772,
+                "id_str": "13058772",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "LinkedIn",
+                "screen_name": "LinkedIn"
+            },
+            {
+                "id": 20348377,
+                "id_str": "20348377",
+                "indices": [
+                    10,
+                    21
+                ],
+                "name": "Jeff Weiner",
+                "screen_name": "jeffweiner"
+            },
+            {
+                "id": 813286,
+                "id_str": "813286",
+                "indices": [
+                    22,
+                    34
+                ],
+                "name": "Barack Obama",
+                "screen_name": "BarackObama"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745037610347814912,
+    "id_str": "745037610347814912",
+    "in_reply_to_screen_name": "LinkedIn",
+    "in_reply_to_status_id": 744957026153955328,
+    "in_reply_to_status_id_str": "744957026153955328",
+    "in_reply_to_user_id": 13058772,
+    "in_reply_to_user_id_str": "13058772",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.605166,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        35.000771
+                    ],
+                    [
+                        -85.605166,
+                        35.000771
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Georgia, USA",
+        "id": "7142eb97ae21e839",
+        "name": "Georgia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@LinkedIn @jeffweiner @BarackObama   https://t.co/URz62Ezh5C",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 21 18:51:55 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 14,
+        "follow_request_sent": false,
+        "followers_count": 426,
+        "following": false,
+        "friends_count": 1415,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 146556058,
+        "id_str": "146556058",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Tifton,Ga",
+        "name": "travis smith",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081439795/t128_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081439795/t128_normal.jpg",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "756161",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "travisg14",
+        "statuses_count": 20405,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

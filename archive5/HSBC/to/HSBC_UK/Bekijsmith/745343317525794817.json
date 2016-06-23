@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 21 19:51:09 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2922732233,
+                "id_str": "2922732233",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "HSBC UK",
+                "screen_name": "HSBC_UK"
+            },
+            {
+                "id": 467368287,
+                "id_str": "467368287",
+                "indices": [
+                    9,
+                    14
+                ],
+                "name": "HSBC",
+                "screen_name": "HSBC"
+            },
+            {
+                "id": 321471398,
+                "id_str": "321471398",
+                "indices": [
+                    15,
+                    28
+                ],
+                "name": "HSBC UK Help",
+                "screen_name": "HSBC_UK_Help"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745343317525794817,
+    "id_str": "745343317525794817",
+    "in_reply_to_screen_name": "HSBC_UK",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2922732233,
+    "in_reply_to_user_id_str": "2922732233",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -4.3932845,
+                        55.796184
+                    ],
+                    [
+                        -4.0902182,
+                        55.796184
+                    ],
+                    [
+                        -4.0902182,
+                        55.9204214
+                    ],
+                    [
+                        -4.3932845,
+                        55.9204214
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Glasgow, Scotland",
+        "id": "791e00bcadc4615f",
+        "name": "Glasgow",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@HSBC_UK @HSBC @HSBC_UK_Help - lost my secure key. Tried to phone the help line, but been on hold for 30mins. Can I get a new one in branch?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 12 22:44:05 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Composer/Jazz Vocalist based in Glasgow. Food and wine enthusiast - new to the food-blogging world.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bekijsmith.co.uk",
+                        "expanded_url": "http://www.bekijsmith.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/KYUIxUDMwv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 85,
+        "follow_request_sent": false,
+        "followers_count": 396,
+        "following": false,
+        "friends_count": 1070,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 30740283,
+        "id_str": "30740283",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "Glasgow",
+        "name": "Beki Smith",
+        "notifications": false,
+        "profile_background_color": "AAE63C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30740283/1413545727",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2569579781/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2569579781/image_normal.jpg",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Bekijsmith",
+        "statuses_count": 387,
+        "time_zone": "London",
+        "url": "http://t.co/KYUIxUDMwv",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

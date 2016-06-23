@@ -1,0 +1,241 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 20 23:29:13 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/mikhailvazquez\u2026",
+                "expanded_url": "https://twitter.com/mikhailvazquez/status/745035629776478209",
+                "indices": [
+                    40,
+                    63
+                ],
+                "url": "https://t.co/gLmqPZUAa9"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 204881628,
+                "id_str": "204881628",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Bank of America",
+                "screen_name": "BankofAmerica"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745035807661031424,
+    "id_str": "745035807661031424",
+    "in_reply_to_screen_name": "BankofAmerica",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 204881628,
+    "in_reply_to_user_id_str": "204881628",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Jun 20 23:28:30 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 49010409,
+                    "id_str": "49010409",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "name": "Edwin Ortiz",
+                    "screen_name": "EdwinOrtizJr"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 745035629776478209,
+        "id_str": "745035629776478209",
+        "in_reply_to_screen_name": "EdwinOrtizJr",
+        "in_reply_to_status_id": 745035203161186308,
+        "in_reply_to_status_id_str": "745035203161186308",
+        "in_reply_to_user_id": 49010409,
+        "in_reply_to_user_id_str": "49010409",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -84.386548,
+                            30.365093
+                        ],
+                        [
+                            -84.1458,
+                            30.365093
+                        ],
+                        [
+                            -84.1458,
+                            30.587338
+                        ],
+                        [
+                            -84.386548,
+                            30.587338
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Tallahassee, FL",
+            "id": "ecbe2aea853af44e",
+            "name": "Tallahassee",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/ecbe2aea853af44e.json"
+        },
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@EdwinOrtizJr Acc Still Getting Closed Thoughhhhhh. Haha.",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon May 18 19:56:56 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Young Guy Trying To Grind His Way Into An AMG S65. | Health Is Wealth. | #FAMU",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 1464,
+            "follow_request_sent": false,
+            "followers_count": 535,
+            "following": false,
+            "friends_count": 281,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 40952784,
+            "id_str": "40952784",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 3,
+            "location": "Tallahassee, FL",
+            "name": "310-555-0527",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000161625071/Y8Xyaxhe.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000161625071/Y8Xyaxhe.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/40952784/1405925373",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/744659213662621696/_9apCXA4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/744659213662621696/_9apCXA4_normal.jpg",
+            "profile_link_color": "E81212",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "B3662B",
+            "profile_text_color": "FFFFFF",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "mikhailvazquez",
+            "statuses_count": 54586,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": null,
+            "utc_offset": -14400,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 745035629776478209,
+    "quoted_status_id_str": "745035629776478209",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BankofAmerica flag this nigga account. https://t.co/gLmqPZUAa9",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 20 13:50:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Photographer // Artist?",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "edwinortizjr.com",
+                        "expanded_url": "http://www.edwinortizjr.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/UILLAHpMn4"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1639,
+        "follow_request_sent": false,
+        "followers_count": 522,
+        "following": false,
+        "friends_count": 500,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 49010409,
+        "id_str": "49010409",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Uptown, NYC",
+        "name": "Edwin Ortiz",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440921970163474432/qGLSakGT.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440921970163474432/qGLSakGT.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49010409/1464717183",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/737715080825995264/yP-MpFg__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/737715080825995264/yP-MpFg__normal.jpg",
+        "profile_link_color": "703870",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "384739",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "EdwinOrtizJr",
+        "statuses_count": 20375,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/UILLAHpMn4",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

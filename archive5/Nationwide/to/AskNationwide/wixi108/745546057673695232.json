@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 22 09:16:46 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 469358921,
+                "id_str": "469358921",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Nationwide UK",
+                "screen_name": "AskNationwide"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745546057673695232,
+    "id_str": "745546057673695232",
+    "in_reply_to_screen_name": "AskNationwide",
+    "in_reply_to_status_id": 745542242660585472,
+    "in_reply_to_status_id_str": "745542242660585472",
+    "in_reply_to_user_id": 469358921,
+    "in_reply_to_user_id_str": "469358921",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.56475248726412,
+                        53.3015341502953
+                    ],
+                    [
+                        0.149787002205902,
+                        53.3015341502953
+                    ],
+                    [
+                        0.149787002205902,
+                        54.5621550270294
+                    ],
+                    [
+                        -2.56475248726412,
+                        54.5621550270294
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Yorkshire and The Humber, England",
+        "id": "4efd6fc8c50fae33",
+        "name": "Yorkshire and The Humber",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/4efd6fc8c50fae33.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AskNationwide thanks. that works. disappointing that there's no link to AGM hub from normal NW web site.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 30 22:56:18 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Keeper of the Wellington wickets",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5,
+        "follow_request_sent": false,
+        "followers_count": 8,
+        "following": false,
+        "friends_count": 5,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 567631289,
+        "id_str": "567631289",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "York, England",
+        "name": "wixi108",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3481436417/69a82942b751fb352efd57c4204015c1_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3481436417/69a82942b751fb352efd57c4204015c1_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "wixi108",
+        "statuses_count": 235,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

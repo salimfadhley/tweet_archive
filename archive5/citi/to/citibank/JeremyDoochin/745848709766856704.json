@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 23 05:19:24 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 80374332,
+                "id_str": "80374332",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Citibank",
+                "screen_name": "Citibank"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745848709766856704,
+    "id_str": "745848709766856704",
+    "in_reply_to_screen_name": "Citibank",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 80374332,
+    "in_reply_to_user_id_str": "80374332",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.035311,
+                        37.193164
+                    ],
+                    [
+                        -121.71215,
+                        37.193164
+                    ],
+                    [
+                        -121.71215,
+                        37.469154
+                    ],
+                    [
+                        -122.035311,
+                        37.469154
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Jose, CA",
+        "id": "7d62cffe6f98f349",
+        "name": "San Jose",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7d62cffe6f98f349.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Citibank = horrible service. Hrs of calls &amp; no supervisors available. Rep said they're routing calls to random depts to just pass them off.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 04 07:34:34 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Vice President of Strategy, Soligent. #Soligent is the largest U.S. #distributor of modules, inverters, & financing to thousands of #solar contractors.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 10,
+        "follow_request_sent": false,
+        "followers_count": 33,
+        "following": false,
+        "friends_count": 110,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 727763332502048769,
+        "id_str": "727763332502048769",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "San Francisco, CA",
+        "name": "Jeremy Doochin",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/727764610691043330/4ju3LdX4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/727764610691043330/4ju3LdX4_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "JeremyDoochin",
+        "statuses_count": 14,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

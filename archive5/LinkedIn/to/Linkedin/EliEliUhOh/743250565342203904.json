@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 16 01:15:18 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13058772,
+                "id_str": "13058772",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "LinkedIn",
+                "screen_name": "LinkedIn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743250565342203904,
+    "id_str": "743250565342203904",
+    "in_reply_to_screen_name": "LinkedIn",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13058772,
+    "in_reply_to_user_id_str": "13058772",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.605166,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        35.000771
+                    ],
+                    [
+                        -85.605166,
+                        35.000771
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Georgia, USA",
+        "id": "7142eb97ae21e839",
+        "name": "Georgia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@LinkedIn What's up with the site?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 01 07:08:33 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Copywriter. I have never lost a thumb war. I like telling stories.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "eli-johnson-copywriter.squarespace.com",
+                        "expanded_url": "http://eli-johnson-copywriter.squarespace.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/yCy7mHXBBq"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 24561,
+        "follow_request_sent": false,
+        "followers_count": 249,
+        "following": false,
+        "friends_count": 352,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 365912929,
+        "id_str": "365912929",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "",
+        "name": "Semi Bravato",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/547392043/mlk_bitch.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/547392043/mlk_bitch.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/365912929/1455383826",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/736270642186727425/NStqiS2z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/736270642186727425/NStqiS2z_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "EliEliUhOh",
+        "statuses_count": 13193,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/yCy7mHXBBq",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

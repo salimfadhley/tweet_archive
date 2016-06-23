@@ -1,0 +1,354 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 23 15:39:24 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/timoster/statu\u2026",
+                "expanded_url": "https://twitter.com/timoster/status/740547259012616192",
+                "indices": [
+                    13,
+                    36
+                ],
+                "url": "https://t.co/eNO0z9lLym"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Tesla Motors",
+                "screen_name": "TeslaMotors"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746004738282561536,
+    "id_str": "746004738282561536",
+    "in_reply_to_screen_name": "TeslaMotors",
+    "in_reply_to_status_id": 746004281971482624,
+    "in_reply_to_status_id_str": "746004281971482624",
+    "in_reply_to_user_id": 13298072,
+    "in_reply_to_user_id_str": "13298072",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.601044,
+                        37.447046
+                    ],
+                    [
+                        -77.385297,
+                        37.447046
+                    ],
+                    [
+                        -77.385297,
+                        37.61272
+                    ],
+                    [
+                        -77.601044,
+                        37.61272
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Richmond, VA",
+        "id": "00f751614d8ce37b",
+        "name": "Richmond",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00f751614d8ce37b.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Jun 08 14:13:19 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        10,
+                        22
+                    ],
+                    "text": "NikolaTesla"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/pd3ZPem8nW",
+                    "expanded_url": "http://twitter.com/TimOster/status/740547259012616192/video/1",
+                    "id": 740547168231149568,
+                    "id_str": "740547168231149568",
+                    "indices": [
+                        23,
+                        46
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/740547168231149568/pu/img/kTKYdRL_N9gza0Jc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/740547168231149568/pu/img/kTKYdRL_N9gza0Jc.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 360,
+                            "resize": "fit",
+                            "w": 640
+                        },
+                        "medium": {
+                            "h": 338,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 191,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/pd3ZPem8nW"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 44196397,
+                    "id_str": "44196397",
+                    "indices": [
+                        0,
+                        9
+                    ],
+                    "name": "Elon Musk",
+                    "screen_name": "elonmusk"
+                }
+            ]
+        },
+        "favorite_count": 16,
+        "favorited": false,
+        "geo": null,
+        "id": 740547259012616192,
+        "id_str": "740547259012616192",
+        "in_reply_to_screen_name": "elonmusk",
+        "in_reply_to_status_id": 740540471081062401,
+        "in_reply_to_status_id_str": "740540471081062401",
+        "in_reply_to_user_id": 44196397,
+        "in_reply_to_user_id_str": "44196397",
+        "is_quote_status": false,
+        "lang": "und",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -77.601044,
+                            37.447046
+                        ],
+                        [
+                            -77.385297,
+                            37.447046
+                        ],
+                        [
+                            -77.385297,
+                            37.61272
+                        ],
+                        [
+                            -77.601044,
+                            37.61272
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Richmond, VA",
+            "id": "00f751614d8ce37b",
+            "name": "Richmond",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/00f751614d8ce37b.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "@elonmusk #NikolaTesla https://t.co/pd3ZPem8nW",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Oct 21 10:57:42 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Remember yesterday, but live for today. #TeslaModelS85D owner & @TeslaMotors @SolarCity @SolarRoadways @SpaceX @ElonMusk advocate! $TSLA https://t.co/Eg1zqg9wfS",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "ts.la/tim5090",
+                            "expanded_url": "http://ts.la/tim5090",
+                            "indices": [
+                                137,
+                                160
+                            ],
+                            "url": "https://t.co/Eg1zqg9wfS"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "periscope.tv/TeslaModelS",
+                            "expanded_url": "http://periscope.tv/TeslaModelS",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/dpwHfGdGIc"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 9990,
+            "follow_request_sent": false,
+            "followers_count": 1681,
+            "following": false,
+            "friends_count": 1906,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 205667658,
+            "id_str": "205667658",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 36,
+            "location": "Richmond, VA \u267b\ufe0f",
+            "name": "\u2600\ufe0f\u26a1\ufe0ft\u2b50\ufe0fr",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/472305521383313408/eB0YZJtK.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/472305521383313408/eB0YZJtK.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/205667658/1403392152",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/480495819129229312/RaPyctAk_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/480495819129229312/RaPyctAk_normal.jpeg",
+            "profile_link_color": "014F09",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "TimOster",
+            "statuses_count": 8713,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/dpwHfGdGIc",
+            "utc_offset": -14400,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 740547259012616192,
+    "quoted_status_id_str": "740547259012616192",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TeslaMotors https://t.co/eNO0z9lLym",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 21 10:57:42 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Remember yesterday, but live for today. #TeslaModelS85D owner & @TeslaMotors @SolarCity @SolarRoadways @SpaceX @ElonMusk advocate! $TSLA https://t.co/Eg1zqg9wfS",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "ts.la/tim5090",
+                        "expanded_url": "http://ts.la/tim5090",
+                        "indices": [
+                            137,
+                            160
+                        ],
+                        "url": "https://t.co/Eg1zqg9wfS"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "periscope.tv/TeslaModelS",
+                        "expanded_url": "http://periscope.tv/TeslaModelS",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/dpwHfGdGIc"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9990,
+        "follow_request_sent": false,
+        "followers_count": 1681,
+        "following": false,
+        "friends_count": 1906,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 205667658,
+        "id_str": "205667658",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 36,
+        "location": "Richmond, VA \u267b\ufe0f",
+        "name": "\u2600\ufe0f\u26a1\ufe0ft\u2b50\ufe0fr",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/472305521383313408/eB0YZJtK.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/472305521383313408/eB0YZJtK.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/205667658/1403392152",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/480495819129229312/RaPyctAk_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/480495819129229312/RaPyctAk_normal.jpeg",
+        "profile_link_color": "014F09",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TimOster",
+        "statuses_count": 8713,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/dpwHfGdGIc",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

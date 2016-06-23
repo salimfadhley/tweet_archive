@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 23 20:09:35 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746072734346657792,
+    "id_str": "746072734346657792",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.013326,
+                        50.682612
+                    ],
+                    [
+                        -1.891233,
+                        50.682612
+                    ],
+                    [
+                        -1.891233,
+                        50.774097
+                    ],
+                    [
+                        -2.013326,
+                        50.774097
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Poole, England",
+        "id": "1c4cd8e4ae3a1959",
+        "name": "Poole",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1c4cd8e4ae3a1959.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@McDonalds these dry donuts are killing me",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 01 22:45:35 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "YNWA",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 636,
+        "follow_request_sent": false,
+        "followers_count": 72,
+        "following": false,
+        "friends_count": 138,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2799070671,
+        "id_str": "2799070671",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Bournemouth, England",
+        "name": "Charlie Gambier",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2799070671/1465163029",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/527979112372396032/yajDdVd6_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/527979112372396032/yajDdVd6_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Charliegambier",
+        "statuses_count": 1002,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

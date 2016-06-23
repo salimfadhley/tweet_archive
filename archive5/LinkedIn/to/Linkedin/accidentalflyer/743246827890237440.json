@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 16 01:00:27 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13058772,
+                "id_str": "13058772",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "LinkedIn",
+                "screen_name": "LinkedIn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743246827890237440,
+    "id_str": "743246827890237440",
+    "in_reply_to_screen_name": "LinkedIn",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13058772,
+    "in_reply_to_user_id_str": "13058772",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.355038,
+                        37.512567
+                    ],
+                    [
+                        -122.275805,
+                        37.512567
+                    ],
+                    [
+                        -122.275805,
+                        37.592395
+                    ],
+                    [
+                        -122.355038,
+                        37.592395
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Mateo, CA",
+        "id": "432daa3153c5fef9",
+        "name": "San Mateo",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/432daa3153c5fef9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@LinkedIn super slow today. Have they already migrated onto a Microsoft stack!?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 12 04:05:19 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Like packets in ether, fading into the void...",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2976,
+        "follow_request_sent": false,
+        "followers_count": 273,
+        "following": false,
+        "friends_count": 154,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15818403,
+        "id_str": "15818403",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 62,
+        "location": "iPhone: 37.590607,-122.341805",
+        "name": "adrian hsieh",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/110430587/IMG_0458.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/110430587/IMG_0458.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15818403/1437333564",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/255332284/IMG_0482_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/255332284/IMG_0482_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "accidentalflyer",
+        "statuses_count": 5477,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

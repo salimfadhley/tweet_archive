@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 23 04:14:56 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745832486173806592,
+    "id_str": "745832486173806592",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -78.912276,
+                        42.826008
+                    ],
+                    [
+                        -78.79485,
+                        42.826008
+                    ],
+                    [
+                        -78.79485,
+                        42.966451
+                    ],
+                    [
+                        -78.912276,
+                        42.966451
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Buffalo, NY",
+        "id": "a307591cd0413588",
+        "name": "Buffalo",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a307591cd0413588.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@McDonalds",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 11 14:00:55 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "btsj",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/kelleher_micha\u2026",
+                        "expanded_url": "http://Instagram.com/kelleher_michael",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/atSzrMRHyT"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8647,
+        "follow_request_sent": false,
+        "followers_count": 479,
+        "following": false,
+        "friends_count": 356,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 521344754,
+        "id_str": "521344754",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "so.bflo. ",
+        "name": "michael kelleher",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/521344754/1451578502",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/735258787578269696/0IBiirIG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/735258787578269696/0IBiirIG_normal.jpg",
+        "profile_link_color": "DF7401",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mkelleher624",
+        "statuses_count": 9326,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/atSzrMRHyT",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

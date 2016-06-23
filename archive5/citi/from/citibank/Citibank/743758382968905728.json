@@ -1,0 +1,328 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 17 10:53:11 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    32,
+                    49
+                ],
+                "text": "CharliePuthTODAY"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/BCr68fD5h1",
+                "expanded_url": "http://twitter.com/JulesJester/status/743757687423283201/photo/1",
+                "id": 743757670989979649,
+                "id_str": "743757670989979649",
+                "indices": [
+                    50,
+                    73
+                ],
+                "media_url": "http://pbs.twimg.com/media/ClJbqUJUYAEoqOw.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ClJbqUJUYAEoqOw.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1152,
+                        "resize": "fit",
+                        "w": 2048
+                    },
+                    "medium": {
+                        "h": 675,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 743757687423283201,
+                "source_status_id_str": "743757687423283201",
+                "source_user_id": 97114302,
+                "source_user_id_str": "97114302",
+                "type": "photo",
+                "url": "https://t.co/BCr68fD5h1"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 97114302,
+                "id_str": "97114302",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "Julia Jester",
+                "screen_name": "JulesJester"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743758382968905728,
+    "id_str": "743758382968905728",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jun 17 10:50:25 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        15,
+                        32
+                    ],
+                    "text": "CharliePuthTODAY"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/BCr68fD5h1",
+                    "expanded_url": "http://twitter.com/JulesJester/status/743757687423283201/photo/1",
+                    "id": 743757670989979649,
+                    "id_str": "743757670989979649",
+                    "indices": [
+                        33,
+                        56
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ClJbqUJUYAEoqOw.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ClJbqUJUYAEoqOw.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1152,
+                            "resize": "fit",
+                            "w": 2048
+                        },
+                        "medium": {
+                            "h": 675,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 383,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/BCr68fD5h1"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 5,
+        "favorited": false,
+        "geo": null,
+        "id": 743757687423283201,
+        "id_str": "743757687423283201",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -73.9793662095376,
+                            40.75848906765483
+                        ],
+                        [
+                            -73.9793662095376,
+                            40.75848906765483
+                        ],
+                        [
+                            -73.9793662095376,
+                            40.75848906765483
+                        ],
+                        [
+                            -73.9793662095376,
+                            40.75848906765483
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "TODAY Show",
+            "id": "07d9db1db3086000",
+            "name": "TODAY Show",
+            "place_type": "poi",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9db1db3086000.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Sound check. \ud83c\udfa4 #CharliePuthTODAY https://t.co/BCr68fD5h1",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Dec 16 02:20:01 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "@nbc page \u2022 currently: CSR | previously: @thelastword @voxdotcom @ajam @bsd | @georgetown alumna | tweets: politics + culture + media.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "juliajester.com",
+                            "expanded_url": "http://juliajester.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/jdZ9jiPJZ2"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 8152,
+            "follow_request_sent": false,
+            "followers_count": 1032,
+            "following": false,
+            "friends_count": 1544,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 97114302,
+            "id_str": "97114302",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 24,
+            "location": "NYC",
+            "name": "Julia Jester",
+            "notifications": false,
+            "profile_background_color": "0A1033",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/139688053/10418_185440636756_657906756_3765365_3182077_n.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/139688053/10418_185440636756_657906756_3765365_3182077_n.jpg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/97114302/1444659033",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/742475969781366784/m61xaOIN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/742475969781366784/m61xaOIN_normal.jpg",
+            "profile_link_color": "084B8A",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "JulesJester",
+            "statuses_count": 18074,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/jdZ9jiPJZ2",
+            "utc_offset": -14400,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @JulesJester: Sound check. \ud83c\udfa4 #CharliePuthTODAY https://t.co/BCr68fD5h1",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 06 18:49:45 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Special offers, ideas for managing your financial life, and other updates from Citibank. Looking for customer service? Connect with @AskCiti",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "citi.com",
+                        "expanded_url": "http://www.citi.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/K2nfvcI2Bf"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2592,
+        "follow_request_sent": false,
+        "followers_count": 347331,
+        "following": false,
+        "friends_count": 36535,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 80374332,
+        "id_str": "80374332",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1120,
+        "location": "",
+        "name": "Citibank",
+        "notifications": false,
+        "profile_background_color": "004785",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/689356711/63e57f8d6d7f62960f2c0dce95f89bd9.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/689356711/63e57f8d6d7f62960f2c0dce95f89bd9.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80374332/1460040226",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/684074350316761088/T0oKe4D-_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/684074350316761088/T0oKe4D-_normal.png",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Citibank",
+        "statuses_count": 7970,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/K2nfvcI2Bf",
+        "utc_offset": -14400,
+        "verified": true
+    }
+}

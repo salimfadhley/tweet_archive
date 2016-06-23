@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 15 01:43:43 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    27,
+                    35
+                ],
+                "text": "Chicago"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/eBZjP32Qjy",
+                "expanded_url": "http://twitter.com/Pr1nc3ss_Ash13y/status/742895328316252160/photo/1",
+                "id": 742895317478039552,
+                "id_str": "742895317478039552",
+                "indices": [
+                    36,
+                    59
+                ],
+                "media_url": "http://pbs.twimg.com/media/Ck9LWu-UYAATvqt.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Ck9LWu-UYAATvqt.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 1152
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 675
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 383
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/eBZjP32Qjy"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 274673392,
+                "id_str": "274673392",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Chase",
+                "screen_name": "Chase"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 742895328316252160,
+    "id_str": "742895328316252160",
+    "in_reply_to_screen_name": "Chase",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 274673392,
+    "in_reply_to_user_id_str": "274673392",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Chase Stands with Orlando #Chicago https://t.co/eBZjP32Qjy",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 29 15:01:13 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Maybe we should try and help somebody or be somebody; Instead of being somebody that makes the news, so everybody can tweet about it.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 523,
+        "follow_request_sent": false,
+        "followers_count": 236,
+        "following": false,
+        "friends_count": 517,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 477765828,
+        "id_str": "477765828",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "Chicago, IL",
+        "name": "Miss Ashley\u2122",
+        "notifications": false,
+        "profile_background_color": "2D8A31",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/634117180/26vwvnr5yc6pbs352cm1.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/634117180/26vwvnr5yc6pbs352cm1.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/477765828/1462329057",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/579390901417566208/HZaHto6B_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/579390901417566208/HZaHto6B_normal.jpg",
+        "profile_link_color": "FF0088",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Pr1nc3ss_Ash13y",
+        "statuses_count": 10123,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

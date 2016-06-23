@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 22 23:13:25 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745756609402503168,
+    "id_str": "745756609402503168",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir I chose to carry on so my bag would not be lost. Bag got lost somehow...plane was too small and they had to \"check\" the bag?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 13 15:44:27 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Editor \u2022 Post Production \u2022 French Fry Connoisseur.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "taylortracy.com",
+                        "expanded_url": "http://taylortracy.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/BnDV4EoILL"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 888,
+        "follow_request_sent": false,
+        "followers_count": 915,
+        "following": false,
+        "friends_count": 117,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 7454712,
+        "id_str": "7454712",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 16,
+        "location": "Los Angeles, CA",
+        "name": "Taylor Tracy",
+        "notifications": false,
+        "profile_background_color": "FFEFDD",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/825403713/e723c37e1cbd9f8ca3c56c95fce73e84.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/825403713/e723c37e1cbd9f8ca3c56c95fce73e84.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7454712/1357152808",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712691628838760448/G4jPTexR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712691628838760448/G4jPTexR_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F8F5D3",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "taylorstracy",
+        "statuses_count": 4288,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/BnDV4EoILL",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

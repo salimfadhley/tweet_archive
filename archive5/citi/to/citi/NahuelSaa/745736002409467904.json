@@ -1,0 +1,149 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 22 21:51:32 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    93,
+                    103
+                ],
+                "text": "VERGUENZA"
+            },
+            {
+                "indices": [
+                    104,
+                    119
+                ],
+                "text": "DERECHOAELEGIR"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 79320096,
+                "id_str": "79320096",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Citi",
+                "screen_name": "Citi"
+            },
+            {
+                "id": 707632599049445376,
+                "id_str": "707632599049445376",
+                "indices": [
+                    82,
+                    91
+                ],
+                "name": "Uber Argentina",
+                "screen_name": "Uber_ARG"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745736002409467904,
+    "id_str": "745736002409467904",
+    "in_reply_to_screen_name": "Citi",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 79320096,
+    "in_reply_to_user_id_str": "79320096",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -58.5317922,
+                        -34.674453
+                    ],
+                    [
+                        -58.353494,
+                        -34.674453
+                    ],
+                    [
+                        -58.353494,
+                        -34.534177
+                    ],
+                    [
+                        -58.5317922,
+                        -34.534177
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Argentina",
+        "country_code": "AR",
+        "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+        "id": "018f1cde6bad9747",
+        "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Citi  me quita el derecho de decidir usar mis tarjetas de credito para contratar @Uber_ARG  #VERGUENZA #DERECHOAELEGIR",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 11 03:05:31 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ACTOR",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 31,
+        "follow_request_sent": false,
+        "followers_count": 286,
+        "following": false,
+        "friends_count": 431,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 280318147,
+        "id_str": "280318147",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 4,
+        "location": "Argentina",
+        "name": "Nahuel Saa",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/231230945/mupet.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/231230945/mupet.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/280318147/1424914256",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/702686935035322368/mfLfOrD0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/702686935035322368/mfLfOrD0_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NahuelSaa",
+        "statuses_count": 1350,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

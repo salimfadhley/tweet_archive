@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 22 17:11:44 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/XYiHyBkPWa",
+                "expanded_url": "http://twitter.com/epperson_joseph/status/745665586651365376/photo/1",
+                "id": 745665553885466624,
+                "id_str": "745665553885466624",
+                "indices": [
+                    11,
+                    34
+                ],
+                "media_url": "http://pbs.twimg.com/media/Clki3tyWkAAq6kf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Clki3tyWkAAq6kf.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/XYiHyBkPWa"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745665586651365376,
+    "id_str": "745665586651365376",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -86.967333,
+                        33.405025
+                    ],
+                    [
+                        -86.620501,
+                        33.405025
+                    ],
+                    [
+                        -86.620501,
+                        33.67945
+                    ],
+                    [
+                        -86.967333,
+                        33.67945
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Birmingham, AL",
+        "id": "92220986b9dfd67d",
+        "name": "Birmingham",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/92220986b9dfd67d.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@McDonalds https://t.co/XYiHyBkPWa",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 08 19:01:09 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "be true to yourself",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2568,
+        "follow_request_sent": false,
+        "followers_count": 165,
+        "following": false,
+        "friends_count": 253,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 935200286,
+        "id_str": "935200286",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "JoeHoe",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/935200286/1440567228",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/736632492950753280/s0LNnWkJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/736632492950753280/s0LNnWkJ_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "epperson_joseph",
+        "statuses_count": 3573,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

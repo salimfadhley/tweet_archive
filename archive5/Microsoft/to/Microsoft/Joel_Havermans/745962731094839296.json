@@ -1,0 +1,170 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 23 12:52:29 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    11,
+                    17
+                ],
+                "text": "Azure"
+            },
+            {
+                "indices": [
+                    56,
+                    61
+                ],
+                "text": "data"
+            },
+            {
+                "indices": [
+                    69,
+                    75
+                ],
+                "text": "Cloud"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "fortune.com/2016/06/22/mic\u2026",
+                "expanded_url": "http://fortune.com/2016/06/22/microsoft-secure-islands-corporate-data/",
+                "indices": [
+                    79,
+                    102
+                ],
+                "url": "https://t.co/bRl3PKhJ1B"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745962731094839296,
+    "id_str": "745962731094839296",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.112442,
+                        51.5068
+                    ],
+                    [
+                        -0.0733794,
+                        51.5068
+                    ],
+                    [
+                        -0.0733794,
+                        51.522161
+                    ],
+                    [
+                        -0.112442,
+                        51.522161
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "City of London, London",
+        "id": "3eb2c704fe8a50cb",
+        "name": "City of London",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3eb2c704fe8a50cb.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Microsoft #Azure Information Protection, securing your #data in the #Cloud  \n\nhttps://t.co/bRl3PKhJ1B",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 30 12:55:25 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Talent Sourcer (Headhunter)  @Microsoft Seeking #Azure #Cloud #Architect | #CyberSecurity #SecuritySales | #Microsoft #SocialMedia Ambassador",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "uk.linkedin.com/in/joelhaverma\u2026",
+                        "expanded_url": "https://uk.linkedin.com/in/joelhavermans",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/O3cZK4bSD3"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1468,
+        "follow_request_sent": false,
+        "followers_count": 922,
+        "following": false,
+        "friends_count": 1750,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1392013837,
+        "id_str": "1392013837",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 291,
+        "location": "London, United Kingdom",
+        "name": "Joel Havermans",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1392013837/1432137652",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/710020105124618240/aUt_1_1b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/710020105124618240/aUt_1_1b_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Joel_Havermans",
+        "statuses_count": 2853,
+        "time_zone": "London",
+        "url": "https://t.co/O3cZK4bSD3",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

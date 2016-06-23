@@ -1,0 +1,142 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 23 04:16:02 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    118,
+                    132
+                ],
+                "text": "NoBillNoBreak"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 43963249,
+                "id_str": "43963249",
+                "indices": [
+                    28,
+                    43
+                ],
+                "name": "House Democrats",
+                "screen_name": "HouseDemocrats"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 745832764927320064,
+    "id_str": "745832764927320064",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.295325,
+                        40.754764
+                    ],
+                    [
+                        -73.209269,
+                        40.754764
+                    ],
+                    [
+                        -73.209269,
+                        40.807341
+                    ],
+                    [
+                        -73.295325,
+                        40.807341
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Brentwood, NY",
+        "id": "5fe049183a425395",
+        "name": "Brentwood",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5fe049183a425395.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks, I know a lot of @HouseDemocrats who could probably use some coffee to get through the night. Help us out? #NoBillNoBreak",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 15 00:20:18 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Coffee addict, comic nerd, web developer, future CASAC. Life ODAAT.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1088,
+        "follow_request_sent": false,
+        "followers_count": 194,
+        "following": false,
+        "friends_count": 604,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 317473415,
+        "id_str": "317473415",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 19,
+        "location": "Suffolk County, NY",
+        "name": "Conor M.",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/571086055890108416/9ui_bGjU.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/571086055890108416/9ui_bGjU.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/317473415/1463085039",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/730857330007367680/LWUYy9SH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/730857330007367680/LWUYy9SH_normal.jpg",
+        "profile_link_color": "403831",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "c0nart1st",
+        "statuses_count": 442,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

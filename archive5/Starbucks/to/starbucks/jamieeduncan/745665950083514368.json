@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 22 17:13:10 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    46,
+                    54
+                ],
+                "text": "splenda"
+            },
+            {
+                "indices": [
+                    55,
+                    74
+                ],
+                "text": "yellowPackets4Life"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745665950083514368,
+    "id_str": "745665950083514368",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.67529,
+                        36.540739
+                    ],
+                    [
+                        -75.16644,
+                        36.540739
+                    ],
+                    [
+                        -75.16644,
+                        39.466012
+                    ],
+                    [
+                        -83.67529,
+                        39.466012
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Virginia, USA",
+        "id": "5635c19c2b5078d1",
+        "name": "Virginia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@starbucks how in the world do you run out of #splenda #yellowPackets4Life",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 14 20:48:08 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Linux and F1 Geek. Red Hatter. my opinions, not the companies.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "lostinopensource.wordpress.com",
+                        "expanded_url": "http://lostinopensource.wordpress.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/veoDJLkdpn"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1539,
+        "follow_request_sent": false,
+        "followers_count": 668,
+        "following": false,
+        "friends_count": 986,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 14778397,
+        "id_str": "14778397",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 118,
+        "location": "Powhatan, VA",
+        "name": "Jamie Duncan",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14778397/1448997289",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667454843930419200/ywx-j48R_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667454843930419200/ywx-j48R_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jamieeduncan",
+        "statuses_count": 4978,
+        "time_zone": "Quito",
+        "url": "http://t.co/veoDJLkdpn",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

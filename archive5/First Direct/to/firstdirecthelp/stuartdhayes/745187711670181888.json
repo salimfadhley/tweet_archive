@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 21 09:32:50 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 412133374,
+                "id_str": "412133374",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "first direct help",
+                "screen_name": "firstdirecthelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745187711670181888,
+    "id_str": "745187711670181888",
+    "in_reply_to_screen_name": "firstdirecthelp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 412133374,
+    "in_reply_to_user_id_str": "412133374",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        14.1836393,
+                        35.7863054
+                    ],
+                    [
+                        14.5764691,
+                        35.7863054
+                    ],
+                    [
+                        14.5764691,
+                        36.0821927
+                    ],
+                    [
+                        14.1836393,
+                        36.0821927
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Malta",
+        "country_code": "MT",
+        "full_name": "Malta",
+        "id": "1d834adff5d584df",
+        "name": "Malta",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/1d834adff5d584df.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@firstdirecthelp ...could I email it to you to expedite things?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 12 07:34:03 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "data, data systems, consumer psychology",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mongopi.wordpress.com",
+                        "expanded_url": "http://mongopi.wordpress.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/RPHN1E4qq0"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6,
+        "follow_request_sent": false,
+        "followers_count": 250,
+        "following": false,
+        "friends_count": 357,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 96298498,
+        "id_str": "96298498",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 23,
+        "location": "malta; formerly USA, UK",
+        "name": "stuart hayes",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1162543157/03ae556_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1162543157/03ae556_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "stuartdhayes",
+        "statuses_count": 646,
+        "time_zone": "London",
+        "url": "https://t.co/RPHN1E4qq0",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

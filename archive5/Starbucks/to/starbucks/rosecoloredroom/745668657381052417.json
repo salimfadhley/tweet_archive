@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 22 17:23:56 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745668657381052417,
+    "id_str": "745668657381052417",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.6398828,
+                        28.4336714
+                    ],
+                    [
+                        -82.428825,
+                        28.4336714
+                    ],
+                    [
+                        -82.428825,
+                        28.534024
+                    ],
+                    [
+                        -82.6398828,
+                        28.534024
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Spring Hill, FL",
+        "id": "68042baafa8b7e0a",
+        "name": "Spring Hill",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/68042baafa8b7e0a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks this after 3pm menu thing is just silly! \ud83d\ude12",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 02 01:22:44 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I love the color pink, glitter, mermaids, and sports talk shows.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 126,
+        "follow_request_sent": false,
+        "followers_count": 17,
+        "following": false,
+        "friends_count": 41,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 403109354,
+        "id_str": "403109354",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "Lena",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/403109354/1352240593",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/623530671127035904/7OEDBGcl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/623530671127035904/7OEDBGcl_normal.jpg",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rosecoloredroom",
+        "statuses_count": 286,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

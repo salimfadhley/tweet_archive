@@ -1,0 +1,284 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 21 15:40:27 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/AthleteSwag/st\u2026",
+                "expanded_url": "https://twitter.com/AthleteSwag/status/745279431866908672",
+                "indices": [
+                    33,
+                    56
+                ],
+                "url": "https://t.co/W7yrCKnNBw"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 415859364,
+                "id_str": "415859364",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Nike",
+                "screen_name": "Nike"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745280227513892868,
+    "id_str": "745280227513892868",
+    "in_reply_to_screen_name": "Nike",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 415859364,
+    "in_reply_to_user_id_str": "415859364",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.976985,
+                        39.793313
+                    ],
+                    [
+                        -84.813667,
+                        39.793313
+                    ],
+                    [
+                        -84.813667,
+                        39.8878303
+                    ],
+                    [
+                        -84.976985,
+                        39.8878303
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Richmond, IN",
+        "id": "3684a9592c803ad1",
+        "name": "Richmond",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3684a9592c803ad1.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Jun 21 15:37:17 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/nblxaeWu2d",
+                    "expanded_url": "http://twitter.com/jay_2524/status/744010921153036288/video/1",
+                    "id": 744010905613131777,
+                    "id_str": "744010905613131777",
+                    "indices": [
+                        33,
+                        56
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/744010905613131777/pu/img/KhPrKN9folxXUZhQ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/744010905613131777/pu/img/KhPrKN9folxXUZhQ.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 576,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 338,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 191,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "source_status_id": 744010921153036288,
+                    "source_status_id_str": "744010921153036288",
+                    "source_user_id": 3234805960,
+                    "source_user_id_str": "3234805960",
+                    "type": "photo",
+                    "url": "https://t.co/nblxaeWu2d"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 3234805960,
+                    "id_str": "3234805960",
+                    "indices": [
+                        22,
+                        31
+                    ],
+                    "name": "Jay Jenkins",
+                    "screen_name": "jay_2524"
+                }
+            ]
+        },
+        "favorite_count": 439,
+        "favorited": false,
+        "geo": null,
+        "id": 745279431866908672,
+        "id_str": "745279431866908672",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 284,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "QUADRUPLE FLIP \ud83d\ude33 (via @jay_2524) https://t.co/nblxaeWu2d",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Feb 26 20:08:09 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "We showcase athletes! If it's happening in sports, you can find it here. athleteswag@live.com",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 585,
+            "follow_request_sent": false,
+            "followers_count": 290926,
+            "following": false,
+            "friends_count": 140,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 504930127,
+            "id_str": "504930127",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 307,
+            "location": "United States",
+            "name": "Athlete Swag",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/612779091/h07fm1386xhc6so6g6am.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/612779091/h07fm1386xhc6so6g6am.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/504930127/1428344446",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/585145222947999744/A1Lo9FDX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/585145222947999744/A1Lo9FDX_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "AthleteSwag",
+            "statuses_count": 14521,
+            "time_zone": "Atlantic Time (Canada)",
+            "url": null,
+            "utc_offset": -10800,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 745279431866908672,
+    "quoted_status_id_str": "745279431866908672",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Nike SIGN THEM TO A SPONSORSHIP https://t.co/W7yrCKnNBw",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 12 19:14:07 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Would fuck Susan Sarandon. maybe agoraphobic.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "UnderAchievers.org",
+                        "expanded_url": "http://UnderAchievers.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/174b5eLvLC"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 39490,
+        "follow_request_sent": false,
+        "followers_count": 636,
+        "following": false,
+        "friends_count": 143,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 251250658,
+        "id_str": "251250658",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Mylon",
+        "name": "Jack Danimals",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/251250658/1413307693",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/584212079592083456/Ur9xNQwT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/584212079592083456/Ur9xNQwT_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "John_Stracener",
+        "statuses_count": 53149,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": "https://t.co/174b5eLvLC",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

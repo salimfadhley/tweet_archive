@@ -1,0 +1,289 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 22 21:53:50 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    6,
+                    11
+                ],
+                "text": "nike"
+            },
+            {
+                "indices": [
+                    12,
+                    19
+                ],
+                "text": "design"
+            },
+            {
+                "indices": [
+                    20,
+                    26
+                ],
+                "text": "ideas"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/patricktoneill\u2026",
+                "expanded_url": "https://twitter.com/patricktoneill/status/745736186593828864",
+                "indices": [
+                    27,
+                    50
+                ],
+                "url": "https://t.co/9RZWsH6FKj"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 415859364,
+                "id_str": "415859364",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Nike",
+                "screen_name": "Nike"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 745736581609324544,
+    "id_str": "745736581609324544",
+    "in_reply_to_screen_name": "Nike",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 415859364,
+    "in_reply_to_user_id_str": "415859364",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Jun 22 21:52:16 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/hillarycoe/sta\u2026",
+                    "expanded_url": "https://twitter.com/hillarycoe/status/745735265340133377",
+                    "indices": [
+                        8,
+                        31
+                    ],
+                    "url": "https://t.co/pAvoUIodKv"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 415859364,
+                    "id_str": "415859364",
+                    "indices": [
+                        1,
+                        6
+                    ],
+                    "name": "Nike",
+                    "screen_name": "Nike"
+                }
+            ]
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "geo": null,
+        "id": 745736186593828864,
+        "id_str": "745736186593828864",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "und",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -122.190523,
+                            37.362824
+                        ],
+                        [
+                            -122.097537,
+                            37.362824
+                        ],
+                        [
+                            -122.097537,
+                            37.465918
+                        ],
+                        [
+                            -122.190523,
+                            37.465918
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Palo Alto, CA",
+            "id": "3ad0f706b3fa62a8",
+            "name": "Palo Alto",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/3ad0f706b3fa62a8.json"
+        },
+        "possibly_sensitive": false,
+        "quoted_status_id": 745735265340133377,
+        "quoted_status_id_str": "745735265340133377",
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": ".@Nike  https://t.co/pAvoUIodKv",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Dec 15 00:02:59 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Chief #Creative #Officer at @theranos",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "facebook.com/profile.php?id\u2026",
+                            "expanded_url": "http://www.facebook.com/profile.php?id=593839124",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/6aNcIn32yU"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 3795,
+            "follow_request_sent": false,
+            "followers_count": 5159,
+            "following": false,
+            "friends_count": 1534,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 18125878,
+            "id_str": "18125878",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 200,
+            "location": "Palo Alto/Hollywood",
+            "name": "patricktoneill",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000021203765/19ba53eb976ca416cc4ecd24f9df2437.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000021203765/19ba53eb976ca416cc4ecd24f9df2437.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18125878/1405621759",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/489839358745128961/13ZiEriW_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/489839358745128961/13ZiEriW_normal.jpeg",
+            "profile_link_color": "91D2FA",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "patricktoneill",
+            "statuses_count": 9791,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/6aNcIn32yU",
+            "utc_offset": -25200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 745736186593828864,
+    "quoted_status_id_str": "745736186593828864",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Nike #nike #design #ideas https://t.co/9RZWsH6FKj",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 10 20:05:58 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I help Startups attract Investors | Growth Expert | Product Manager | Emmy Finalist ( \u0623\u0646\u0627 \u0627\u0644\u0633\u0648\u062f\u0627\u0646 )",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "BKLTD.creativemf.com",
+                        "expanded_url": "http://BKLTD.creativemf.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Chft1Lh3Dj"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 18371,
+        "follow_request_sent": false,
+        "followers_count": 1219,
+        "following": false,
+        "friends_count": 725,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18844696,
+        "id_str": "18844696",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 265,
+        "location": "New York | London | SFO",
+        "name": "@CreativeMF",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/561960409058398208/N9HLXYmb.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/561960409058398208/N9HLXYmb.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18844696/1460928347",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/688002855689564161/m0-EcDy2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/688002855689564161/m0-EcDy2_normal.jpg",
+        "profile_link_color": "A31917",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "creativemf",
+        "statuses_count": 19014,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/Chft1Lh3Dj",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 23 00:10:57 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745771086302711813,
+    "id_str": "745771086302711813",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.250227,
+                        33.732905
+                    ],
+                    [
+                        -118.0631938,
+                        33.732905
+                    ],
+                    [
+                        -118.0631938,
+                        33.885438
+                    ],
+                    [
+                        -118.250227,
+                        33.885438
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Long Beach, CA",
+        "id": "01c060cf466c6ce3",
+        "name": "Long Beach",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Microsoft I got a \"letter\" supposedly from microsoft saying my live mail would be shut down if I didn't verify my account whats the story",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 15 01:57:55 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Imagine Play Toys & Barb's Jewelry Boutique. Educational Toys and Jewelry by Barb Hull https://t.co/o99p7u3Kwr Call 562-264-5473",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "imagineplaytoys.com/index.html",
+                        "expanded_url": "http://www.imagineplaytoys.com/index.html",
+                        "indices": [
+                            87,
+                            110
+                        ],
+                        "url": "https://t.co/o99p7u3Kwr"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1BDcns0",
+                        "expanded_url": "http://bit.ly/1BDcns0",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/N0zQYYmxKC"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 392,
+        "follow_request_sent": false,
+        "followers_count": 1306,
+        "following": false,
+        "friends_count": 2077,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1961689076,
+        "id_str": "1961689076",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 21,
+        "location": "Long Beach, California",
+        "name": "Imagine Play Toys*",
+        "notifications": false,
+        "profile_background_color": "FFF48C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/431894667589074945/Phm6kFwH.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/431894667589074945/Phm6kFwH.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1961689076/1466372370",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/744645981883424768/duk1HgIM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/744645981883424768/duk1HgIM_normal.jpg",
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Barbimagine",
+        "statuses_count": 6932,
+        "time_zone": null,
+        "url": "http://t.co/N0zQYYmxKC",
+        "utc_offset": null,
+        "verified": false
+    }
+}

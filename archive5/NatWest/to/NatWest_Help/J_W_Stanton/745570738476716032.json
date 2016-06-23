@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 22 10:54:50 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 284540385,
+                "id_str": "284540385",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "NatWest Help",
+                "screen_name": "NatWest_Help"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745570738476716032,
+    "id_str": "745570738476716032",
+    "in_reply_to_screen_name": "NatWest_Help",
+    "in_reply_to_status_id": 745569546153648128,
+    "in_reply_to_status_id_str": "745569546153648128",
+    "in_reply_to_user_id": 284540385,
+    "in_reply_to_user_id_str": "284540385",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        126.763077222066,
+                        37.4231954142857
+                    ],
+                    [
+                        127.178401912725,
+                        37.4231954142857
+                    ],
+                    [
+                        127.178401912725,
+                        37.6999717860755
+                    ],
+                    [
+                        126.763077222066,
+                        37.6999717860755
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\ub300\ud55c\ubbfc\uad6d",
+        "country_code": "KR",
+        "full_name": "Seoul, Republic of Korea",
+        "id": "07d403fda5cb90c2",
+        "name": "Seoul",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/07d403fda5cb90c2.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@NatWest_Help Done, thanks",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 19 14:11:43 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Freelance Journalist, poker enthusiast, and NBA Fanatic. I travel around writing about poker for geeks just like me.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "clippings.me/jackstanton",
+                        "expanded_url": "https://www.clippings.me/jackstanton",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/aPwVA3qefk"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 92,
+        "follow_request_sent": false,
+        "followers_count": 341,
+        "following": false,
+        "friends_count": 430,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 240252988,
+        "id_str": "240252988",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "Southsea",
+        "name": "Jack Stanton",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/765174126/a4f962762cd534692c3231aa3659beab.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/765174126/a4f962762cd534692c3231aa3659beab.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/240252988/1453937725",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/727584748961288192/A17viitC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/727584748961288192/A17viitC_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "J_W_Stanton",
+        "statuses_count": 2129,
+        "time_zone": "Amsterdam",
+        "url": "https://t.co/aPwVA3qefk",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

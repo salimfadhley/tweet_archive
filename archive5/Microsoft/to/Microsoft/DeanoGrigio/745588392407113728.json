@@ -1,0 +1,230 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 22 12:04:59 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/magnusrevang/s\u2026",
+                "expanded_url": "https://twitter.com/magnusrevang/status/745544107905343489",
+                "indices": [
+                    29,
+                    52
+                ],
+                "url": "https://t.co/jDw3yK77kQ"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745588392407113728,
+    "id_str": "745588392407113728",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Jun 22 09:09:01 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 745544107905343489,
+        "id_str": "745544107905343489",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Why is it that Microsoft can't fix the meeting notifications in Outlook? If the meeting is over, don't remind me it's overdue, simple!!!",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jul 01 20:04:00 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Research Director at @Gartner_inc covering #UX, #Web, #Mobile, #Bots and #SmartMachines | Speaker, Frequent Flyer, Hacker | Tweets = opinion | RT != endorsement",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.me/magnusrevang",
+                            "expanded_url": "http://about.me/magnusrevang",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/VOfPp90cNs"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 807,
+            "follow_request_sent": false,
+            "followers_count": 1442,
+            "following": false,
+            "friends_count": 941,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 15291421,
+            "id_str": "15291421",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 93,
+            "location": "59.902566,10.775502",
+            "name": "Magnus Revang",
+            "notifications": false,
+            "profile_background_color": "111111",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/108948465/x2e1bbafe985129bc74071e1861fd2c7.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/108948465/x2e1bbafe985129bc74071e1861fd2c7.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15291421/1433160737",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/605345756434845696/rTYpfj24_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/605345756434845696/rTYpfj24_normal.jpg",
+            "profile_link_color": "BADA55",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "170409",
+            "profile_text_color": "67917A",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "MagnusRevang",
+            "statuses_count": 6100,
+            "time_zone": "Stockholm",
+            "url": "https://t.co/VOfPp90cNs",
+            "utc_offset": 7200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 745544107905343489,
+    "quoted_status_id_str": "745544107905343489",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Microsoft please take note. https://t.co/jDw3yK77kQ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 02 21:10:34 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Consultant + Technologist + Tech Geek. Passionate about #disruptivetech #mobile #IoT #UX. I retweet.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 641,
+        "follow_request_sent": false,
+        "followers_count": 674,
+        "following": false,
+        "friends_count": 600,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 28420987,
+        "id_str": "28420987",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 56,
+        "location": "Chicago",
+        "name": "Dean Christopher",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28420987/1449667889",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/694186386426089473/XI_9D2_j_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/694186386426089473/XI_9D2_j_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "DeanoGrigio",
+        "statuses_count": 554,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

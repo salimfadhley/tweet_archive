@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 23 08:03:21 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    61,
+                    68
+                ],
+                "text": "ModelS"
+            },
+            {
+                "indices": [
+                    124,
+                    132
+                ],
+                "text": "Trieste"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Tesla Motors",
+                "screen_name": "TeslaMotors"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745889971979030529,
+    "id_str": "745889971979030529",
+    "in_reply_to_screen_name": "TeslaMotors",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13298072,
+    "in_reply_to_user_id_str": "13298072",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        11.1496504,
+                        43.7259588
+                    ],
+                    [
+                        11.339984,
+                        43.7259588
+                    ],
+                    [
+                        11.339984,
+                        43.8354579
+                    ],
+                    [
+                        11.1496504,
+                        43.8354579
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Italia",
+        "country_code": "IT",
+        "full_name": "Florence, Tuscany",
+        "id": "521b6f591c4b3ce8",
+        "name": "Florence",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/521b6f591c4b3ce8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@TeslaMotors is pleased to invite you to a test drive of the #ModelS! On June 24th at Starhotels Savoia Excelsior Palace in #Trieste!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 12 13:41:37 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Starhotels collection of 25 luxury hotels in Italy, New York, Paris and London promise authentic Italian hospitality paired with chic style.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "starhotels.com",
+                        "expanded_url": "http://www.starhotels.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/WjdToP7HIQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 85,
+        "follow_request_sent": false,
+        "followers_count": 2248,
+        "following": false,
+        "friends_count": 2010,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 143060740,
+        "id_str": "143060740",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "it",
+        "listed_count": 88,
+        "location": "Italy, NYC, Paris, London",
+        "name": "Starhotels",
+        "notifications": false,
+        "profile_background_color": "EAE1CA",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/346199722/background3.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/346199722/background3.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/143060740/1456916730",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/474502304142348288/Tt4Yxo33_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/474502304142348288/Tt4Yxo33_normal.jpeg",
+        "profile_link_color": "BE0707",
+        "profile_sidebar_border_color": "EAE1CA",
+        "profile_sidebar_fill_color": "EAE1CA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Starhotels",
+        "statuses_count": 3424,
+        "time_zone": "Rome",
+        "url": "http://t.co/WjdToP7HIQ",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

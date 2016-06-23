@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 23 18:13:34 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    125,
+                    140
+                ],
+                "text": "starbuckssucks"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746043534910717952,
+    "id_str": "746043534910717952",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.579274,
+                        47.115869
+                    ],
+                    [
+                        -122.434284,
+                        47.115869
+                    ],
+                    [
+                        -122.434284,
+                        47.1983371
+                    ],
+                    [
+                        -122.579274,
+                        47.1983371
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Lakewood, WA",
+        "id": "fedb5ad42e4b046a",
+        "name": "Lakewood",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/fedb5ad42e4b046a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Starbucks can y'all pay us more please. If I'm sweating while working I'm working more than just a measly 10 bucks and hour #starbuckssucks",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 12 10:22:12 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "my twiddle world go round n round. twenty-something. artist. photographer. sarcastic homo. whatever else I'm sure.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/tylernels",
+                        "expanded_url": "http://instagram.com/tylernels",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/MIopRUxKnA"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 227,
+        "follow_request_sent": false,
+        "followers_count": 75,
+        "following": false,
+        "friends_count": 228,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 434810013,
+        "id_str": "434810013",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Tacoma, Washington ",
+        "name": "TylerNels",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/811915253/c3b78f64da0a5bab3582f419bf2bcf41.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/811915253/c3b78f64da0a5bab3582f419bf2bcf41.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/434810013/1440738066",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/711452641746751488/ZFjc1gdx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/711452641746751488/ZFjc1gdx_normal.jpg",
+        "profile_link_color": "F50505",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A6D8F5",
+        "profile_text_color": "0D0C0D",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tyler_stromberg",
+        "statuses_count": 4228,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/MIopRUxKnA",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

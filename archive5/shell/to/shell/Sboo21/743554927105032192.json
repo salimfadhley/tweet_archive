@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 16 21:24:43 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/rUnbRiErxE",
+                "expanded_url": "http://twitter.com/Sboo21/status/743554927105032192/photo/1",
+                "id": 743554921904078848,
+                "id_str": "743554921904078848",
+                "indices": [
+                    7,
+                    30
+                ],
+                "media_url": "http://pbs.twimg.com/media/ClGjQw8WAAAQA5T.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ClGjQw8WAAAQA5T.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 540,
+                        "resize": "fit",
+                        "w": 720
+                    },
+                    "medium": {
+                        "h": 540,
+                        "resize": "fit",
+                        "w": 720
+                    },
+                    "small": {
+                        "h": 510,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/rUnbRiErxE"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20663500,
+                "id_str": "20663500",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Shell",
+                "screen_name": "Shell"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 743554927105032192,
+    "id_str": "743554927105032192",
+    "in_reply_to_screen_name": "Shell",
+    "in_reply_to_status_id": 740935234535993345,
+    "in_reply_to_status_id_str": "740935234535993345",
+    "in_reply_to_user_id": 20663500,
+    "in_reply_to_user_id_str": "20663500",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.487242,
+                        33.841705
+                    ],
+                    [
+                        -84.4542161,
+                        33.841705
+                    ],
+                    [
+                        -84.4542161,
+                        33.8811
+                    ],
+                    [
+                        -84.487242,
+                        33.8811
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Vinings, GA",
+        "id": "fee8047a46fbdfc8",
+        "name": "Vinings",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/fee8047a46fbdfc8.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Shell https://t.co/rUnbRiErxE",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 28 02:05:09 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 77,
+        "follow_request_sent": false,
+        "followers_count": 18,
+        "following": false,
+        "friends_count": 85,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 43022987,
+        "id_str": "43022987",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Scott Bouchette",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Sboo21",
+        "statuses_count": 36,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
