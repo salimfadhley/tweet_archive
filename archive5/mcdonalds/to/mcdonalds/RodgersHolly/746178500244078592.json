@@ -1,0 +1,321 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 24 03:09:52 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/crainschicago/\u2026",
+                "expanded_url": "https://twitter.com/crainschicago/status/745987263922843649",
+                "indices": [
+                    49,
+                    72
+                ],
+                "url": "https://t.co/Gz5cGRfp7Q"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746178500244078592,
+    "id_str": "746178500244078592",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jun 23 14:29:58 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        27,
+                        40
+                    ],
+                    "text": "FultonMarket"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/rlJ4MWFzUC",
+                    "expanded_url": "http://twitter.com/CrainsChicago/status/745987263922843649/photo/1",
+                    "id": 745987259816620032,
+                    "id_str": "745987259816620032",
+                    "indices": [
+                        107,
+                        130
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ClpHddxWMAA9bJz.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ClpHddxWMAA9bJz.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 349,
+                            "resize": "fit",
+                            "w": 620
+                        },
+                        "medium": {
+                            "h": 349,
+                            "resize": "fit",
+                            "w": 620
+                        },
+                        "small": {
+                            "h": 349,
+                            "resize": "fit",
+                            "w": 620
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/rlJ4MWFzUC"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "trib.al/IdmbSnw",
+                    "expanded_url": "http://trib.al/IdmbSnw",
+                    "indices": [
+                        69,
+                        92
+                    ],
+                    "url": "https://t.co/SdEdDGNDID"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 71026122,
+                    "id_str": "71026122",
+                    "indices": [
+                        12,
+                        22
+                    ],
+                    "name": "McDonald's",
+                    "screen_name": "McDonalds"
+                },
+                {
+                    "id": 2269132896,
+                    "id_str": "2269132896",
+                    "indices": [
+                        97,
+                        106
+                    ],
+                    "name": "Ryan Ori",
+                    "screen_name": "Ryan_Ori"
+                }
+            ]
+        },
+        "favorite_count": 11,
+        "favorited": false,
+        "geo": null,
+        "id": 745987263922843649,
+        "id_str": "745987263922843649",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 17,
+        "retweeted": false,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Here's what @McDonalds new #FultonMarket headquarters will look like https://t.co/SdEdDGNDID via @ryan_ori https://t.co/rlJ4MWFzUC",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Dec 15 22:18:57 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Crain's Chicago Business offers daily insights & information about Chicago\u2019s growing business community. @CRED_by_Crains",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "chicagobusiness.com",
+                            "expanded_url": "http://www.chicagobusiness.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/vYvngKO5oA"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 3777,
+            "follow_request_sent": false,
+            "followers_count": 148101,
+            "following": false,
+            "friends_count": 38006,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 18148466,
+            "id_str": "18148466",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 3035,
+            "location": "Chicago, IL",
+            "name": "Crain's Chicago",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/205857086/Tiled-Twitter-background.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/205857086/Tiled-Twitter-background.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18148466/1466079447",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1231909459/C-thumbnail-copy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1231909459/C-thumbnail-copy_normal.jpg",
+            "profile_link_color": "111C8F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "D6D6D6",
+            "profile_text_color": "0A0000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "CrainsChicago",
+            "statuses_count": 53519,
+            "time_zone": "Central Time (US & Canada)",
+            "url": "https://t.co/vYvngKO5oA",
+            "utc_offset": -18000,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 745987263922843649,
+    "quoted_status_id_str": "745987263922843649",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@McDonalds what's happening with the old campus? https://t.co/Gz5cGRfp7Q",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 27 14:43:59 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Integrity - ConsciousSelling - Marketing -ConsciousLeadership - Speaking - HRJ Development - Practices Ballet & Yoga - Loves Nature, Swimming, Walking.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "hrjdevelopment.com",
+                        "expanded_url": "http://www.hrjdevelopment.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/q98krreqOb"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 880,
+        "follow_request_sent": false,
+        "followers_count": 596,
+        "following": false,
+        "friends_count": 670,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 272959488,
+        "id_str": "272959488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 81,
+        "location": "Chicago",
+        "name": "Holly Rodgers Jordan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/272959488/1398282907",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/451098728510681088/stU54py6_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/451098728510681088/stU54py6_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RodgersHolly",
+        "statuses_count": 4445,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/q98krreqOb",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
