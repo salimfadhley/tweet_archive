@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 23 23:49:14 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/YsdtqzWxRd",
+                "expanded_url": "http://twitter.com/jyork421/status/746128010659639300/photo/1",
+                "id": 746127997955096576,
+                "id_str": "746127997955096576",
+                "indices": [
+                    114,
+                    137
+                ],
+                "media_url": "http://pbs.twimg.com/media/ClrHdgMWQAApx7M.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ClrHdgMWQAApx7M.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 1152
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 675
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 383
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/YsdtqzWxRd"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746128010659639300,
+    "id_str": "746128010659639300",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.26142,
+                        34.965102
+                    ],
+                    [
+                        -79.195342,
+                        34.965102
+                    ],
+                    [
+                        -79.195342,
+                        34.995701
+                    ],
+                    [
+                        -79.26142,
+                        34.995701
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Raeford, NC",
+        "id": "4176465d1c9380f0",
+        "name": "Raeford",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4176465d1c9380f0.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@McDonalds when did this become the medium shake? I didnt order a happy meal but i was handed a child size drink. https://t.co/YsdtqzWxRd",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 20 04:34:57 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Family man, Marine Veteran, casual gamer, lover of the outdoors, guns (and anything else that goes boom), sports, and all things nerdy.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 421,
+        "follow_request_sent": false,
+        "followers_count": 77,
+        "following": false,
+        "friends_count": 135,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 700901426764128256,
+        "id_str": "700901426764128256",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Raeford, NC",
+        "name": "Josh York",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/700901426764128256/1460944362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700901870928269312/YGRqpoeL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700901870928269312/YGRqpoeL_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "jyork421",
+        "statuses_count": 250,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

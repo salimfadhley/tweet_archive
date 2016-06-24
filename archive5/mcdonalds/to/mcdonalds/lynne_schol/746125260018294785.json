@@ -1,0 +1,135 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -88.60537186,
+            44.78144732
+        ],
+        "type": "Point"
+    },
+    "created_at": "Thu Jun 23 23:38:18 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            44.78144732,
+            -88.60537186
+        ],
+        "type": "Point"
+    },
+    "id": 746125260018294785,
+    "id_str": "746125260018294785",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": 746087301726474244,
+    "in_reply_to_status_id_str": "746087301726474244",
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -88.629567,
+                        44.7577754
+                    ],
+                    [
+                        -88.527643,
+                        44.7577754
+                    ],
+                    [
+                        -88.527643,
+                        44.815891
+                    ],
+                    [
+                        -88.629567,
+                        44.815891
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Shawano, WI",
+        "id": "6b67be891fda1a94",
+        "name": "Shawano",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6b67be891fda1a94.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>",
+    "text": "@McDonalds No problem. I love McDonald's so much!!!!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 22 13:30:38 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I follow back!!!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 29,
+        "follow_request_sent": false,
+        "followers_count": 116,
+        "following": false,
+        "friends_count": 159,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 745609945400356864,
+        "id_str": "745609945400356864",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Shawano, WI",
+        "name": "Courtney Scholar",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/745612598595424256/s9L4q7iY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/745612598595424256/s9L4q7iY_normal.jpg",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lynne_schol",
+        "statuses_count": 23,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
