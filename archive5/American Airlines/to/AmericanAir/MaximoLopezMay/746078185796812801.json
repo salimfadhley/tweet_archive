@@ -1,0 +1,158 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 23 20:31:15 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    64,
+                    72
+                ],
+                "text": "Service"
+            },
+            {
+                "indices": [
+                    73,
+                    84
+                ],
+                "text": "Experience"
+            },
+            {
+                "indices": [
+                    85,
+                    90
+                ],
+                "text": "Fail"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746078185796812801,
+    "id_str": "746078185796812801",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.962582,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.8000371
+                    ],
+                    [
+                        -73.962582,
+                        40.8000371
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Queens, NY",
+        "id": "00c39537733fa112",
+        "name": "Queens",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c39537733fa112.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir once again and as usual you are late AA343 LGA-ORD #Service #Experience #Fail",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 01 17:52:47 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "M\u00e1ximo placer en la cocina, b\u00fascalo en librer\u00edas.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/pages/Maximo-L\u2026",
+                        "expanded_url": "http://facebook.com/pages/Maximo-Lopez-May/38801543357",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/j06p03fwz4"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 758,
+        "follow_request_sent": false,
+        "followers_count": 17932,
+        "following": false,
+        "friends_count": 1265,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 62082008,
+        "id_str": "62082008",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 115,
+        "location": "Buenos Aires, Argentina",
+        "name": "Maximo Lopez May",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/478309989220511745/fFOVmnGI_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/478309989220511745/fFOVmnGI_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "030303",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MaximoLopezMay",
+        "statuses_count": 2144,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/j06p03fwz4",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
