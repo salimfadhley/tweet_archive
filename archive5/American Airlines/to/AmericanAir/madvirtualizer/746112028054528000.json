@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 23 22:45:44 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746112028054528000,
+    "id_str": "746112028054528000",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 746110525528903680,
+    "in_reply_to_status_id_str": "746110525528903680",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.2827473,
+                        40.472581
+                    ],
+                    [
+                        -80.17088,
+                        40.472581
+                    ],
+                    [
+                        -80.17088,
+                        40.5718533
+                    ],
+                    [
+                        -80.2827473,
+                        40.5718533
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Moon, PA",
+        "id": "00173a837b85dc2b",
+        "name": "Moon",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00173a837b85dc2b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir we are boarding now. Crew showed up.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 01 21:40:44 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Tech Guy, Social Media Junkie, Bond Villain. #AppV #ARA #HyperV #AppCompat #Azure #Food #Booze #Film #Rangers #Xbox Honorary #CrazyCatLady -RT/FAV \u2260 endorsement",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/steven_thomas",
+                        "expanded_url": "http://about.me/steven_thomas",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/xnuXunjQSr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 301,
+        "follow_request_sent": false,
+        "followers_count": 1088,
+        "following": false,
+        "friends_count": 1917,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 110528816,
+        "id_str": "110528816",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 76,
+        "location": "DFW, Texas",
+        "name": "Steven Thomas",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459827879933526016/xh6lxYZ4.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459827879933526016/xh6lxYZ4.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/110528816/1398466351",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/459826861627805696/FhTrzzd3_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/459826861627805696/FhTrzzd3_normal.png",
+        "profile_link_color": "1A6180",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "madvirtualizer",
+        "statuses_count": 19140,
+        "time_zone": "America/Chicago",
+        "url": "http://t.co/xnuXunjQSr",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

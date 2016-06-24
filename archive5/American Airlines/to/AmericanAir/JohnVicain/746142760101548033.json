@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 24 00:47:51 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/qMq59bepUB",
+                "expanded_url": "http://twitter.com/JohnVicain/status/746142760101548033/photo/1",
+                "id": 746142750584647680,
+                "id_str": "746142750584647680",
+                "indices": [
+                    107,
+                    130
+                ],
+                "media_url": "http://pbs.twimg.com/media/ClrU4OBUsAAeSWr.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ClrU4OBUsAAeSWr.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 495,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 495,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 495,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/qMq59bepUB"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746142760101548033,
+    "id_str": "746142760101548033",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 746133629051371520,
+    "in_reply_to_status_id_str": "746133629051371520",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -115.2092535,
+                        35.984784
+                    ],
+                    [
+                        -115.0610763,
+                        35.984784
+                    ],
+                    [
+                        -115.0610763,
+                        36.137145
+                    ],
+                    [
+                        -115.2092535,
+                        36.137145
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Paradise, NV",
+        "id": "8fa6d7a33b83ef26",
+        "name": "Paradise",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8fa6d7a33b83ef26.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Nice App. I am at the gate. No update on leaving. App just told me I am leaving 9 mins ago!!! https://t.co/qMq59bepUB",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 26 03:01:50 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Diver, Dad, Jed York hater for ruining the 49ers.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 665,
+        "follow_request_sent": false,
+        "followers_count": 83,
+        "following": false,
+        "friends_count": 173,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1380948211,
+        "id_str": "1380948211",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "Mr V in AZ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1380948211/1434824525",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655510615646060544/uCMfGOeL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655510615646060544/uCMfGOeL_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JohnVicain",
+        "statuses_count": 1084,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

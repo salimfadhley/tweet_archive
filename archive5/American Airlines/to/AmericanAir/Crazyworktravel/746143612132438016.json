@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 24 00:51:14 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746143612132438016,
+    "id_str": "746143612132438016",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -124.482003,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        42.009519
+                    ],
+                    [
+                        -124.482003,
+                        42.009519
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "California, USA",
+        "id": "fbd6d2f5a4e4a15e",
+        "name": "California",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir sometimes I hate you! My flight is full, earlier flight is not but I can't get on it. What is the point of being loyal?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 24 03:37:33 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2,
+        "follow_request_sent": false,
+        "followers_count": 40,
+        "following": false,
+        "friends_count": 166,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3254189508,
+        "id_str": "3254189508",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "Crazyworktravel",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/613556414917668864/g4jY5Aa8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/613556414917668864/g4jY5Aa8_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Crazyworktravel",
+        "statuses_count": 63,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
