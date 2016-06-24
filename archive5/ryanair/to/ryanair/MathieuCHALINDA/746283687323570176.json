@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 24 10:07:50 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1542862735,
+                "id_str": "1542862735",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Ryanair",
+                "screen_name": "Ryanair"
+            },
+            {
+                "id": 1941552596,
+                "id_str": "1941552596",
+                "indices": [
+                    9,
+                    22
+                ],
+                "name": "CM Hall of Fame",
+                "screen_name": "CMHallofFame"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746283687323570176,
+    "id_str": "746283687323570176",
+    "in_reply_to_screen_name": "Ryanair",
+    "in_reply_to_status_id": 746250571728961536,
+    "in_reply_to_status_id_str": "746250571728961536",
+    "in_reply_to_user_id": 1542862735,
+    "in_reply_to_user_id_str": "1542862735",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.2241006,
+                        48.8155214
+                    ],
+                    [
+                        2.4699053,
+                        48.8155214
+                    ],
+                    [
+                        2.4699053,
+                        48.9021461
+                    ],
+                    [
+                        2.2241006,
+                        48.9021461
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Paris, France",
+        "id": "09f6a7707f18e0b1",
+        "name": "Paris",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Ryanair @CMHallofFame",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 04 04:51:33 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#Blogueur #RedacteurWeb #CommunityManager et #Parisien",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "lacuisinedemathieu.fr",
+                        "expanded_url": "http://www.lacuisinedemathieu.fr",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/DfcVYTKnr1"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 772,
+        "follow_request_sent": false,
+        "followers_count": 82,
+        "following": false,
+        "friends_count": 142,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 111216213,
+        "id_str": "111216213",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 52,
+        "location": "Paris, France",
+        "name": "Mathieu CHALINDA",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/533796185/DeadSea.JPG",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/533796185/DeadSea.JPG",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/111216213/1463546473",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/743923714983604224/DVYUJ8gf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/743923714983604224/DVYUJ8gf_normal.jpg",
+        "profile_link_color": "1929E0",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MathieuCHALINDA",
+        "statuses_count": 1596,
+        "time_zone": "Paris",
+        "url": "https://t.co/DfcVYTKnr1",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}
