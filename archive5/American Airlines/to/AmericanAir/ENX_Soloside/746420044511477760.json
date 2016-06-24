@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 24 19:09:41 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746420044511477760,
+    "id_str": "746420044511477760",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -75.280284,
+                        39.871811
+                    ],
+                    [
+                        -74.955712,
+                        39.871811
+                    ],
+                    [
+                        -74.955712,
+                        40.13792
+                    ],
+                    [
+                        -75.280284,
+                        40.13792
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Philadelphia, PA",
+        "id": "e4a0d228eb6be76b",
+        "name": "Philadelphia",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir why are we getting redirected to refuel. You'd think the crew would check to make sure there's enough to the destination",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 17 18:25:52 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ItB \u0394\u03a7 Proud | \u4e0a\u6d77 | @shorterace is my son | @EANIXGG Manager | Tweets are my own",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitch.tv/solosidelol",
+                        "expanded_url": "http://www.twitch.tv/solosidelol",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/alS7kxpEf6"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 129,
+        "follow_request_sent": false,
+        "followers_count": 906,
+        "following": false,
+        "friends_count": 270,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 954085610,
+        "id_str": "954085610",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Philadelphia, PA",
+        "name": "Frank Fang",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/529679770481471488/8V62hLv0.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/529679770481471488/8V62hLv0.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/954085610/1464109310",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/494327294945542145/KGozVmt1_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/494327294945542145/KGozVmt1_normal.jpeg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ENX_Soloside",
+        "statuses_count": 6896,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/alS7kxpEf6",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
