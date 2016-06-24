@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 24 07:49:12 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1542862735,
+                "id_str": "1542862735",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Ryanair",
+                "screen_name": "Ryanair"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746248797777436672,
+    "id_str": "746248797777436672",
+    "in_reply_to_screen_name": "Ryanair",
+    "in_reply_to_status_id": 746244014333014017,
+    "in_reply_to_status_id_str": "746244014333014017",
+    "in_reply_to_user_id": 1542862735,
+    "in_reply_to_user_id_str": "1542862735",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.387438,
+                        53.2987449
+                    ],
+                    [
+                        -6.1078047,
+                        53.2987449
+                    ],
+                    [
+                        -6.1078047,
+                        53.4110598
+                    ],
+                    [
+                        -6.387438,
+                        53.4110598
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ireland",
+        "country_code": "IE",
+        "full_name": "Dublin City, Ireland",
+        "id": "7dde0febc9ef245b",
+        "name": "Dublin City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Ryanair share price dropped 18% today someone tweeted. Suspect the boss not very happy this Friday!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 04 14:53:46 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Master of Wine writing about wine in Sunday Times (Ireland). Talk about it on Moncrieff show on Newstalk radio. Rant too about football (Spurs), politics & life",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "winerepublic.com",
+                        "expanded_url": "http://www.winerepublic.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/v3Qyuj4j3C"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3309,
+        "follow_request_sent": false,
+        "followers_count": 3753,
+        "following": false,
+        "friends_count": 1053,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 71553503,
+        "id_str": "71553503",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 152,
+        "location": "Dublin",
+        "name": "Martin Moran",
+        "notifications": false,
+        "profile_background_color": "07090B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/89333669/xc16df7433a366990a3c4191b074e497.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/89333669/xc16df7433a366990a3c4191b074e497.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/737670221352308736/zJiITHz7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/737670221352308736/zJiITHz7_normal.jpg",
+        "profile_link_color": "C34242",
+        "profile_sidebar_border_color": "BFBFBF",
+        "profile_sidebar_fill_color": "C9C9C9",
+        "profile_text_color": "1C1F23",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "winerepublic",
+        "statuses_count": 12152,
+        "time_zone": null,
+        "url": "http://t.co/v3Qyuj4j3C",
+        "utc_offset": null,
+        "verified": false
+    }
+}
