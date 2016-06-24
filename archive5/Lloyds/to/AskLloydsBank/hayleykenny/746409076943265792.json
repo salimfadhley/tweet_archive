@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 24 18:26:06 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 147932302,
+                "id_str": "147932302",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Lloyds Bank",
+                "screen_name": "AskLloydsBank"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746409076943265792,
+    "id_str": "746409076943265792",
+    "in_reply_to_screen_name": "AskLloydsBank",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 147932302,
+    "in_reply_to_user_id_str": "147932302",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.387438,
+                        53.2987449
+                    ],
+                    [
+                        -6.1078047,
+                        53.2987449
+                    ],
+                    [
+                        -6.1078047,
+                        53.4110598
+                    ],
+                    [
+                        -6.387438,
+                        53.4110598
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ireland",
+        "country_code": "IE",
+        "full_name": "Dublin City, Ireland",
+        "id": "7dde0febc9ef245b",
+        "name": "Dublin City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AskLloydsBank I'm trying to log into online banking but it's looking for three letters for a memorable code - I never picked one in store?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 20 13:43:59 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Entertainment writer @RSVPmagazine | MA Journalism grad | BA Communications grad | #Snapchat: hayley_kenny \u2728",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/hayleykenny",
+                        "expanded_url": "http://Instagram.com/hayleykenny",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/WL12wSXlzG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 693,
+        "follow_request_sent": false,
+        "followers_count": 708,
+        "following": false,
+        "friends_count": 378,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 124763186,
+        "id_str": "124763186",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 22,
+        "location": "Dublin City, Ireland",
+        "name": "Hayley Kenny",
+        "notifications": false,
+        "profile_background_color": "B2ECF0",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/879378743/593fe81735607d7a790767652bca3e3f.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/879378743/593fe81735607d7a790767652bca3e3f.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/124763186/1466382893",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/744689935899332613/Yz6MUU74_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/744689935899332613/Yz6MUU74_normal.jpg",
+        "profile_link_color": "A26BA2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C43575",
+        "profile_text_color": "801F7D",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hayleykenny",
+        "statuses_count": 23258,
+        "time_zone": "Dublin",
+        "url": "https://t.co/WL12wSXlzG",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
