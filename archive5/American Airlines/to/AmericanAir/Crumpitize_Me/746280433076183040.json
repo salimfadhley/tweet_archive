@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 24 09:54:55 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    132,
+                    139
+                ],
+                "text": "thanks"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746280433076183040,
+    "id_str": "746280433076183040",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir didn't let me check my bag because they said it was too late, yet we have had a 2 hour delay and still aren't boarded. #thanks",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 27 06:22:22 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Dancer. Dreamer. Accomplisher.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/MonyettBeastly",
+                        "expanded_url": "http://www.youtube.com/MonyettBeastly",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/krVCHoctDi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2424,
+        "follow_request_sent": false,
+        "followers_count": 591,
+        "following": false,
+        "friends_count": 321,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 51366610,
+        "id_str": "51366610",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Chicago, Illinois",
+        "name": "Monyett Crump",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/854794590/8e84aca9be8885c2b114a41c4776044c.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/854794590/8e84aca9be8885c2b114a41c4776044c.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51366610/1381196836",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712902103442677760/7T_WawxJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712902103442677760/7T_WawxJ_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Crumpitize_Me",
+        "statuses_count": 9952,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/krVCHoctDi",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
