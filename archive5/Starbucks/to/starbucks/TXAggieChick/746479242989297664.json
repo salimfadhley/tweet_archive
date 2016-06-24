@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 24 23:04:55 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746479242989297664,
+    "id_str": "746479242989297664",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -98.778559,
+                        29.141956
+                    ],
+                    [
+                        -98.302744,
+                        29.141956
+                    ],
+                    [
+                        -98.302744,
+                        29.693046
+                    ],
+                    [
+                        -98.778559,
+                        29.693046
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Antonio, TX",
+        "id": "3df4f427b5a60fea",
+        "name": "San Antonio",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3df4f427b5a60fea.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks u take away the old reward program now u take away the sweet tea. Why-sweet tea is popular &amp;  is not as unhealthy as some drinks.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 28 11:27:55 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "USAA, Data Business Solutions Analyst, Cruise Planners,  #Travel Agent Lorrie Ortega '11. TX Aggie Chick",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "gobooktrips.com",
+                        "expanded_url": "http://www.gobooktrips.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ez4UKcR91L"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 222,
+        "follow_request_sent": false,
+        "followers_count": 1443,
+        "following": false,
+        "friends_count": 1914,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 258739066,
+        "id_str": "258739066",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 78,
+        "location": "San Antonio, TX USA",
+        "name": "Lorrie Ortega",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/401223492/383162_10150474206676769_540016768_8742149_1762055137_n.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/401223492/383162_10150474206676769_540016768_8742149_1762055137_n.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/431165085772312578/9muH51kg_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/431165085772312578/9muH51kg_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TXAggieChick",
+        "statuses_count": 8155,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": "https://t.co/ez4UKcR91L",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

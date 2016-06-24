@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 24 18:03:16 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746403332785266688,
+    "id_str": "746403332785266688",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.993537,
+                        29.840708
+                    ],
+                    [
+                        -97.8768464,
+                        29.840708
+                    ],
+                    [
+                        -97.8768464,
+                        29.950505
+                    ],
+                    [
+                        -97.993537,
+                        29.950505
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Marcos, TX",
+        "id": "f95ca607d76de8c6",
+        "name": "San Marcos",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/f95ca607d76de8c6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks is way too good at what they do",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 08 15:06:30 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "CEO- Off on a Tangent Creative Arts Collective @WeAreO2T | Actor, Vocalist, Director, Dancer, Published Author, Entertainment Mogul | #TerryScholar #TXST",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "soundcloud.com/travisegreen",
+                        "expanded_url": "https://soundcloud.com/travisegreen",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/T3FtIzGRl9"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3896,
+        "follow_request_sent": false,
+        "followers_count": 3547,
+        "following": false,
+        "friends_count": 1645,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2966479404,
+        "id_str": "2966479404",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "San Marcos, TX",
+        "name": "Travis E. Green",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/615613868468011010/iy8A0sph.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/615613868468011010/iy8A0sph.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2966479404/1451320367",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/740678340449734657/wfP653SW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/740678340449734657/wfP653SW_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TravisEGreen",
+        "statuses_count": 3241,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/T3FtIzGRl9",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
