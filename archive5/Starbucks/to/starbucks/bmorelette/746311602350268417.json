@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 24 11:58:46 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/bFWmW1nxlv",
+                "expanded_url": "http://twitter.com/bmorelette/status/746311602350268417/photo/1",
+                "id": 746311589398216704,
+                "id_str": "746311589398216704",
+                "indices": [
+                    113,
+                    136
+                ],
+                "media_url": "http://pbs.twimg.com/media/Cltub7nWgAAbTzW.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cltub7nWgAAbTzW.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 1152
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 675
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 383
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/bFWmW1nxlv"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746311602350268417,
+    "id_str": "746311602350268417",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.561205,
+                        33.788139
+                    ],
+                    [
+                        -84.470367,
+                        33.788139
+                    ],
+                    [
+                        -84.470367,
+                        33.905391
+                    ],
+                    [
+                        -84.561205,
+                        33.905391
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Smyrna, GA",
+        "id": "5b8df26e6d0be60b",
+        "name": "Smyrna",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5b8df26e6d0be60b.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Starbucks Drive thru gave me this instead of the caramel macc I paid for. Didn't realize until I was at work. \ud83d\ude15 https://t.co/bFWmW1nxlv",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 15 02:17:17 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "former cynic turned soft by the face of the sweetest little surprise squirrel.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1818,
+        "follow_request_sent": false,
+        "followers_count": 30,
+        "following": false,
+        "friends_count": 121,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 31308575,
+        "id_str": "31308575",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Atlanta",
+        "name": "Dana",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31308575/1462583304",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/728753306265247744/0Qd84JA7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/728753306265247744/0Qd84JA7_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bmorelette",
+        "statuses_count": 3353,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
