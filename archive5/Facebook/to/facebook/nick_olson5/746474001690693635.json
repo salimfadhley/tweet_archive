@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 24 22:44:05 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/UCxguSdcfh",
+                "expanded_url": "http://twitter.com/nick_olson5/status/746474001690693635/photo/1",
+                "id": 746473994140942337,
+                "id_str": "746473994140942337",
+                "indices": [
+                    55,
+                    78
+                ],
+                "media_url": "http://pbs.twimg.com/media/ClwCJIbWgAEck5c.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ClwCJIbWgAEck5c.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1136,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 1136,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 383
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/UCxguSdcfh"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746474001690693635,
+    "id_str": "746474001690693635",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -88.192715,
+                        43.0164581
+                    ],
+                    [
+                        -88.0661345,
+                        43.0164581
+                    ],
+                    [
+                        -88.0661345,
+                        43.104785
+                    ],
+                    [
+                        -88.192715,
+                        43.104785
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Brookfield, WI",
+        "id": "bf56732bdc932112",
+        "name": "Brookfield",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/bf56732bdc932112.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook are you trying to tell me I have no friends? https://t.co/UCxguSdcfh",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 02 00:39:25 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Identity theft is not a joke Jim.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6798,
+        "follow_request_sent": false,
+        "followers_count": 773,
+        "following": false,
+        "friends_count": 540,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 259483587,
+        "id_str": "259483587",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "U Double U O",
+        "name": "nick olson",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/259483587/1465267815",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/743222614668238848/EPIAEco2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/743222614668238848/EPIAEco2_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nick_olson5",
+        "statuses_count": 14994,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
