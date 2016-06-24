@@ -1,0 +1,155 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 24 18:10:37 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    43,
+                    50
+                ],
+                "text": "Remain"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 241886359,
+                "id_str": "241886359",
+                "indices": [
+                    1,
+                    12
+                ],
+                "name": "Matt Doncel",
+                "screen_name": "MattDoncel"
+            }
+        ]
+    },
+    "favorite_count": 10,
+    "favorited": false,
+    "geo": null,
+    "id": 746405181621927936,
+    "id_str": "746405181621927936",
+    "in_reply_to_screen_name": "MattDoncel",
+    "in_reply_to_status_id": 746404254785617920,
+    "in_reply_to_status_id_str": "746404254785617920",
+    "in_reply_to_user_id": 241886359,
+    "in_reply_to_user_id_str": "241886359",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.387438,
+                        53.2987449
+                    ],
+                    [
+                        -6.1078047,
+                        53.2987449
+                    ],
+                    [
+                        -6.1078047,
+                        53.4110598
+                    ],
+                    [
+                        -6.387438,
+                        53.4110598
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ireland",
+        "country_code": "IE",
+        "full_name": "Dublin City, Ireland",
+        "id": "7dde0febc9ef245b",
+        "name": "Dublin City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json"
+    },
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": ".@MattDoncel What do you mean? Sure didn't #Remain win? Sorry, I'm on nights and just started my shift...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 24 08:48:55 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Thanks for choosing Europe's favourite airline! We're here 7am - 9pm everyday. Ryanair. Low Fares. Made Simple. Live Flight Info here: https://t.co/cnePB7yLGg",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1KxDhQS",
+                        "expanded_url": "http://bit.ly/1KxDhQS",
+                        "indices": [
+                            135,
+                            158
+                        ],
+                        "url": "https://t.co/cnePB7yLGg"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ryanair.com",
+                        "expanded_url": "http://www.ryanair.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/45fs4JhVba"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2253,
+        "follow_request_sent": false,
+        "followers_count": 242305,
+        "following": false,
+        "friends_count": 436,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1542862735,
+        "id_str": "1542862735",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1347,
+        "location": "",
+        "name": "Ryanair",
+        "notifications": false,
+        "profile_background_color": "0C306E",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/663694943135731713/ETkHimyj.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/663694943135731713/ETkHimyj.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1542862735/1466784422",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/741325629258407940/kPnQ_4Ek_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/741325629258407940/kPnQ_4Ek_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Ryanair",
+        "statuses_count": 100182,
+        "time_zone": "Dublin",
+        "url": "http://t.co/45fs4JhVba",
+        "utc_offset": 3600,
+        "verified": true
+    }
+}
