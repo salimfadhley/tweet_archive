@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 27 18:05:07 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 813762162,
+                "id_str": "813762162",
+                "indices": [
+                    11,
+                    21
+                ],
+                "name": "\u039d\u03b9\u03c2\u03ba\u00a9",
+                "screen_name": "la_nick17"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747490961568108544,
+    "id_str": "747490961568108544",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": 747482130859495424,
+    "in_reply_to_status_id_str": "747482130859495424",
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -124.482003,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        42.009519
+                    ],
+                    [
+                        -124.482003,
+                        42.009519
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "California, USA",
+        "id": "fbd6d2f5a4e4a15e",
+        "name": "California",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks @la_nick17",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 05 08:09:17 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "LA livin and SB chillin\nUCSB '17",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4201,
+        "follow_request_sent": false,
+        "followers_count": 193,
+        "following": false,
+        "friends_count": 218,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1062454608,
+        "id_str": "1062454608",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "",
+        "name": "Matthew",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1062454608/1389797293",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/641563145153081344/6UEnjnlg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/641563145153081344/6UEnjnlg_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Mattt_alvarez",
+        "statuses_count": 3986,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

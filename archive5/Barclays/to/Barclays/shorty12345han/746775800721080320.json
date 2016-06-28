@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 25 18:43:19 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 191781601,
+                "id_str": "191781601",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Barclays Bank",
+                "screen_name": "Barclays"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746775800721080320,
+    "id_str": "746775800721080320",
+    "in_reply_to_screen_name": "Barclays",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 191781601,
+    "in_reply_to_user_id_str": "191781601",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.278624,
+                        51.447362
+                    ],
+                    [
+                        -3.0809756,
+                        51.447362
+                    ],
+                    [
+                        -3.0809756,
+                        51.5466412
+                    ],
+                    [
+                        -3.278624,
+                        51.5466412
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Cardiff, Wales",
+        "id": "68f3012fe4848e35",
+        "name": "Cardiff",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/68f3012fe4848e35.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Barclays Any chance you can stop...rejecting my purchase of tickets...please.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 24 23:08:38 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "Greyhound Derby odds @betdaq if they put the market up",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 188,
+        "follow_request_sent": false,
+        "followers_count": 175,
+        "following": false,
+        "friends_count": 476,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 287409277,
+        "id_str": "287409277",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Stoke-on-Trent, England",
+        "name": "sarah short",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_1_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_1_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "shorty12345han",
+        "statuses_count": 1134,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 26 21:12:09 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747175642052042753,
+    "id_str": "747175642052042753",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir 90 minute delay so far. 60 min at gate. Perfect weather. Let us go!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 07 02:48:50 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Dr Jeff Livingston MacArthur ObGyn in Irving Tx, Obstetrics, Gynecology, Health information technology, social media and fan of the Polyphonic Spree.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "macobgyn.com",
+                        "expanded_url": "http://www.macobgyn.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/NeZMUlSQDl"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 366,
+        "follow_request_sent": false,
+        "followers_count": 4120,
+        "following": false,
+        "friends_count": 3114,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20290668,
+        "id_str": "20290668",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 380,
+        "location": "Irving, Texas",
+        "name": "MacArthur Obgyn",
+        "notifications": false,
+        "profile_background_color": "E6B7F0",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/443127703999225857/GDX1lFko.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/443127703999225857/GDX1lFko.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20290668/1418852112",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/544900636223864832/b-WMRr3B_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/544900636223864832/b-WMRr3B_normal.jpeg",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "macobgyn",
+        "statuses_count": 6493,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/NeZMUlSQDl",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

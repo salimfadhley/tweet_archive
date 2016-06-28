@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 26 13:47:53 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747063837216509952,
+    "id_str": "747063837216509952",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -112.3239143,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.8154652
+                    ],
+                    [
+                        -112.3239143,
+                        33.8154652
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Phoenix, AZ",
+        "id": "5c62ffb0f0f3479d",
+        "name": "Phoenix",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks mobile order would be awesome at airport locations!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 17 12:44:50 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Amateur triathlete. Food & wine lover. Instagram: rarawats",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "robinlwatson.blogspot.com",
+                        "expanded_url": "http://robinlwatson.blogspot.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OXp6O06n5C"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2999,
+        "follow_request_sent": false,
+        "followers_count": 622,
+        "following": false,
+        "friends_count": 858,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 886751365,
+        "id_str": "886751365",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 16,
+        "location": "Scottsdale, AZ",
+        "name": "Robin Watson",
+        "notifications": false,
+        "profile_background_color": "C1EBDF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/735535643/13c1000153a20c8186d25eaf84196b1e.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/735535643/13c1000153a20c8186d25eaf84196b1e.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/886751365/1452748302",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/711045770388987905/Y3Aa1X2C_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/711045770388987905/Y3Aa1X2C_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RdiddyWatson",
+        "statuses_count": 3487,
+        "time_zone": "Arizona",
+        "url": "https://t.co/OXp6O06n5C",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

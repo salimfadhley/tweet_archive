@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 26 16:54:19 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747110755451830272,
+    "id_str": "747110755451830272",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 747110240441638912,
+    "in_reply_to_status_id_str": "747110240441638912",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir 5th reticket to get from PVG-MCO in past 48 hours...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 26 12:17:14 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Travel, food, history, fashion. Investing, teaching, consulting. Philanthropy, advocacy. Ideas.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "moseswrites.org",
+                        "expanded_url": "http://moseswrites.org",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/xwA4jG5bXB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3050,
+        "follow_request_sent": false,
+        "followers_count": 519,
+        "following": false,
+        "friends_count": 461,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 590870806,
+        "id_str": "590870806",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "Between New York and Shanghai.",
+        "name": "Christopher Moses",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/779251261/a5c8ee652248bd2ad54a362bc6fbd4c5.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/779251261/a5c8ee652248bd2ad54a362bc6fbd4c5.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/590870806/1358158242",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3107317278/dbf40ba94fdcae025479082c948c3174_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3107317278/dbf40ba94fdcae025479082c948c3174_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CityUponAHill",
+        "statuses_count": 1894,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/xwA4jG5bXB",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

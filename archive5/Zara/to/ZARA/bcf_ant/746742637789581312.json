@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 25 16:31:33 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 346742249,
+                "id_str": "346742249",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "ZARA",
+                "screen_name": "ZARA"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746742637789581312,
+    "id_str": "746742637789581312",
+    "in_reply_to_screen_name": "ZARA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 346742249,
+    "in_reply_to_user_id_str": "346742249",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.187894,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.5164655
+                    ],
+                    [
+                        -0.187894,
+                        51.5164655
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "London, England",
+        "id": "457b4814b4240d87",
+        "name": "London",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/457b4814b4240d87.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@ZARA Your checkout staff in the Oxford Circus branch in the basement are slow and now they are closing a till.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 02 16:15:18 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Co-founder of @_bcfootball. Give us a quick try. Download on iOS - https://t.co/4IZoAfeYVN",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "apple.co/1My0Uvs",
+                        "expanded_url": "http://apple.co/1My0Uvs",
+                        "indices": [
+                            67,
+                            90
+                        ],
+                        "url": "https://t.co/4IZoAfeYVN"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "broadcastfootball.co.uk",
+                        "expanded_url": "http://broadcastfootball.co.uk",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/DVgB8jFci7"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1220,
+        "follow_request_sent": false,
+        "followers_count": 214,
+        "following": false,
+        "friends_count": 122,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1235226709,
+        "id_str": "1235226709",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 33,
+        "location": "London, England",
+        "name": "Ant",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1235226709/1414849108",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/528541467166269441/0UBOCjqZ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/528541467166269441/0UBOCjqZ_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bcf_ant",
+        "statuses_count": 9809,
+        "time_zone": "London",
+        "url": "https://t.co/DVgB8jFci7",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

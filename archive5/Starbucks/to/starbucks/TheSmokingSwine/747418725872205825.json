@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 27 13:18:05 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 15386108,
+                "id_str": "15386108",
+                "indices": [
+                    11,
+                    27
+                ],
+                "name": "My Starbucks Idea",
+                "screen_name": "MyStarbucksIdea"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747418725872205825,
+    "id_str": "747418725872205825",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.6831650571008,
+                        39.19957238041879
+                    ],
+                    [
+                        -76.6831650571008,
+                        39.19957238041879
+                    ],
+                    [
+                        -76.6831650571008,
+                        39.19957238041879
+                    ],
+                    [
+                        -76.6831650571008,
+                        39.19957238041879
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Starbucks",
+        "id": "07d9c939cec81003",
+        "name": "Starbucks",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9c939cec81003.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Starbucks @MyStarbucksIdea Here is a great idea, how about we shorten the wait at your drive-thru in Linthicum to less than 20 minutes!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 27 14:57:16 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Amazing BBQ \nLimited Availability \nAwful Location \nTerrible Hours\n#DDDAlumni\n#50BestInTheUSA\n#BestOfBaltimore\n#RealBBQRunsOut",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/thesmokingswine",
+                        "expanded_url": "http://www.facebook.com/thesmokingswine",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/5zTjIdEhCK"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1710,
+        "follow_request_sent": false,
+        "followers_count": 3399,
+        "following": false,
+        "friends_count": 1694,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 720299635,
+        "id_str": "720299635",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 102,
+        "location": "Baltimore, Md. ",
+        "name": "The Smoking Swine",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/845461755/5c552a888cb6422ec5a2f0e7c6c23af3.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/845461755/5c552a888cb6422ec5a2f0e7c6c23af3.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/720299635/1458999366",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/464210652647923714/Tklm6kBq_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/464210652647923714/Tklm6kBq_normal.jpeg",
+        "profile_link_color": "B3461E",
+        "profile_sidebar_border_color": "4F606E",
+        "profile_sidebar_fill_color": "0D0806",
+        "profile_text_color": "332D23",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TheSmokingSwine",
+        "statuses_count": 2495,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/5zTjIdEhCK",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

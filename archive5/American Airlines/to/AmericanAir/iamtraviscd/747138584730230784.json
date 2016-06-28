@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 26 18:44:54 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747138584730230784,
+    "id_str": "747138584730230784",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 747134245248786432,
+    "in_reply_to_status_id_str": "747134245248786432",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -93.329515,
+                        44.889964
+                    ],
+                    [
+                        -93.194578,
+                        44.889964
+                    ],
+                    [
+                        -93.194578,
+                        45.051257
+                    ],
+                    [
+                        -93.329515,
+                        45.051257
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Minneapolis, MN",
+        "id": "8e9665cec9370f0f",
+        "name": "Minneapolis",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8e9665cec9370f0f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir I understand queues, but somehow I get bumped off of flights for hours on end and expected to be ok. Do you understand queues?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 26 18:56:16 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Sr UX Strategist @Adobe. Opinions are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 100,
+        "follow_request_sent": false,
+        "followers_count": 297,
+        "following": false,
+        "friends_count": 857,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 19549990,
+        "id_str": "19549990",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 16,
+        "location": "Minneapolis, MN",
+        "name": "travis",
+        "notifications": false,
+        "profile_background_color": "54290D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459517947/newTweet.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459517947/newTweet.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19549990/1457464235",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/445634343344431104/O1riqtWf_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/445634343344431104/O1riqtWf_normal.png",
+        "profile_link_color": "F67465",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "iamtraviscd",
+        "statuses_count": 2501,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

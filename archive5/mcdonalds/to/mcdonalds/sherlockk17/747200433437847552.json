@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 26 22:50:40 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    101,
+                    114
+                ],
+                "text": "disappointed"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747200433437847552,
+    "id_str": "747200433437847552",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.63184,
+                        42.6185662
+                    ],
+                    [
+                        -84.483958,
+                        42.6185662
+                    ],
+                    [
+                        -84.483958,
+                        42.805532
+                    ],
+                    [
+                        -84.63184,
+                        42.805532
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Lansing, MI",
+        "id": "91eb113282d003a1",
+        "name": "Lansing",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/91eb113282d003a1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@McDonalds in Lansing forgot to give me like half of my order...didn't realize until I got home. \ud83d\ude29\ud83d\ude29\ud83d\ude29 #disappointed",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 10 14:26:38 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "There are nights when the wolves are silent and it is the moon that howls",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 277,
+        "follow_request_sent": false,
+        "followers_count": 66,
+        "following": false,
+        "friends_count": 178,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 371265102,
+        "id_str": "371265102",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "East Lansing",
+        "name": "Kara Sherlock",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/368038199/Disney.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/368038199/Disney.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/371265102/1398630568",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/607044651216805888/NdIp8VAT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/607044651216805888/NdIp8VAT_normal.jpg",
+        "profile_link_color": "D900A6",
+        "profile_sidebar_border_color": "E00086",
+        "profile_sidebar_fill_color": "FFB8E6",
+        "profile_text_color": "57194B",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sherlockk17",
+        "statuses_count": 2186,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

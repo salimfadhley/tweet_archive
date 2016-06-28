@@ -1,0 +1,175 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 25 17:02:29 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/dSoHnHFJPo",
+                "expanded_url": "http://twitter.com/jordanklein/status/746750423957020672/photo/1",
+                "id": 746750418730909697,
+                "id_str": "746750418730909697",
+                "indices": [
+                    77,
+                    100
+                ],
+                "media_url": "http://pbs.twimg.com/media/Clz9jKRUgAEgkVH.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Clz9jKRUgAEgkVH.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1280,
+                        "resize": "fit",
+                        "w": 2048
+                    },
+                    "medium": {
+                        "h": 750,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 425,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/dSoHnHFJPo"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 79320096,
+                "id_str": "79320096",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Citi",
+                "screen_name": "Citi"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746750423957020672,
+    "id_str": "746750423957020672",
+    "in_reply_to_screen_name": "Citi",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 79320096,
+    "in_reply_to_user_id_str": "79320096",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.34266,
+                        37.699279
+                    ],
+                    [
+                        -122.114711,
+                        37.699279
+                    ],
+                    [
+                        -122.114711,
+                        37.8847092
+                    ],
+                    [
+                        -122.34266,
+                        37.8847092
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Oakland, CA",
+        "id": "ab2f2fac83aa388d",
+        "name": "Oakland",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ab2f2fac83aa388d.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "@citi I\u2019m getting this error from every browser. My browsers are up to date. https://t.co/dSoHnHFJPo",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 10 07:12:30 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jordanklein.us",
+                        "expanded_url": "http://www.jordanklein.us",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/WNTLWYcRzR"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 318,
+        "follow_request_sent": false,
+        "followers_count": 322,
+        "following": false,
+        "friends_count": 461,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 5923852,
+        "id_str": "5923852",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Oakland, CA",
+        "name": "Jordan Klein",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1295517637/smallprofile_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1295517637/smallprofile_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jordanklein",
+        "statuses_count": 777,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/WNTLWYcRzR",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

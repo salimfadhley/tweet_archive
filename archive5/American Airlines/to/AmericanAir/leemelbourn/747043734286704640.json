@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 26 12:28:00 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 260907612,
+                "id_str": "260907612",
+                "indices": [
+                    91,
+                    98
+                ],
+                "name": "United",
+                "screen_name": "united"
+            },
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    102,
+                    118
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747043734286704640,
+    "id_str": "747043734286704640",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        0.477715,
+                        51.3252977
+                    ],
+                    [
+                        0.5593765,
+                        51.3252977
+                    ],
+                    [
+                        0.5593765,
+                        51.403378
+                    ],
+                    [
+                        0.477715,
+                        51.403378
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Rochester, South East",
+        "id": "0292257d85023f3f",
+        "name": "Rochester",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0292257d85023f3f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Why are your advanced flight schedules not available to purchase as far ahead @united or @British_Airways?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 15 10:23:51 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "World travel is my passion. Also into facts, theatre, quotes, sayings and positivity. From Rochester, Kent UK.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1043,
+        "follow_request_sent": false,
+        "followers_count": 551,
+        "following": false,
+        "friends_count": 661,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 178664770,
+        "id_str": "178664770",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 33,
+        "location": "London UK",
+        "name": "Lee Melbourn",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/663511604/fgylcp1e5pmzk5za98jj.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/663511604/fgylcp1e5pmzk5za98jj.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/178664770/1461670661",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/734373975590117377/WnpswLK6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/734373975590117377/WnpswLK6_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "leemelbourn",
+        "statuses_count": 1727,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

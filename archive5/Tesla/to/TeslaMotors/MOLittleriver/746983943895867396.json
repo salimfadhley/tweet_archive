@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 26 08:30:25 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    13,
+                    20
+                ],
+                "text": "modelX"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Tesla Motors",
+                "screen_name": "TeslaMotors"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746983943895867396,
+    "id_str": "746983943895867396",
+    "in_reply_to_screen_name": "TeslaMotors",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13298072,
+    "in_reply_to_user_id_str": "13298072",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        172.361529,
+                        -43.901673
+                    ],
+                    [
+                        173.130204,
+                        -43.901673
+                    ],
+                    [
+                        173.130204,
+                        -43.38989
+                    ],
+                    [
+                        172.361529,
+                        -43.38989
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "New Zealand",
+        "country_code": "NZ",
+        "full_name": "Christchurch City, New Zealand",
+        "id": "0064261b68b40574",
+        "name": "Christchurch City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0064261b68b40574.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TeslaMotors #modelX is bloody cool but a price tag of \u00a390k isn't going to change too many petrol burning love monkeys",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 09 06:48:11 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "British engineer, Coffee roaster, Lord of the CNC machine, Avid New Zealand tramper, Host at The Little River Cottage & listener of R.D.U.98.5FM",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "littlerivercottage.co.nz",
+                        "expanded_url": "http://www.littlerivercottage.co.nz",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/yCzF6nsOUt"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 988,
+        "follow_request_sent": false,
+        "followers_count": 188,
+        "following": false,
+        "friends_count": 269,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 313792687,
+        "id_str": "313792687",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 16,
+        "location": "Christchurch City, New Zealand",
+        "name": "Jody Tuckwell",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/383082181/728188514_04_0.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/383082181/728188514_04_0.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/313792687/1367406680",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3726351357/332fa26126c75c3a05fd214e8958b345_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3726351357/332fa26126c75c3a05fd214e8958b345_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MOLittleriver",
+        "statuses_count": 3215,
+        "time_zone": "Wellington",
+        "url": "http://t.co/yCzF6nsOUt",
+        "utc_offset": 43200,
+        "verified": false
+    }
+}

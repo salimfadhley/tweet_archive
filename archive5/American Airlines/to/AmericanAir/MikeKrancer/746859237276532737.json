@@ -1,0 +1,146 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 26 00:14:52 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 342803091,
+                "id_str": "342803091",
+                "indices": [
+                    17,
+                    28
+                ],
+                "name": "PHLAirport",
+                "screen_name": "PHLAirport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746859237276532737,
+    "id_str": "746859237276532737",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -75.280284,
+                        39.871811
+                    ],
+                    [
+                        -74.955712,
+                        39.871811
+                    ],
+                    [
+                        -74.955712,
+                        40.13792
+                    ],
+                    [
+                        -75.280284,
+                        40.13792
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Philadelphia, PA",
+        "id": "e4a0d228eb6be76b",
+        "name": "Philadelphia",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir and @PHLAirport, perfect storm of incompetence. 25 minutes from landing to gate + one hour for bags to bag claim.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 26 12:57:19 +0000 2008",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Energy Industry Practice Leader, Blank Rome LLP; former Secretary, Pennsylvania Department of Environmental Protection.  NHL Nut.  Philly Guy.  Opinions Mine.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "blankrome.com/index.cfm?cont\u2026",
+                        "expanded_url": "http://www.blankrome.com/index.cfm?contentID=10&bioID=471",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/R1I4EUwGgE"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 31,
+        "follow_request_sent": false,
+        "followers_count": 769,
+        "following": false,
+        "friends_count": 609,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14543627,
+        "id_str": "14543627",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 31,
+        "location": "Pennsylvania",
+        "name": "Mike Krancer",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3658868778/6b1d583d46ee2809d8cb9786d0c17757_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3658868778/6b1d583d46ee2809d8cb9786d0c17757_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MikeKrancer",
+        "statuses_count": 3256,
+        "time_zone": "Quito",
+        "url": "http://t.co/R1I4EUwGgE",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

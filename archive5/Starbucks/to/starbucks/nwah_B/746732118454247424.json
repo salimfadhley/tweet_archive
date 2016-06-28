@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 25 15:49:45 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/A3BkNkMsUz",
+                "expanded_url": "http://twitter.com/nwah_B/status/746732118454247424/photo/1",
+                "id": 746731707919917057,
+                "id_str": "746731707919917057",
+                "indices": [
+                    34,
+                    57
+                ],
+                "media_url": "http://pbs.twimg.com/media/ClzsiDEWYAEYIS9.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ClzsiDEWYAEYIS9.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/A3BkNkMsUz"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746732118454247424,
+    "id_str": "746732118454247424",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        27.7518557,
+                        -26.5126489
+                    ],
+                    [
+                        28.1843404,
+                        -26.5126489
+                    ],
+                    [
+                        28.1843404,
+                        -26.0396281
+                    ],
+                    [
+                        27.7518557,
+                        -26.0396281
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "South Africa",
+        "country_code": "ZA",
+        "full_name": "Johannesburg, South Africa",
+        "id": "e564d30dc173d2a8",
+        "name": "Johannesburg",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e564d30dc173d2a8.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Starbucks amazing fruppaccino \ud83d\ude0d\u2764 https://t.co/A3BkNkMsUz",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 13 12:53:33 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "my tweets represent my tweets and not me \u2764\nmember of QOS parliament \nLOBL vibes \u270c",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 343,
+        "follow_request_sent": false,
+        "followers_count": 345,
+        "following": false,
+        "friends_count": 460,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 552671564,
+        "id_str": "552671564",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Port Elizabeth, South Africa",
+        "name": "RisingPhoenix\u2764",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/552671564/1466711605",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/741721801588396032/oZwRgrrE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/741721801588396032/oZwRgrrE_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nwah_B",
+        "statuses_count": 3843,
+        "time_zone": "Athens",
+        "url": null,
+        "utc_offset": 10800,
+        "verified": false
+    }
+}

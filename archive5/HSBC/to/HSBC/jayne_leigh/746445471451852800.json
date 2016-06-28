@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 24 20:50:43 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 467368287,
+                "id_str": "467368287",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "HSBC",
+                "screen_name": "HSBC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746445471451852800,
+    "id_str": "746445471451852800",
+    "in_reply_to_screen_name": "HSBC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 467368287,
+    "in_reply_to_user_id_str": "467368287",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.28129,
+                        51.8219821
+                    ],
+                    [
+                        -2.1775451,
+                        51.8219821
+                    ],
+                    [
+                        -2.1775451,
+                        51.8842012
+                    ],
+                    [
+                        -2.28129,
+                        51.8842012
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Gloucester, England",
+        "id": "1e998dc040469e8c",
+        "name": "Gloucester",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1e998dc040469e8c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@HSBC Hi, I have a paperless account but need some statement printed off. Would they do this if I went into my local branch?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 22 02:55:17 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Good writers borrow from other writers, great writers steal from them outright.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jayneleigh.blogspot.co.uk",
+                        "expanded_url": "http://jayneleigh.blogspot.co.uk/",
+                        "indices": [
+                            0,
+                            20
+                        ],
+                        "url": "http://t.co/eRLjOTqb"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 470,
+        "follow_request_sent": false,
+        "followers_count": 179,
+        "following": false,
+        "friends_count": 162,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 21539779,
+        "id_str": "21539779",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 19,
+        "location": "\u00dcT: 51.857052,-2.243476",
+        "name": "Jayne Knight",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21539779/1419432441",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/590602206094761984/_I5cZ2bS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/590602206094761984/_I5cZ2bS_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jayne_leigh",
+        "statuses_count": 15792,
+        "time_zone": "London",
+        "url": "http://t.co/eRLjOTqb",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

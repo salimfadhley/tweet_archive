@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 25 11:22:23 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 126664172,
+                "id_str": "126664172",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "John Lewis",
+                "screen_name": "johnlewisretail"
+            },
+            {
+                "id": 7066052,
+                "id_str": "7066052",
+                "indices": [
+                    17,
+                    28
+                ],
+                "name": "Sarah Collinson",
+                "screen_name": "scollinson"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 746664834176061440,
+    "id_str": "746664834176061440",
+    "in_reply_to_screen_name": "johnlewisretail",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 126664172,
+    "in_reply_to_user_id_str": "126664172",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.3229167,
+                        51.3428601
+                    ],
+                    [
+                        -0.234011,
+                        51.3428601
+                    ],
+                    [
+                        -0.234011,
+                        51.437266
+                    ],
+                    [
+                        -0.3229167,
+                        51.437266
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Kingston upon Thames, London",
+        "id": "65b23b0045f450f6",
+        "name": "Kingston upon Thames",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/65b23b0045f450f6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@johnlewisretail @scollinson seamless instore/digital experience today - fantastic",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 02 21:49:11 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Often described as not very tall. Management consultant, occasional baker, lover of crazy gym classes. Views are my own",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 993,
+        "follow_request_sent": false,
+        "followers_count": 398,
+        "following": false,
+        "friends_count": 818,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 211301171,
+        "id_str": "211301171",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 29,
+        "location": "",
+        "name": "Emma Cooper",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/211301171/1402068292",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/725381152823992320/ADCKC3hK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/725381152823992320/ADCKC3hK_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "emsciecoops",
+        "statuses_count": 1357,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

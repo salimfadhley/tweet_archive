@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 26 14:04:47 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 79320096,
+                "id_str": "79320096",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Citi",
+                "screen_name": "Citi"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 747068092640026624,
+    "id_str": "747068092640026624",
+    "in_reply_to_screen_name": "Citi",
+    "in_reply_to_status_id": 745714645713838081,
+    "in_reply_to_status_id_str": "745714645713838081",
+    "in_reply_to_user_id": 79320096,
+    "in_reply_to_user_id_str": "79320096",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@Citi if Citi actually paid taxes &amp; loops closed we would be able to do this without bragging on corrupt financial institutions",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 13 13:25:00 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Just a singer, actor trying to survive. \r\nAnd have fun, yeah, fun, that's the thing.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "RichardRiceAlan.com",
+                        "expanded_url": "http://www.RichardRiceAlan.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Tm6I7nL7Hp"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5070,
+        "follow_request_sent": false,
+        "followers_count": 215,
+        "following": false,
+        "friends_count": 205,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 281531315,
+        "id_str": "281531315",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 35,
+        "location": "New York, New York 10019",
+        "name": "Richard Rice Alan",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/467342887538024448/1FSlOIQX.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/467342887538024448/1FSlOIQX.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/281531315/1407077073",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/495955661688016899/MQDJMd_T_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/495955661688016899/MQDJMd_T_normal.jpeg",
+        "profile_link_color": "1447E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RichardRiceAlan",
+        "statuses_count": 13877,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/Tm6I7nL7Hp",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

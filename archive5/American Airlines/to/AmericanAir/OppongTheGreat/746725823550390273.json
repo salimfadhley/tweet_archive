@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 25 15:24:44 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746725823550390273,
+    "id_str": "746725823550390273",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.129669,
+                        32.8785707
+                    ],
+                    [
+                        -97.029639,
+                        32.8785707
+                    ],
+                    [
+                        -97.029639,
+                        32.985097
+                    ],
+                    [
+                        -97.129669,
+                        32.985097
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Grapevine, TX",
+        "id": "352cf4e7314da0b4",
+        "name": "Grapevine",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/352cf4e7314da0b4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir my bags are missing at DFW and I have a wedding in two hours. Any suggestions?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 15 20:10:03 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Professional Athlete. Go Getter",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 119,
+        "follow_request_sent": false,
+        "followers_count": 215,
+        "following": false,
+        "friends_count": 269,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 105242876,
+        "id_str": "105242876",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Oppong",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453768111/Untitled.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453768111/Untitled.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/730592230440898560/zuS1gYod_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/730592230440898560/zuS1gYod_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "OppongTheGreat",
+        "statuses_count": 1792,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

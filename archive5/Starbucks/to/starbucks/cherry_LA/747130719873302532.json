@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 26 18:13:39 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747130719873302532,
+    "id_str": "747130719873302532",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.198346,
+                        34.117025
+                    ],
+                    [
+                        -118.065582,
+                        34.117025
+                    ],
+                    [
+                        -118.065582,
+                        34.237595
+                    ],
+                    [
+                        -118.198346,
+                        34.237595
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Pasadena, CA",
+        "id": "10de09f288b1665c",
+        "name": "Pasadena",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/10de09f288b1665c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks can I get a refund used the app to buy food and I'm at the wrong store \ud83d\ude21",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 01 04:45:15 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#CherryLosAngeles is geek lifestyle #Tech #Entertainment #Events #Foodie #Cartoons #Dating #Advice #Interviews\nSubscribe https://t.co/sGxFmcdPHA",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/user/cherrylos\u2026",
+                        "expanded_url": "http://www.youtube.com/user/cherrylosangeles",
+                        "indices": [
+                            121,
+                            144
+                        ],
+                        "url": "https://t.co/sGxFmcdPHA"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "cherrydavis.org",
+                        "expanded_url": "http://www.cherrydavis.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/qic0oP683f"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 749,
+        "follow_request_sent": false,
+        "followers_count": 2322,
+        "following": false,
+        "friends_count": 1259,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 15685664,
+        "id_str": "15685664",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 345,
+        "location": "Los Angeles, CA",
+        "name": "CherryLosAngeles",
+        "notifications": false,
+        "profile_background_color": "056F8A",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/715168643/276f8183d273e976bd58d685b5be1c0c.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/715168643/276f8183d273e976bd58d685b5be1c0c.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15685664/1357015056",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/437330755711033344/1rkcQqlF_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/437330755711033344/1rkcQqlF_normal.jpeg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FBFBFB",
+        "profile_text_color": "D20909",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cherry_LA",
+        "statuses_count": 84216,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/qic0oP683f",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 26 19:43:59 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747153454892605440,
+    "id_str": "747153454892605440",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        5.8663566,
+                        50.9745714
+                    ],
+                    [
+                        5.9840765,
+                        50.9745714
+                    ],
+                    [
+                        5.9840765,
+                        51.0668711
+                    ],
+                    [
+                        5.8663566,
+                        51.0668711
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Deutschland",
+        "country_code": "DE",
+        "full_name": "Selfkant, Deutschland",
+        "id": "f5532187258dc807",
+        "name": "Selfkant",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/f5532187258dc807.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir is the most incompetent airline I have ever encountered.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 04 22:58:41 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Mr. Roofing\u2019s mission is to take care of our customers and employees. Mr. Roofing\u2019s premise is to provide honest, comprehensive, & qualified service.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mrroofing.net",
+                        "expanded_url": "http://www.mrroofing.net",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/pJYkzO0kI5"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 395,
+        "follow_request_sent": false,
+        "followers_count": 1062,
+        "following": false,
+        "friends_count": 807,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 119912860,
+        "id_str": "119912860",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "South San Francisco, CA",
+        "name": "Mr. Roofing & Solar",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/656743245/xe8d7e3a020cb070dca0bf5347b79315.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/656743245/xe8d7e3a020cb070dca0bf5347b79315.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/119912860/1409870940",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/507661553798086656/oByhTAng_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/507661553798086656/oByhTAng_normal.jpeg",
+        "profile_link_color": "333333",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "0084B4",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mrroofinginc",
+        "statuses_count": 2096,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pJYkzO0kI5",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

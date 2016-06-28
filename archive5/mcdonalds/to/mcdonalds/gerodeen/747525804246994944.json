@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 27 20:23:34 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/SZRDE1Ww8M",
+                "expanded_url": "http://twitter.com/gerodeen/status/747525804246994944/photo/1",
+                "id": 747525795061456897,
+                "id_str": "747525795061456897",
+                "indices": [
+                    61,
+                    84
+                ],
+                "media_url": "http://pbs.twimg.com/media/Cl--wAMUYAEZmmi.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cl--wAMUYAEZmmi.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 1152
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 675
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 383
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/SZRDE1Ww8M"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            },
+            {
+                "id": 111679943,
+                "id_str": "111679943",
+                "indices": [
+                    11,
+                    25
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonaldsCorp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747525804246994944,
+    "id_str": "747525804246994944",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -117.282538,
+                        32.53962
+                    ],
+                    [
+                        -116.9274403,
+                        32.53962
+                    ],
+                    [
+                        -116.9274403,
+                        33.0804044
+                    ],
+                    [
+                        -117.282538,
+                        33.0804044
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Diego, CA",
+        "id": "a592bd6ceb1319f7",
+        "name": "San Diego",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@McDonalds @McDonaldsCorp please bring back salad shakers!!! https://t.co/SZRDE1Ww8M",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 07 06:58:31 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Juris Doctor doing bar prep. Barry's Beast and hungry. MilSo.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1182,
+        "follow_request_sent": false,
+        "followers_count": 218,
+        "following": false,
+        "friends_count": 547,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 112089778,
+        "id_str": "112089778",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "San Diego",
+        "name": "Geri Garcia",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/435653440027369472/OdpUkUxe.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/435653440027369472/OdpUkUxe.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/112089778/1398292548",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/684570153086889986/mL97y3pu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/684570153086889986/mL97y3pu_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gerodeen",
+        "statuses_count": 5259,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

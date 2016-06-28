@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 26 15:11:03 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747084768160800769,
+    "id_str": "747084768160800769",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.0429637,
+                        33.732214
+                    ],
+                    [
+                        -117.8941157,
+                        33.732214
+                    ],
+                    [
+                        -117.8941157,
+                        33.805876
+                    ],
+                    [
+                        -118.0429637,
+                        33.805876
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Garden Grove, CA",
+        "id": "70707114a9202b98",
+        "name": "Garden Grove",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/70707114a9202b98.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Starbucks your chorizo and egg on chibata bread is da bomb \ud83d\udca5 My batista recommended it...and now I am \ud83d\ude0a",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 25 19:28:04 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "One of 14 (s7/c11). Yup! My momma had 14 individual kids",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1542,
+        "follow_request_sent": false,
+        "followers_count": 42,
+        "following": false,
+        "friends_count": 210,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 713447374849449985,
+        "id_str": "713447374849449985",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Anaheim, CA",
+        "name": "Jeff Hernandez",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/713447374849449985/1464208881",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/713448726832910336/9o7JTWmg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/713448726832910336/9o7JTWmg_normal.jpg",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KingJeffthe1st",
+        "statuses_count": 123,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

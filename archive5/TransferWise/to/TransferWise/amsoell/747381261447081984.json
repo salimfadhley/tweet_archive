@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 27 10:49:13 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 228380252,
+                "id_str": "228380252",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "TransferWise",
+                "screen_name": "TransferWise"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 747381261447081984,
+    "id_str": "747381261447081984",
+    "in_reply_to_screen_name": "TransferWise",
+    "in_reply_to_status_id": 747377812940554240,
+    "in_reply_to_status_id_str": "747377812940554240",
+    "in_reply_to_user_id": 228380252,
+    "in_reply_to_user_id_str": "228380252",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        13.3973828,
+                        49.5008371
+                    ],
+                    [
+                        15.5346252,
+                        49.5008371
+                    ],
+                    [
+                        15.5346252,
+                        50.6190995
+                    ],
+                    [
+                        13.3973828,
+                        50.6190995
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u010cesk\u00e1 republika",
+        "country_code": "CZ",
+        "full_name": "Central Bohemia, Czech Republic",
+        "id": "01f031025af48dac",
+        "name": "Central Bohemia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/01f031025af48dac.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@TransferWise Wonderful, thank you!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 07 15:20:27 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Co-founder at @MettleUp.\nCoworker at @TheSaltMines.\nEnemy of nonsense. Takjo.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mettleup.com",
+                        "expanded_url": "http://mettleup.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/70qTTmoBAH"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1573,
+        "follow_request_sent": false,
+        "followers_count": 896,
+        "following": false,
+        "friends_count": 329,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 8027732,
+        "id_str": "8027732",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 63,
+        "location": "Prague, CZ",
+        "name": "Andy Soell",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/125085619/main-bg-texture.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/125085619/main-bg-texture.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/8027732/1466546742",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2085850470/avatar2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2085850470/avatar2_normal.jpg",
+        "profile_link_color": "C99326",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FAFAFA",
+        "profile_text_color": "999999",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "amsoell",
+        "statuses_count": 17259,
+        "time_zone": "Prague",
+        "url": "https://t.co/70qTTmoBAH",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

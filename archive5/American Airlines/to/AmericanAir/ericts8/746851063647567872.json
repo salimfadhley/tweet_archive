@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 25 23:42:24 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746851063647567872,
+    "id_str": "746851063647567872",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.991877,
+                        40.718971
+                    ],
+                    [
+                        -73.9719855,
+                        40.718971
+                    ],
+                    [
+                        -73.9719855,
+                        40.734425
+                    ],
+                    [
+                        -73.991877,
+                        40.734425
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "East Village, Manhattan",
+        "id": "5426d7cf98cf4bd4",
+        "name": "East Village",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/5426d7cf98cf4bd4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "@AmericanAir Am I able to use a travel voucher in conjunction with gift cards?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 28 19:40:15 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Work @Expion (formerly @droga5, @360i), watch the @49ers, travel, and eat lots of food. Awesome.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 127,
+        "follow_request_sent": false,
+        "followers_count": 363,
+        "following": false,
+        "friends_count": 757,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15636511,
+        "id_str": "15636511",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 28,
+        "location": "New York, NY",
+        "name": "Eric Tsai",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15636511/1398704791",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2823677987/f13701f983ee0fc462cf591ace525d40_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2823677987/f13701f983ee0fc462cf591ace525d40_normal.png",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ericts8",
+        "statuses_count": 5498,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

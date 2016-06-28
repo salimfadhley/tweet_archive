@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 27 21:32:48 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    39,
+                    46
+                ],
+                "text": "Brexit"
+            }
+        ],
+        "symbols": [
+            {
+                "indices": [
+                    19,
+                    23
+                ],
+                "text": "AAL"
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747543227650105344,
+    "id_str": "747543227650105344",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.129669,
+                        32.8785707
+                    ],
+                    [
+                        -97.029639,
+                        32.8785707
+                    ],
+                    [
+                        -97.029639,
+                        32.985097
+                    ],
+                    [
+                        -97.129669,
+                        32.985097
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Grapevine, TX",
+        "id": "352cf4e7314da0b4",
+        "name": "Grapevine",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/352cf4e7314da0b4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir stock $AAL down 20% since #Brexit announcement. No wonder my flight to LHR is delayed nearly four hours!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 19 00:30:30 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Professional paintball player, public speaker, adventurist and world traveler. Online training at https://t.co/mPqptRbmi0",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "BKIPAINTBALL.com",
+                        "expanded_url": "http://BKIPAINTBALL.com",
+                        "indices": [
+                            98,
+                            121
+                        ],
+                        "url": "https://t.co/mPqptRbmi0"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/ryandynasty",
+                        "expanded_url": "http://youtube.com/ryandynasty",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/gc3qISHhip"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2281,
+        "follow_request_sent": false,
+        "followers_count": 10554,
+        "following": false,
+        "friends_count": 95,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 48549715,
+        "id_str": "48549715",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "San Diego, CA",
+        "name": "ryan greenspan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/48549715/1417315659",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1447728498/image.php_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1447728498/image.php_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ryangreenspan",
+        "statuses_count": 5458,
+        "time_zone": null,
+        "url": "https://t.co/gc3qISHhip",
+        "utc_offset": null,
+        "verified": false
+    }
+}

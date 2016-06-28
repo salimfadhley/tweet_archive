@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 26 13:00:45 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747051977440256001,
+    "id_str": "747051977440256001",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 746917340877512704,
+    "in_reply_to_status_id_str": "746917340877512704",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.937783,
+                        33.081206
+                    ],
+                    [
+                        -96.7327146,
+                        33.081206
+                    ],
+                    [
+                        -96.7327146,
+                        33.219073
+                    ],
+                    [
+                        -96.937783,
+                        33.219073
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Frisco, TX",
+        "id": "00c3e46c3d0cac08",
+        "name": "Frisco",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c3e46c3d0cac08.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@AmericanAir we tried to change our tickets &amp; have had them canceled, have been charged different amounts, &amp; now we are not booked.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 17 18:39:03 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I \u2764 Jesus, my hubs, and my baby boy.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mystery32.com",
+                        "expanded_url": "http://www.mystery32.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/VwEdkIuXu3"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 531,
+        "follow_request_sent": false,
+        "followers_count": 154,
+        "following": false,
+        "friends_count": 199,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 24928630,
+        "id_str": "24928630",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Dallas",
+        "name": "Erin Baxter",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24928630/1410582592",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/510646767751163904/zAM4kNl0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/510646767751163904/zAM4kNl0_normal.jpeg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "erinmbaxter",
+        "statuses_count": 10999,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/VwEdkIuXu3",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

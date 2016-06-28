@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 26 15:24:20 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    105,
+                    115
+                ],
+                "text": "notpretty"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/f4uUy1PaM5",
+                "expanded_url": "http://twitter.com/ServiceDivaBren/status/747088110756855808/photo/1",
+                "id": 747088085310013440,
+                "id_str": "747088085310013440",
+                "indices": [
+                    116,
+                    139
+                ],
+                "media_url": "http://pbs.twimg.com/media/Cl4wp8TUgAAyBHI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cl4wp8TUgAAyBHI.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 1536
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/f4uUy1PaM5"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 747088110756855808,
+    "id_str": "747088110756855808",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.732141,
+                        38.314281
+                    ],
+                    [
+                        -122.666695,
+                        38.314281
+                    ],
+                    [
+                        -122.666695,
+                        38.372609
+                    ],
+                    [
+                        -122.732141,
+                        38.372609
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Rohnert Park, CA",
+        "id": "5cda0a6ac9cf8725",
+        "name": "Rohnert Park",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5cda0a6ac9cf8725.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@STARBUCKS After a 15 min wait in Drivethru, my Cinnamon Dulce Frapp is Ghost White! Guy said new syrup? #notpretty https://t.co/f4uUy1PaM5",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 10 16:21:23 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Creator of the Super Help Desk. Motorcycle rider, Voice Over Artist & Disneyland Diva! Tweets by me are mine and do not represent my company.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 151,
+        "follow_request_sent": false,
+        "followers_count": 661,
+        "following": false,
+        "friends_count": 480,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 30249553,
+        "id_str": "30249553",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 44,
+        "location": "Sonoma County, CA",
+        "name": "Bren Hanson (Boddy)",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30249553/1444407676",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654237824/Me_Logo_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654237824/Me_Logo_normal.JPG",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ServiceDivaBren",
+        "statuses_count": 3396,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

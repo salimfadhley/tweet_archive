@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 26 20:42:46 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    14,
+                    23
+                ],
+                "text": "SanTelmo"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747168246105772032,
+    "id_str": "747168246105772032",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -58.5317922,
+                        -34.674453
+                    ],
+                    [
+                        -58.353494,
+                        -34.674453
+                    ],
+                    [
+                        -58.353494,
+                        -34.534177
+                    ],
+                    [
+                        -58.5317922,
+                        -34.534177
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Argentina",
+        "country_code": "AR",
+        "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+        "id": "018f1cde6bad9747",
+        "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Starbucks en #SanTelmo Ojo!!!! No es en cualquier barriesito; es San Telmo ajaja",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 30 02:06:09 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Nacido en Adrogue--Padrino de MILO",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ar.linkedin.com/pub/sebastian-\u2026",
+                        "expanded_url": "http://ar.linkedin.com/pub/sebastian-segovia/79/813/4bb/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/KfgOT8qipe"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2405,
+        "follow_request_sent": false,
+        "followers_count": 210,
+        "following": false,
+        "friends_count": 672,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 93535580,
+        "id_str": "93535580",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 5,
+        "location": "De Temperley ",
+        "name": "Sebastian Segovia",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/731826744/8969288f4245120e7c3870287cce0ff3.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/731826744/8969288f4245120e7c3870287cce0ff3.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/93535580/1450417180",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/703682647923494912/_Ko0De_m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/703682647923494912/_Ko0De_m_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BastianSegovia",
+        "statuses_count": 24318,
+        "time_zone": "Buenos Aires",
+        "url": "https://t.co/KfgOT8qipe",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

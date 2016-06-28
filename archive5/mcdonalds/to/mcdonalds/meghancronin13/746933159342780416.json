@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 26 05:08:37 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 746933159342780416,
+    "id_str": "746933159342780416",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@McDonalds I'm just tweeting you to inform you that i am extremely dissatisfied with my mango pineapple smoothie that i received",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 20 22:03:47 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "not a lot going on at the moment",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 14948,
+        "follow_request_sent": false,
+        "followers_count": 536,
+        "following": false,
+        "friends_count": 424,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 339301770,
+        "id_str": "339301770",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "",
+        "name": "meghan cronin",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/830903825/0a3caf18427087f8942634af797d98d6.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/830903825/0a3caf18427087f8942634af797d98d6.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/339301770/1464051949",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/739851166629134336/FeeVQ1QX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/739851166629134336/FeeVQ1QX_normal.jpg",
+        "profile_link_color": "79B860",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "meghancronin13",
+        "statuses_count": 9148,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

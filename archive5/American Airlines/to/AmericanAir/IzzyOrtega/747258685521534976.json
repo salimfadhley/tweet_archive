@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 27 02:42:08 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747258685521534976,
+    "id_str": "747258685521534976",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 747258185975664640,
+    "in_reply_to_status_id_str": "747258185975664640",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.022482,
+                        35.9945681
+                    ],
+                    [
+                        -86.560616,
+                        35.9945681
+                    ],
+                    [
+                        -86.560616,
+                        36.405448
+                    ],
+                    [
+                        -87.022482,
+                        36.405448
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Nashville, TN",
+        "id": "00ab941b685334e3",
+        "name": "Nashville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00ab941b685334e3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir you all are my favorite airline",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 26 19:51:54 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Senior Writer for @OppLives Opportunity Lives believes free enterprise, a vibrant civil society, and limited government are the best means to expand opportunity",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "opportunitylives.com/author/izzy/",
+                        "expanded_url": "http://opportunitylives.com/author/izzy/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/jOHMtoYp2e"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 588,
+        "follow_request_sent": false,
+        "followers_count": 2702,
+        "following": false,
+        "friends_count": 1980,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 22052282,
+        "id_str": "22052282",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 99,
+        "location": "Washington, DC",
+        "name": "Izzy Ortega",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22052282/1465392594",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/647049249096617985/Of5WTPs9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/647049249096617985/Of5WTPs9_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "IzzyOrtega",
+        "statuses_count": 11386,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/jOHMtoYp2e",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

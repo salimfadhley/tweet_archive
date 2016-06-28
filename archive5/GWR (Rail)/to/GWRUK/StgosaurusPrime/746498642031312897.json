@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 25 00:22:00 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3300258885,
+                "id_str": "3300258885",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "GWR",
+                "screen_name": "GWRUK"
+            },
+            {
+                "id": 2589703207,
+                "id_str": "2589703207",
+                "indices": [
+                    68,
+                    77
+                ],
+                "name": "Thameslink",
+                "screen_name": "TLRailUK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746498642031312897,
+    "id_str": "746498642031312897",
+    "in_reply_to_screen_name": "GWRUK",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 3300258885,
+    "in_reply_to_user_id_str": "3300258885",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.213503,
+                        51.512805
+                    ],
+                    [
+                        -0.105303,
+                        51.512805
+                    ],
+                    [
+                        -0.105303,
+                        51.572068
+                    ],
+                    [
+                        -0.213503,
+                        51.572068
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Camden Town, London",
+        "id": "5de8cffc145c486b",
+        "name": "Camden Town",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5de8cffc145c486b.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@GWRUK got me there on time, a first. Shame the train I needed from @TLRailUK was cancelled because presumably someone didn't turn up.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 14 13:32:43 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Computer scientist working in marine earth observation and remote sensing. Views and opinions are my own, you would be silly to think they represent others.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1815,
+        "follow_request_sent": false,
+        "followers_count": 122,
+        "following": false,
+        "friends_count": 267,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1427832588,
+        "id_str": "1427832588",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Plymouth, England",
+        "name": "Stephen",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427832588/1447805229",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/460378939706597376/SA2PxQwU_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/460378939706597376/SA2PxQwU_normal.jpeg",
+        "profile_link_color": "07B836",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "StgosaurusPrime",
+        "statuses_count": 6399,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

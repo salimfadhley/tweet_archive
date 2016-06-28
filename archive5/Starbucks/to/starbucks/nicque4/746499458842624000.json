@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 25 00:25:14 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/hwpMKeDBPk",
+                "expanded_url": "http://twitter.com/nicque4/status/746499458842624000/photo/1",
+                "id": 746439110299160576,
+                "id_str": "746439110299160576",
+                "indices": [
+                    114,
+                    137
+                ],
+                "media_url": "http://pbs.twimg.com/media/Clvian_XEAAVepQ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Clvian_XEAAVepQ.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/hwpMKeDBPk"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746499458842624000,
+    "id_str": "746499458842624000",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.96368,
+                        42.3056235
+                    ],
+                    [
+                        -87.802772,
+                        42.3056235
+                    ],
+                    [
+                        -87.802772,
+                        42.431936
+                    ],
+                    [
+                        -87.96368,
+                        42.431936
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Waukegan, IL",
+        "id": "b819c5d90b780b57",
+        "name": "Waukegan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b819c5d90b780b57.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks Barista said I could get \ud83c\udf1fs on my account (app function not working at store). How do I do this? Thnx! https://t.co/hwpMKeDBPk",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 20 22:22:39 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Run, eat, repeat.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 34,
+        "follow_request_sent": false,
+        "followers_count": 36,
+        "following": false,
+        "friends_count": 199,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 240855999,
+        "id_str": "240855999",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Nik",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3204722994/21ff8fa95584ca5e8dcc3c7c11016302_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3204722994/21ff8fa95584ca5e8dcc3c7c11016302_normal.jpeg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nicque4",
+        "statuses_count": 393,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

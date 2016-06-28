@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 27 01:02:21 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 747233573963333632,
+    "id_str": "747233573963333632",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -105.176024,
+                        40.3529092
+                    ],
+                    [
+                        -104.973792,
+                        40.3529092
+                    ],
+                    [
+                        -104.973792,
+                        40.4658383
+                    ],
+                    [
+                        -105.176024,
+                        40.4658383
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Loveland, CO",
+        "id": "0fa2e45c48f0ae2a",
+        "name": "Loveland",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0fa2e45c48f0ae2a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@McDonalds explain to me why employees deserve $15/hr when they ignore you because they are on their cells and then constantly f up food?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 12 16:19:28 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Twitter.com/themegandunn",
+                        "expanded_url": "http://Twitter.com/themegandunn",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/uzuFjc7y6Z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 233,
+        "follow_request_sent": false,
+        "followers_count": 212,
+        "following": false,
+        "friends_count": 564,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 334121339,
+        "id_str": "334121339",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Loveland, Colorado",
+        "name": "Megan Dunn",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000032412870/c9c8a8643dd7d5fd1c28e6cc842765d9.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000032412870/c9c8a8643dd7d5fd1c28e6cc842765d9.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/334121339/1373122658",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/606240002205294592/4Mse_asV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/606240002205294592/4Mse_asV_normal.jpg",
+        "profile_link_color": "0AE5F5",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "themegandunn",
+        "statuses_count": 699,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/uzuFjc7y6Z",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

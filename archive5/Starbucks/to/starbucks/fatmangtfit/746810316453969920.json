@@ -1,0 +1,175 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -87.80961524,
+            41.84722308
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sat Jun 25 21:00:29 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    60,
+                    70
+                ],
+                "text": "starbucks"
+            },
+            {
+                "indices": [
+                    71,
+                    80
+                ],
+                "text": "greentea"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "instagram.com/p/BHF34GTAXuY/",
+                "expanded_url": "https://www.instagram.com/p/BHF34GTAXuY/",
+                "indices": [
+                    82,
+                    105
+                ],
+                "url": "https://t.co/yUhPZ7zxEU"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            41.84722308,
+            -87.80961524
+        ],
+        "type": "Point"
+    },
+    "id": 746810316453969920,
+    "id_str": "746810316453969920",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.855111,
+                        41.835308
+                    ],
+                    [
+                        -87.803466,
+                        41.835308
+                    ],
+                    [
+                        -87.803466,
+                        41.85777
+                    ],
+                    [
+                        -87.855111,
+                        41.85777
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "North Riverside, IL",
+        "id": "c5be6cc8c8fd4263",
+        "name": "North Riverside",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c5be6cc8c8fd4263.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "text": "@starbucks unsweetened shaken ice green tea. I'm in heaven. #starbucks #greentea\u2026 https://t.co/yUhPZ7zxEU",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 13 02:44:41 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "This is a personal twitter feed, any and all opinions expressed are mine and mine alone.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "fatmangetfit.blogspot.com",
+                        "expanded_url": "http://www.fatmangetfit.blogspot.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/b1u8FsF8ix"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 18,
+        "follow_request_sent": false,
+        "followers_count": 128,
+        "following": false,
+        "friends_count": 282,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 17355156,
+        "id_str": "17355156",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "\u00dcT: 41.834902,-87.640351",
+        "name": "fatmangetfit",
+        "notifications": false,
+        "profile_background_color": "DD2E44",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/579026657425522688/9AFJUhvW.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/579026657425522688/9AFJUhvW.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17355156/1439223267",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/630767724994633728/W0l4dNfo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/630767724994633728/W0l4dNfo_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fatmangtfit",
+        "statuses_count": 713,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/b1u8FsF8ix",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

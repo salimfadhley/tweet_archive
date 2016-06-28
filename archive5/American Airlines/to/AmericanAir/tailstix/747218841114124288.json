@@ -1,0 +1,146 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 27 00:03:49 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    91,
+                    103
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747218841114124288,
+    "id_str": "747218841114124288",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 747145223269081088,
+    "in_reply_to_status_id_str": "747145223269081088",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.046876,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.416412
+                    ],
+                    [
+                        -81.046876,
+                        35.416412
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Charlotte, NC",
+        "id": "512a8a4a4c4b4be0",
+        "name": "Charlotte",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/512a8a4a4c4b4be0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir missing my connection.  The cherry on top of another very poor performance by @AmericanAir",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 12 00:45:06 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "cinematographer, experience junkie.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "markwilliamsdp.com",
+                        "expanded_url": "http://markwilliamsdp.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/C8Pw98WI8m"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 65,
+        "follow_request_sent": false,
+        "followers_count": 25,
+        "following": false,
+        "friends_count": 92,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18885667,
+        "id_str": "18885667",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Manhattan Beach California",
+        "name": "Mark Williams",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748432042/hello_mark_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748432042/hello_mark_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tailstix",
+        "statuses_count": 231,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/C8Pw98WI8m",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}
