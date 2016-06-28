@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 28 06:46:06 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 469358921,
+                "id_str": "469358921",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Nationwide UK",
+                "screen_name": "AskNationwide"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747682468044677120,
+    "id_str": "747682468044677120",
+    "in_reply_to_screen_name": "AskNationwide",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 469358921,
+    "in_reply_to_user_id_str": "469358921",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.7169459,
+                        55.8872642
+                    ],
+                    [
+                        -3.6770444,
+                        55.8872642
+                    ],
+                    [
+                        -3.6770444,
+                        55.9075177
+                    ],
+                    [
+                        -3.7169459,
+                        55.9075177
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Armadale, Scotland",
+        "id": "38dc1356b8df0fef",
+        "name": "Armadale",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/38dc1356b8df0fef.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AskNationwide is your iOS app down? Been trying since 0730 to get signed in! Service unavailable message",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 08 17:25:22 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 96,
+        "follow_request_sent": false,
+        "followers_count": 71,
+        "following": false,
+        "friends_count": 196,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20378934,
+        "id_str": "20378934",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "West Lothian",
+        "name": "paul harley",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/76510631/totem_pole_3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/76510631/totem_pole_3_normal.jpg",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "teamph",
+        "statuses_count": 672,
+        "time_zone": "Edinburgh",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

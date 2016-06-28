@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 28 13:10:57 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1542862735,
+                "id_str": "1542862735",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Ryanair",
+                "screen_name": "Ryanair"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747779318135296000,
+    "id_str": "747779318135296000",
+    "in_reply_to_screen_name": "Ryanair",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1542862735,
+    "in_reply_to_user_id_str": "1542862735",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        6.6266397,
+                        35.4928765
+                    ],
+                    [
+                        18.5203619,
+                        35.4928765
+                    ],
+                    [
+                        18.5203619,
+                        47.0924248
+                    ],
+                    [
+                        6.6266397,
+                        47.0924248
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Italia",
+        "country_code": "IT",
+        "full_name": "Italy",
+        "id": "c799e2d3a79f810e",
+        "name": "Italy",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/c799e2d3a79f810e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Ryanair I paid for a 15kg bag, but I think it will be heavier. Is there any way I can add weight to my bag instead of paying for a new one?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 15 00:58:16 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bandcamp.com/cameronarmstro\u2026",
+                        "expanded_url": "http://bandcamp.com/cameronarmstrong",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/H5zdBIfHFT"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7671,
+        "follow_request_sent": false,
+        "followers_count": 281,
+        "following": false,
+        "friends_count": 631,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1429220497,
+        "id_str": "1429220497",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "",
+        "name": "Cameron",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000087280165/9f44eaba8515d7cbb49fd891d7b13d47.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000087280165/9f44eaba8515d7cbb49fd891d7b13d47.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429220497/1463923031",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/723632659855978496/4q_8o8C9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/723632659855978496/4q_8o8C9_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "camarms",
+        "statuses_count": 9485,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/H5zdBIfHFT",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

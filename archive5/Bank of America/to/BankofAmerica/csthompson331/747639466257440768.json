@@ -1,0 +1,174 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -84.20914027,
+            39.09063313
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue Jun 28 03:55:13 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/zcb3pid2pQ",
+                "expanded_url": "http://twitter.com/csthompson331/status/747639466257440768/photo/1",
+                "id": 747639465145942016,
+                "id_str": "747639465145942016",
+                "indices": [
+                    15,
+                    38
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmAmIeQWQAAN7Dq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmAmIeQWQAAN7Dq.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 50,
+                        "resize": "fit",
+                        "w": 50
+                    },
+                    "medium": {
+                        "h": 50,
+                        "resize": "fit",
+                        "w": 50
+                    },
+                    "small": {
+                        "h": 50,
+                        "resize": "fit",
+                        "w": 50
+                    },
+                    "thumb": {
+                        "h": 50,
+                        "resize": "crop",
+                        "w": 50
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/zcb3pid2pQ"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 204881628,
+                "id_str": "204881628",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Bank of America",
+                "screen_name": "BankofAmerica"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            39.09063313,
+            -84.20914027
+        ],
+        "type": "Point"
+    },
+    "id": 747639466257440768,
+    "id_str": "747639466257440768",
+    "in_reply_to_screen_name": "BankofAmerica",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 204881628,
+    "in_reply_to_user_id_str": "204881628",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.238335,
+                        39.050967
+                    ],
+                    [
+                        -84.089236,
+                        39.050967
+                    ],
+                    [
+                        -84.089236,
+                        39.113727
+                    ],
+                    [
+                        -84.238335,
+                        39.113727
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Batavia, OH",
+        "id": "008fc9350a99febf",
+        "name": "Batavia",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/008fc9350a99febf.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>",
+    "text": "@BankofAmerica https://t.co/zcb3pid2pQ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 08 15:51:03 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1,
+        "follow_request_sent": false,
+        "followers_count": 13,
+        "following": false,
+        "friends_count": 128,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 740571852507086848,
+        "id_str": "740571852507086848",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Christopher",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "csthompson331",
+        "statuses_count": 7,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

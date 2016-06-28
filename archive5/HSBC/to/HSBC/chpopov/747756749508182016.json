@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 28 11:41:16 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 467368287,
+                "id_str": "467368287",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "HSBC",
+                "screen_name": "HSBC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747756749508182016,
+    "id_str": "747756749508182016",
+    "in_reply_to_screen_name": "HSBC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 467368287,
+    "in_reply_to_user_id_str": "467368287",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.112442,
+                        51.5068
+                    ],
+                    [
+                        -0.0733794,
+                        51.5068
+                    ],
+                    [
+                        -0.0733794,
+                        51.522161
+                    ],
+                    [
+                        -0.112442,
+                        51.522161
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "City of London, London",
+        "id": "3eb2c704fe8a50cb",
+        "name": "City of London",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3eb2c704fe8a50cb.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@HSBC I keep seeing these errors for years now: \"Error 500: javax.servlet.ServletException: Filter [HSBC Filter]: filter is unavailable.\"",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 03 17:20:36 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Tech, Biz, News, Entrepreneurship",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/hpopov",
+                        "expanded_url": "http://www.linkedin.com/in/hpopov",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/QmXULPG7jd"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1109,
+        "follow_request_sent": false,
+        "followers_count": 503,
+        "following": false,
+        "friends_count": 1137,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 28608190,
+        "id_str": "28608190",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 50,
+        "location": "London, England",
+        "name": "Christophe Popov",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28608190/1458430728",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2797942572/bcd6f4237a970ac6bf5a86123af031ba_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2797942572/bcd6f4237a970ac6bf5a86123af031ba_normal.jpeg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "chpopov",
+        "statuses_count": 2835,
+        "time_zone": "London",
+        "url": "http://t.co/QmXULPG7jd",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

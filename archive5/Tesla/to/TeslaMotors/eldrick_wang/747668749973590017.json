@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 28 05:51:35 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Tesla Motors",
+                "screen_name": "TeslaMotors"
+            },
+            {
+                "id": 44196397,
+                "id_str": "44196397",
+                "indices": [
+                    120,
+                    129
+                ],
+                "name": "Elon Musk",
+                "screen_name": "elonmusk"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747668749973590017,
+    "id_str": "747668749973590017",
+    "in_reply_to_screen_name": "TeslaMotors",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13298072,
+    "in_reply_to_user_id_str": "13298072",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        139.729893,
+                        35.668551
+                    ],
+                    [
+                        139.782836,
+                        35.668551
+                    ],
+                    [
+                        139.782836,
+                        35.705218
+                    ],
+                    [
+                        139.729893,
+                        35.705218
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u65e5\u672c",
+        "country_code": "JP",
+        "full_name": "Chiyoda-ku, Tokyo",
+        "id": "28b9063fdce43645",
+        "name": "Chiyoda-ku",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/28b9063fdce43645.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@TeslaMotors 's customer service in China is  unprofessional, whatever happens to the car, it's always waterlogged car. @elonmusk",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 03 12:12:08 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Cheesehead",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9,
+        "follow_request_sent": false,
+        "followers_count": 104,
+        "following": false,
+        "friends_count": 225,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 28549211,
+        "id_str": "28549211",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "zh-cn",
+        "listed_count": 6,
+        "location": "Troy, NY",
+        "name": "Eldrick Wang",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28549211/1399863420",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/465686867199799297/LYxXGjbc_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/465686867199799297/LYxXGjbc_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "eldrick_wang",
+        "statuses_count": 1228,
+        "time_zone": "Alaska",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
