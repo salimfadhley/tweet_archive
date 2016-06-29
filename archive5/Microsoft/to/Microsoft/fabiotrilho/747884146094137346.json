@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 28 20:07:30 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747884146094137346,
+    "id_str": "747884146094137346",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -9.2298264,
+                        38.6913748
+                    ],
+                    [
+                        -9.0901639,
+                        38.6913748
+                    ],
+                    [
+                        -9.0901639,
+                        38.7958529
+                    ],
+                    [
+                        -9.2298264,
+                        38.7958529
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Portugal",
+        "country_code": "PT",
+        "full_name": "Lisbon, Portugal",
+        "id": "c1430b24da8e9229",
+        "name": "Lisbon",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c1430b24da8e9229.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Microsoft you should update the M20487 Azure certification, this material is so outdated that we can't complete the exercises in the class",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 14 19:09:40 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Trying to become less annoying!\nI like robots and zombies! \nInstagram/Snapchat: fabiotrilho",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 319,
+        "follow_request_sent": false,
+        "followers_count": 171,
+        "following": false,
+        "friends_count": 241,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 373534632,
+        "id_str": "373534632",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Lisboa",
+        "name": "Fabio Maxkote",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/436666070212947968/2CjURVae.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/436666070212947968/2CjURVae.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/373534632/1398195131",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/695131093343797248/0X0d6chs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/695131093343797248/0X0d6chs_normal.jpg",
+        "profile_link_color": "0F4CA8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fabiotrilho",
+        "statuses_count": 10870,
+        "time_zone": "Lisbon",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

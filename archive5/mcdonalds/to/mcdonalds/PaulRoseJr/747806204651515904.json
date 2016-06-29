@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 28 14:57:47 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747806204651515904,
+    "id_str": "747806204651515904",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@McDonalds Glendale. Blew the 60-second guarantee. When I told the employee he'd given me the wrong drink order, he shut DT window and left.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 31 16:06:24 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I am a #Writer #Actor & #Freelance #Storyteller in Los Angeles - I write high concept film & TV while playing resolute dads & sympathetic everyman.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "paulrosejr.com",
+                        "expanded_url": "http://www.paulrosejr.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/KAJNlhAs7e"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 403,
+        "follow_request_sent": false,
+        "followers_count": 1317,
+        "following": false,
+        "friends_count": 2014,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14267163,
+        "id_str": "14267163",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 43,
+        "location": "West Hollywood, CA",
+        "name": "Paul Rose, Jr.",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/542195557716852736/3Z7DnJAg.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/542195557716852736/3Z7DnJAg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14267163/1418105076",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/501768811586940929/51uXCcfM_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/501768811586940929/51uXCcfM_normal.jpeg",
+        "profile_link_color": "060694",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PaulRoseJr",
+        "statuses_count": 7029,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/KAJNlhAs7e",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

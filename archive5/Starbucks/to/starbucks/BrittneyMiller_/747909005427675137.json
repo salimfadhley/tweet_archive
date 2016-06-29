@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 28 21:46:17 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747909005427675137,
+    "id_str": "747909005427675137",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": 747906985228591104,
+    "in_reply_to_status_id_str": "747906985228591104",
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Starbucks the LA Live location and the Brentwood Ralph's location--both in Los Angeles. Thanks!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 08 03:45:36 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ex-east coaster. Digital and social strategist. Avid walker.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1089,
+        "follow_request_sent": false,
+        "followers_count": 1062,
+        "following": false,
+        "friends_count": 1241,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 130727081,
+        "id_str": "130727081",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 38,
+        "location": "Los Angeles ",
+        "name": "Brittney",
+        "notifications": false,
+        "profile_background_color": "FAFAFA",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000180704018/hYFs65XY.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000180704018/hYFs65XY.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/130727081/1417388622",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/662420448735584256/Ehir1Lni_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/662420448735584256/Ehir1Lni_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E8FAF5",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BrittneyMiller_",
+        "statuses_count": 3889,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

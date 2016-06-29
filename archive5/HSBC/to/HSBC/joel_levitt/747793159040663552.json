@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 28 14:05:57 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 467368287,
+                "id_str": "467368287",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "HSBC",
+                "screen_name": "HSBC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747793159040663552,
+    "id_str": "747793159040663552",
+    "in_reply_to_screen_name": "HSBC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 467368287,
+    "in_reply_to_user_id_str": "467368287",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        0.245025,
+                        51.1803086
+                    ],
+                    [
+                        0.310677,
+                        51.1803086
+                    ],
+                    [
+                        0.310677,
+                        51.2286878
+                    ],
+                    [
+                        0.245025,
+                        51.2286878
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Tonbridge, South East",
+        "id": "2bb2139f958a95b4",
+        "name": "Tonbridge",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2bb2139f958a95b4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@HSBC there is no point you putting a telephone number on any information you send out it is completely hopeless and never solves anything!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 25 12:21:05 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Product Designer with a slight obsession over all things cycling related.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "behance.com/joellevitt",
+                        "expanded_url": "http://www.behance.com/joellevitt",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/UEXOqdB8b4"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1374,
+        "follow_request_sent": false,
+        "followers_count": 600,
+        "following": false,
+        "friends_count": 435,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 159455094,
+        "id_str": "159455094",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 33,
+        "location": "Tonbridge, England",
+        "name": "Joel Levitt",
+        "notifications": false,
+        "profile_background_color": "65CFF5",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459705663/1920x1200tw.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459705663/1920x1200tw.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/159455094/1452153356",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/746038513028710400/PE5_hHYt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/746038513028710400/PE5_hHYt_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C1D9CD",
+        "profile_text_color": "EB613B",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "joel_levitt",
+        "statuses_count": 2318,
+        "time_zone": "London",
+        "url": "https://t.co/UEXOqdB8b4",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

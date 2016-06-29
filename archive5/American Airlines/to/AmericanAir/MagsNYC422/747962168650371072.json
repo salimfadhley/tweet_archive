@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 01:17:32 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747962168650371072,
+    "id_str": "747962168650371072",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 747961635646496768,
+    "in_reply_to_status_id_str": "747961635646496768",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.507905,
+                        28.3882177
+                    ],
+                    [
+                        -81.2276403,
+                        28.3882177
+                    ],
+                    [
+                        -81.2276403,
+                        28.615139
+                    ],
+                    [
+                        -81.507905,
+                        28.615139
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Orlando, FL",
+        "id": "55b4f9e5c516e0b6",
+        "name": "Orlando",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/55b4f9e5c516e0b6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir thanks for the automated response.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 26 03:38:50 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I didn't do it.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 253,
+        "follow_request_sent": false,
+        "followers_count": 99,
+        "following": false,
+        "friends_count": 227,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 42556326,
+        "id_str": "42556326",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "NYC",
+        "name": "Mags",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/888396736/97952faeffbddb770e18d1747fdc270c.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/888396736/97952faeffbddb770e18d1747fdc270c.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42556326/1354076586",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/733993272490725380/N-9YG2H2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/733993272490725380/N-9YG2H2_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MagsNYC422",
+        "statuses_count": 979,
+        "time_zone": "Quito",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

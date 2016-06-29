@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 28 19:30:37 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 34442404,
+                "id_str": "34442404",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Sony",
+                "screen_name": "Sony"
+            },
+            {
+                "id": 2400329084,
+                "id_str": "2400329084",
+                "indices": [
+                    23,
+                    36
+                ],
+                "name": "Ghostbusters",
+                "screen_name": "Ghostbusters"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747874867626663936,
+    "id_str": "747874867626663936",
+    "in_reply_to_screen_name": "Sony",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 34442404,
+    "in_reply_to_user_id_str": "34442404",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.6398828,
+                        28.4336714
+                    ],
+                    [
+                        -82.428825,
+                        28.4336714
+                    ],
+                    [
+                        -82.428825,
+                        28.534024
+                    ],
+                    [
+                        -82.6398828,
+                        28.534024
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Spring Hill, FL",
+        "id": "68042baafa8b7e0a",
+        "name": "Spring Hill",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/68042baafa8b7e0a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Sony needs to reshoot @Ghostbusters &amp; make it a sequel vs. a reboot. Disney just reshot R1. Without fans this film is toast.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 18 14:45:32 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Eerie Effects is a professional Halloween Prop Shop that specializes in large wooden props & resin casting.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "eerieeffects.com",
+                        "expanded_url": "http://www.eerieeffects.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/mQGGRYnTTl"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 135,
+        "follow_request_sent": false,
+        "followers_count": 372,
+        "following": false,
+        "friends_count": 456,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3332706777,
+        "id_str": "3332706777",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Florida",
+        "name": "Eerie Effects",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3332706777/1447104598",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/653951176728297473/TF5XIWrz_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/653951176728297473/TF5XIWrz_normal.png",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Eerie_Effects",
+        "statuses_count": 657,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/mQGGRYnTTl",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 28 21:29:16 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    47,
+                    56
+                ],
+                "text": "CUNAACUC"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/rfc396zqc0",
+                "expanded_url": "http://twitter.com/justinhancock/status/747904724519649280/video/1",
+                "id": 747904534307995648,
+                "id_str": "747904534307995648",
+                "indices": [
+                    57,
+                    80
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/747904534307995648/pu/img/3EwEvEajLC9aqfjF.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/747904534307995648/pu/img/3EwEvEajLC9aqfjF.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1280,
+                        "resize": "fit",
+                        "w": 720
+                    },
+                    "medium": {
+                        "h": 1067,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 604,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/rfc396zqc0"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 747904724519649280,
+    "id_str": "747904724519649280",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.436232,
+                        47.4953154
+                    ],
+                    [
+                        -122.2249728,
+                        47.4953154
+                    ],
+                    [
+                        -122.2249728,
+                        47.734319
+                    ],
+                    [
+                        -122.436232,
+                        47.734319
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Seattle, WA",
+        "id": "300bcc6e23a88361",
+        "name": "Seattle",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/300bcc6e23a88361.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@Starbucks Reserve Roastery &amp; Tasting Room #CUNAACUC https://t.co/rfc396zqc0",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 10 15:30:14 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Credit union professional, Millennial, marketing and research driven by business intelligence.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 192,
+        "follow_request_sent": false,
+        "followers_count": 87,
+        "following": false,
+        "friends_count": 47,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 263700897,
+        "id_str": "263700897",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Spokane, WA",
+        "name": "Justin Hancock",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/263700897/1400043353",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/429064949524987905/ZixSpo1V_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/429064949524987905/ZixSpo1V_normal.jpeg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "justinhancock",
+        "statuses_count": 2937,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

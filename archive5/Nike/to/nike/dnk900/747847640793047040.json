@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 28 17:42:26 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 415859364,
+                "id_str": "415859364",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Nike",
+                "screen_name": "Nike"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 747847640793047040,
+    "id_str": "747847640793047040",
+    "in_reply_to_screen_name": "Nike",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 415859364,
+    "in_reply_to_user_id_str": "415859364",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.326102,
+                        47.396426
+                    ],
+                    [
+                        -122.2668746,
+                        47.396426
+                    ],
+                    [
+                        -122.2668746,
+                        47.4887404
+                    ],
+                    [
+                        -122.326102,
+                        47.4887404
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "SeaTac, WA",
+        "id": "c8b06a459cc8f78a",
+        "name": "SeaTac",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c8b06a459cc8f78a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Nike When will the New Back To The Future Shoes that where shown last year are coming out.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 20 00:23:04 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Intern at The Knoxville Ice Bears and 12th grader at the L&N STEM academy. I am a Nashville Predators Fan whos Favorite Player is Mike Fisher. Is #1of119!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "knoxvilleicebears.com",
+                        "expanded_url": "http://www.knoxvilleicebears.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/q1QyBR3DsW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 40486,
+        "follow_request_sent": false,
+        "followers_count": 452,
+        "following": false,
+        "friends_count": 1050,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 269040391,
+        "id_str": "269040391",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "Knoxville ,TN",
+        "name": "David Krepps",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/476155029594722305/e37kDQAZ.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/476155029594722305/e37kDQAZ.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/269040391/1401988931",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/727507245290901505/9fSZB03F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/727507245290901505/9fSZB03F_normal.jpg",
+        "profile_link_color": "FFCC4D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dnk900",
+        "statuses_count": 20559,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/q1QyBR3DsW",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 28 23:26:48 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747934304873787392,
+    "id_str": "747934304873787392",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.3790859,
+                        46.0228571
+                    ],
+                    [
+                        -118.263051,
+                        46.0228571
+                    ],
+                    [
+                        -118.263051,
+                        46.106424
+                    ],
+                    [
+                        -118.3790859,
+                        46.106424
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Walla Walla, WA",
+        "id": "3f449e4a20757d86",
+        "name": "Walla Walla",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3f449e4a20757d86.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@McDonalds why is it called \"double quarter pounder\" and not \"half pounder\" I just don't understand...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 30 04:57:47 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Few know my past, but many will know my future \u270a",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "soundcloud.com/johnnibler",
+                        "expanded_url": "http://soundcloud.com/johnnibler",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/E8lYt0gVtG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3465,
+        "follow_request_sent": false,
+        "followers_count": 787,
+        "following": false,
+        "friends_count": 276,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 913918328,
+        "id_str": "913918328",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Walla Walla, WA",
+        "name": "JNibZ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/913918328/1388628455",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/745485872347308032/QeiszCQp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/745485872347308032/QeiszCQp_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JnibzHo",
+        "statuses_count": 11646,
+        "time_zone": null,
+        "url": "https://t.co/E8lYt0gVtG",
+        "utc_offset": null,
+        "verified": false
+    }
+}

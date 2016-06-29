@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 28 22:05:48 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747913919633625088,
+    "id_str": "747913919633625088",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 747911030534135808,
+    "in_reply_to_status_id_str": "747911030534135808",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -124.482003,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        42.009519
+                    ],
+                    [
+                        -124.482003,
+                        42.009519
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "California, USA",
+        "id": "fbd6d2f5a4e4a15e",
+        "name": "California",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir please do - she was so helpful and we really appreciate it! Made our day!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 20 22:41:50 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Oceanographer-turned-librarian at Hopkins Marine Station/Stanford. Data | Metadata | Visualization. You got a problem? Yo, I'll solve it.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "hopkinsmarinestation.stanford.edu/content/amanda\u2026",
+                        "expanded_url": "http://hopkinsmarinestation.stanford.edu/content/amanda-whitmire",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/GRRYNfJghm"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4957,
+        "follow_request_sent": false,
+        "followers_count": 603,
+        "following": false,
+        "friends_count": 509,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 613900833,
+        "id_str": "613900833",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 48,
+        "location": "Pacific Grove, CA",
+        "name": "Amanda Whitmire",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/613900833/1466225347",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/744029143579365380/5D3XhLUO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/744029143579365380/5D3XhLUO_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "AWhitTwit",
+        "statuses_count": 5358,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/GRRYNfJghm",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}
