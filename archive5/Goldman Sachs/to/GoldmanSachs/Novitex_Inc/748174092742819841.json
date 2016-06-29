@@ -1,0 +1,175 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 15:19:38 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    42,
+                    58
+                ],
+                "text": "congratulations"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 253167239,
+                "id_str": "253167239",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Goldman Sachs",
+                "screen_name": "GoldmanSachs"
+            },
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    14,
+                    24
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            },
+            {
+                "id": 24636272,
+                "id_str": "24636272",
+                "indices": [
+                    25,
+                    33
+                ],
+                "name": "PwC LLP",
+                "screen_name": "PwC_LLP"
+            },
+            {
+                "id": 70001932,
+                "id_str": "70001932",
+                "indices": [
+                    34,
+                    41
+                ],
+                "name": "EY",
+                "screen_name": "EYnews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748174092742819841,
+    "id_str": "748174092742819841",
+    "in_reply_to_screen_name": "GoldmanSachs",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 253167239,
+    "in_reply_to_user_id_str": "253167239",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.606436,
+                        41.016898
+                    ],
+                    [
+                        -73.501758,
+                        41.016898
+                    ],
+                    [
+                        -73.501758,
+                        41.179771
+                    ],
+                    [
+                        -73.606436,
+                        41.179771
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Stamford, CT",
+        "id": "468bfe7c705fbc37",
+        "name": "Stamford",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/468bfe7c705fbc37.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@GoldmanSachs @Microsoft @PwC_LLP @EYnews #congratulations on being part of the world's top 10 employers of 2016!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 31 14:54:21 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Novitex - Building #custom, integrated, enterprise #document #management solutions for the #digital age.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Novitex.com",
+                        "expanded_url": "http://www.Novitex.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/plkt89sPT9"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 142,
+        "follow_request_sent": false,
+        "followers_count": 234,
+        "following": false,
+        "friends_count": 420,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2953192803,
+        "id_str": "2953192803",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 82,
+        "location": "Stamford, CT",
+        "name": "NovitexEnterprise",
+        "notifications": false,
+        "profile_background_color": "89C9FA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2953192803/1444330748",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/654279470292037632/Gu9rZpkb_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/654279470292037632/Gu9rZpkb_normal.png",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Novitex_Inc",
+        "statuses_count": 972,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/plkt89sPT9",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 18:12:59 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748217715169464320,
+    "id_str": "748217715169464320",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 748185489522384896,
+    "in_reply_to_status_id_str": "748185489522384896",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -112.3239143,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.8154652
+                    ],
+                    [
+                        -112.3239143,
+                        33.8154652
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Phoenix, AZ",
+        "id": "5c62ffb0f0f3479d",
+        "name": "Phoenix",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir it wasn't weather. Your DCA based baggage handlers didn't load the plane properly. Lost 1 hour and missed our connecting flight",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 16 15:52:44 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Husband, father, PR professional, Retired Vol FF/EMT, and clutz. My tweets are my views and don't represent my employer.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 641,
+        "follow_request_sent": false,
+        "followers_count": 176,
+        "following": false,
+        "friends_count": 632,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 57366686,
+        "id_str": "57366686",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "ArlingtonVA",
+        "name": "Frank B.",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/479722480966197248/5BZGnug3.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/479722480966197248/5BZGnug3.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/57366686/1442261374",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/687333718378217472/RMpy1c4-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/687333718378217472/RMpy1c4-_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fbellavia",
+        "statuses_count": 2034,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

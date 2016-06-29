@@ -1,0 +1,341 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 17:36:49 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/IHEID/status/7\u2026",
+                "expanded_url": "https://twitter.com/IHEID/status/748197604681486336",
+                "indices": [
+                    120,
+                    143
+                ],
+                "url": "https://t.co/bAliwCDvDZ"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            },
+            {
+                "id": 14505546,
+                "id_str": "14505546",
+                "indices": [
+                    21,
+                    29
+                ],
+                "name": "Brad Smith",
+                "screen_name": "BradSmi"
+            },
+            {
+                "id": 57271025,
+                "id_str": "57271025",
+                "indices": [
+                    113,
+                    119
+                ],
+                "name": "Graduate Institute",
+                "screen_name": "IHEID"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 748208614582648832,
+    "id_str": "748208614582648832",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Jun 29 16:53:04 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/oiWl5ff0bo",
+                    "expanded_url": "http://twitter.com/IHEID/status/748197604681486336/photo/1",
+                    "id": 748196671490764800,
+                    "id_str": "748196671490764800",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CmIg6JpWMAAaTs1.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CmIg6JpWMAAaTs1.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 768,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 768,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "small": {
+                            "h": 510,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/oiWl5ff0bo"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 14505546,
+                    "id_str": "14505546",
+                    "indices": [
+                        20,
+                        28
+                    ],
+                    "name": "Brad Smith",
+                    "screen_name": "BradSmi"
+                },
+                {
+                    "id": 57271025,
+                    "id_str": "57271025",
+                    "indices": [
+                        44,
+                        50
+                    ],
+                    "name": "Graduate Institute",
+                    "screen_name": "IHEID"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 748197604681486336,
+        "id_str": "748197604681486336",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            6.1102335,
+                            46.177632
+                        ],
+                        [
+                            6.175817,
+                            46.177632
+                        ],
+                        [
+                            6.175817,
+                            46.2318837
+                        ],
+                        [
+                            6.1102335,
+                            46.2318837
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "Schweiz",
+            "country_code": "CH",
+            "full_name": "Geneva, Switzerland",
+            "id": "c3a6437e1b1a726d",
+            "name": "Geneva",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/c3a6437e1b1a726d.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Microsoft President @BradSmi talking now at @iheid on the 4th industrial revolution (physical, biological, digital) https://t.co/oiWl5ff0bo",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jul 16 07:20:51 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Europe's oldest school of international relations. Connect with us on https://t.co/Rt8aeJAMqu and https://t.co/GSIsQ1VjJE.",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "Facebook.com/graduateinstit\u2026",
+                            "expanded_url": "http://Facebook.com/graduateinstitute",
+                            "indices": [
+                                70,
+                                93
+                            ],
+                            "url": "https://t.co/Rt8aeJAMqu"
+                        },
+                        {
+                            "display_url": "Instagr.am/graduateinstit\u2026",
+                            "expanded_url": "http://Instagr.am/graduateinstitute",
+                            "indices": [
+                                98,
+                                121
+                            ],
+                            "url": "https://t.co/GSIsQ1VjJE"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "graduateinstitute.org",
+                            "expanded_url": "http://graduateinstitute.org",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/sOauS63mcT"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1057,
+            "follow_request_sent": false,
+            "followers_count": 7046,
+            "following": false,
+            "friends_count": 446,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 57271025,
+            "id_str": "57271025",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 170,
+            "location": "Geneva",
+            "name": "Graduate Institute",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636794339499216896/eqzc91Q-.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/636794339499216896/eqzc91Q-.jpg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/57271025/1458208642",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3409566418/7db76819aa04cb0a748779c17577f733_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3409566418/7db76819aa04cb0a748779c17577f733_normal.png",
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "IHEID",
+            "statuses_count": 2903,
+            "time_zone": "Paris",
+            "url": "http://t.co/sOauS63mcT",
+            "utc_offset": 7200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 748197604681486336,
+    "quoted_status_id_str": "748197604681486336",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Microsoft President @BradSmi calls for more international law to govern data flows, privacy &amp; cybersecurity @IHEID https://t.co/bAliwCDvDZ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 22 08:14:42 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Post-doctoral Researcher at the Graduate Institute, Geneva, and the World Trade Institute, Bern.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mappinginvestmenttreaties.com",
+                        "expanded_url": "http://mappinginvestmenttreaties.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/AaPEmpgLma"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 34,
+        "follow_request_sent": false,
+        "followers_count": 97,
+        "following": false,
+        "friends_count": 152,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 4248290776,
+        "id_str": "4248290776",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "",
+        "name": "Wolfgang Alschner",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668342599854497792/KZsPIDOB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668342599854497792/KZsPIDOB_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "w_alschner",
+        "statuses_count": 48,
+        "time_zone": null,
+        "url": "https://t.co/AaPEmpgLma",
+        "utc_offset": null,
+        "verified": false
+    }
+}

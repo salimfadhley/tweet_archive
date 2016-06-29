@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 07:33:56 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15589815,
+                "id_str": "15589815",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "GWR Help",
+                "screen_name": "GWRHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748056896381263872,
+    "id_str": "748056896381263872",
+    "in_reply_to_screen_name": "GWRHelp",
+    "in_reply_to_status_id": 735734283961143296,
+    "in_reply_to_status_id_str": "735734283961143296",
+    "in_reply_to_user_id": 15589815,
+    "in_reply_to_user_id_str": "15589815",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.11211,
+                        51.472609
+                    ],
+                    [
+                        -1.073971,
+                        51.472609
+                    ],
+                    [
+                        -1.073971,
+                        51.4872491
+                    ],
+                    [
+                        -1.11211,
+                        51.4872491
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Pangbourne, England",
+        "id": "66329d28496572db",
+        "name": "Pangbourne",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/66329d28496572db.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@GWRHelp something\u2019s never change. GWR Still persisting with the smaller 8:21 train from DID to PAD. Currently sat in a luggage rack!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 27 11:44:49 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "'Stay Hungry, Stay Foolish'\r\n\r\niOS Developer by day - runner by night!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "danielanderton.com",
+                        "expanded_url": "http://www.danielanderton.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/peky0FjN00"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 40,
+        "follow_request_sent": false,
+        "followers_count": 261,
+        "following": false,
+        "friends_count": 411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 137668727,
+        "id_str": "137668727",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 29,
+        "location": "Didcot, UK",
+        "name": "Daniel Anderton",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/137668727/1432201010",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/601320591791169536/ZIj5st-j_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/601320591791169536/ZIj5st-j_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dan_Anderton",
+        "statuses_count": 14403,
+        "time_zone": "Hawaii",
+        "url": "http://t.co/peky0FjN00",
+        "utc_offset": -36000,
+        "verified": false
+    }
+}

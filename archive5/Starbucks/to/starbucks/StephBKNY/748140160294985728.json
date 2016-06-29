@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 13:04:48 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748140160294985728,
+    "id_str": "748140160294985728",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks I waited 15 minutes while other orders taken after me where completed. This made me late for work. Not cool.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 11 13:19:36 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Gay icon. Corporate Barbie by day, \u0950Yoga teacher\u0950 by night. Owner of Yoga Nidra Studio, BKNY.\u0950 Heaven looks at you from the Brooklyn Bridge. - Frank Sinatra",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "crowdrise.com/bknyforbetty/f\u2026",
+                        "expanded_url": "https://www.crowdrise.com/bknyforbetty/fundraiser/StephBKNY",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/3r32rTflYh"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2530,
+        "follow_request_sent": false,
+        "followers_count": 861,
+        "following": false,
+        "friends_count": 540,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 13345732,
+        "id_str": "13345732",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 16,
+        "location": "Brooklyn, NY",
+        "name": "Stephanie Giannetti",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13345732/1463701514",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/701465968816435200/URizhFZI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/701465968816435200/URizhFZI_normal.jpg",
+        "profile_link_color": "1A4EBC",
+        "profile_sidebar_border_color": "1938D7",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "030303",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "StephBKNY",
+        "statuses_count": 20105,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/3r32rTflYh",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

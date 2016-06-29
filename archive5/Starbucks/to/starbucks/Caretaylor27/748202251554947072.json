@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 17:11:32 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 1717939488,
+                "id_str": "1717939488",
+                "indices": [
+                    11,
+                    22
+                ],
+                "name": "kb",
+                "screen_name": "kathryntez"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748202251554947072,
+    "id_str": "748202251554947072",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": 747821956649517056,
+    "in_reply_to_status_id_str": "747821956649517056",
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -112.0383105,
+                        40.6998952
+                    ],
+                    [
+                        -111.795741,
+                        40.6998952
+                    ],
+                    [
+                        -111.795741,
+                        40.8317151
+                    ],
+                    [
+                        -112.0383105,
+                        40.8317151
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Salt Lake City, UT",
+        "id": "bd7c511e9f8bc5da",
+        "name": "Salt Lake City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/bd7c511e9f8bc5da.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks @kathryntez",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 15 23:40:07 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "u of u/primary childrens",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "caretaylor.vsco.co",
+                        "expanded_url": "http://caretaylor.vsco.co",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/znXpjTOn4w"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 23906,
+        "follow_request_sent": false,
+        "followers_count": 388,
+        "following": false,
+        "friends_count": 301,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 66003750,
+        "id_str": "66003750",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "uofu//saltlakecity",
+        "name": "CT",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/690263344/81d7adfa27511f828eac33f2851d2f94.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/690263344/81d7adfa27511f828eac33f2851d2f94.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/66003750/1466229955",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748041319948357632/DN7aSAzK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748041319948357632/DN7aSAzK_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Caretaylor27",
+        "statuses_count": 15610,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": "https://t.co/znXpjTOn4w",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

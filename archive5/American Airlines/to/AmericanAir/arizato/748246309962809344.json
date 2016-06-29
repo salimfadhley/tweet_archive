@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 20:06:36 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    131,
+                    137
+                ],
+                "text": "Upset"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748246309962809344,
+    "id_str": "748246309962809344",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 748245630917607424,
+    "in_reply_to_status_id_str": "748245630917607424",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -111.972849,
+                        33.2037607
+                    ],
+                    [
+                        -111.788898,
+                        33.2037607
+                    ],
+                    [
+                        -111.788898,
+                        33.36114
+                    ],
+                    [
+                        -111.972849,
+                        33.36114
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chandler, AZ",
+        "id": "52445186970bafb3",
+        "name": "Chandler",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/52445186970bafb3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanAir Got there.  Said I had no res, even though I was told I did. And refused to write ticket.  Saying it was now too late.#Upset",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 16 21:12:02 +0000 2008",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Freelance broadcast journalist in Chandler, Arizona.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "rarproductions.com",
+                        "expanded_url": "http://rarproductions.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/LIDMkrgmhV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 142,
+        "follow_request_sent": false,
+        "followers_count": 156,
+        "following": false,
+        "friends_count": 490,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 16317673,
+        "id_str": "16317673",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Chandler, AZ",
+        "name": "Bob Richardson",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/747879584796901376/sppW7nRJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/747879584796901376/sppW7nRJ_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "arizato",
+        "statuses_count": 417,
+        "time_zone": "Arizona",
+        "url": "http://t.co/LIDMkrgmhV",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

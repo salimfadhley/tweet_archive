@@ -1,0 +1,175 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            12.1644962,
+            45.5424493
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Jun 29 11:53:03 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Fe5b4Unrl6",
+                "expanded_url": "http://twitter.com/VlacancichIrene/status/748122102327291904/photo/1",
+                "id": 748122056919781376,
+                "id_str": "748122056919781376",
+                "indices": [
+                    22,
+                    45
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmHdDAtWkAANYmK.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmHdDAtWkAANYmK.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/Fe5b4Unrl6"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            45.5424493,
+            12.1644962
+        ],
+        "type": "Point"
+    },
+    "id": 748122102327291904,
+    "id_str": "748122102327291904",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        12.1257084,
+                        45.5045088
+                    ],
+                    [
+                        12.1999455,
+                        45.5045088
+                    ],
+                    [
+                        12.1999455,
+                        45.5712728
+                    ],
+                    [
+                        12.1257084,
+                        45.5712728
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Italia",
+        "country_code": "IT",
+        "full_name": "Martellago, Veneto",
+        "id": "a4c703070d9bbfe2",
+        "name": "Martellago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a4c703070d9bbfe2.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Starbucks I miss you https://t.co/Fe5b4Unrl6",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 26 18:17:12 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Happiness is a piano duet",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1898,
+        "follow_request_sent": false,
+        "followers_count": 264,
+        "following": false,
+        "friends_count": 721,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2942480897,
+        "id_str": "2942480897",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "it",
+        "listed_count": 3,
+        "location": "Venice (Italy)",
+        "name": "Irene Vlacancich",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2942480897/1454623174",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/744235800842350596/_T4iyeVs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/744235800842350596/_T4iyeVs_normal.jpg",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "VlacancichIrene",
+        "statuses_count": 2836,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

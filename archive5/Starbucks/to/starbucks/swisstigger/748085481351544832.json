@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 09:27:32 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748085481351544832,
+    "id_str": "748085481351544832",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        0.244138,
+                        50.750758
+                    ],
+                    [
+                        0.3280998,
+                        50.750758
+                    ],
+                    [
+                        0.3280998,
+                        50.8132927
+                    ],
+                    [
+                        0.244138,
+                        50.8132927
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Eastbourne, England",
+        "id": "3dc7b71f520e2d15",
+        "name": "Eastbourne",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3dc7b71f520e2d15.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks 50% off if I pre order is a lovely offer if i didn't have to travel 60 miles to the closest store",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 16 16:31:48 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "touch my food, feel my fork",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 367,
+        "follow_request_sent": false,
+        "followers_count": 37,
+        "following": false,
+        "friends_count": 96,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 31955738,
+        "id_str": "31955738",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "Tina Bass",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/576517962661789697/-kfGzF0j_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/576517962661789697/-kfGzF0j_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "swisstigger",
+        "statuses_count": 256,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

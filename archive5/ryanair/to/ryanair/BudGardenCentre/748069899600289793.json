@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 08:25:37 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1542862735,
+                "id_str": "1542862735",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Ryanair",
+                "screen_name": "Ryanair"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748069899600289793,
+    "id_str": "748069899600289793",
+    "in_reply_to_screen_name": "Ryanair",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1542862735,
+    "in_reply_to_user_id_str": "1542862735",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.319934,
+                        53.343623
+                    ],
+                    [
+                        -2.147026,
+                        53.343623
+                    ],
+                    [
+                        -2.147026,
+                        53.5702824
+                    ],
+                    [
+                        -2.319934,
+                        53.5702824
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Manchester, England",
+        "id": "315b740b108481f6",
+        "name": "Manchester",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/315b740b108481f6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Ryanair Kitti has just closed down a live chat with me, and I don't have a resolution.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 17 16:27:08 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A teeny garden centre in Burnage, run by Brenda, with a strong focus on sustainability. https://t.co/qRZCAEGiyG",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/pages/Bud-Gard\u2026",
+                        "expanded_url": "https://www.facebook.com/pages/Bud-Garden-Centre/201090826576644",
+                        "indices": [
+                            88,
+                            111
+                        ],
+                        "url": "https://t.co/qRZCAEGiyG"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "budgarden.co.uk",
+                        "expanded_url": "http://www.budgarden.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/j7Xl97zcDF"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2737,
+        "follow_request_sent": false,
+        "followers_count": 3465,
+        "following": false,
+        "friends_count": 1396,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 267828065,
+        "id_str": "267828065",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 106,
+        "location": "Manchester",
+        "name": "Bud Garden Centre",
+        "notifications": false,
+        "profile_background_color": "ED092F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/752740672/4afb0101792c56cc9833ed666651469a.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/752740672/4afb0101792c56cc9833ed666651469a.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267828065/1402123788",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1277091212/bud-logo-for-facebook-3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1277091212/bud-logo-for-facebook-3_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BudGardenCentre",
+        "statuses_count": 20426,
+        "time_zone": "London",
+        "url": "http://t.co/j7Xl97zcDF",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

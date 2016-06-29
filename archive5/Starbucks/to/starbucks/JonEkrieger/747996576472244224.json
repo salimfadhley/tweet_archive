@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 03:34:15 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/9WtX2GYVBv",
+                "expanded_url": "http://twitter.com/JonEkrieger/status/747996576472244224/photo/1",
+                "id": 747996567571922944,
+                "id_str": "747996567571922944",
+                "indices": [
+                    116,
+                    139
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmFq6kdWAAAVi7W.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmFq6kdWAAAVi7W.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 1536
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/9WtX2GYVBv"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747996576472244224,
+    "id_str": "747996576472244224",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -75.027179,
+                        39.8593695
+                    ],
+                    [
+                        -74.988897,
+                        39.8593695
+                    ],
+                    [
+                        -74.988897,
+                        39.900149
+                    ],
+                    [
+                        -75.027179,
+                        39.900149
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Ashland, NJ",
+        "id": "203776e9d7e421a6",
+        "name": "Ashland",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/203776e9d7e421a6.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks why is this 24hr StBuks on the NJ TP closed? Stop here every night with my 8 wk baby to get her asleep!! https://t.co/9WtX2GYVBv",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 24 17:03:18 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9,
+        "follow_request_sent": false,
+        "followers_count": 48,
+        "following": false,
+        "friends_count": 263,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 304516422,
+        "id_str": "304516422",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "New Jersey",
+        "name": "Jonathan Krieger",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1479988717/mongo_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1479988717/mongo_normal.JPG",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JonEkrieger",
+        "statuses_count": 60,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

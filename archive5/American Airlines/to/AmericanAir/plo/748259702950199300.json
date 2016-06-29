@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 20:59:49 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748259702950199300,
+    "id_str": "748259702950199300",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 748259320161153024,
+    "in_reply_to_status_id_str": "748259320161153024",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.321683,
+                        25.7090404
+                    ],
+                    [
+                        -80.144974,
+                        25.7090404
+                    ],
+                    [
+                        -80.144974,
+                        25.855667
+                    ],
+                    [
+                        -80.321683,
+                        25.855667
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Miami, FL",
+        "id": "04cb31bae3b3af93",
+        "name": "Miami",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/04cb31bae3b3af93.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@AmericanAir that\u2019s great but I\u2019ve now missed my 5271 connection to TUL. Only one person at the desk rebooking folks.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 11 15:44:39 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "maker of digital things. 1/2 of @jdhppr. married to @niqui. rum aficionado. lionfish hunter.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "paulofierro.com",
+                        "expanded_url": "http://paulofierro.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/c3kzrEMOCj"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 326,
+        "follow_request_sent": false,
+        "followers_count": 1518,
+        "following": false,
+        "friends_count": 618,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 764741,
+        "id_str": "764741",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 124,
+        "location": "Grand Cayman",
+        "name": "Paulo Fierro",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/357078500/black_linen_v2.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/357078500/black_linen_v2.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/764741/1416486769",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/489221822391410688/GUWZ_tlH_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/489221822391410688/GUWZ_tlH_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "plo",
+        "statuses_count": 20705,
+        "time_zone": "Bogota",
+        "url": "http://t.co/c3kzrEMOCj",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

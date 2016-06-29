@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 15:34:40 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 467368287,
+                "id_str": "467368287",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "HSBC",
+                "screen_name": "HSBC"
+            },
+            {
+                "id": 83723557,
+                "id_str": "83723557",
+                "indices": [
+                    6,
+                    20
+                ],
+                "name": "Banco do Brasil",
+                "screen_name": "BancodoBrasil"
+            },
+            {
+                "id": 229191436,
+                "id_str": "229191436",
+                "indices": [
+                    93,
+                    99
+                ],
+                "name": "Caixa",
+                "screen_name": "Caixa"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748177874700615680,
+    "id_str": "748177874700615680",
+    "in_reply_to_screen_name": "HSBC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 467368287,
+    "in_reply_to_user_id_str": "467368287",
+    "is_quote_status": false,
+    "lang": "pt",
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -48.7459849,
+                        -27.6418308
+                    ],
+                    [
+                        -48.5994473,
+                        -27.6418308
+                    ],
+                    [
+                        -48.5994473,
+                        -27.5232634
+                    ],
+                    [
+                        -48.7459849,
+                        -27.5232634
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "S\u00e3o Jos\u00e9, Brasil",
+        "id": "6403b7e96cc202f9",
+        "name": "S\u00e3o Jos\u00e9",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6403b7e96cc202f9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@HSBC @BancodoBrasil qualquer outro banco que quiser, entre em contato comigo, quero sair da @Caixa.  \nObrigado.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 28 03:19:23 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Opini\u00e3o Pr\u00f3pria LTDA.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/valdirtotal",
+                        "expanded_url": "http://www.facebook.com/valdirtotal",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/HGoihM4Tzi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 327,
+        "follow_request_sent": false,
+        "followers_count": 58,
+        "following": false,
+        "friends_count": 150,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2441231457,
+        "id_str": "2441231457",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "Everywhere",
+        "name": "Valdir Silva Jr",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2441231457/1420283647",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712949934908112896/Q8h7XudA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712949934908112896/Q8h7XudA_normal.jpg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "valdirtotal",
+        "statuses_count": 645,
+        "time_zone": "Mid-Atlantic",
+        "url": "http://t.co/HGoihM4Tzi",
+        "utc_offset": -7200,
+        "verified": false
+    }
+}

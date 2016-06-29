@@ -1,0 +1,154 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 14:50:20 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    132,
+                    138
+                ],
+                "text": "IABUK"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 126664172,
+                "id_str": "126664172",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "John Lewis",
+                "screen_name": "johnlewisretail"
+            },
+            {
+                "id": 110819538,
+                "id_str": "110819538",
+                "indices": [
+                    120,
+                    131
+                ],
+                "name": "Sienne Veit",
+                "screen_name": "sienneveit"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748166716723695617,
+    "id_str": "748166716723695617",
+    "in_reply_to_screen_name": "johnlewisretail",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 126664172,
+    "in_reply_to_user_id_str": "126664172",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.213503,
+                        51.512805
+                    ],
+                    [
+                        -0.105303,
+                        51.512805
+                    ],
+                    [
+                        -0.105303,
+                        51.572068
+                    ],
+                    [
+                        -0.213503,
+                        51.572068
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Camden Town, London",
+        "id": "5de8cffc145c486b",
+        "name": "Camden Town",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5de8cffc145c486b.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@johnlewisretail has a KPI around acquiring multi-channel customers, as they know they are more loyal, higher spenders. @sienneveit #IABUK",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 05 01:17:32 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Marketing Director @codewisecom & @voluumcom + Founder Too Many Dreams Ltd. Passionate marketing, mobile, music & adtech maven. Father, friend, husband, worrier",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/stephenjenkins",
+                        "expanded_url": "http://about.me/stephenjenkins",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/qfeggaijho"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 444,
+        "follow_request_sent": false,
+        "followers_count": 975,
+        "following": false,
+        "friends_count": 865,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20112054,
+        "id_str": "20112054",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 91,
+        "location": "London",
+        "name": "Stephen Jenkins",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/532112842154340352/iKX7dwi6_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/532112842154340352/iKX7dwi6_normal.jpeg",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lopsidedstephen",
+        "statuses_count": 3661,
+        "time_zone": "London",
+        "url": "https://t.co/qfeggaijho",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

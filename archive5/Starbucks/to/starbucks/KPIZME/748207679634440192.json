@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 17:33:06 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 748207679634440192,
+    "id_str": "748207679634440192",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.34266,
+                        37.699279
+                    ],
+                    [
+                        -122.114711,
+                        37.699279
+                    ],
+                    [
+                        -122.114711,
+                        37.8847092
+                    ],
+                    [
+                        -122.34266,
+                        37.8847092
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Oakland, CA",
+        "id": "ab2f2fac83aa388d",
+        "name": "Oakland",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ab2f2fac83aa388d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks Mobile Order was awesome today.  Put in my order going down elevator, walked to S* and was back at my desk in less than 10 mins",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 17 05:39:08 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm just a world away from letting stars light up my mind. I'm just a smile away from bringing hope. -Beta State",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1179,
+        "follow_request_sent": false,
+        "followers_count": 311,
+        "following": false,
+        "friends_count": 398,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14417174,
+        "id_str": "14417174",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 20,
+        "location": "iPhone: 37.292992,-121.931328",
+        "name": "KPIZME",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/616898082/k32txmk5rkzu1ovh5dwz.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/616898082/k32txmk5rkzu1ovh5dwz.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14417174/1443907500",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/617377402428067840/2lH0ArcT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/617377402428067840/2lH0ArcT_normal.jpg",
+        "profile_link_color": "173197",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "CACCCE",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KPIZME",
+        "statuses_count": 22610,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

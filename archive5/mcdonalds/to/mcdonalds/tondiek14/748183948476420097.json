@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 15:58:48 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/fqZyosXN28",
+                "expanded_url": "http://twitter.com/tondiek14/status/748183948476420097/video/1",
+                "id": 748183908353777665,
+                "id_str": "748183908353777665",
+                "indices": [
+                    11,
+                    34
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/748183908353777665/pu/img/vGjsNpQrdgHe3Mdv.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/748183908353777665/pu/img/vGjsNpQrdgHe3Mdv.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 640,
+                        "resize": "fit",
+                        "w": 360
+                    },
+                    "medium": {
+                        "h": 640,
+                        "resize": "fit",
+                        "w": 360
+                    },
+                    "small": {
+                        "h": 604,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/fqZyosXN28"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748183948476420097,
+    "id_str": "748183948476420097",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.125438,
+                        39.059951
+                    ],
+                    [
+                        -77.0338,
+                        39.059951
+                    ],
+                    [
+                        -77.0338,
+                        39.120903
+                    ],
+                    [
+                        -77.125438,
+                        39.120903
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Aspen Hill, MD",
+        "id": "08d254a18a834e3f",
+        "name": "Aspen Hill",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/08d254a18a834e3f.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@McDonalds https://t.co/fqZyosXN28",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 12 04:05:38 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Kwachology",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3127,
+        "follow_request_sent": false,
+        "followers_count": 219,
+        "following": false,
+        "friends_count": 338,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2338745525,
+        "id_str": "2338745525",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Park Vista",
+        "name": "Kwacha King #OM",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2338745525/1461276901",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/701441369211068416/lGDyrDkd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/701441369211068416/lGDyrDkd_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tondiek14",
+        "statuses_count": 698,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

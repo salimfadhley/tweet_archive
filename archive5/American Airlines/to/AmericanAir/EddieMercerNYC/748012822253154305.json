@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 04:38:48 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748012822253154305,
+    "id_str": "748012822253154305",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -63.39386,
+                        -41.035009
+                    ],
+                    [
+                        -56.665836,
+                        -41.035009
+                    ],
+                    [
+                        -56.665836,
+                        -33.260144
+                    ],
+                    [
+                        -63.39386,
+                        -33.260144
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Argentina",
+        "country_code": "AR",
+        "full_name": "Buenos Aires, Argentina",
+        "id": "4afa2757051c5192",
+        "name": "Buenos Aires",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir delays our 10pm flight till 4am, doesn't let us know until we're in the airport, then gives us a fake meal voucher. Thanks \u2708\ufe0f",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 18 17:28:38 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Visual artist currently working on an illustrated book about NYC's subway system.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "eddiemercer.nyc",
+                        "expanded_url": "http://eddiemercer.nyc",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/wBeBLyxalz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 32,
+        "follow_request_sent": false,
+        "followers_count": 142,
+        "following": false,
+        "friends_count": 189,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 32949863,
+        "id_str": "32949863",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Manhattan, NY",
+        "name": "All5Boros",
+        "notifications": false,
+        "profile_background_color": "111111",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/662338002425802752/oWN6pKRG.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/662338002425802752/oWN6pKRG.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/32949863/1440425103",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/635885817051893760/b0wpqnr8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/635885817051893760/b0wpqnr8_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "00DDFF",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "EddieMercerNYC",
+        "statuses_count": 252,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/wBeBLyxalz",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
