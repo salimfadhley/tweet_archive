@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 30 00:51:05 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748317903154470912,
+    "id_str": "748317903154470912",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir delayed 6 hours LAX-ORD. Miss MKE connection. You rebook me for tomorrow night but you already sent my bags to MKE tonight. FU!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 19 03:07:16 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u2708\ufe0f\u2615\ufe0f\u270f\ufe0f Chicagoan in California. I'm a kid's book author who also works with ambitious startups + brands over at @Startup_Scribe.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "aubreandrus.com",
+                        "expanded_url": "http://www.aubreandrus.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/r4Bqoz8LwB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2068,
+        "follow_request_sent": false,
+        "followers_count": 1521,
+        "following": false,
+        "friends_count": 1809,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 66892957,
+        "id_str": "66892957",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 140,
+        "location": "Los Angeles, CA",
+        "name": "Aubre Andrus",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/327657180/Screen_shot_2011-09-09_at_11.24.47_AM.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/327657180/Screen_shot_2011-09-09_at_11.24.47_AM.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/66892957/1453674976",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/506872432339087360/np-xy-SK_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/506872432339087360/np-xy-SK_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "aubreandrus",
+        "statuses_count": 14846,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/r4Bqoz8LwB",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

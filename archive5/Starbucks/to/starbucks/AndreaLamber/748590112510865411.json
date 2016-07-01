@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 30 18:52:45 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 748590112510865411,
+    "id_str": "748590112510865411",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Starbucks just gratified all my hopes and dreams this morning plus there was parking! I was so hungry &amp; in need of coffee. Thanks!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 22 23:22:11 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Author of Jet Set Desolate, Lorazepam & the Valley of Skin and G(u)ilt. Artist. Writing in @EntropyMag, @thefanzine, @CCMEnclave, @htmlgiant & @3ammagazine.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "andreaklambert.com",
+                        "expanded_url": "http://andreaklambert.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/8CKMQRSYti"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11081,
+        "follow_request_sent": false,
+        "followers_count": 72293,
+        "following": false,
+        "friends_count": 5975,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 241707773,
+        "id_str": "241707773",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 94,
+        "location": "Hollywood,  Los Angeles",
+        "name": "Andrea Lambert",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/241707773/1467022049",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748005405423509504/zeRu4BY6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748005405423509504/zeRu4BY6_normal.jpg",
+        "profile_link_color": "E81C1C",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AndreaLamber",
+        "statuses_count": 16739,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/8CKMQRSYti",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

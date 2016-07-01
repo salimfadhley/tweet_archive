@@ -1,0 +1,172 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 30 13:02:12 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/YvZ1x0jR68",
+                "expanded_url": "http://twitter.com/N_VandeVelde/status/748501894662918145/photo/1",
+                "id": 748501878380560384,
+                "id_str": "748501878380560384",
+                "indices": [
+                    87,
+                    110
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmM2fh6WAAAGBdW.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmM2fh6WAAAGBdW.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1536,
+                        "resize": "fit",
+                        "w": 2048
+                    },
+                    "medium": {
+                        "h": 900,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 510,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/YvZ1x0jR68"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 152887183,
+                "id_str": "152887183",
+                "indices": [
+                    47,
+                    63
+                ],
+                "name": "WGC_Bridgestone",
+                "screen_name": "WGC_Bridgestone"
+            }
+        ]
+    },
+    "favorite_count": 5,
+    "favorited": false,
+    "geo": null,
+    "id": 748501894662918145,
+    "id_str": "748501894662918145",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.628444,
+                        40.995137
+                    ],
+                    [
+                        -81.405059,
+                        40.995137
+                    ],
+                    [
+                        -81.405059,
+                        41.166618
+                    ],
+                    [
+                        -81.628444,
+                        41.166618
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Akron, OH",
+        "id": "fef01a8cb0eacb64",
+        "name": "Akron",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/fef01a8cb0eacb64.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks getting ready to serve our veterans @WGC_Bridgestone on day one of Tourney. https://t.co/YvZ1x0jR68",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 17 14:53:29 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "my thoughts are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 617,
+        "follow_request_sent": false,
+        "followers_count": 245,
+        "following": false,
+        "friends_count": 147,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1967027383,
+        "id_str": "1967027383",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Veni. Vidi. Vici.",
+        "name": "Nick Vande Velde",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000609597043/a6a32ad556ab6238a14e50ee3d159422_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000609597043/a6a32ad556ab6238a14e50ee3d159422_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "N_VandeVelde",
+        "statuses_count": 566,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

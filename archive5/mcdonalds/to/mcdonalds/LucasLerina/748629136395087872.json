@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 30 21:27:49 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748629136395087872,
+    "id_str": "748629136395087872",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": false,
+    "lang": "pt",
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -46.567276,
+                        -23.815924
+                    ],
+                    [
+                        -46.278106,
+                        -23.815924
+                    ],
+                    [
+                        -46.278106,
+                        -23.605615
+                    ],
+                    [
+                        -46.567276,
+                        -23.605615
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Santo Andr\u00e9, Brasil",
+        "id": "35e1542602b65f19",
+        "name": "Santo Andr\u00e9",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/35e1542602b65f19.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@McDonalds \u00e9 aquele lugar caro e ruim, que quando e resolvo pegar alguma coisa, est\u00e1 em falta...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 12 19:20:23 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Live for the right things, and be with the right ones!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "m.facebook.com/derbaumband",
+                        "expanded_url": "https://m.facebook.com/derbaumband",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/yarRAS1viI"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4926,
+        "follow_request_sent": false,
+        "followers_count": 116,
+        "following": false,
+        "friends_count": 100,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1262688488,
+        "id_str": "1262688488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 5,
+        "location": "Porto Alegre / S\u00e3o Paulo",
+        "name": "Lucas Lerina",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/812988524/058a316b9adf59fdcb0bb09e4d53db27.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/812988524/058a316b9adf59fdcb0bb09e4d53db27.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1262688488/1464805321",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670152205345931264/z-OzOEF4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670152205345931264/z-OzOEF4_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LucasLerina",
+        "statuses_count": 7776,
+        "time_zone": "Brasilia",
+        "url": "https://t.co/yarRAS1viI",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

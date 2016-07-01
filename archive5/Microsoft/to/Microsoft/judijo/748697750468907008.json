@@ -1,0 +1,175 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -118.5154532,
+            34.4456767
+        ],
+        "type": "Point"
+    },
+    "created_at": "Fri Jul 01 02:00:28 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/8Bp67RlDL1",
+                "expanded_url": "http://twitter.com/judijo/status/748697750468907008/photo/1",
+                "id": 748697738569609217,
+                "id_str": "748697738569609217",
+                "indices": [
+                    43,
+                    66
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmPooF-UcAEtNuR.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmPooF-UcAEtNuR.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1440,
+                        "resize": "fit",
+                        "w": 1920
+                    },
+                    "medium": {
+                        "h": 900,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 510,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/8Bp67RlDL1"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            34.4456767,
+            -118.5154532
+        ],
+        "type": "Point"
+    },
+    "id": 748697750468907008,
+    "id_str": "748697750468907008",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.6278742,
+                        34.3474831
+                    ],
+                    [
+                        -118.3786434,
+                        34.3474831
+                    ],
+                    [
+                        -118.3786434,
+                        34.483779
+                    ],
+                    [
+                        -118.6278742,
+                        34.483779
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Santa Clarita, CA",
+        "id": "f9c0877820b7848a",
+        "name": "Santa Clarita",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/f9c0877820b7848a.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Microsoft . Not amused. I got work to do. https://t.co/8Bp67RlDL1",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 02 02:57:32 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I miss wine,  but I miss memories more. Libertarian: Prohibition is stupid. Weight loss surgery survivor - 2008.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2536,
+        "follow_request_sent": false,
+        "followers_count": 894,
+        "following": false,
+        "friends_count": 1876,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15294495,
+        "id_str": "15294495",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 62,
+        "location": "lower left corner cont. USA",
+        "name": "judijo",
+        "notifications": false,
+        "profile_background_color": "FFF7E6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/232393842/x0c4927dbf4b1c2669c492b091762d6c.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/232393842/x0c4927dbf4b1c2669c492b091762d6c.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15294495/1401883826",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/746124204269965312/oajWiaq5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/746124204269965312/oajWiaq5_normal.jpg",
+        "profile_link_color": "221C26",
+        "profile_sidebar_border_color": "534B5E",
+        "profile_sidebar_fill_color": "775C82",
+        "profile_text_color": "EB7AEF",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "judijo",
+        "statuses_count": 8267,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

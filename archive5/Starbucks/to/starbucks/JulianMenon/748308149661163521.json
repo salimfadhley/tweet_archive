@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 30 00:12:20 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 748308149661163521,
+    "id_str": "748308149661163521",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -117.606,
+                        33.8936534
+                    ],
+                    [
+                        -117.513414,
+                        33.8936534
+                    ],
+                    [
+                        -117.513414,
+                        33.966173
+                    ],
+                    [
+                        -117.606,
+                        33.966173
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Norco, CA",
+        "id": "b8fde561e371a6c2",
+        "name": "Norco",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b8fde561e371a6c2.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Starbucks would be awful nice if you could follow me, please and thank you.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 13 04:34:52 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Freelance Thinker, Amateur Friend, Disgustingly Awesome , Lover of You, yourself and everything similar to you, Cinomie's son and easily distracted OMG Skittles",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/omgjulian",
+                        "expanded_url": "http://instagram.com/omgjulian",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/V5YLEKqzBO"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1424,
+        "follow_request_sent": false,
+        "followers_count": 196988,
+        "following": false,
+        "friends_count": 56,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 265187370,
+        "id_str": "265187370",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "Norco, CA",
+        "name": "Julian Menon",
+        "notifications": false,
+        "profile_background_color": "9266CC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000027235649/b754ab0ef19fcad1281b06bc9c1320eb.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000027235649/b754ab0ef19fcad1281b06bc9c1320eb.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/265187370/1455341121",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/738097515090694144/WmlH8NUr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/738097515090694144/WmlH8NUr_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JulianMenon",
+        "statuses_count": 4781,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/V5YLEKqzBO",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 30 20:29:40 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    112,
+                    122
+                ],
+                "text": "starbucks"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748614502900342786,
+    "id_str": "748614502900342786",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -117.1244522,
+                        32.64634
+                    ],
+                    [
+                        -117.049103,
+                        32.64634
+                    ],
+                    [
+                        -117.049103,
+                        32.69328
+                    ],
+                    [
+                        -117.1244522,
+                        32.69328
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "National City, CA",
+        "id": "7905cfee1600eb70",
+        "name": "National City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7905cfee1600eb70.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks It's unreasonable my birthday was Monday and my free drink reward had expired when I went to use it. #starbucks",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 22 16:37:00 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2499,
+        "follow_request_sent": false,
+        "followers_count": 346,
+        "following": false,
+        "friends_count": 1007,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 229523757,
+        "id_str": "229523757",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "San Diego",
+        "name": "Betsy Marangi",
+        "notifications": false,
+        "profile_background_color": "251810",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/650580846/x62a2abd2fb9d74f16432efaa81147d7.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/650580846/x62a2abd2fb9d74f16432efaa81147d7.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/229523757/1389885885",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/596820542306422784/eQySLEiQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/596820542306422784/eQySLEiQ_normal.jpg",
+        "profile_link_color": "A98E6F",
+        "profile_sidebar_border_color": "94A4AE",
+        "profile_sidebar_fill_color": "1D110A",
+        "profile_text_color": "94A4AE",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Betsylvstocook",
+        "statuses_count": 2990,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 22:16:52 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 415859364,
+                "id_str": "415859364",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Nike",
+                "screen_name": "Nike"
+            },
+            {
+                "id": 24485503,
+                "id_str": "24485503",
+                "indices": [
+                    6,
+                    19
+                ],
+                "name": "Allyson Felix",
+                "screen_name": "allysonfelix"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748279091569266688,
+    "id_str": "748279091569266688",
+    "in_reply_to_screen_name": "Nike",
+    "in_reply_to_status_id": 747847284839194624,
+    "in_reply_to_status_id_str": "747847284839194624",
+    "in_reply_to_user_id": 415859364,
+    "in_reply_to_user_id_str": "415859364",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.907119,
+                        43.081912
+                    ],
+                    [
+                        -87.870372,
+                        43.081912
+                    ],
+                    [
+                        -87.870372,
+                        43.100574
+                    ],
+                    [
+                        -87.907119,
+                        43.100574
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Shorewood, WI",
+        "id": "ff411f458e3317d9",
+        "name": "Shorewood",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ff411f458e3317d9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Nike @allysonfelix nice!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 03 15:28:14 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "live breath sports.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 14281,
+        "follow_request_sent": false,
+        "followers_count": 955,
+        "following": false,
+        "friends_count": 4976,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 347910999,
+        "id_str": "347910999",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 17,
+        "location": "shorewood, wi",
+        "name": "Joey Phalen",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/347910999/1415151120",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/678584931564568577/1bPWyzPD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/678584931564568577/1bPWyzPD_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jkpaclbrewfanwi",
+        "statuses_count": 43251,
+        "time_zone": "Arizona",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

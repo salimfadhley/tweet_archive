@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 30 13:26:57 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748508121795014656,
+    "id_str": "748508121795014656",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.800262,
+                        42.215087
+                    ],
+                    [
+                        -83.659681,
+                        42.215087
+                    ],
+                    [
+                        -83.659681,
+                        42.326592
+                    ],
+                    [
+                        -83.800262,
+                        42.326592
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Ann Arbor, MI",
+        "id": "92b2158a6d509767",
+        "name": "Ann Arbor",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/92b2158a6d509767.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Starbucks was going  through  withdrawal. Just got me venti soy chai.. yum",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 10 01:30:14 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1004,
+        "follow_request_sent": false,
+        "followers_count": 83,
+        "following": false,
+        "friends_count": 147,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20484065,
+        "id_str": "20484065",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Georgia, USA",
+        "name": "Stephanie Foster",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20484065/1462066612",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/742355473991507969/oxKHsQC1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/742355473991507969/oxKHsQC1_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Travel_luvs",
+        "statuses_count": 729,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

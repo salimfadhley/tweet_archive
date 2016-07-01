@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 22:17:13 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 748279178705965056,
+    "id_str": "748279178705965056",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.116963,
+                        41.487948
+                    ],
+                    [
+                        -74.004603,
+                        41.487948
+                    ],
+                    [
+                        -74.004603,
+                        41.519289
+                    ],
+                    [
+                        -74.116963,
+                        41.519289
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Newburgh, NY",
+        "id": "0047e81d7db6c89a",
+        "name": "Newburgh",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0047e81d7db6c89a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks - Just left one of your stores and was told they ran out of iced coffee!!  What a disgrace!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 25 18:56:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Born and raised in the Hudson Valley, NY.  just trying to make sense of everything!!!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 282,
+        "follow_request_sent": false,
+        "followers_count": 799,
+        "following": false,
+        "friends_count": 1482,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 19499463,
+        "id_str": "19499463",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "Poughkeepsie, NY",
+        "name": "Rich Eckert",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2875702253/63609dbbfc012120ec5f1795015712ed_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2875702253/63609dbbfc012120ec5f1795015712ed_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rteckert",
+        "statuses_count": 6388,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

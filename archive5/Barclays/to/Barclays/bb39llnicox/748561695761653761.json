@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 30 16:59:50 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HBHOuNBhPv",
+                "expanded_url": "http://twitter.com/bb39llnicox/status/748561695761653761/photo/1",
+                "id": 748561652036042752,
+                "id_str": "748561652036042752",
+                "indices": [
+                    24,
+                    47
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmNs20IWgAAHP8P.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmNs20IWgAAHP8P.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 810,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 810,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 537
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/HBHOuNBhPv"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 191781601,
+                "id_str": "191781601",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Barclays Bank",
+                "screen_name": "Barclays"
+            },
+            {
+                "id": 28323892,
+                "id_str": "28323892",
+                "indices": [
+                    10,
+                    23
+                ],
+                "name": "Simon Jack",
+                "screen_name": "BBCSimonJack"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748561695761653761,
+    "id_str": "748561695761653761",
+    "in_reply_to_screen_name": "Barclays",
+    "in_reply_to_status_id": 748559124003160064,
+    "in_reply_to_status_id_str": "748559124003160064",
+    "in_reply_to_user_id": 191781601,
+    "in_reply_to_user_id_str": "191781601",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        1.6165213,
+                        50.2472279
+                    ],
+                    [
+                        1.7225863,
+                        50.2472279
+                    ],
+                    [
+                        1.7225863,
+                        50.3114296
+                    ],
+                    [
+                        1.6165213,
+                        50.3114296
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Rue, France",
+        "id": "4ad551e0ebfbb15e",
+        "name": "Rue",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4ad551e0ebfbb15e.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Barclays @BBCSimonJack https://t.co/HBHOuNBhPv",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 15 10:32:42 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3,
+        "follow_request_sent": false,
+        "followers_count": 94,
+        "following": false,
+        "friends_count": 837,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 4912864215,
+        "id_str": "4912864215",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 69,
+        "location": "Rue, France",
+        "name": "L\u00e9tocart",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4912864215/1455701735",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/699889920484233216/YxDDA9YS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/699889920484233216/YxDDA9YS_normal.jpg",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bb39llnicox",
+        "statuses_count": 11685,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

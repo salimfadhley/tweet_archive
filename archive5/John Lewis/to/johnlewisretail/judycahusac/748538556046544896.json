@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 30 15:27:53 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 126664172,
+                "id_str": "126664172",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "John Lewis",
+                "screen_name": "johnlewisretail"
+            },
+            {
+                "id": 179491236,
+                "id_str": "179491236",
+                "indices": [
+                    17,
+                    28
+                ],
+                "name": "John Lewis",
+                "screen_name": "JLcustserv"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748538556046544896,
+    "id_str": "748538556046544896",
+    "in_reply_to_screen_name": "johnlewisretail",
+    "in_reply_to_status_id": 748446962630987776,
+    "in_reply_to_status_id_str": "748446962630987776",
+    "in_reply_to_user_id": 126664172,
+    "in_reply_to_user_id_str": "126664172",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.254563,
+                        51.463873
+                    ],
+                    [
+                        -0.177653,
+                        51.463873
+                    ],
+                    [
+                        -0.177653,
+                        51.532901
+                    ],
+                    [
+                        -0.254563,
+                        51.532901
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Hammersmith, London",
+        "id": "09ba692cbddfc92c",
+        "name": "Hammersmith",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/09ba692cbddfc92c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@johnlewisretail @JLcustserv why do you no longer offer paper bags as you used to?  I object paying to advertise your store",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 12 22:19:43 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 262,
+        "follow_request_sent": false,
+        "followers_count": 110,
+        "following": false,
+        "friends_count": 193,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 265032676,
+        "id_str": "265032676",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "London",
+        "name": "Judy Cahusac",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1271341010/Sunflower_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271341010/Sunflower_normal.gif",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "judycahusac",
+        "statuses_count": 1071,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

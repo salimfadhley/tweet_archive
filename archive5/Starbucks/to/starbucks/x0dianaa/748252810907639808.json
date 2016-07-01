@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 20:32:26 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748252810907639808,
+    "id_str": "748252810907639808",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.454064,
+                        40.65025
+                    ],
+                    [
+                        -73.423152,
+                        40.65025
+                    ],
+                    [
+                        -73.423152,
+                        40.706734
+                    ],
+                    [
+                        -73.454064,
+                        40.706734
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "East Massapequa, NY",
+        "id": "b52736240ef42f93",
+        "name": "East Massapequa",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b52736240ef42f93.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks just ripped me off \ud83d\ude21\ud83d\udd95\ud83c\udffb\ud83d\udd95\ud83c\udffb",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 18 04:08:34 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Just a girl who loves coffee & the beach 4.27.14\u2765 AB",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "x0dianaa.vsco.co",
+                        "expanded_url": "http://x0dianaa.vsco.co",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/YWqGcbBEte"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 28149,
+        "follow_request_sent": false,
+        "followers_count": 1251,
+        "following": false,
+        "friends_count": 607,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 239663837,
+        "id_str": "239663837",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Long Island",
+        "name": "D\u265b",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/768893159/f88b6db694253f0859edf7d2e5549cc7.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/768893159/f88b6db694253f0859edf7d2e5549cc7.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/239663837/1466952334",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748283519294705664/faPlX3FC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748283519294705664/faPlX3FC_normal.jpg",
+        "profile_link_color": "AD7BE0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "BD7FF0",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "x0dianaa",
+        "statuses_count": 80357,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/YWqGcbBEte",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

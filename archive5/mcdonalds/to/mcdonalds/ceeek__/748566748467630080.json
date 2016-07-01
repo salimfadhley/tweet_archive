@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 30 17:19:55 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            },
+            {
+                "id": 387383668,
+                "id_str": "387383668",
+                "indices": [
+                    11,
+                    24
+                ],
+                "name": "Delia Silva Rosales",
+                "screen_name": "deliasilvaaa"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748566748467630080,
+    "id_str": "748566748467630080",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": 735509392464990209,
+    "in_reply_to_status_id_str": "735509392464990209",
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -120.285778,
+                        37.10035
+                    ],
+                    [
+                        -120.220121,
+                        37.10035
+                    ],
+                    [
+                        -120.220121,
+                        37.129769
+                    ],
+                    [
+                        -120.285778,
+                        37.129769
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chowchilla, CA",
+        "id": "f977ef0a4904c1e1",
+        "name": "Chowchilla",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/f977ef0a4904c1e1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@McDonalds @deliasilvaaa",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 27 00:39:47 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Fresno State Alumni",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 964,
+        "follow_request_sent": false,
+        "followers_count": 60,
+        "following": false,
+        "friends_count": 69,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2878904107,
+        "id_str": "2878904107",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "559.",
+        "name": "Ceeek",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2878904107/1423539938",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748190426926981120/OLQodAM3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748190426926981120/OLQodAM3_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ceeek__",
+        "statuses_count": 2835,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

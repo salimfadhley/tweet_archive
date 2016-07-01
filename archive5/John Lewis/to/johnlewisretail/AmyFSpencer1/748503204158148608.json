@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 30 13:07:25 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 126664172,
+                "id_str": "126664172",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "John Lewis",
+                "screen_name": "johnlewisretail"
+            },
+            {
+                "id": 46328741,
+                "id_str": "46328741",
+                "indices": [
+                    21,
+                    30
+                ],
+                "name": "Waitrose",
+                "screen_name": "waitrose"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748503204158148608,
+    "id_str": "748503204158148608",
+    "in_reply_to_screen_name": "johnlewisretail",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 126664172,
+    "in_reply_to_user_id_str": "126664172",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.2914273,
+                        50.824705
+                    ],
+                    [
+                        -0.248045,
+                        50.824705
+                    ],
+                    [
+                        -0.248045,
+                        50.8310929
+                    ],
+                    [
+                        -0.2914273,
+                        50.8310929
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Shoreham Beach, England",
+        "id": "2df2d59e5fd75154",
+        "name": "Shoreham Beach",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2df2d59e5fd75154.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@johnlewisretail and @waitrose Perfect Customer service as always !! Thank you \u2764",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 14 21:51:30 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Nurse \nFuture Mrs Lockwood \u2764 \nBrighton Based -\nInstagram -amyfspencer",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 273,
+        "follow_request_sent": false,
+        "followers_count": 198,
+        "following": false,
+        "friends_count": 354,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 215776019,
+        "id_str": "215776019",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Brighton, UK",
+        "name": "Amy Frances Spencer",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/215776019/1464141648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/745568490053050368/OI4_fbRP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/745568490053050368/OI4_fbRP_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AmyFSpencer1",
+        "statuses_count": 2257,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

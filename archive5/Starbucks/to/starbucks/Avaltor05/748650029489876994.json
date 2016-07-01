@@ -1,0 +1,156 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 30 22:50:50 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748650029489876994,
+    "id_str": "748650029489876994",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": 748154153180946433,
+    "in_reply_to_status_id_str": "748154153180946433",
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -117.282538,
+                        32.53962
+                    ],
+                    [
+                        -116.9274403,
+                        32.53962
+                    ],
+                    [
+                        -116.9274403,
+                        33.0804044
+                    ],
+                    [
+                        -117.282538,
+                        33.0804044
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Diego, CA",
+        "id": "a592bd6ceb1319f7",
+        "name": "San Diego",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Starbucks this reminds me of owls dancing to music",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 24 20:26:10 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Deaf woman who is artist/gamer. Loves rats! Twitchtv- https://t.co/H5CLr5JGqH Email-Avaltor05@hotmail.com \nFB-https://t.co/sjzkLkeBzA",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "twitch.tv/Avaltor05",
+                        "expanded_url": "http://twitch.tv/Avaltor05",
+                        "indices": [
+                            54,
+                            77
+                        ],
+                        "url": "https://t.co/H5CLr5JGqH"
+                    },
+                    {
+                        "display_url": "facebook.com/Avaltor05/",
+                        "expanded_url": "https://www.facebook.com/Avaltor05/",
+                        "indices": [
+                            110,
+                            133
+                        ],
+                        "url": "https://t.co/sjzkLkeBzA"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "starnob.deviantart.com",
+                        "expanded_url": "http://www.starnob.deviantart.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/BuIkdAaOmh"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 53802,
+        "follow_request_sent": false,
+        "followers_count": 1275,
+        "following": false,
+        "friends_count": 813,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2409513548,
+        "id_str": "2409513548",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 49,
+        "location": "San Diego, CA",
+        "name": "Badge Babe Tor",
+        "notifications": false,
+        "profile_background_color": "082842",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623327921063636992/TK2V8pbM.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623327921063636992/TK2V8pbM.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2409513548/1464816058",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/738665129449918464/6TNQI79X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/738665129449918464/6TNQI79X_normal.jpg",
+        "profile_link_color": "253D85",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Avaltor05",
+        "statuses_count": 25351,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/BuIkdAaOmh",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

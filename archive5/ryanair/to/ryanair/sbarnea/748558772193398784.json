@@ -1,0 +1,289 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 30 16:48:13 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/kollinz/status\u2026",
+                "expanded_url": "https://twitter.com/kollinz/status/748452011373436928",
+                "indices": [
+                    114,
+                    137
+                ],
+                "url": "https://t.co/6OAInm1MDF"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1542862735,
+                "id_str": "1542862735",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Ryanair",
+                "screen_name": "Ryanair"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748558772193398784,
+    "id_str": "748558772193398784",
+    "in_reply_to_screen_name": "Ryanair",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1542862735,
+    "in_reply_to_user_id_str": "1542862735",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jun 30 09:43:59 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        40,
+                        47
+                    ],
+                    "text": "brexit"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/TPEifvtTeL",
+                    "expanded_url": "http://twitter.com/kollinz/status/748452011373436928/photo/1",
+                    "id": 748451679247425536,
+                    "id_str": "748451679247425536",
+                    "indices": [
+                        48,
+                        71
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CmMI1jkWYAA4600.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CmMI1jkWYAA4600.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 299,
+                            "resize": "fit",
+                            "w": 1034
+                        },
+                        "medium": {
+                            "h": 299,
+                            "resize": "fit",
+                            "w": 1034
+                        },
+                        "small": {
+                            "h": 197,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/TPEifvtTeL"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 33,
+        "favorited": false,
+        "geo": null,
+        "id": 748452011373436928,
+        "id_str": "748452011373436928",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            18.925169,
+                            47.3494477
+                        ],
+                        [
+                            19.3344868,
+                            47.3494477
+                        ],
+                        [
+                            19.3344868,
+                            47.613013
+                        ],
+                        [
+                            18.925169,
+                            47.613013
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "Magyarorsz\u00e1g",
+            "country_code": "HU",
+            "full_name": "Budapest, Hungary",
+            "id": "e52e231315b975c1",
+            "name": "Budapest",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/e52e231315b975c1.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 34,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Ryanair has some wicked sense of humour #brexit https://t.co/TPEifvtTeL",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Mar 25 15:57:37 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "ux designer // 10% szakm\u00e1z\u00e1s, 90% mindennapi \u00e9lm\u00e9nybesz\u00e1mol\u00f3",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "hu.linkedin.com/in/zoltankollin",
+                            "expanded_url": "https://hu.linkedin.com/in/zoltankollin",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/Z9n2kzYY5X"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 3685,
+            "follow_request_sent": false,
+            "followers_count": 2614,
+            "following": false,
+            "friends_count": 334,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 2183931,
+            "id_str": "2183931",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 63,
+            "location": "Budapest",
+            "name": "Zoltan Kollin",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/741993087577231360/HmCfwqwc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/741993087577231360/HmCfwqwc_normal.jpg",
+            "profile_link_color": "249CC7",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "A0C5C7",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "kollinz",
+            "statuses_count": 9316,
+            "time_zone": "Budapest",
+            "url": "https://t.co/Z9n2kzYY5X",
+            "utc_offset": 7200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 748452011373436928,
+    "quoted_status_id_str": "748452011373436928",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Ryanair best joke was the bunch of monkeys they hired to build their website. Broken on Chrome, Safari, Firefox. https://t.co/6OAInm1MDF",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 01 20:46:55 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "sbarnea.com",
+                        "expanded_url": "https://sbarnea.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/75NrlkKry1"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 453,
+        "follow_request_sent": false,
+        "followers_count": 247,
+        "following": false,
+        "friends_count": 709,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14974709,
+        "id_str": "14974709",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 16,
+        "location": "London, England",
+        "name": "Sorin Sb\u00e2rnea",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14974709/1398695394",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/633736489155715072/lHskQBQG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/633736489155715072/lHskQBQG_normal.jpg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "sbarnea",
+        "statuses_count": 1416,
+        "time_zone": "London",
+        "url": "https://t.co/75NrlkKry1",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

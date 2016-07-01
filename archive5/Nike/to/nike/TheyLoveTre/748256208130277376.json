@@ -1,0 +1,279 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 20:45:56 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/gqmagazine/sta\u2026",
+                "expanded_url": "https://twitter.com/gqmagazine/status/748185898777477120",
+                "indices": [
+                    7,
+                    30
+                ],
+                "url": "https://t.co/rWJoGkD8fY"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 415859364,
+                "id_str": "415859364",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Nike",
+                "screen_name": "Nike"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748256208130277376,
+    "id_str": "748256208130277376",
+    "in_reply_to_screen_name": "Nike",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 415859364,
+    "in_reply_to_user_id_str": "415859364",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.353955,
+                        32.04683
+                    ],
+                    [
+                        -78.499301,
+                        32.04683
+                    ],
+                    [
+                        -78.499301,
+                        35.215449
+                    ],
+                    [
+                        -83.353955,
+                        35.215449
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "South Carolina, USA",
+        "id": "6057f1e35bcc6c20",
+        "name": "South Carolina",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/6057f1e35bcc6c20.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Jun 29 16:06:33 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/NlYKf8TufT",
+                    "expanded_url": "http://twitter.com/GQMagazine/status/748185898777477120/photo/1",
+                    "id": 748185894503473152,
+                    "id_str": "748185894503473152",
+                    "indices": [
+                        73,
+                        96
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CmIXG2PWYAAcU0t.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CmIXG2PWYAAcU0t.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1365,
+                            "resize": "fit",
+                            "w": 2048
+                        },
+                        "medium": {
+                            "h": 800,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 453,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/NlYKf8TufT"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "gq.mn/SXTKjZj",
+                    "expanded_url": "http://gq.mn/SXTKjZj",
+                    "indices": [
+                        49,
+                        72
+                    ],
+                    "url": "https://t.co/esiqHFmXXw"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 1725,
+        "favorited": false,
+        "geo": null,
+        "id": 748185898777477120,
+        "id_str": "748185898777477120",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1983,
+        "retweeted": false,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Adidas just made Kanye West their Michael Jordan https://t.co/esiqHFmXXw https://t.co/NlYKf8TufT",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Feb 23 22:27:40 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Look Sharp + Live Smart.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "GQ.com",
+                            "expanded_url": "http://www.GQ.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/ZUxxdjGrhA"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1658,
+            "follow_request_sent": false,
+            "followers_count": 840906,
+            "following": false,
+            "friends_count": 645,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 21701757,
+            "id_str": "21701757",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 7884,
+            "location": "",
+            "name": "GQ Magazine",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000115292554/6e84ef5e061e13206ec5c5e09c3f4644.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000115292554/6e84ef5e061e13206ec5c5e09c3f4644.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21701757/1466031615",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/745329700512358402/IRo9CY0o_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/745329700512358402/IRo9CY0o_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "GQMagazine",
+            "statuses_count": 45273,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/ZUxxdjGrhA",
+            "utc_offset": -14400,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 748185898777477120,
+    "quoted_status_id_str": "748185898777477120",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Nike  https://t.co/rWJoGkD8fY",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 10 04:06:45 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I DONT FUCK WITH NIGGAS",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1110,
+        "follow_request_sent": false,
+        "followers_count": 1651,
+        "following": false,
+        "friends_count": 716,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 332619657,
+        "id_str": "332619657",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "uscu",
+        "name": "SC: Hyperbolics",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000170425941/2UTjLkxg.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000170425941/2UTjLkxg.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/332619657/1465323178",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/747986281922166786/D5G8EQgN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/747986281922166786/D5G8EQgN_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TheyLoveTre",
+        "statuses_count": 110651,
+        "time_zone": "Quito",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

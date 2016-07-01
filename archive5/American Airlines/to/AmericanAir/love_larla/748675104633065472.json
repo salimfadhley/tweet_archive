@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 01 00:30:29 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748675104633065472,
+    "id_str": "748675104633065472",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -98.778559,
+                        29.141956
+                    ],
+                    [
+                        -98.302744,
+                        29.141956
+                    ],
+                    [
+                        -98.302744,
+                        29.693046
+                    ],
+                    [
+                        -98.778559,
+                        29.693046
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Antonio, TX",
+        "id": "3df4f427b5a60fea",
+        "name": "San Antonio",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3df4f427b5a60fea.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir not impressed with the 2 delays + missing baggage today. I've flown hundreds of times &amp; no airline has ever lost my baggage",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 27 17:36:40 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "world traveler // \u265b // penn state '18 // animals are my friends & I don't eat my friends :-)",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6195,
+        "follow_request_sent": false,
+        "followers_count": 506,
+        "following": false,
+        "friends_count": 317,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 849643788,
+        "id_str": "849643788",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "germany | satx | happy valley",
+        "name": "Larla",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/730178002/f0ea157a40c38c4c731153500c9d5701.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/730178002/f0ea157a40c38c4c731153500c9d5701.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/849643788/1464412815",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/736427002299863041/_9b0Welo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/736427002299863041/_9b0Welo_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "love_larla",
+        "statuses_count": 6393,
+        "time_zone": "Athens",
+        "url": null,
+        "utc_offset": 10800,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 01 00:41:37 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748677905513930752,
+    "id_str": "748677905513930752",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 748674573608968193,
+    "in_reply_to_status_id_str": "748674573608968193",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.962582,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.8000371
+                    ],
+                    [
+                        -73.962582,
+                        40.8000371
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Queens, NY",
+        "id": "00c39537733fa112",
+        "name": "Queens",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c39537733fa112.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir What do u mean? I asked to be wait listed. Was told no even though nobody else is on. Now the flight has been delayed 2 hours!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 20 21:35:05 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "CEO @GJPMediaLLC. Journalist & TV pro. I've appeared on @GMA @DrOz @BravoTV. Editor @HotMessFolder blogger @HuffingtonPost. Proud Canadian-American. Romans 12:2",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "gisellephelps.com",
+                        "expanded_url": "http://www.gisellephelps.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/GphRhSWCWO"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 17017,
+        "follow_request_sent": false,
+        "followers_count": 3522,
+        "following": false,
+        "friends_count": 4372,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15923634,
+        "id_str": "15923634",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 146,
+        "location": "New York, NY  (LGA, YYZ, DFW)",
+        "name": "Giselle Phelps",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451372076327124992/OWc6Plnn.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451372076327124992/OWc6Plnn.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15923634/1431660555",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666975555628216320/ZVv4izOK_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666975555628216320/ZVv4izOK_normal.png",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GisellePhelps",
+        "statuses_count": 58711,
+        "time_zone": "Quito",
+        "url": "https://t.co/GphRhSWCWO",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 30 23:25:16 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/eOrQOTogA7",
+                "expanded_url": "http://twitter.com/leblanc55337/status/748658693156139008/photo/1",
+                "id": 748658685300248576,
+                "id_str": "748658685300248576",
+                "indices": [
+                    110,
+                    133
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmPFG5NVEAA-Znq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmPFG5NVEAA-Znq.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 610,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "medium": {
+                        "h": 610,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 346,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/eOrQOTogA7"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Tesla Motors",
+                "screen_name": "TeslaMotors"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748658693156139008,
+    "id_str": "748658693156139008",
+    "in_reply_to_screen_name": "TeslaMotors",
+    "in_reply_to_status_id": 748616098480689156,
+    "in_reply_to_status_id_str": "748616098480689156",
+    "in_reply_to_user_id": 13298072,
+    "in_reply_to_user_id_str": "13298072",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -93.3298112,
+                        44.716911
+                    ],
+                    [
+                        -93.222028,
+                        44.716911
+                    ],
+                    [
+                        -93.222028,
+                        44.828464
+                    ],
+                    [
+                        -93.3298112,
+                        44.828464
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Burnsville, MN",
+        "id": "5f2ad2e8059e53c5",
+        "name": "Burnsville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5f2ad2e8059e53c5.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TeslaMotors this graph shows many people die every day in cars. But this will eventually save so many lives. https://t.co/eOrQOTogA7",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 27 11:32:13 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Freemason, 32 degree and also a shriner. Independent American. Creative thinker.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 484,
+        "follow_request_sent": false,
+        "followers_count": 33,
+        "following": false,
+        "friends_count": 38,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2414096798,
+        "id_str": "2414096798",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Minnesota, USA",
+        "name": "Cj Leblanc",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2414096798/1458358650",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/449147028358971393/OQmDqU02_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/449147028358971393/OQmDqU02_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "leblanc55337",
+        "statuses_count": 442,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

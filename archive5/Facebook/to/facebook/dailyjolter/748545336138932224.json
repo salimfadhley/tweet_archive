@@ -1,0 +1,135 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -80.8465932,
+            35.22379517
+        ],
+        "type": "Point"
+    },
+    "created_at": "Thu Jun 30 15:54:50 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            35.22379517,
+            -80.8465932
+        ],
+        "type": "Point"
+    },
+    "id": 748545336138932224,
+    "id_str": "748545336138932224",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.046876,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.416412
+                    ],
+                    [
+                        -81.046876,
+                        35.416412
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Charlotte, NC",
+        "id": "512a8a4a4c4b4be0",
+        "name": "Charlotte",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/512a8a4a4c4b4be0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook how do I contact you for unauthorized FB ad billing?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 27 17:30:58 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 13,
+        "follow_request_sent": false,
+        "followers_count": 92,
+        "following": false,
+        "friends_count": 427,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 19603354,
+        "id_str": "19603354",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "North Carolina",
+        "name": "skgood",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/480470486980124672/-D062H8B_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/480470486980124672/-D062H8B_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dailyjolter",
+        "statuses_count": 221,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

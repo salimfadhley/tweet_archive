@@ -1,0 +1,201 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 30 20:59:16 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    69,
+                    78
+                ],
+                "text": "RHSummit"
+            },
+            {
+                "indices": [
+                    79,
+                    92
+                ],
+                "text": "SanFrancisco"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/oGekGMHxPi",
+                "expanded_url": "http://twitter.com/ixtechlabs/status/748621950834999296/photo/1",
+                "id": 748621941922115584,
+                "id_str": "748621941922115584",
+                "indices": [
+                    99,
+                    122
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmOjsJdUsAAuKPG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmOjsJdUsAAuKPG.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1152,
+                        "resize": "fit",
+                        "w": 2048
+                    },
+                    "medium": {
+                        "h": 675,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/oGekGMHxPi"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            },
+            {
+                "id": 15428957,
+                "id_str": "15428957",
+                "indices": [
+                    18,
+                    31
+                ],
+                "name": "Red Hat Summit",
+                "screen_name": "RedHatSummit"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 748621950834999296,
+    "id_str": "748621950834999296",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.514926,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.833238
+                    ],
+                    [
+                        -122.514926,
+                        37.833238
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Francisco, CA",
+        "id": "5a110d312052166f",
+        "name": "San Francisco",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Microsoft at the @RedHatSummit 2016. Because Microsoft loves Linux. #RHSummit #SanFrancisco #2016 https://t.co/oGekGMHxPi",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 22 07:52:50 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "inventx.ch",
+                        "expanded_url": "http://www.inventx.ch",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/IlNx7CxjRY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 17,
+        "follow_request_sent": false,
+        "followers_count": 131,
+        "following": false,
+        "friends_count": 450,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 723419276393107459,
+        "id_str": "723419276393107459",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "de",
+        "listed_count": 1,
+        "location": "Chur, Schweiz",
+        "name": "IX Labs",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/723419276393107459/1461347951",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/723427018868555776/OS-eP-mF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/723427018868555776/OS-eP-mF_normal.jpg",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ixtechlabs",
+        "statuses_count": 28,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/IlNx7CxjRY",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 30 19:04:27 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 274673392,
+                "id_str": "274673392",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Chase",
+                "screen_name": "Chase"
+            },
+            {
+                "id": 60694170,
+                "id_str": "60694170",
+                "indices": [
+                    7,
+                    21
+                ],
+                "name": "The Artists Den",
+                "screen_name": "TheArtistsDen"
+            },
+            {
+                "id": 16213013,
+                "id_str": "16213013",
+                "indices": [
+                    22,
+                    38
+                ],
+                "name": "Panic! At The Disco",
+                "screen_name": "PanicAtTheDisco"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748593056715141121,
+    "id_str": "748593056715141121",
+    "in_reply_to_screen_name": "Chase",
+    "in_reply_to_status_id": 748229623436062720,
+    "in_reply_to_status_id_str": "748229623436062720",
+    "in_reply_to_user_id": 274673392,
+    "in_reply_to_user_id_str": "274673392",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.514926,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.833238
+                    ],
+                    [
+                        -122.514926,
+                        37.833238
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Francisco, CA",
+        "id": "5a110d312052166f",
+        "name": "San Francisco",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Chase @TheArtistsDen @PanicAtTheDisco I swear they should just now be called The Brandon Uries",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 19 22:33:02 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Howard Stern fan and Senior Graphic Designer/UI Designer with one kidney inside The San Francisco Armory @kinkdotcom",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "martinfigueroa.com",
+                        "expanded_url": "http://martinfigueroa.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/7moVL7YFnQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 448,
+        "follow_request_sent": false,
+        "followers_count": 279,
+        "following": false,
+        "friends_count": 446,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 19206045,
+        "id_str": "19206045",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 25,
+        "location": "San Francisco, CA",
+        "name": "Martin Figueroa",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19206045/1459241860",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/721235664792997888/IkDr7p-g_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/721235664792997888/IkDr7p-g_normal.jpg",
+        "profile_link_color": "E74C0D",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "martinjfigueroa",
+        "statuses_count": 5385,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/7moVL7YFnQ",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

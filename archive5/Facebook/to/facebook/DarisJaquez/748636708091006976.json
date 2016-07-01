@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 30 21:57:54 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748636708091006976,
+    "id_str": "748636708091006976",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -70.0592174533711,
+                        18.3983113235904
+                    ],
+                    [
+                        -69.9861913043221,
+                        18.3983113235904
+                    ],
+                    [
+                        -69.9861913043221,
+                        18.4776706700768
+                    ],
+                    [
+                        -70.0592174533711,
+                        18.4776706700768
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Dominican Republic",
+        "country_code": "DO",
+        "full_name": "Bajos de Haina, Dominican Republic",
+        "id": "01c8145a2c52ee2e",
+        "name": "Bajos de Haina",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01c8145a2c52ee2e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook because I can't broadcast live how others",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 30 02:30:35 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "100% Dominicano, Nac\u00ed para comunicar, Locutor, Periodista, Joven que va m\u00e1s all\u00e1 de Informar Sobre la Actualidad y las Noticias.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 12483,
+        "follow_request_sent": false,
+        "followers_count": 2803,
+        "following": false,
+        "friends_count": 1801,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 345109621,
+        "id_str": "345109621",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 23,
+        "location": "Dominican Republic",
+        "name": "Daris J\u00e1quez",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/569593778864799744/zZEg75Xa.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/569593778864799744/zZEg75Xa.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/345109621/1465601712",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/741594048759095296/j1k47QlF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/741594048759095296/j1k47QlF_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DarisJaquez",
+        "statuses_count": 71200,
+        "time_zone": "Central America",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 30 01:49:31 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 748332608837148672,
+    "id_str": "748332608837148672",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks please create a delivery system",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 23 07:47:30 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Believe in yourself, imagine good things, and moisturize. (my actual name is Kloei Villan)",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9377,
+        "follow_request_sent": false,
+        "followers_count": 100,
+        "following": false,
+        "friends_count": 44,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3253372950,
+        "id_str": "3253372950",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Gallifrey",
+        "name": "Tony Stank",
+        "notifications": false,
+        "profile_background_color": "F5ABB5",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/628809729767137280/4HT8_fOl.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/628809729767137280/4HT8_fOl.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3253372950/1466828871",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/741942748647821312/bZf2Exi1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/741942748647821312/bZf2Exi1_normal.jpg",
+        "profile_link_color": "FF55AA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "QueenKloei",
+        "statuses_count": 5316,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

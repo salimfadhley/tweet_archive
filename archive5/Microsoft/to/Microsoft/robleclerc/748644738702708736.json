@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 30 22:29:49 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748644738702708736,
+    "id_str": "748644738702708736",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Microsoft You already bought LinkedIn, and if you don't start your own Amy Ingram now then you'll be buying it for $10b.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 08 16:07:09 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Canuck; CEO @AgFunder; Forbes 2014 Up-and-Comer; Published (TechCrunch, HBR, Financial Post, Nature); Edu(5 degrees, Yale PhD, AI, Theor. Bio.) rob@agfunder.com",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/robleclerc",
+                        "expanded_url": "http://www.linkedin.com/in/robleclerc",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/su3BUjI6eU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 809,
+        "follow_request_sent": false,
+        "followers_count": 1639,
+        "following": false,
+        "friends_count": 982,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 112465743,
+        "id_str": "112465743",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 75,
+        "location": "San Francisco, CA",
+        "name": "Rob Leclerc",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/523204641886986240/u7VVQCRF_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/523204641886986240/u7VVQCRF_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "robleclerc",
+        "statuses_count": 556,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/su3BUjI6eU",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

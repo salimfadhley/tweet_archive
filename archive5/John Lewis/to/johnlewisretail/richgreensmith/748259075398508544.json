@@ -1,0 +1,185 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 20:57:20 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    84,
+                    93
+                ],
+                "text": "disgrace"
+            },
+            {
+                "indices": [
+                    94,
+                    104
+                ],
+                "text": "johnlewis"
+            },
+            {
+                "indices": [
+                    105,
+                    112
+                ],
+                "text": "refund"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/d0W6zh6QeL",
+                "expanded_url": "http://twitter.com/richgreensmith/status/748259075398508544/photo/1",
+                "id": 748259010990776321,
+                "id_str": "748259010990776321",
+                "indices": [
+                    113,
+                    136
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmJZmyYXIAEuS7h.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmJZmyYXIAEuS7h.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 1536
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/d0W6zh6QeL"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 126664172,
+                "id_str": "126664172",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "John Lewis",
+                "screen_name": "johnlewisretail"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748259075398508544,
+    "id_str": "748259075398508544",
+    "in_reply_to_screen_name": "johnlewisretail",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 126664172,
+    "in_reply_to_user_id_str": "126664172",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.259465,
+                        51.417277
+                    ],
+                    [
+                        -0.127974,
+                        51.417277
+                    ],
+                    [
+                        -0.127974,
+                        51.486036
+                    ],
+                    [
+                        -0.259465,
+                        51.486036
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Wandsworth, London",
+        "id": "460c5314e8a33c64",
+        "name": "Wandsworth",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/460c5314e8a33c64.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@johnlewisretail 3 cancelled deliveries w/o notice.. 4th attempt with broken goods. #disgrace #johnlewis #refund https://t.co/d0W6zh6QeL",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 05 21:24:47 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 15,
+        "follow_request_sent": false,
+        "followers_count": 53,
+        "following": false,
+        "friends_count": 83,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 54010989,
+        "id_str": "54010989",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Rich Greensmith",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/54010989/1436830548",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/597010793775915008/jOY-Gahg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/597010793775915008/jOY-Gahg_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "richgreensmith",
+        "statuses_count": 200,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

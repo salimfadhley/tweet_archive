@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 20:57:52 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748259212107485184,
+    "id_str": "748259212107485184",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.280798,
+                        34.6309445
+                    ],
+                    [
+                        -118.045755,
+                        34.6309445
+                    ],
+                    [
+                        -118.045755,
+                        34.740709
+                    ],
+                    [
+                        -118.280798,
+                        34.740709
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Lancaster, CA",
+        "id": "04291149b14feb9d",
+        "name": "Lancaster",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/04291149b14feb9d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@McDonalds you guys should bring back the Buffalo McChicken. \ud83d\udca1",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 04 02:46:41 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Not from this planet.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 14495,
+        "follow_request_sent": false,
+        "followers_count": 1465,
+        "following": false,
+        "friends_count": 1088,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 174506593,
+        "id_str": "174506593",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Lancaster",
+        "name": "C",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/760941949/d203f04939feb5abb61c212d946e5242.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/760941949/d203f04939feb5abb61c212d946e5242.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/174506593/1460232745",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/715258034381922304/lY8I1vE4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/715258034381922304/lY8I1vE4_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Gaaaaona",
+        "statuses_count": 53301,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

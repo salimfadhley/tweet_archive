@@ -1,0 +1,311 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 30 08:49:40 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    36,
+                    43
+                ],
+                "text": "Sydney"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/chris_griffith\u2026",
+                "expanded_url": "https://twitter.com/chris_griffith/status/748398505866076160",
+                "indices": [
+                    45,
+                    68
+                ],
+                "url": "https://t.co/1h4JW9kLM6"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Tesla Motors",
+                "screen_name": "TeslaMotors"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748438340744015873,
+    "id_str": "748438340744015873",
+    "in_reply_to_screen_name": "TeslaMotors",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13298072,
+    "in_reply_to_user_id_str": "13298072",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        144.593741856,
+                        -38.433859306
+                    ],
+                    [
+                        145.512528832,
+                        -38.433859306
+                    ],
+                    [
+                        145.512528832,
+                        -37.5112737225
+                    ],
+                    [
+                        144.593741856,
+                        -37.5112737225
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Australia",
+        "country_code": "AU",
+        "full_name": "Melbourne, Victoria",
+        "id": "01864a8a64df9dc4",
+        "name": "Melbourne",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01864a8a64df9dc4.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jun 30 06:11:23 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/nNcH3xE8St",
+                    "expanded_url": "http://twitter.com/chris_griffith/status/748398505866076160/photo/1",
+                    "id": 748398323044741120,
+                    "id_str": "748398323044741120",
+                    "indices": [
+                        103,
+                        126
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CmLYT0OUcAAuJAI.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CmLYT0OUcAAuJAI.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 236,
+                            "resize": "fit",
+                            "w": 316
+                        },
+                        "medium": {
+                            "h": 236,
+                            "resize": "fit",
+                            "w": 316
+                        },
+                        "small": {
+                            "h": 236,
+                            "resize": "fit",
+                            "w": 316
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/nNcH3xE8St"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "bit.ly/295bR9X",
+                    "expanded_url": "http://bit.ly/295bR9X",
+                    "indices": [
+                        66,
+                        89
+                    ],
+                    "url": "https://t.co/CFdEkuASLn"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 13298072,
+                    "id_str": "13298072",
+                    "indices": [
+                        90,
+                        102
+                    ],
+                    "name": "Tesla Motors",
+                    "screen_name": "TeslaMotors"
+                }
+            ]
+        },
+        "favorite_count": 9,
+        "favorited": false,
+        "geo": null,
+        "id": 748398505866076160,
+        "id_str": "748398505866076160",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 11,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Tesla opens a big showroom in Sydney's Martin Place financial hub https://t.co/CFdEkuASLn @TeslaMotors https://t.co/nNcH3xE8St",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun May 18 13:19:04 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Award winning tech journalist. Writes computers, gadgets, VR, AI, drones @ The Australian. Reviews, features, coder, 5:2 dieter griffithc@theaustralian.com.au",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "chrisgriffith.com",
+                            "expanded_url": "http://www.chrisgriffith.com/",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/S8hBqqG9dI"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 99,
+            "follow_request_sent": false,
+            "followers_count": 6131,
+            "following": false,
+            "friends_count": 2296,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 14820511,
+            "id_str": "14820511",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 162,
+            "location": "Sydney, Australia",
+            "name": "Chris Griffith",
+            "notifications": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/264424393/Twitter-Aus.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/264424393/Twitter-Aus.jpg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14820511/1458740412",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/712630696431456256/SQ71_0L8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/712630696431456256/SQ71_0L8_normal.jpg",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "chris_griffith",
+            "statuses_count": 3861,
+            "time_zone": "Sydney",
+            "url": "http://t.co/S8hBqqG9dI",
+            "utc_offset": 36000,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 748398505866076160,
+    "quoted_status_id_str": "748398505866076160",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TeslaMotors has finally arrived in #Sydney  https://t.co/1h4JW9kLM6",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 22 00:18:22 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Director of Systems Engineering for South Pacific. @arubanetworks @HPE_Networking @ArubaANZ Love Wi-Fi, cars and early morning cycling. Opinions are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "arubanetworks.com",
+                        "expanded_url": "http://www.arubanetworks.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Ig17WKoFYT"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 119,
+        "follow_request_sent": false,
+        "followers_count": 387,
+        "following": false,
+        "friends_count": 405,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 16896943,
+        "id_str": "16896943",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 16,
+        "location": "Sydney Australia",
+        "name": "Mark Verbloot",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16896943/1424600350",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/642451084510801920/AMvZAuS1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/642451084510801920/AMvZAuS1_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "mverbloot",
+        "statuses_count": 572,
+        "time_zone": null,
+        "url": "https://t.co/Ig17WKoFYT",
+        "utc_offset": null,
+        "verified": false
+    }
+}

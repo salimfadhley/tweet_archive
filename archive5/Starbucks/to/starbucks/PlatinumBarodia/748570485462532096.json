@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 30 17:34:46 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748570485462532096,
+    "id_str": "748570485462532096",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.524236,
+                        40.506013
+                    ],
+                    [
+                        -74.40873,
+                        40.506013
+                    ],
+                    [
+                        -74.40873,
+                        40.597526
+                    ],
+                    [
+                        -74.524236,
+                        40.597526
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Piscataway, NJ",
+        "id": "01a0aa02181f66f1",
+        "name": "Piscataway",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a0aa02181f66f1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks usually is the best pick me up, until they don't give you, the coffee that you ordered, then it all goes to shit",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 21 06:57:02 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Fantasy Football Fanatic. Television Enthusiast. EDM Nutcase. Rap Lover. Hater of Selfies. LETS GO #STEELERS https://t.co/9hiSHZe5bD",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "soundcloud.com/MrBarodia",
+                        "expanded_url": "https://soundcloud.com/MrBarodia",
+                        "indices": [
+                            109,
+                            132
+                        ],
+                        "url": "https://t.co/9hiSHZe5bD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 476,
+        "follow_request_sent": false,
+        "followers_count": 658,
+        "following": false,
+        "friends_count": 946,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 377224163,
+        "id_str": "377224163",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Plainsboro,NJ",
+        "name": "Miraj",
+        "notifications": false,
+        "profile_background_color": "2B2816",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/533715944/x69c5334cda4a0249ddeede337e28b9f.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/533715944/x69c5334cda4a0249ddeede337e28b9f.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/377224163/1357624053",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3080894425/57238142ac2912c41cae20104d40c43f_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3080894425/57238142ac2912c41cae20104d40c43f_normal.jpeg",
+        "profile_link_color": "2B2816",
+        "profile_sidebar_border_color": "89B5A2",
+        "profile_sidebar_fill_color": "24210E",
+        "profile_text_color": "89B5A2",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PlatinumBarodia",
+        "statuses_count": 2224,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

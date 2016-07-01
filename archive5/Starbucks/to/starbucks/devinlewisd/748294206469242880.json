@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 23:16:56 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 388602207,
+                "id_str": "388602207",
+                "indices": [
+                    11,
+                    23
+                ],
+                "name": "Karen Busfield",
+                "screen_name": "TWEEDEL_DUM"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 748294206469242880,
+    "id_str": "748294206469242880",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": 735574223826104320,
+    "in_reply_to_status_id_str": "735574223826104320",
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -95.600652,
+                        30.643296
+                    ],
+                    [
+                        -95.4938865,
+                        30.643296
+                    ],
+                    [
+                        -95.4938865,
+                        30.768881
+                    ],
+                    [
+                        -95.600652,
+                        30.768881
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Huntsville, TX",
+        "id": "85d3434ace478e35",
+        "name": "Huntsville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/85d3434ace478e35.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks @TWEEDEL_DUM",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 01 05:41:02 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Taking on the world one taco at a time. Kik me at https://t.co/noVTX22R8m",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Google.com",
+                        "expanded_url": "http://Google.com",
+                        "indices": [
+                            50,
+                            73
+                        ],
+                        "url": "https://t.co/noVTX22R8m"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 68,
+        "follow_request_sent": false,
+        "followers_count": 73,
+        "following": false,
+        "friends_count": 218,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 737881621857198081,
+        "id_str": "737881621857198081",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Celina, TX",
+        "name": "Devin Dickerson",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/737881621857198081/1464760765",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/737886246790418432/IrvJKnq2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/737886246790418432/IrvJKnq2_normal.jpg",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "devinlewisd",
+        "statuses_count": 111,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

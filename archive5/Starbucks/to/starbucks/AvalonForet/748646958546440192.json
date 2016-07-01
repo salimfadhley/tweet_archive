@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 30 22:38:38 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748646958546440192,
+    "id_str": "748646958546440192",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -72.233951,
+                        41.4212838
+                    ],
+                    [
+                        -72.07166,
+                        41.4212838
+                    ],
+                    [
+                        -72.07166,
+                        41.511768
+                    ],
+                    [
+                        -72.233951,
+                        41.511768
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Montville, CT",
+        "id": "006074a34e8c361f",
+        "name": "Montville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/006074a34e8c361f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks can u bring me a pink drink",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 22 19:56:07 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "blessed but stressed",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 17429,
+        "follow_request_sent": false,
+        "followers_count": 433,
+        "following": false,
+        "friends_count": 79,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 587707324,
+        "id_str": "587707324",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Montville, CT",
+        "name": "Avalon",
+        "notifications": false,
+        "profile_background_color": "1C130E",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438046476615168000/LbFGAFXL.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/438046476615168000/LbFGAFXL.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/587707324/1466197584",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/739670548477845504/ZrxpdniK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/739670548477845504/ZrxpdniK_normal.jpg",
+        "profile_link_color": "4F3F38",
+        "profile_sidebar_border_color": "9DB98C",
+        "profile_sidebar_fill_color": "140E0A",
+        "profile_text_color": "838978",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "AvalonForet",
+        "statuses_count": 7060,
+        "time_zone": "Central America",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}
