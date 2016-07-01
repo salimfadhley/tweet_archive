@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 01 02:33:49 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748706142839242752,
+    "id_str": "748706142839242752",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -86.25064,
+                        39.5293583
+                    ],
+                    [
+                        -86.040001,
+                        39.5293583
+                    ],
+                    [
+                        -86.040001,
+                        39.636719
+                    ],
+                    [
+                        -86.25064,
+                        39.636719
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Greenwood, IN",
+        "id": "008f15ef5cfd041a",
+        "name": "Greenwood",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/008f15ef5cfd041a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks just tried a Granita... LOVED IT! My new summer treat \u2600\ufe0f\ud83c\udf67",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 28 00:22:27 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Mother of 2 children, wife and producer at WTHR-TV Indianapolis",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 349,
+        "follow_request_sent": false,
+        "followers_count": 320,
+        "following": false,
+        "friends_count": 492,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 148933791,
+        "id_str": "148933791",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Greenwood, Indiana",
+        "name": "Mary Stirsman",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/148933791/1410213801",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3215860842/0165eb5318c6d6d9977099813bc0d533_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3215860842/0165eb5318c6d6d9977099813bc0d533_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MaryStirsman",
+        "statuses_count": 657,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
