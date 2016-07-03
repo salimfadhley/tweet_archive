@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 02 07:06:10 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749137069562273792,
+    "id_str": "749137069562273792",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.727776,
+                        40.950918
+                    ],
+                    [
+                        -71.786994,
+                        40.950918
+                    ],
+                    [
+                        -71.786994,
+                        42.050588
+                    ],
+                    [
+                        -73.727776,
+                        42.050588
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Connecticut, USA",
+        "id": "e86b380cfefcced5",
+        "name": "Connecticut",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/e86b380cfefcced5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@McDonalds plz deliver go me",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 05 01:03:08 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtu.be/e4ZaGbZUDdk",
+                        "expanded_url": "https://youtu.be/e4ZaGbZUDdk",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/tyzgV8QPRl"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8773,
+        "follow_request_sent": false,
+        "followers_count": 398,
+        "following": false,
+        "friends_count": 343,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1242565219,
+        "id_str": "1242565219",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "emily scott",
+        "notifications": false,
+        "profile_background_color": "60C4B4",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/808188944/86edd367163a51f5673960ab58f962a8.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/808188944/86edd367163a51f5673960ab58f962a8.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1242565219/1467182513",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748560609415933953/ek8W2yIO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748560609415933953/ek8W2yIO_normal.jpg",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "FFCD78",
+        "profile_sidebar_fill_color": "FC9453",
+        "profile_text_color": "CF3074",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ImTheRealEmilyy",
+        "statuses_count": 19320,
+        "time_zone": null,
+        "url": "https://t.co/tyzgV8QPRl",
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 02 12:19:30 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    30,
+                    41
+                ],
+                "text": "ImLovingIt"
+            },
+            {
+                "indices": [
+                    42,
+                    51
+                ],
+                "text": "Somme100"
+            },
+            {
+                "indices": [
+                    52,
+                    65
+                ],
+                "text": "LestWeForget"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/l8XyyckVfj",
+                "expanded_url": "http://twitter.com/Tillyflo/status/749215923400237056/photo/1",
+                "id": 749215890470801408,
+                "id_str": "749215890470801408",
+                "indices": [
+                    66,
+                    89
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmW_4gOXEAAi-5K.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmW_4gOXEAAi-5K.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 899,
+                        "resize": "fit",
+                        "w": 1599
+                    },
+                    "medium": {
+                        "h": 675,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 382,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/l8XyyckVfj"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749215923400237056,
+    "id_str": "749215923400237056",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        1.3814574,
+                        49.5717797
+                    ],
+                    [
+                        3.2030318,
+                        49.5717797
+                    ],
+                    [
+                        3.2030318,
+                        50.3705191
+                    ],
+                    [
+                        1.3814574,
+                        50.3705191
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Somme, Picardie",
+        "id": "5efcac640c1a316f",
+        "name": "Somme",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/5efcac640c1a316f.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@McDonalds feeding the troops #ImLovingIt #Somme100 #LestWeForget https://t.co/l8XyyckVfj",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 19 15:11:55 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 48,
+        "follow_request_sent": false,
+        "followers_count": 60,
+        "following": false,
+        "friends_count": 230,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 497042054,
+        "id_str": "497042054",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Acton, Suffolk.",
+        "name": "Mrs Webb",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/421384414787293184/xf21BB_d_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/421384414787293184/xf21BB_d_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Tillyflo",
+        "statuses_count": 423,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

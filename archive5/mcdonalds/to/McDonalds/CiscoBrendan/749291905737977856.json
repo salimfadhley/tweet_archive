@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 02 17:21:26 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/vORz2w7Dac",
+                "expanded_url": "http://twitter.com/CiscoBrendan/status/749291905737977856/photo/1",
+                "id": 749291892723048448,
+                "id_str": "749291892723048448",
+                "indices": [
+                    117,
+                    140
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmYFAarWYAAHIp1.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmYFAarWYAAHIp1.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 1536
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/vORz2w7Dac"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749291905737977856,
+    "id_str": "749291905737977856",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -78.818343,
+                        35.7158045
+                    ],
+                    [
+                        -78.497331,
+                        35.7158045
+                    ],
+                    [
+                        -78.497331,
+                        35.9721579
+                    ],
+                    [
+                        -78.818343,
+                        35.9721579
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Raleigh, NC",
+        "id": "161d2f18e3a0445a",
+        "name": "Raleigh",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/161d2f18e3a0445a.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@McDonalds really putting in the extra effort to perfect my double cheeseburger\ud83d\ude12Selling my shares in MCD after this! https://t.co/vORz2w7Dac",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 28 14:14:58 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 85,
+        "follow_request_sent": false,
+        "followers_count": 30,
+        "following": false,
+        "friends_count": 35,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 4061046015,
+        "id_str": "4061046015",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Grant and Brendan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4061046015/1461028006",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/659378646994522112/y_31fc5__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/659378646994522112/y_31fc5__normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CiscoBrendan",
+        "statuses_count": 83,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

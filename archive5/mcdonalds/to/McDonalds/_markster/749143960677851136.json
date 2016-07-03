@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 02 07:33:33 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/PKBZvAbuoz",
+                "expanded_url": "http://twitter.com/_markster/status/749143960677851136/video/1",
+                "id": 749143914779586560,
+                "id_str": "749143914779586560",
+                "indices": [
+                    24,
+                    47
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/749143914779586560/pu/img/WUwf5qDuzC3cLnFn.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/749143914779586560/pu/img/WUwf5qDuzC3cLnFn.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1280,
+                        "resize": "fit",
+                        "w": 720
+                    },
+                    "medium": {
+                        "h": 1067,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 604,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/PKBZvAbuoz"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            }
+        ]
+    },
+    "favorite_count": 8,
+    "favorited": false,
+    "geo": null,
+    "id": 749143960677851136,
+    "id_str": "749143960677851136",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.0075327,
+                        34.054801
+                    ],
+                    [
+                        -117.942775,
+                        34.054801
+                    ],
+                    [
+                        -117.942775,
+                        34.133201
+                    ],
+                    [
+                        -118.0075327,
+                        34.133201
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Baldwin Park, CA",
+        "id": "2008b1cea656f14b",
+        "name": "Baldwin Park",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2008b1cea656f14b.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@McDonalds wtf is this? https://t.co/PKBZvAbuoz",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 09 06:53:54 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "sneakers",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6745,
+        "follow_request_sent": false,
+        "followers_count": 627,
+        "following": false,
+        "friends_count": 573,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2283188797,
+        "id_str": "2283188797",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "mark",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2283188797/1458896257",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/746983299948511233/qw08Z3nr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/746983299948511233/qw08Z3nr_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_markster",
+        "statuses_count": 13398,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
