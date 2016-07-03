@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 02 21:30:30 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749354587077746688,
+    "id_str": "749354587077746688",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 749302954977468416,
+    "in_reply_to_status_id_str": "749302954977468416",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.436232,
+                        47.4953154
+                    ],
+                    [
+                        -122.2249728,
+                        47.4953154
+                    ],
+                    [
+                        -122.2249728,
+                        47.734319
+                    ],
+                    [
+                        -122.436232,
+                        47.734319
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Seattle, WA",
+        "id": "300bcc6e23a88361",
+        "name": "Seattle",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/300bcc6e23a88361.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanAir I did that before Twitter. Despite there being a flight about every 2-3 hours, the didn't seem interested in helping.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 23 19:28:55 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Political science prof at WKU. IU PhD '12. Electoral and East Asian politics. \u9078\u8209\u653f\u6cbb; \u6771\u4e9e\u653f\u6cbb; \ub3d9\uc544\uc2dc\uc544\uc758 \uc815\uce58; \uc120\uac70 \uc815\uce58.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "timothysrich.com",
+                        "expanded_url": "http://www.timothysrich.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/HCTOp0c47z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 576,
+        "follow_request_sent": false,
+        "followers_count": 702,
+        "following": false,
+        "friends_count": 578,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 419770332,
+        "id_str": "419770332",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 38,
+        "location": "Bowling Green, KY",
+        "name": "Timothy S. Rich \u82ae\u5b97\u6cf0",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/419770332/1408886167",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/503530082560786432/zjQMbSQQ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/503530082560786432/zjQMbSQQ_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "timothysrich",
+        "statuses_count": 6973,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/HCTOp0c47z",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 02 15:55:10 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    125,
+                    131
+                ],
+                "text": "vegan"
+            },
+            {
+                "indices": [
+                    132,
+                    139
+                ],
+                "text": "coffee"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749270196393836544,
+    "id_str": "749270196393836544",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.745779800818049,
+                        51.4482221321091
+                    ],
+                    [
+                        1.76893599950184,
+                        51.4482221321091
+                    ],
+                    [
+                        1.76893599950184,
+                        52.9926789576249
+                    ],
+                    [
+                        -0.745779800818049,
+                        52.9926789576249
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "East, England",
+        "id": "3bc1b6cfd27ef7f6",
+        "name": "East",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/3bc1b6cfd27ef7f6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks your mission is nurture people's spirits. Please believe in us again &amp; make all non-dairy same price as milk! #vegan #coffee \u2615",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 06 21:37:03 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Simplifying happy choices with vegan thoughts, shared experiences and inspiration for vegans, vegetarians and the vegan-curious or flexitarian alike",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "veganage.co.uk",
+                        "expanded_url": "http://www.veganage.co.uk",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/LhZi0GCjn1"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 132,
+        "follow_request_sent": false,
+        "followers_count": 57,
+        "following": false,
+        "friends_count": 79,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3363075537,
+        "id_str": "3363075537",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "South East, England",
+        "name": "VeganAge",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3363075537/1464272298",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/728619940014624768/OCupLn4b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/728619940014624768/OCupLn4b_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "VeganAge",
+        "statuses_count": 245,
+        "time_zone": "London",
+        "url": "https://t.co/LhZi0GCjn1",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

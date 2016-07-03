@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 02 13:11:13 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749228937088086016,
+    "id_str": "749228937088086016",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -109.060257,
+                        36.992427
+                    ],
+                    [
+                        -102.041524,
+                        36.992427
+                    ],
+                    [
+                        -102.041524,
+                        41.003445
+                    ],
+                    [
+                        -109.060257,
+                        41.003445
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Colorado, USA",
+        "id": "e21c8e4914eef2b3",
+        "name": "Colorado",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/e21c8e4914eef2b3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks any idea what the Snowmass Starbucks won't take your cards or apps? It's a pain.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 24 04:43:28 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Person in, but not of, the Midwest",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "tumblr.iliveinadreamworld.com",
+                        "expanded_url": "http://tumblr.iliveinadreamworld.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/uhP33WIVVy"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 611,
+        "follow_request_sent": false,
+        "followers_count": 419,
+        "following": false,
+        "friends_count": 560,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 9645352,
+        "id_str": "9645352",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 20,
+        "location": "Minnesota, USA",
+        "name": "CC",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9645352/1465768678",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/689283631085297664/pMfzc6yB_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/689283631085297664/pMfzc6yB_normal.png",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "this_is_candice",
+        "statuses_count": 6705,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/uhP33WIVVy",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

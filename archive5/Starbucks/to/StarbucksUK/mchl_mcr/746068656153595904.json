@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 23 19:53:23 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 369629233,
+                "id_str": "369629233",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Starbucks UK",
+                "screen_name": "StarbucksUK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746068656153595904,
+    "id_str": "746068656153595904",
+    "in_reply_to_screen_name": "StarbucksUK",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 369629233,
+    "in_reply_to_user_id_str": "369629233",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        0.045148,
+                        51.423888
+                    ],
+                    [
+                        0.1335005,
+                        51.423888
+                    ],
+                    [
+                        0.1335005,
+                        51.5129158
+                    ],
+                    [
+                        0.045148,
+                        51.5129158
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Eltham, London",
+        "id": "1eccff5b77dbb122",
+        "name": "Eltham",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1eccff5b77dbb122.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@StarbucksUK i thought the woolwich branch was open late this evening for the referendum?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 17 05:31:39 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Policy Of Truth",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/mchl_mcr",
+                        "expanded_url": "http://www.instagram.com/mchl_mcr",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/rnGalL2WpL"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 264,
+        "follow_request_sent": false,
+        "followers_count": 229,
+        "following": false,
+        "friends_count": 396,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 105701289,
+        "id_str": "105701289",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "London, United Kingdom",
+        "name": "Michael McR",
+        "notifications": false,
+        "profile_background_color": "0E0F0F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/128227808/Black_desert.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/128227808/Black_desert.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/105701289/1459347182",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/736956985023795200/4rlJqPSR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/736956985023795200/4rlJqPSR_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "79BA9B",
+        "profile_text_color": "F5E7F5",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mchl_mcr",
+        "statuses_count": 3504,
+        "time_zone": "London",
+        "url": "https://t.co/rnGalL2WpL",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

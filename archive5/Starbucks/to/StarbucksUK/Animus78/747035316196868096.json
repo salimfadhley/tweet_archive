@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 26 11:54:33 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 369629233,
+                "id_str": "369629233",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Starbucks UK",
+                "screen_name": "StarbucksUK"
+            },
+            {
+                "id": 49422448,
+                "id_str": "49422448",
+                "indices": [
+                    21,
+                    32
+                ],
+                "name": "Mr Trader",
+                "screen_name": "Embankment"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747035316196868096,
+    "id_str": "747035316196868096",
+    "in_reply_to_screen_name": "StarbucksUK",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 369629233,
+    "in_reply_to_user_id_str": "369629233",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.187894,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.5164655
+                    ],
+                    [
+                        -0.187894,
+                        51.5164655
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "London, England",
+        "id": "457b4814b4240d87",
+        "name": "London",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/457b4814b4240d87.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@StarbucksUK painful @embankment. 10min wait to get drink, 1 person in front. cream where said no cream. Throw away, another 10 min wait.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 11 20:34:34 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "head in the clouds, feet on the ground!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 35,
+        "follow_request_sent": false,
+        "followers_count": 104,
+        "following": false,
+        "friends_count": 118,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 297037429,
+        "id_str": "297037429",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Cris Milton",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/297037429/1410440482",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/588331790856757248/jNmyKbql_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/588331790856757248/jNmyKbql_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Animus78",
+        "statuses_count": 816,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

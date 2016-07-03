@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 01 08:23:00 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Tesla Motors",
+                "screen_name": "TeslaMotors"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748794016741793793,
+    "id_str": "748794016741793793",
+    "in_reply_to_screen_name": "TeslaMotors",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13298072,
+    "in_reply_to_user_id_str": "13298072",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TeslaMotors will not make it to 2020.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 29 19:10:43 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#GOTHAM",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "prevailnprosper.com",
+                        "expanded_url": "http://prevailnprosper.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Qmc2aD9BrW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1467,
+        "follow_request_sent": false,
+        "followers_count": 482,
+        "following": false,
+        "friends_count": 611,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 52154047,
+        "id_str": "52154047",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Chicago, IL",
+        "name": "L.Dot",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/156041292/eees.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/156041292/eees.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/52154047/1426060053",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575563694932910080/E_bZtjoV_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/575563694932910080/E_bZtjoV_normal.jpeg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "soycapitalista",
+        "statuses_count": 4357,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/Qmc2aD9BrW",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

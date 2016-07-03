@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 02 03:35:56 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 1334489688,
+                "id_str": "1334489688",
+                "indices": [
+                    11,
+                    18
+                ],
+                "name": "Zachary Babst",
+                "screen_name": "ZBabst"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749084162477490177,
+    "id_str": "749084162477490177",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": 748939311878328320,
+    "in_reply_to_status_id_str": "748939311878328320",
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.994551,
+                        40.048711
+                    ],
+                    [
+                        -74.898263,
+                        40.048711
+                    ],
+                    [
+                        -74.898263,
+                        40.155775
+                    ],
+                    [
+                        -74.994551,
+                        40.155775
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Bensalem, PA",
+        "id": "00ca00906ca4c6d4",
+        "name": "Bensalem",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00ca00906ca4c6d4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks @ZBabst",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 01 01:18:10 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "SHHS '18 10.31.14",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6731,
+        "follow_request_sent": false,
+        "followers_count": 399,
+        "following": false,
+        "friends_count": 440,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 259039958,
+        "id_str": "259039958",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "",
+        "name": "felEcia",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/508738133622419456/l5BPLjT2.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/508738133622419456/l5BPLjT2.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/259039958/1465955919",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/741610052117790720/1Weh17Ui_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/741610052117790720/1Weh17Ui_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "feleciamarie225",
+        "statuses_count": 4694,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

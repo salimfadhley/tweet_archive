@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 01 23:26:51 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 749021480122548224,
+    "id_str": "749021480122548224",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": 749002648049815552,
+    "in_reply_to_status_id_str": "749002648049815552",
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        19.79343,
+                        49.967561
+                    ],
+                    [
+                        20.2179622,
+                        49.967561
+                    ],
+                    [
+                        20.2179622,
+                        50.124963
+                    ],
+                    [
+                        19.79343,
+                        50.124963
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Polska",
+        "country_code": "PL",
+        "full_name": "Krakow, Poland",
+        "id": "c458763765cea500",
+        "name": "Krakow",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c458763765cea500.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@AppStore I\u2019d like to use it, but  it\u2019s unavailable in my country..",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 08 21:55:49 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Analyst.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "keybase.io/spitfire",
+                        "expanded_url": "http://keybase.io/spitfire",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/giVyfCoNMx"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 142,
+        "follow_request_sent": false,
+        "followers_count": 214,
+        "following": false,
+        "friends_count": 109,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 16192889,
+        "id_str": "16192889",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pl",
+        "listed_count": 4,
+        "location": "Krak\u00f3w, Poland",
+        "name": "Mieszko \u015alusarczyk",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/648607562590371840/kJ5Jwo6b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/648607562590371840/kJ5Jwo6b_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "spitf1r3",
+        "statuses_count": 3949,
+        "time_zone": "Warsaw",
+        "url": "http://t.co/giVyfCoNMx",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

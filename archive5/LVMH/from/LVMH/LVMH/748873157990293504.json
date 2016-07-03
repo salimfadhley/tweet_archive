@@ -1,0 +1,303 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 01 13:37:28 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/10_vins/status\u2026",
+                "expanded_url": "https://twitter.com/10_vins/status/748867904318439424",
+                "indices": [
+                    46,
+                    69
+                ],
+                "url": "https://t.co/R74eyQ1UQq"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 605705570,
+                "id_str": "605705570",
+                "indices": [
+                    36,
+                    44
+                ],
+                "name": "10-Vins",
+                "screen_name": "10_Vins"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 748873157990293504,
+    "id_str": "748873157990293504",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.2241006,
+                        48.8155214
+                    ],
+                    [
+                        2.4699053,
+                        48.8155214
+                    ],
+                    [
+                        2.4699053,
+                        48.9021461
+                    ],
+                    [
+                        2.2241006,
+                        48.9021461
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Paris, France",
+        "id": "09f6a7707f18e0b1",
+        "name": "Paris",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jul 01 13:16:36 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Wrn8LlxMXy",
+                    "expanded_url": "http://twitter.com/10_Vins/status/748867904318439424/photo/1",
+                    "id": 748867880926715904,
+                    "id_str": "748867880926715904",
+                    "indices": [
+                        100,
+                        123
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CmSDXrpWIAAstj6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CmSDXrpWIAAstj6.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1536,
+                            "resize": "fit",
+                            "w": 2048
+                        },
+                        "medium": {
+                            "h": 900,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 510,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/Wrn8LlxMXy"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 558606074,
+                    "id_str": "558606074",
+                    "indices": [
+                        0,
+                        5
+                    ],
+                    "name": "LVMH",
+                    "screen_name": "LVMH"
+                },
+                {
+                    "id": 4502885068,
+                    "id_str": "4502885068",
+                    "indices": [
+                        6,
+                        15
+                    ],
+                    "name": "VivaTechnologyParis",
+                    "screen_name": "VivaTech"
+                }
+            ]
+        },
+        "favorite_count": 5,
+        "favorited": false,
+        "geo": null,
+        "id": 748867904318439424,
+        "id_str": "748867904318439424",
+        "in_reply_to_screen_name": "LVMH",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 558606074,
+        "in_reply_to_user_id_str": "558606074",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@LVMH @VivaTech We have just finished our pitch on VivaTech Luxury Lab. Come and meet on LVMH booth https://t.co/Wrn8LlxMXy",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jun 11 20:04:35 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "D-VINE: la 1\u00e8re machine de d\u00e9gustation de vin au verre qui a\u00e8re et met \u00e0 temp\u00e9rature le vin de vos flacons #10Vins #Dvine \n\nEnjoy 10-vins responsibly",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "10-vins.com",
+                            "expanded_url": "http://www.10-vins.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/PJvMUmdbDY"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1360,
+            "follow_request_sent": false,
+            "followers_count": 2364,
+            "following": false,
+            "friends_count": 146,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 605705570,
+            "id_str": "605705570",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "fr",
+            "listed_count": 146,
+            "location": "France",
+            "name": "10-Vins",
+            "notifications": false,
+            "profile_background_color": "F8F2EE",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/679159316/d0b549714290ff10fb5f53fbc0edf387.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/679159316/d0b549714290ff10fb5f53fbc0edf387.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/605705570/1452259130",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2879143661/94a6b7cfcd368d685299bd3537c619d5_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2879143661/94a6b7cfcd368d685299bd3537c619d5_normal.png",
+            "profile_link_color": "BE1428",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "10_Vins",
+            "statuses_count": 2691,
+            "time_zone": null,
+            "url": "http://t.co/PJvMUmdbDY",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 748867904318439424,
+    "quoted_status_id_str": "748867904318439424",
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Thanks for tour great pitch! Cheers @10_Vins  https://t.co/R74eyQ1UQq",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 20 12:48:28 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Official account of the LVMH group | World leader in luxury with a unique portfolio of over 70 prestigious brands",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "lvmh.com",
+                        "expanded_url": "http://www.lvmh.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/mVANwiA5xD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1112,
+        "follow_request_sent": false,
+        "followers_count": 51703,
+        "following": false,
+        "friends_count": 56,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 558606074,
+        "id_str": "558606074",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 632,
+        "location": "Paris",
+        "name": "LVMH",
+        "notifications": false,
+        "profile_background_color": "F2F2F2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/595211592662261761/vtaqqCnD.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/595211592662261761/vtaqqCnD.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/558606074/1464279357",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/711961867607011328/0nrfY1NU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/711961867607011328/0nrfY1NU_normal.jpg",
+        "profile_link_color": "061621",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LVMH",
+        "statuses_count": 5054,
+        "time_zone": "Paris",
+        "url": "http://t.co/mVANwiA5xD",
+        "utc_offset": 7200,
+        "verified": true
+    }
+}

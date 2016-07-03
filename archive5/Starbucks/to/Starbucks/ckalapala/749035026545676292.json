@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 02 00:20:41 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Ur3DpynKU3",
+                "expanded_url": "http://twitter.com/ckalapala/status/749035026545676292/photo/1",
+                "id": 749034799424122880,
+                "id_str": "749034799424122880",
+                "indices": [
+                    117,
+                    140
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmUbLngUsAA6lx7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmUbLngUsAA6lx7.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 1536
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/Ur3DpynKU3"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749035026545676292,
+    "id_str": "749035026545676292",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -95.34927427768707,
+                        29.985359238361188
+                    ],
+                    [
+                        -95.34927427768707,
+                        29.985359238361188
+                    ],
+                    [
+                        -95.34927427768707,
+                        29.985359238361188
+                    ],
+                    [
+                        -95.34927427768707,
+                        29.985359238361188
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Gate A17",
+        "id": "07d9ecde1d883000",
+        "name": "Gate A17",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9ecde1d883000.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Starbucks follow up to my previous tweet, ordered smores frappuccino. With their carelessness, I got God knows what https://t.co/Ur3DpynKU3",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 09 02:36:00 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#Philanthropist #Entrepreneur #Amateurathlete #Dad #Agnostic #timesentinel",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 33,
+        "follow_request_sent": false,
+        "followers_count": 2667,
+        "following": false,
+        "friends_count": 96,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 81007800,
+        "id_str": "81007800",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 44,
+        "location": "Milky Way ",
+        "name": "Chaitu",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/81007800/1457087052",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/634932210227785728/jzrDQidj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/634932210227785728/jzrDQidj_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ckalapala",
+        "statuses_count": 7865,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

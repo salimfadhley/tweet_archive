@@ -1,0 +1,131 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 02 22:55:47 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    54,
+                    66
+                ],
+                "text": "surfacebook"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749376047905398784,
+    "id_str": "749376047905398784",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.545679,
+                        40.6999931
+                    ],
+                    [
+                        -73.484061,
+                        40.6999931
+                    ],
+                    [
+                        -73.484061,
+                        40.74357
+                    ],
+                    [
+                        -73.545679,
+                        40.74357
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Levittown, NY",
+        "id": "364a45c10832ed51",
+        "name": "Levittown",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/364a45c10832ed51.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Microsoft Microsoft is losing me. Just brought in my #surfacebook for the third time for service. One more and I'm done.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 27 12:58:45 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Retired Air Force, currently working for airline. Proud father of two great kids. Fly planes when I can afford the gas. Motto: If fun were people, I'd be China",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 22,
+        "follow_request_sent": false,
+        "followers_count": 13,
+        "following": false,
+        "friends_count": 59,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 231048061,
+        "id_str": "231048061",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Bethpage, NY",
+        "name": "Rob Mahaffy",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3182283003/c925ec690593ae8ae287568304459b0d_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3182283003/c925ec690593ae8ae287568304459b0d_normal.jpeg",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "moeflyer",
+        "statuses_count": 36,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

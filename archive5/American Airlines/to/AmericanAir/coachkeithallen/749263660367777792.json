@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 02 15:29:11 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749263660367777792,
+    "id_str": "749263660367777792",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 749259743873552385,
+    "in_reply_to_status_id_str": "749259743873552385",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.129669,
+                        32.8785707
+                    ],
+                    [
+                        -97.029639,
+                        32.8785707
+                    ],
+                    [
+                        -97.029639,
+                        32.985097
+                    ],
+                    [
+                        -97.129669,
+                        32.985097
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Grapevine, TX",
+        "id": "352cf4e7314da0b4",
+        "name": "Grapevine",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/352cf4e7314da0b4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir thanks, the crew did a great job of making sure I made the connecting flight!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 10 14:29:06 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Head Football Coach The King's Academy Husband, Father, Follower of Christ",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "coachallen.com",
+                        "expanded_url": "http://www.coachallen.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Ce9MwsmiRR"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 77,
+        "follow_request_sent": false,
+        "followers_count": 2207,
+        "following": false,
+        "friends_count": 2039,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18019978,
+        "id_str": "18019978",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 16,
+        "location": "",
+        "name": "Keith Allen",
+        "notifications": false,
+        "profile_background_color": "000E0F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/742948954/6255ded53b191a30128e177b16513f7b.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/742948954/6255ded53b191a30128e177b16513f7b.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18019978/1401134363",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/66982497/Allen-mug_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/66982497/Allen-mug_normal.JPG",
+        "profile_link_color": "6B08C4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C3CABF",
+        "profile_text_color": "0F0000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "coachkeithallen",
+        "statuses_count": 4420,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/Ce9MwsmiRR",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

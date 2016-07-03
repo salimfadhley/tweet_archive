@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 12:52:30 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 369629233,
+                "id_str": "369629233",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Starbucks UK",
+                "screen_name": "StarbucksUK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748137064068169728,
+    "id_str": "748137064068169728",
+    "in_reply_to_screen_name": "StarbucksUK",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 369629233,
+    "in_reply_to_user_id_str": "369629233",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.25981,
+                        51.728695
+                    ],
+                    [
+                        -0.2016673,
+                        51.728695
+                    ],
+                    [
+                        -0.2016673,
+                        51.7794228
+                    ],
+                    [
+                        -0.25981,
+                        51.7794228
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Hatfield, East",
+        "id": "5d8158aac6d0a0f6",
+        "name": "Hatfield",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5d8158aac6d0a0f6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@StarbucksUK have you stopped selling the Starbucks Via sachets!?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 16 22:54:04 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 72,
+        "follow_request_sent": false,
+        "followers_count": 31,
+        "following": false,
+        "friends_count": 50,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 21039296,
+        "id_str": "21039296",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "London, England",
+        "name": "Kerri Smart",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/603646201133694976/a3cBhs6I_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/603646201133694976/a3cBhs6I_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "301545",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KezzaSmartie",
+        "statuses_count": 688,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

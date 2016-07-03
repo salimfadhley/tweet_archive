@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 29 14:52:40 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/8ETgYarrmX",
+                "expanded_url": "http://twitter.com/chrizallen/status/748167303284535296/photo/1",
+                "id": 748167273446318080,
+                "id_str": "748167273446318080",
+                "indices": [
+                    111,
+                    134
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmIGK9ZXIAAHi4j.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmIGK9ZXIAAHi4j.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 1536
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/8ETgYarrmX"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 369629233,
+                "id_str": "369629233",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Starbucks UK",
+                "screen_name": "StarbucksUK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748167303284535296,
+    "id_str": "748167303284535296",
+    "in_reply_to_screen_name": "StarbucksUK",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 369629233,
+    "in_reply_to_user_id_str": "369629233",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        0.5709409,
+                        51.869916
+                    ],
+                    [
+                        0.5709409,
+                        51.869916
+                    ],
+                    [
+                        0.5709409,
+                        51.869916
+                    ],
+                    [
+                        0.5709409,
+                        51.869916
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Starbucks Coffee Company",
+        "id": "0952949c18567000",
+        "name": "Starbucks Coffee Company",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/0952949c18567000.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@StarbucksUK nothing says we don't really want your custom like closing a section before 4 when you close at 6 https://t.co/8ETgYarrmX",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 04 13:18:15 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "NHS Emergency Planning & Resilience Manager & British Red Cross Volunteer - Opinions expressed are my own & not those of organisations I am affiliated to.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1656,
+        "follow_request_sent": false,
+        "followers_count": 784,
+        "following": false,
+        "friends_count": 1774,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 17155170,
+        "id_str": "17155170",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 20,
+        "location": "Essex / Hertfordshire / London",
+        "name": "#HelloMyNameIsChris",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17155170/1399186934",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/473223848088051716/hI5U9pfE_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/473223848088051716/hI5U9pfE_normal.jpeg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "chrizallen",
+        "statuses_count": 6143,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

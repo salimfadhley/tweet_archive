@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 27 17:43:05 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 179491236,
+                "id_str": "179491236",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "John Lewis",
+                "screen_name": "JLcustserv"
+            },
+            {
+                "id": 382895782,
+                "id_str": "382895782",
+                "indices": [
+                    12,
+                    22
+                ],
+                "name": "Ben Sims",
+                "screen_name": "SimsBSims"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 747485418103386116,
+    "id_str": "747485418103386116",
+    "in_reply_to_screen_name": "JLcustserv",
+    "in_reply_to_status_id": 731052620517941248,
+    "in_reply_to_status_id_str": "731052620517941248",
+    "in_reply_to_user_id": 179491236,
+    "in_reply_to_user_id_str": "179491236",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.36850399906372,
+                        49.8824720005481
+                    ],
+                    [
+                        -1.48573420014269,
+                        49.8824720005481
+                    ],
+                    [
+                        -1.48573420014269,
+                        52.1125420344225
+                    ],
+                    [
+                        -6.36850399906372,
+                        52.1125420344225
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "South West, England",
+        "id": "25d3e991f5637f5a",
+        "name": "South West",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/25d3e991f5637f5a.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@JLcustserv @SimsBSims hello, any news on the wind gauge as it has been well over 2-3 weeks? Thanks!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 15 16:13:59 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Senior Meteorologist and Media Advisor working for @MetOffice. FRMetS. Views and thoughts expressed are purely my own unless stated!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4048,
+        "follow_request_sent": false,
+        "followers_count": 367,
+        "following": false,
+        "friends_count": 548,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 123287701,
+        "id_str": "123287701",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 23,
+        "location": "Cranbrook, Exeter, Devon, UK",
+        "name": "Greg Dewhurst",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/123287701/1444718362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/653822315675955205/k_1kI_c-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/653822315675955205/k_1kI_c-_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GregDewhurst",
+        "statuses_count": 5341,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

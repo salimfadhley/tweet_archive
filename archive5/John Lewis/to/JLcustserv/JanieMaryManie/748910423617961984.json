@@ -1,0 +1,290 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 01 16:05:33 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/janiemarymanie\u2026",
+                "expanded_url": "https://twitter.com/janiemarymanie/status/748910274288156673",
+                "indices": [
+                    13,
+                    36
+                ],
+                "url": "https://t.co/TOrXTaWenX"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 179491236,
+                "id_str": "179491236",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "John Lewis",
+                "screen_name": "JLcustserv"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748910423617961984,
+    "id_str": "748910423617961984",
+    "in_reply_to_screen_name": "JLcustserv",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 179491236,
+    "in_reply_to_user_id_str": "179491236",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        0.0748022,
+                        51.4087608
+                    ],
+                    [
+                        0.1889376,
+                        51.4087608
+                    ],
+                    [
+                        0.1889376,
+                        51.478931
+                    ],
+                    [
+                        0.0748022,
+                        51.478931
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Bexley, London",
+        "id": "569c1d39d5de5775",
+        "name": "Bexley",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/569c1d39d5de5775.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jul 01 16:04:58 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        17,
+                        41
+                    ],
+                    "text": "verypoorcustomerservice"
+                },
+                {
+                    "indices": [
+                        42,
+                        63
+                    ],
+                    "text": "stillwaitingforacall"
+                },
+                {
+                    "indices": [
+                        64,
+                        76
+                    ],
+                    "text": "disgraceful"
+                },
+                {
+                    "indices": [
+                        77,
+                        91
+                    ],
+                    "text": "dissappointed"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 126664172,
+                    "id_str": "126664172",
+                    "indices": [
+                        0,
+                        16
+                    ],
+                    "name": "John Lewis",
+                    "screen_name": "johnlewisretail"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 748910274288156673,
+        "id_str": "748910274288156673",
+        "in_reply_to_screen_name": "johnlewisretail",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 126664172,
+        "in_reply_to_user_id_str": "126664172",
+        "is_quote_status": false,
+        "lang": "und",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            0.0748022,
+                            51.4087608
+                        ],
+                        [
+                            0.1889376,
+                            51.4087608
+                        ],
+                        [
+                            0.1889376,
+                            51.478931
+                        ],
+                        [
+                            0.0748022,
+                            51.478931
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United Kingdom",
+            "country_code": "GB",
+            "full_name": "Bexley, London",
+            "id": "569c1d39d5de5775",
+            "name": "Bexley",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/569c1d39d5de5775.json"
+        },
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@johnlewisretail #verypoorcustomerservice #stillwaitingforacall #disgraceful #dissappointed",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Sep 20 10:08:50 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "\u201cAlways do sober what you said you'd do drunk. That will teach you to keep your mouth shut.\u201d",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 1716,
+            "follow_request_sent": false,
+            "followers_count": 155,
+            "following": false,
+            "friends_count": 649,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 192853012,
+            "id_str": "192853012",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 0,
+            "location": "South East London",
+            "name": "Jane",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/192853012/1427138318",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/613452834592395264/LPuv5dur_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/613452834592395264/LPuv5dur_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "JanieMaryManie",
+            "statuses_count": 2240,
+            "time_zone": null,
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 748910274288156673,
+    "quoted_status_id_str": "748910274288156673",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@JLcustserv  https://t.co/TOrXTaWenX",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 20 10:08:50 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\u201cAlways do sober what you said you'd do drunk. That will teach you to keep your mouth shut.\u201d",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1716,
+        "follow_request_sent": false,
+        "followers_count": 155,
+        "following": false,
+        "friends_count": 649,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 192853012,
+        "id_str": "192853012",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "South East London",
+        "name": "Jane",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/192853012/1427138318",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/613452834592395264/LPuv5dur_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/613452834592395264/LPuv5dur_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JanieMaryManie",
+        "statuses_count": 2240,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

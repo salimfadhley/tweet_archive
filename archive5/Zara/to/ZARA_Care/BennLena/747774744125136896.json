@@ -1,0 +1,172 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 28 12:52:46 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/6GwPyZgL23",
+                "expanded_url": "http://twitter.com/BennLena/status/747774744125136896/photo/1",
+                "id": 747774725242372098,
+                "id_str": "747774725242372098",
+                "indices": [
+                    95,
+                    118
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmChJpYWQAIkIgh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmChJpYWQAIkIgh.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 1536
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/6GwPyZgL23"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1953969542,
+                "id_str": "1953969542",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "ZARA CARE",
+                "screen_name": "ZARA_Care"
+            },
+            {
+                "id": 346742249,
+                "id_str": "346742249",
+                "indices": [
+                    11,
+                    16
+                ],
+                "name": "ZARA",
+                "screen_name": "ZARA"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 747774744125136896,
+    "id_str": "747774744125136896",
+    "in_reply_to_screen_name": "ZARA_Care",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1953969542,
+    "in_reply_to_user_id_str": "1953969542",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        0.0873022,
+                        52.1642435
+                    ],
+                    [
+                        0.18453,
+                        52.1642435
+                    ],
+                    [
+                        0.18453,
+                        52.237704
+                    ],
+                    [
+                        0.0873022,
+                        52.237704
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Cambridge, England",
+        "id": "3aa1b1861c56d910",
+        "name": "Cambridge",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3aa1b1861c56d910.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ZARA_Care @ZARA bought these shoes in Zara in Vilnius - falling apart after been worn twice ! https://t.co/6GwPyZgL23",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 24 18:49:50 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2,
+        "follow_request_sent": false,
+        "followers_count": 4,
+        "following": false,
+        "friends_count": 18,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2891197882,
+        "id_str": "2891197882",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Lena Benn",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/536986406124802048/I8aLJBOk_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/536986406124802048/I8aLJBOk_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BennLena",
+        "statuses_count": 12,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

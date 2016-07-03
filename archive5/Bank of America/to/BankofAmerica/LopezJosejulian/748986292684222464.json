@@ -1,0 +1,131 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 01 21:07:02 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    129,
+                    134
+                ],
+                "text": "fail"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 204881628,
+                "id_str": "204881628",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Bank of America",
+                "screen_name": "BankofAmerica"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748986292684222464,
+    "id_str": "748986292684222464",
+    "in_reply_to_screen_name": "BankofAmerica",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 204881628,
+    "in_reply_to_user_id_str": "204881628",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -121.65640852803125,
+                        36.72039261966119
+                    ],
+                    [
+                        -121.65640852803125,
+                        36.72039261966119
+                    ],
+                    [
+                        -121.65640852803125,
+                        36.72039261966119
+                    ],
+                    [
+                        -121.65640852803125,
+                        36.72039261966119
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Bank of America",
+        "id": "07d9d31722881000",
+        "name": "Bank of America",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9d31722881000.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BankofAmerica thank god I don't have an account with you guys. Almost a hour waiting for a teller to do a deposit for a friend. #fail",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 05 23:27:14 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Soccer Lover, Family Man I Twit in Spanish very often so if you dont like it unfollow.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 626,
+        "follow_request_sent": false,
+        "followers_count": 87,
+        "following": false,
+        "friends_count": 478,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 627840400,
+        "id_str": "627840400",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Josejulian Lopez",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2834024173/a4dbc14e5d966da33d305ce2649a4700_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2834024173/a4dbc14e5d966da33d305ce2649a4700_normal.jpeg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LopezJosejulian",
+        "statuses_count": 1541,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

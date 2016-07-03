@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 02 03:55:38 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Tesla Motors",
+                "screen_name": "TeslaMotors"
+            },
+            {
+                "id": 44196397,
+                "id_str": "44196397",
+                "indices": [
+                    13,
+                    22
+                ],
+                "name": "Elon Musk",
+                "screen_name": "elonmusk"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749089122799673345,
+    "id_str": "749089122799673345",
+    "in_reply_to_screen_name": "TeslaMotors",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13298072,
+    "in_reply_to_user_id_str": "13298072",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.336872,
+                        40.95926
+                    ],
+                    [
+                        -85.003231,
+                        40.95926
+                    ],
+                    [
+                        -85.003231,
+                        41.214574
+                    ],
+                    [
+                        -85.336872,
+                        41.214574
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Fort Wayne, IN",
+        "id": "3877d6c867447819",
+        "name": "Fort Wayne",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3877d6c867447819.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TeslaMotors @elonmusk how many people are still in line for a model 3?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 04 16:08:46 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Senior at Homestead, Architecture at Maryland  in the fall. I enjoy running, math, Architecture, design, and music (playing, listening, and composing).",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4254,
+        "follow_request_sent": false,
+        "followers_count": 196,
+        "following": false,
+        "friends_count": 1053,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 483061966,
+        "id_str": "483061966",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Fort Wayne, IN ",
+        "name": "Kolin Behrens",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678927703/52b027778452301d4821695f3e0b4382.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678927703/52b027778452301d4821695f3e0b4382.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/483061966/1445736160",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/746144212685561856/vVbYqgus_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/746144212685561856/vVbYqgus_normal.jpg",
+        "profile_link_color": "404040",
+        "profile_sidebar_border_color": "333333",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "999999",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kolinbehrens",
+        "statuses_count": 1412,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

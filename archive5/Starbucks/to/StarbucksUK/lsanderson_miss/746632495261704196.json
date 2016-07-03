@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 25 09:13:53 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    64,
+                    76
+                ],
+                "text": "goodmorning"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 369629233,
+                "id_str": "369629233",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Starbucks UK",
+                "screen_name": "StarbucksUK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 746632495261704196,
+    "id_str": "746632495261704196",
+    "in_reply_to_screen_name": "StarbucksUK",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 369629233,
+    "in_reply_to_user_id_str": "369629233",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.00523816551975642,
+                        51.5418952265167
+                    ],
+                    [
+                        -0.00523816551975642,
+                        51.5418952265167
+                    ],
+                    [
+                        -0.00523816551975642,
+                        51.5418952265167
+                    ],
+                    [
+                        -0.00523816551975642,
+                        51.5418952265167
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Starbucks",
+        "id": "0952a7e2f2565001",
+        "name": "Starbucks",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/0952a7e2f2565001.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@StarbucksUK Starting a busy day the right way! Chai Tea Latte! #goodmorning",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 17 21:18:33 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Assistant Headteacher, AST, SLE and English teacher @ an all girls' school in East Ham, London. Proud member of the ADE Class of 2013 and lifelong Hammer.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3,
+        "follow_request_sent": false,
+        "followers_count": 53,
+        "following": false,
+        "friends_count": 29,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1436701814,
+        "id_str": "1436701814",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "East Ham, London",
+        "name": "Miss Sanderson",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436701814/1467096964",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/747682439359766528/8azaUUU__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/747682439359766528/8azaUUU__normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lsanderson_miss",
+        "statuses_count": 122,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 01 07:45:53 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    102,
+                    107
+                ],
+                "text": "fail"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 369629233,
+                "id_str": "369629233",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Starbucks UK",
+                "screen_name": "StarbucksUK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748784676467204096,
+    "id_str": "748784676467204096",
+    "in_reply_to_screen_name": "StarbucksUK",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 369629233,
+    "in_reply_to_user_id_str": "369629233",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.706057,
+                        53.7363694
+                    ],
+                    [
+                        -1.424923,
+                        53.7363694
+                    ],
+                    [
+                        -1.424923,
+                        53.867543
+                    ],
+                    [
+                        -1.706057,
+                        53.867543
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Leeds, England",
+        "id": "6863fd050de21120",
+        "name": "Leeds",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6863fd050de21120.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@StarbucksUK is Leeds Station just getting worst no Kenyan coffee yesterday, no cards accepted today! #fail",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 25 15:06:09 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Yorkshireman with a love of technology, cycling and coffee. All views expressed are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2243,
+        "follow_request_sent": false,
+        "followers_count": 973,
+        "following": false,
+        "friends_count": 2164,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 701343,
+        "id_str": "701343",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 49,
+        "location": "West Yorkshire",
+        "name": "Andy Bell",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/735107258/78d7d64ce3181b08015824ecd7cd651c.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/735107258/78d7d64ce3181b08015824ecd7cd651c.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/701343/1446394805",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712320784040116225/E3Dq6peZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712320784040116225/E3Dq6peZ_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "0000FF",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "andyb56",
+        "statuses_count": 15983,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

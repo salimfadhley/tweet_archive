@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 02 08:57:28 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 369629233,
+                "id_str": "369629233",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Starbucks UK",
+                "screen_name": "StarbucksUK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749165078344237056,
+    "id_str": "749165078344237056",
+    "in_reply_to_screen_name": "StarbucksUK",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 369629233,
+    "in_reply_to_user_id_str": "369629233",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.573648,
+                        53.309898
+                    ],
+                    [
+                        -1.325576,
+                        53.309898
+                    ],
+                    [
+                        -1.325576,
+                        53.4564311
+                    ],
+                    [
+                        -1.573648,
+                        53.4564311
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Sheffield, England",
+        "id": "07e9c7d1954fff64",
+        "name": "Sheffield",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/07e9c7d1954fff64.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@StarbucksUK Will the Sheffield \"Ecclesall Rd\" branch reopen?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 20 04:21:45 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I pretend to be a street photographer but really I'm an Interconnection Geek working @ASK4Broadband. Director @lonap @ixleeds @euroix. Loves to travel.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ajd.photo",
+                        "expanded_url": "https://ajd.photo/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/nGCel8Hwzb"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1348,
+        "follow_request_sent": false,
+        "followers_count": 2303,
+        "following": false,
+        "friends_count": 369,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1587501,
+        "id_str": "1587501",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 98,
+        "location": "Sheffield, England",
+        "name": "Andy Davidson",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1587501/1398626380",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3507389369/4c745349467262c236278016f99203f6_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3507389369/4c745349467262c236278016f99203f6_normal.jpeg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "andyd",
+        "statuses_count": 10323,
+        "time_zone": "London",
+        "url": "https://t.co/nGCel8Hwzb",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

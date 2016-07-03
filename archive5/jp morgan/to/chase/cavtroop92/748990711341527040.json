@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 01 21:24:35 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 274673392,
+                "id_str": "274673392",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Chase",
+                "screen_name": "Chase"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748990711341527040,
+    "id_str": "748990711341527040",
+    "in_reply_to_screen_name": "Chase",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 274673392,
+    "in_reply_to_user_id_str": "274673392",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.977527,
+                        32.620678
+                    ],
+                    [
+                        -96.54598,
+                        32.620678
+                    ],
+                    [
+                        -96.54598,
+                        33.019039
+                    ],
+                    [
+                        -96.977527,
+                        33.019039
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Dallas, TX",
+        "id": "18810aa5b43e76c7",
+        "name": "Dallas",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/18810aa5b43e76c7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Chase how do I report a phishing attempt via email?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 26 01:30:35 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 596,
+        "follow_request_sent": false,
+        "followers_count": 247,
+        "following": false,
+        "friends_count": 504,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 148174225,
+        "id_str": "148174225",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "dallas",
+        "name": "Michael Neri",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2996731837/e8858fc94143457f3a419afcb29c3394_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2996731837/e8858fc94143457f3a419afcb29c3394_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cavtroop92",
+        "statuses_count": 1806,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

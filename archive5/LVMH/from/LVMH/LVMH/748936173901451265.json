@@ -1,0 +1,338 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 01 17:47:53 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    51,
+                    60
+                ],
+                "text": "Bordeaux"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/AiGbKLpO4v",
+                "expanded_url": "http://twitter.com/Hublot/status/748893926963179525/photo/1",
+                "id": 748893866380627969,
+                "id_str": "748893866380627969",
+                "indices": [
+                    97,
+                    120
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmSbAPAWEAEU6p6.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmSbAPAWEAEU6p6.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 2048
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 748893926963179525,
+                "source_status_id_str": "748893926963179525",
+                "source_user_id": 26714575,
+                "source_user_id_str": "26714575",
+                "type": "photo",
+                "url": "https://t.co/AiGbKLpO4v"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 26714575,
+                "id_str": "26714575",
+                "indices": [
+                    3,
+                    10
+                ],
+                "name": "Hublot",
+                "screen_name": "Hublot"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748936173901451265,
+    "id_str": "748936173901451265",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 65,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jul 01 15:00:00 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        39,
+                        48
+                    ],
+                    "text": "Bordeaux"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/AiGbKLpO4v",
+                    "expanded_url": "http://twitter.com/Hublot/status/748893926963179525/photo/1",
+                    "id": 748893866380627969,
+                    "id_str": "748893866380627969",
+                    "indices": [
+                        85,
+                        108
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CmSbAPAWEAEU6p6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CmSbAPAWEAEU6p6.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 2048,
+                            "resize": "fit",
+                            "w": 2048
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/AiGbKLpO4v"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 199,
+        "favorited": false,
+        "geo": null,
+        "id": 748893926963179525,
+        "id_str": "748893926963179525",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -0.2103418,
+                            44.857849
+                        ],
+                        [
+                            -0.1318758,
+                            44.857849
+                        ],
+                        [
+                            -0.1318758,
+                            44.9312732
+                        ],
+                        [
+                            -0.2103418,
+                            44.9312732
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "France",
+            "country_code": "FR",
+            "full_name": "Saint-Emilion, France",
+            "id": "49ad42e1ae9489e3",
+            "name": "Saint-Emilion",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/49ad42e1ae9489e3.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 65,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Amazing day at Chateau Cheval Blanc in #Bordeaux with our guests. More on Snapchat \ud83d\udc7b https://t.co/AiGbKLpO4v",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Mar 26 09:05:40 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "The Art of Fusion concept in Watchmaking, combining exotic materials and Swiss watchmaking tradition \u2022 https://t.co/Fv18uQzMnW \u2022 Snapchat: hublot",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "instagram.com/hublot",
+                            "expanded_url": "http://www.instagram.com/hublot",
+                            "indices": [
+                                103,
+                                126
+                            ],
+                            "url": "https://t.co/Fv18uQzMnW"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "hublot.com",
+                            "expanded_url": "http://www.hublot.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/JDibJmgRdk"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 453,
+            "follow_request_sent": false,
+            "followers_count": 415992,
+            "following": false,
+            "friends_count": 171,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 26714575,
+            "id_str": "26714575",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1093,
+            "location": "Nyon, Switzerland",
+            "name": "Hublot",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/557114558502825984/shK65ZnA.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/557114558502825984/shK65ZnA.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/26714575/1465825755",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2790775877/7bb015c0ca73e41b67ab38591d04d137_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2790775877/7bb015c0ca73e41b67ab38591d04d137_normal.png",
+            "profile_link_color": "8F8F8F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "E8DBC7",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "Hublot",
+            "statuses_count": 6362,
+            "time_zone": "Bern",
+            "url": "http://t.co/JDibJmgRdk",
+            "utc_offset": 7200,
+            "verified": true
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Hublot: Amazing day at Chateau Cheval Blanc in #Bordeaux with our guests. More on Snapchat \ud83d\udc7b https://t.co/AiGbKLpO4v",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 20 12:48:28 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Official account of the LVMH group | World leader in luxury with a unique portfolio of over 70 prestigious brands",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "lvmh.com",
+                        "expanded_url": "http://www.lvmh.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/mVANwiA5xD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1112,
+        "follow_request_sent": false,
+        "followers_count": 51703,
+        "following": false,
+        "friends_count": 56,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 558606074,
+        "id_str": "558606074",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 632,
+        "location": "Paris",
+        "name": "LVMH",
+        "notifications": false,
+        "profile_background_color": "F2F2F2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/595211592662261761/vtaqqCnD.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/595211592662261761/vtaqqCnD.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/558606074/1464279357",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/711961867607011328/0nrfY1NU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/711961867607011328/0nrfY1NU_normal.jpg",
+        "profile_link_color": "061621",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LVMH",
+        "statuses_count": 5054,
+        "time_zone": "Paris",
+        "url": "http://t.co/mVANwiA5xD",
+        "utc_offset": 7200,
+        "verified": true
+    }
+}

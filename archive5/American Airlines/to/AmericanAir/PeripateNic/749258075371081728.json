@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 02 15:07:00 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749258075371081728,
+    "id_str": "749258075371081728",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 749257558183907328,
+    "in_reply_to_status_id_str": "749257558183907328",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.560023,
+                        40.67418
+                    ],
+                    [
+                        -73.52109,
+                        40.67418
+                    ],
+                    [
+                        -73.52109,
+                        40.706377
+                    ],
+                    [
+                        -73.560023,
+                        40.706377
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "North Bellmore, NY",
+        "id": "ea82a33637cabb81",
+        "name": "North Bellmore",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ea82a33637cabb81.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@AmericanAir great! Thanks for advising.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 28 10:26:16 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Londoner/Geordie/K\u00f6lner. Love: Travel, Writing, Film, Music, Tennis, Cooking, Gym, Theatre, The Good Wife.\n\nWriter for @4guyslikeu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "guyslikeu.com/author/nick-sm\u2026",
+                        "expanded_url": "http://www.guyslikeu.com/author/nick-smith/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ihNiCDS5WI"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 25148,
+        "follow_request_sent": false,
+        "followers_count": 5251,
+        "following": false,
+        "friends_count": 4371,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 399986728,
+        "id_str": "399986728",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 71,
+        "location": "London",
+        "name": "Nicky McNickface",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/399986728/1465241827",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/743164830866104320/UKB7njRp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/743164830866104320/UKB7njRp_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "PeripateNic",
+        "statuses_count": 104470,
+        "time_zone": "Hawaii",
+        "url": "https://t.co/ihNiCDS5WI",
+        "utc_offset": -36000,
+        "verified": false
+    }
+}
