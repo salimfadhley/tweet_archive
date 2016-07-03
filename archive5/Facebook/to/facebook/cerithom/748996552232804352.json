@@ -1,0 +1,146 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 01 21:47:48 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 748996552232804352,
+    "id_str": "748996552232804352",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.593116,
+                        34.190332
+                    ],
+                    [
+                        -118.562235,
+                        34.190332
+                    ],
+                    [
+                        -118.562235,
+                        34.228219
+                    ],
+                    [
+                        -118.593116,
+                        34.228219
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Winnetka, Los Angeles",
+        "id": "031870e2c196ca20",
+        "name": "Winnetka",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/031870e2c196ca20.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@facebook killed Paper yesterday. Goodbye then. Hello Twitter as only social media account!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 14 16:37:00 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Applications Engineer in VR at Dolby Laboratories.(https://t.co/VHRVaAjkdV) Tweets contain my own thoughts and are not representative of the company.",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "dolby.com/vr",
+                        "expanded_url": "http://www.dolby.com/vr",
+                        "indices": [
+                            51,
+                            74
+                        ],
+                        "url": "https://t.co/VHRVaAjkdV"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "cerithomas.com",
+                        "expanded_url": "http://www.cerithomas.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Oc1QLvyyvI"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 100,
+        "follow_request_sent": false,
+        "followers_count": 825,
+        "following": false,
+        "friends_count": 851,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 16741052,
+        "id_str": "16741052",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 35,
+        "location": "Los Angeles",
+        "name": "Ceri Thomas",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1105566503/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105566503/image_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cerithom",
+        "statuses_count": 5308,
+        "time_zone": "London",
+        "url": "https://t.co/Oc1QLvyyvI",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

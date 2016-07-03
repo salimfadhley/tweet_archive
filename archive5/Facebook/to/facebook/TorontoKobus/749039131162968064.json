@@ -1,0 +1,192 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 02 00:37:00 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    27,
+                    36
+                ],
+                "text": "Facebook"
+            },
+            {
+                "indices": [
+                    37,
+                    41
+                ],
+                "text": "app"
+            },
+            {
+                "indices": [
+                    52,
+                    60
+                ],
+                "text": "Android"
+            },
+            {
+                "indices": [
+                    95,
+                    107
+                ],
+                "text": "socialmedia"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/CYb5DNLMJ8",
+                "expanded_url": "http://twitter.com/TorontoKobus/status/749039131162968064/photo/1",
+                "id": 749039124322086912,
+                "id_str": "749039124322086912",
+                "indices": [
+                    108,
+                    131
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmUfHXAWcAAw_hb.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmUfHXAWcAAw_hb.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 314,
+                        "resize": "fit",
+                        "w": 1344
+                    },
+                    "medium": {
+                        "h": 280,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 159,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/CYb5DNLMJ8"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749039131162968064,
+    "id_str": "749039131162968064",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.639319,
+                        43.403221
+                    ],
+                    [
+                        -78.90582,
+                        43.403221
+                    ],
+                    [
+                        -78.90582,
+                        43.855401
+                    ],
+                    [
+                        -79.639319,
+                        43.855401
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Toronto, Ontario",
+        "id": "3797791ff9c0e4c6",
+        "name": "Toronto",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3797791ff9c0e4c6.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook Your most recent #Facebook #app update to #Android devices is eating my image posts. #socialmedia https://t.co/CYb5DNLMJ8",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 19 14:05:38 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#Politics #MartialArts #Culture #Foodie #Pedestrian! If you're using any media of mine, please give credit. My tweets are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 28,
+        "follow_request_sent": false,
+        "followers_count": 94,
+        "following": false,
+        "friends_count": 208,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 733297567237279744,
+        "id_str": "733297567237279744",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 18,
+        "location": "Canada",
+        "name": "Kobus",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/733297567237279744/1463674069",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/745260307220692992/nCx62phK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/745260307220692992/nCx62phK_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "TorontoKobus",
+        "statuses_count": 316,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
