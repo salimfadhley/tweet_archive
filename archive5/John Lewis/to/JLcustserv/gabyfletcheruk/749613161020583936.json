@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 03 14:37:59 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 179491236,
+                "id_str": "179491236",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "John Lewis",
+                "screen_name": "JLcustserv"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 749613161020583936,
+    "id_str": "749613161020583936",
+    "in_reply_to_screen_name": "JLcustserv",
+    "in_reply_to_status_id": 749603546312630272,
+    "in_reply_to_status_id_str": "749603546312630272",
+    "in_reply_to_user_id": 179491236,
+    "in_reply_to_user_id_str": "179491236",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.03410488116464,
+                        51.9772264213839
+                    ],
+                    [
+                        0.357994000542651,
+                        51.9772264213839
+                    ],
+                    [
+                        0.357994000542651,
+                        53.6163564980205
+                    ],
+                    [
+                        -2.03410488116464,
+                        53.6163564980205
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "East Midlands, England",
+        "id": "50f2d0272381533f",
+        "name": "East Midlands",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/50f2d0272381533f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@JLcustserv haven't had an automated email but that's the ref we got when calling",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 08 16:17:47 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Happy. Silly. Sarcastic. Mummy. Sister. Dog owner. Social media nerd. Married to @markfletcheruk. Prone to a rant. Partial to Prosecco. Views are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "scribblesfromsheffield.wordpress.com",
+                        "expanded_url": "http://scribblesfromsheffield.wordpress.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/22XbOyocej"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 831,
+        "follow_request_sent": false,
+        "followers_count": 706,
+        "following": false,
+        "friends_count": 924,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20374752,
+        "id_str": "20374752",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 26,
+        "location": "Worksop, UK",
+        "name": "Gaby Fletcher",
+        "notifications": false,
+        "profile_background_color": "4467D5",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4819000/pow.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4819000/pow.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20374752/1427659284",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712961118214430721/e5OB8ZCn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712961118214430721/e5OB8ZCn_normal.jpg",
+        "profile_link_color": "3C3940",
+        "profile_sidebar_border_color": "3C3940",
+        "profile_sidebar_fill_color": "A90A0C",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gabyfletcheruk",
+        "statuses_count": 7904,
+        "time_zone": "London",
+        "url": "https://t.co/22XbOyocej",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
