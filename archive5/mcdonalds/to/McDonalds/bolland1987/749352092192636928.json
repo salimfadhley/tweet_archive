@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 02 21:20:35 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    11,
+                    23
+                ],
+                "text": "advertising"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/iX832roun6",
+                "expanded_url": "http://twitter.com/bolland1987/status/749352092192636928/photo/1",
+                "id": 749352073632907265,
+                "id_str": "749352073632907265",
+                "indices": [
+                    28,
+                    51
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmY7vaCXgAEJiID.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmY7vaCXgAEJiID.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1440,
+                        "resize": "fit",
+                        "w": 1080
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/iX832roun6"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 71026122,
+                "id_str": "71026122",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonalds"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749352092192636928,
+    "id_str": "749352092192636928",
+    "in_reply_to_screen_name": "McDonalds",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 71026122,
+    "in_reply_to_user_id_str": "71026122",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.676088,
+                        52.894633
+                    ],
+                    [
+                        -0.600855,
+                        52.894633
+                    ],
+                    [
+                        -0.600855,
+                        52.933375
+                    ],
+                    [
+                        -0.676088,
+                        52.933375
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Grantham, England",
+        "id": "2289ea7a116814d5",
+        "name": "Grantham",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2289ea7a116814d5.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@McDonalds #advertising \ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/iX832roun6",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 17 19:03:14 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#upthearrows #lfc",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 591,
+        "follow_request_sent": false,
+        "followers_count": 573,
+        "following": false,
+        "friends_count": 1239,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 414982137,
+        "id_str": "414982137",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Grantham",
+        "name": "Simon Bolland",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/414982137/1452722268",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/498391014558957568/afeFiZ0X_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/498391014558957568/afeFiZ0X_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bolland1987",
+        "statuses_count": 4879,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
