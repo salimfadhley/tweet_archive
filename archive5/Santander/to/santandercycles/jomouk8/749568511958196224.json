@@ -1,0 +1,184 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -0.096713,
+            51.5239806
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sun Jul 03 11:40:34 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/kcn6yVOdgl",
+                "expanded_url": "http://twitter.com/jomouk8/status/749568511958196224/photo/1",
+                "id": 749568500897898496,
+                "id_str": "749568500897898496",
+                "indices": [
+                    38,
+                    61
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmcAlIbXYAAYa8L.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmcAlIbXYAAYa8L.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 960,
+                        "resize": "fit",
+                        "w": 540
+                    },
+                    "medium": {
+                        "h": 960,
+                        "resize": "fit",
+                        "w": 540
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 383
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/kcn6yVOdgl"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 149041691,
+                "id_str": "149041691",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Santander Cycles",
+                "screen_name": "SantanderCycles"
+            },
+            {
+                "id": 55185253,
+                "id_str": "55185253",
+                "indices": [
+                    17,
+                    27
+                ],
+                "name": "GoSkyRide",
+                "screen_name": "GoSkyRide"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            51.5239806,
+            -0.096713
+        ],
+        "type": "Point"
+    },
+    "id": 749568511958196224,
+    "id_str": "749568511958196224",
+    "in_reply_to_screen_name": "SantanderCycles",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 149041691,
+    "in_reply_to_user_id_str": "149041691",
+    "is_quote_status": false,
+    "lang": "no",
+    "metadata": {
+        "iso_language_code": "no",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.1420579,
+                        51.5185518
+                    ],
+                    [
+                        -0.076305,
+                        51.5185518
+                    ],
+                    [
+                        -0.076305,
+                        51.575301
+                    ],
+                    [
+                        -0.1420579,
+                        51.575301
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Islington, London",
+        "id": "544762ebf7fda780",
+        "name": "Islington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/544762ebf7fda780.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@SantanderCycles @GoSkyRide Hyde Park https://t.co/kcn6yVOdgl",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 04 12:00:37 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 336,
+        "follow_request_sent": false,
+        "followers_count": 65,
+        "following": false,
+        "friends_count": 336,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 62798110,
+        "id_str": "62798110",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "",
+        "name": "Jon Moll",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/372780112/DSC00542_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/372780112/DSC00542_normal.JPG",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jomouk8",
+        "statuses_count": 568,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

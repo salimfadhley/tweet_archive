@@ -1,0 +1,169 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 03 13:08:00 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    10,
+                    23
+                ],
+                "text": "ParisAttacks"
+            },
+            {
+                "indices": [
+                    68,
+                    75
+                ],
+                "text": "France"
+            },
+            {
+                "indices": [
+                    82,
+                    99
+                ],
+                "text": "BangladeshAttack"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 749590518397558784,
+    "id_str": "749590518397558784",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.639319,
+                        43.403221
+                    ],
+                    [
+                        -78.90582,
+                        43.403221
+                    ],
+                    [
+                        -78.90582,
+                        43.855401
+                    ],
+                    [
+                        -79.639319,
+                        43.855401
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Toronto, Ontario",
+        "id": "3797791ff9c0e4c6",
+        "name": "Toronto",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3797791ff9c0e4c6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook #ParisAttacks happened,there was a pro pic feature to put #France flag. #BangladeshAttack happened,how come that's not there?\ud83e\udd14",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 05 05:30:27 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "~Bri~ \n~...It's almost impossible to succeed but who cares really?.. The answer must be in the attempt..~\nhttp://t.co/CIaji6MEz5",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/elixir_rain",
+                        "expanded_url": "http://instagram.com/elixir_rain",
+                        "indices": [
+                            106,
+                            128
+                        ],
+                        "url": "http://t.co/CIaji6MEz5"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/dhushor.jolchh\u2026",
+                        "expanded_url": "http://www.facebook.com/dhushor.jolchhobi",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Zq2r7R2DgQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 224,
+        "follow_request_sent": false,
+        "followers_count": 60,
+        "following": false,
+        "friends_count": 73,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 368158841,
+        "id_str": "368158841",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Toronto, Ontario, Canada",
+        "name": "Elixir Rain",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/368158841/1426798050",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/583548878580011008/dLKXZksk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/583548878580011008/dLKXZksk_normal.jpg",
+        "profile_link_color": "196311",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ElixirRain",
+        "statuses_count": 235,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/Zq2r7R2DgQ",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
