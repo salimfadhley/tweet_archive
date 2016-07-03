@@ -1,0 +1,166 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 02 12:21:09 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    43,
+                    56
+                ],
+                "text": "disorganised"
+            },
+            {
+                "indices": [
+                    75,
+                    81
+                ],
+                "text": "queue"
+            },
+            {
+                "indices": [
+                    90,
+                    98
+                ],
+                "text": "banking"
+            },
+            {
+                "indices": [
+                    99,
+                    105
+                ],
+                "text": "banks"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 191781601,
+                "id_str": "191781601",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Barclays Bank",
+                "screen_name": "Barclays"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749216337604538368,
+    "id_str": "749216337604538368",
+    "in_reply_to_screen_name": "Barclays",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 191781601,
+    "in_reply_to_user_id_str": "191781601",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.2285894,
+                        51.4772246
+                    ],
+                    [
+                        -0.1497908,
+                        51.4772246
+                    ],
+                    [
+                        -0.1497908,
+                        51.5303477
+                    ],
+                    [
+                        -0.2285894,
+                        51.5303477
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Kensington, London",
+        "id": "01c7ed8caf11e8b2",
+        "name": "Kensington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01c7ed8caf11e8b2.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Barclays your Ladbroke Grove branch is so #disorganised. Bad layout, poor #queue system. #banking #banks",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 14 10:03:20 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Town Planning & Senior Heritage Consultant at Nathaniel Lichfield & Partners glock@nlpplanning.com - Tweets are my own views and opinions",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "nlpplanning.com",
+                        "expanded_url": "http://www.nlpplanning.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Z16WQvBLxX"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 226,
+        "follow_request_sent": false,
+        "followers_count": 393,
+        "following": false,
+        "friends_count": 638,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1010835703,
+        "id_str": "1010835703",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 35,
+        "location": "London",
+        "name": "Grant Lock",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1010835703/1371726862",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000168123533/ff36bc647139a5b617443186bef7eea2_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000168123533/ff36bc647139a5b617443186bef7eea2_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GrantLock1980",
+        "statuses_count": 1963,
+        "time_zone": null,
+        "url": "http://t.co/Z16WQvBLxX",
+        "utc_offset": null,
+        "verified": false
+    }
+}
