@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 02 22:18:26 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 180505807,
+                "id_str": "180505807",
+                "indices": [
+                    10,
+                    20
+                ],
+                "name": "Instagram",
+                "screen_name": "instagram"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749366649631936512,
+    "id_str": "749366649631936512",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@facebook @instagram help me with my username please \ud83d\ude29",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 02 10:19:37 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "RESTLESS RECKLESS \u2022 https://t.co/s5xPQTzLpd",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/ryanalexeyk",
+                        "expanded_url": "http://Instagram.com/ryanalexeyk",
+                        "indices": [
+                            20,
+                            43
+                        ],
+                        "url": "https://t.co/s5xPQTzLpd"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2653,
+        "follow_request_sent": false,
+        "followers_count": 141,
+        "following": false,
+        "friends_count": 308,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 222056400,
+        "id_str": "222056400",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Seoul \u2764",
+        "name": "RYAN",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000054559985/0903f5f527aa43455eb5b09182836ffa.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000054559985/0903f5f527aa43455eb5b09182836ffa.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/222056400/1401478594",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/695280187878084610/_7B_14bF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/695280187878084610/_7B_14bF_normal.jpg",
+        "profile_link_color": "474040",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RYANALEXEY",
+        "statuses_count": 727,
+        "time_zone": "Seoul",
+        "url": null,
+        "utc_offset": 32400,
+        "verified": false
+    }
+}
