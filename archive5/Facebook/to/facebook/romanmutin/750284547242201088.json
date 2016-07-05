@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jul 05 11:05:50 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 750284547242201088,
+    "id_str": "750284547242201088",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        53.0099999,
+                        56.7236
+                    ],
+                    [
+                        53.3925998,
+                        56.7236
+                    ],
+                    [
+                        53.3925998,
+                        57.0025341
+                    ],
+                    [
+                        53.0099999,
+                        57.0025341
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u0420\u043e\u0441\u0441\u0438\u044f",
+        "country_code": "RU",
+        "full_name": "Izhevsk, Russia",
+        "id": "c48857aa6fc83122",
+        "name": "Izhevsk",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c48857aa6fc83122.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook My Facebook business manager account was deactivated because of suspicious activity. But I am 100% sure there was no problem.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 23 10:54:56 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Parolanto de #Esperanto \u2022 Study #Marketing & #Languages (RU | EN | EO  | SP | GE | PL) \u2022 Mia e\u0125o\u015dan\u011do \u0109iam okazas \u0109iu\u0135a\u016dde \u2022 https://t.co/JZgTTQKAta \u2709",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "telegram.me/romanmutin",
+                        "expanded_url": "http://telegram.me/romanmutin",
+                        "indices": [
+                            125,
+                            148
+                        ],
+                        "url": "https://t.co/JZgTTQKAta"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "duolingo.com/romamutin",
+                        "expanded_url": "http://www.duolingo.com/romamutin",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/fTbAC20qYt"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1153,
+        "follow_request_sent": false,
+        "followers_count": 865,
+        "following": false,
+        "friends_count": 289,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 322552737,
+        "id_str": "322552737",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 54,
+        "location": "Izhevsk, Russia",
+        "name": "Roman",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/322552737/1456141246",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/747693910026240001/8p-PKxoY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/747693910026240001/8p-PKxoY_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "romanmutin",
+        "statuses_count": 4658,
+        "time_zone": "Volgograd",
+        "url": "https://t.co/fTbAC20qYt",
+        "utc_offset": 10800,
+        "verified": false
+    }
+}
