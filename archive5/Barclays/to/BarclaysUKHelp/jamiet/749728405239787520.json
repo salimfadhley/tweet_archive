@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 03 22:15:55 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3046525515,
+                "id_str": "3046525515",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Barclays UK Help",
+                "screen_name": "BarclaysUKHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749728405239787520,
+    "id_str": "749728405239787520",
+    "in_reply_to_screen_name": "BarclaysUKHelp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 3046525515,
+    "in_reply_to_user_id_str": "3046525515",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.523333,
+                        51.378382
+                    ],
+                    [
+                        -0.381669,
+                        51.378382
+                    ],
+                    [
+                        -0.381669,
+                        51.460781
+                    ],
+                    [
+                        -0.523333,
+                        51.460781
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Staines-upon-Thames, South East",
+        "id": "1c3680c48401e703",
+        "name": "Staines-upon-Thames",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1c3680c48401e703.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@BarclaysUKHelp your iOS app telling me it doesn't recognise some of my details but am using same I always use. Any known issue right now?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 29 04:15:51 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Dad to 2 girls, atheist, data geek working for @dunnhumby. Brother of @dannytleeds. Pedant.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "sqlblog.com/blogs/jamie_th\u2026",
+                        "expanded_url": "http://sqlblog.com/blogs/jamie_thomson/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/4qtPJuogMd"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 232,
+        "follow_request_sent": false,
+        "followers_count": 2686,
+        "following": false,
+        "friends_count": 610,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2786631,
+        "id_str": "2786631",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 225,
+        "location": "Hanworth Park, Middlesex",
+        "name": "Jamie Thomson",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2786631/1398238980",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/507781645143793664/R4JE7Cdp_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/507781645143793664/R4JE7Cdp_normal.png",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jamiet",
+        "statuses_count": 25423,
+        "time_zone": "London",
+        "url": "http://t.co/4qtPJuogMd",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

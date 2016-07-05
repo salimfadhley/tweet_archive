@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 03 22:06:35 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/zNNR7oAE6T",
+                "expanded_url": "http://twitter.com/CyberBitz/status/749726057381580800/photo/1",
+                "id": 749725810391588864,
+                "id_str": "749725810391588864",
+                "indices": [
+                    116,
+                    139
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmePpv9VIAARPfn.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmePpv9VIAARPfn.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1460,
+                        "resize": "fit",
+                        "w": 1150
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 945
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 536
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/zNNR7oAE6T"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749726057381580800,
+    "id_str": "749726057381580800",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.487651,
+                        37.886607
+                    ],
+                    [
+                        -74.986286,
+                        37.886607
+                    ],
+                    [
+                        -74.986286,
+                        39.723622
+                    ],
+                    [
+                        -79.487651,
+                        39.723622
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Maryland, USA",
+        "id": "dea1eac2d7ef8878",
+        "name": "Maryland",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/dea1eac2d7ef8878.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@microsoft I was asking if my prodID is avail in acct win8 to win10 upgrade last year. I reset my comp in recovery. https://t.co/zNNR7oAE6T",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 23 00:55:03 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "IT Security Consultant-DFIR/Malware Analyst (GREM). MS in Cybersecurity AMU 2016. ExtraClass Ham operator AD5QA. Tinkerer and explorer.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 723,
+        "follow_request_sent": false,
+        "followers_count": 241,
+        "following": false,
+        "friends_count": 470,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 13846682,
+        "id_str": "13846682",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 38,
+        "location": "Atlanta, Georgia",
+        "name": "Tom Jenkins",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/558815181635989504/shEqyFrV.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/558815181635989504/shEqyFrV.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13846682/1455505858",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/715535030794194944/caxwpnc7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/715535030794194944/caxwpnc7_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CyberBitz",
+        "statuses_count": 1769,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

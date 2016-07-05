@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 03 17:45:34 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/ku8Bn7iY8s",
+                "expanded_url": "http://twitter.com/K19700410/status/749660369493241856/photo/1",
+                "id": 749660346994929664,
+                "id_str": "749660346994929664",
+                "indices": [
+                    14,
+                    37
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmdUHRzUMAAZndp.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmdUHRzUMAAZndp.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 540,
+                        "resize": "fit",
+                        "w": 960
+                    },
+                    "medium": {
+                        "h": 540,
+                        "resize": "fit",
+                        "w": 960
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/ku8Bn7iY8s"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 253167239,
+                "id_str": "253167239",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Goldman Sachs",
+                "screen_name": "GoldmanSachs"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 749660369493241856,
+    "id_str": "749660369493241856",
+    "in_reply_to_screen_name": "GoldmanSachs",
+    "in_reply_to_status_id": 748166974551662592,
+    "in_reply_to_status_id_str": "748166974551662592",
+    "in_reply_to_user_id": 253167239,
+    "in_reply_to_user_id_str": "253167239",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        121.626773,
+                        25.052468
+                    ],
+                    [
+                        121.808197,
+                        25.052468
+                    ],
+                    [
+                        121.808197,
+                        25.195182
+                    ],
+                    [
+                        121.626773,
+                        25.195182
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u53f0\u7063",
+        "country_code": "TW",
+        "full_name": "Keelung City, Taiwan",
+        "id": "017dc116612ca202",
+        "name": "Keelung City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/017dc116612ca202.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@GoldmanSachs https://t.co/ku8Bn7iY8s",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 12 10:57:11 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\u5f71\u8996 \u540d\u4eba \u570b\u969b \u5927\u4e2d\u83ef \u83ef\u8a9e\u97f3\u6a02 \u97f3\u6a02 \u9ad4\u80b2",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2000,
+        "follow_request_sent": false,
+        "followers_count": 85,
+        "following": false,
+        "friends_count": 306,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 741947448663281664,
+        "id_str": "741947448663281664",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "zh-TW",
+        "listed_count": 3,
+        "location": "",
+        "name": "\u5f90\u96f2\u4eae",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/741947448663281664/1465733195",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/741964920598601728/7CwrPXSB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/741964920598601728/7CwrPXSB_normal.jpg",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "K19700410",
+        "statuses_count": 1440,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

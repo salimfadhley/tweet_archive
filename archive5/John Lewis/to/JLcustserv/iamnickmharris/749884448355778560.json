@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 04 08:35:59 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 179491236,
+                "id_str": "179491236",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "John Lewis",
+                "screen_name": "JLcustserv"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749884448355778560,
+    "id_str": "749884448355778560",
+    "in_reply_to_screen_name": "JLcustserv",
+    "in_reply_to_status_id": 749871404418347008,
+    "in_reply_to_status_id_str": "749871404418347008",
+    "in_reply_to_user_id": 179491236,
+    "in_reply_to_user_id_str": "179491236",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.878663,
+                        51.38666
+                    ],
+                    [
+                        -0.804354,
+                        51.38666
+                    ],
+                    [
+                        -0.804354,
+                        51.429581
+                    ],
+                    [
+                        -0.878663,
+                        51.429581
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Wokingham, England",
+        "id": "2cc20622ca18c2f6",
+        "name": "Wokingham",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2cc20622ca18c2f6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@JLcustserv Reluctance from Tech Support to replace a faulty item (within warranty). Item was eventually replaced but warranty was not",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 18 09:06:15 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Director@NorthwoodUK | Fellow@Arla_UK | Assoc@RICS | Landlord | Wannabe Adventurer | I help people to launch their own property business. Views my own",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "northwoodfranchises.co.uk",
+                        "expanded_url": "http://www.northwoodfranchises.co.uk",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/aP7tGWCpnt"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 230,
+        "follow_request_sent": false,
+        "followers_count": 1750,
+        "following": false,
+        "friends_count": 1287,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1437858062,
+        "id_str": "1437858062",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 33,
+        "location": "Wokingham",
+        "name": "Nick Harris",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/502767599302610944/m4_67rcy.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/502767599302610944/m4_67rcy.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1437858062/1440369108",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/732182691353927681/RQ8Rui1K_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/732182691353927681/RQ8Rui1K_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "iamnickmharris",
+        "statuses_count": 2074,
+        "time_zone": "London",
+        "url": "https://t.co/aP7tGWCpnt",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

@@ -1,0 +1,322 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 03 14:44:01 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/juang84/status\u2026",
+                "expanded_url": "https://twitter.com/juang84/status/551966133474308096",
+                "indices": [
+                    33,
+                    56
+                ],
+                "url": "https://t.co/KNVV9pp0Bo"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 415859364,
+                "id_str": "415859364",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Nike",
+                "screen_name": "Nike"
+            },
+            {
+                "id": 590094140,
+                "id_str": "590094140",
+                "indices": [
+                    6,
+                    19
+                ],
+                "name": "Nike Colombia",
+                "screen_name": "NikeColombia"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749614678133837825,
+    "id_str": "749614678133837825",
+    "in_reply_to_screen_name": "Nike",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 415859364,
+    "in_reply_to_user_id_str": "415859364",
+    "is_quote_status": true,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -75.7316530015595,
+                        6.16605899574181
+                    ],
+                    [
+                        -75.5067729989301,
+                        6.16605899574181
+                    ],
+                    [
+                        -75.5067729989301,
+                        6.37570699956419
+                    ],
+                    [
+                        -75.7316530015595,
+                        6.37570699956419
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Colombia",
+        "country_code": "CO",
+        "full_name": "Medell\u00edn, Colombia",
+        "id": "00698bbe577bad5b",
+        "name": "Medell\u00edn",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00698bbe577bad5b.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": {
+            "coordinates": [
+                -75.5733344,
+                6.2227097
+            ],
+            "type": "Point"
+        },
+        "created_at": "Mon Jan 05 04:59:15 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/GB3JbUDPbS",
+                    "expanded_url": "http://twitter.com/Juang84/status/551966133474308096/photo/1",
+                    "id": 551966131322617860,
+                    "id_str": "551966131322617860",
+                    "indices": [
+                        29,
+                        51
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/B6j6RaGIAAQQkqJ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/B6j6RaGIAAQQkqJ.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 630,
+                            "resize": "fit",
+                            "w": 631
+                        },
+                        "medium": {
+                            "h": 599,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 339,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "http://t.co/GB3JbUDPbS"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 455014392,
+                    "id_str": "455014392",
+                    "indices": [
+                        0,
+                        14
+                    ],
+                    "name": "Humo Verdolaga",
+                    "screen_name": "HumoVerdolaga"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": {
+            "coordinates": [
+                6.2227097,
+                -75.5733344
+            ],
+            "type": "Point"
+        },
+        "id": 551966133474308096,
+        "id_str": "551966133474308096",
+        "in_reply_to_screen_name": "HumoVerdolaga",
+        "in_reply_to_status_id": 550329330757148674,
+        "in_reply_to_status_id_str": "550329330757148674",
+        "in_reply_to_user_id": 455014392,
+        "in_reply_to_user_id_str": "455014392",
+        "is_quote_status": false,
+        "lang": "es",
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -75.7316530015595,
+                            6.16605899574181
+                        ],
+                        [
+                            -75.5067729989301,
+                            6.16605899574181
+                        ],
+                        [
+                            -75.5067729989301,
+                            6.37570699956419
+                        ],
+                        [
+                            -75.7316530015595,
+                            6.37570699956419
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "Colombia",
+            "country_code": "CO",
+            "full_name": "Medell\u00edn, Colombia",
+            "id": "00698bbe577bad5b",
+            "name": "Medell\u00edn",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/00698bbe577bad5b.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "@HumoVerdolaga que tal esta? http://t.co/GB3JbUDPbS",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Oct 23 02:53:33 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Antioque\u00f1o, h\u00edbrido entre lo popular y lo no tanto. Amante del deporte mas hermoso del mundo!!",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 1557,
+            "follow_request_sent": false,
+            "followers_count": 297,
+            "following": false,
+            "friends_count": 678,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 84490462,
+            "id_str": "84490462",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 5,
+            "location": "Medellin",
+            "name": "J\u00fcang84\u26bd",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/192049626/fondo-twit.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/192049626/fondo-twit.jpg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/84490462/1382301960",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/747477314359988224/e0Ko1s2f_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/747477314359988224/e0Ko1s2f_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Juang84",
+            "statuses_count": 6345,
+            "time_zone": "Bogota",
+            "url": null,
+            "utc_offset": -18000,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 551966133474308096,
+    "quoted_status_id_str": "551966133474308096",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Nike @NikeColombia por favor!!! https://t.co/KNVV9pp0Bo",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 23 02:53:33 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Antioque\u00f1o, h\u00edbrido entre lo popular y lo no tanto. Amante del deporte mas hermoso del mundo!!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1557,
+        "follow_request_sent": false,
+        "followers_count": 297,
+        "following": false,
+        "friends_count": 678,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 84490462,
+        "id_str": "84490462",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Medellin",
+        "name": "J\u00fcang84\u26bd",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/192049626/fondo-twit.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/192049626/fondo-twit.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/84490462/1382301960",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/747477314359988224/e0Ko1s2f_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/747477314359988224/e0Ko1s2f_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Juang84",
+        "statuses_count": 6345,
+        "time_zone": "Bogota",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 04 15:19:01 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749985874163761152,
+    "id_str": "749985874163761152",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.974612,
+                        38.942717
+                    ],
+                    [
+                        -76.936986,
+                        38.942717
+                    ],
+                    [
+                        -76.936986,
+                        38.978966
+                    ],
+                    [
+                        -76.974612,
+                        38.978966
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Hyattsville, MD",
+        "id": "f3f3e88ab848b86b",
+        "name": "Hyattsville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/f3f3e88ab848b86b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@Starbucks I can\u2019t believe you make your employees come in at 6:00 am on July 4th.  Shame.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 22 20:26:06 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Why are all Twitter bios. Written in sentence. Fragments.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 71,
+        "follow_request_sent": false,
+        "followers_count": 177,
+        "following": false,
+        "friends_count": 281,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 49753181,
+        "id_str": "49753181",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 31,
+        "location": "Hyattsville, MD",
+        "name": "Chris Coxen",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/20783915/collage",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/20783915/collage",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49753181/1420395176",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/553920730048757761/jw5BK8py_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/553920730048757761/jw5BK8py_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "coxen00",
+        "statuses_count": 2873,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

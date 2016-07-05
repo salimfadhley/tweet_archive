@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 04 14:16:20 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HZgT9LLSgT",
+                "expanded_url": "http://twitter.com/Tvtwa99/status/749970103043813376/photo/1",
+                "id": 749970095854723072,
+                "id_str": "749970095854723072",
+                "indices": [
+                    57,
+                    80
+                ],
+                "media_url": "http://pbs.twimg.com/media/Cmht1COWIAAMRJk.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cmht1COWIAAMRJk.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1280,
+                        "resize": "fit",
+                        "w": 960
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/HZgT9LLSgT"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749970103043813376,
+    "id_str": "749970103043813376",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.842952,
+                        40.927764
+                    ],
+                    [
+                        -73.842952,
+                        40.927764
+                    ],
+                    [
+                        -73.842952,
+                        40.927764
+                    ],
+                    [
+                        -73.842952,
+                        40.927764
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Starbucks",
+        "id": "07d9db16aac85000",
+        "name": "Starbucks",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9db16aac85000.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks enjoying coffee here at  Bronxville  location https://t.co/HZgT9LLSgT",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 05 21:05:02 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Survey Technician at MTA",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 537,
+        "follow_request_sent": false,
+        "followers_count": 393,
+        "following": false,
+        "friends_count": 1535,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2329353570,
+        "id_str": "2329353570",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Mount Vernon, NY",
+        "name": "Tito  Velasco",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/434854903794515968/lBjMmMz2.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/434854903794515968/lBjMmMz2.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329353570/1453581833",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/690998409294188545/e9RhaUmx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/690998409294188545/e9RhaUmx_normal.jpg",
+        "profile_link_color": "4944A6",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Tvtwa99",
+        "statuses_count": 2148,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

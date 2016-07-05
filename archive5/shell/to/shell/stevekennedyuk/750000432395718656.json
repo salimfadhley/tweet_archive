@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 04 16:16:52 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20663500,
+                "id_str": "20663500",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Shell",
+                "screen_name": "Shell"
+            },
+            {
+                "id": 190242011,
+                "id_str": "190242011",
+                "indices": [
+                    47,
+                    61
+                ],
+                "name": "Rachel Riley",
+                "screen_name": "RachelRileyRR"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 750000432395718656,
+    "id_str": "750000432395718656",
+    "in_reply_to_screen_name": "Shell",
+    "in_reply_to_status_id": 749974161372672004,
+    "in_reply_to_status_id_str": "749974161372672004",
+    "in_reply_to_user_id": 20663500,
+    "in_reply_to_user_id_str": "20663500",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.112442,
+                        51.5068
+                    ],
+                    [
+                        -0.0733794,
+                        51.5068
+                    ],
+                    [
+                        -0.0733794,
+                        51.522161
+                    ],
+                    [
+                        -0.112442,
+                        51.522161
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "City of London, London",
+        "id": "3eb2c704fe8a50cb",
+        "name": "City of London",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3eb2c704fe8a50cb.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Shell I saw Alex Brooker and Dallas, just not @RachelRileyRR :(",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 04 11:27:00 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Networking tormentwhore, blogger, CoFounder CityMeetsTech / Lean Capital / Placeholder Ltd, advisor to Vermeer Investment Management Fund. Tweets are my own",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "eurotechnews.blogspot.com",
+                        "expanded_url": "http://eurotechnews.blogspot.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/lVMecoE3Cj"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 34,
+        "follow_request_sent": false,
+        "followers_count": 52640,
+        "following": false,
+        "friends_count": 1005,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 15720941,
+        "id_str": "15720941",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 374,
+        "location": "Camden",
+        "name": "Steve Karmeinsky",
+        "notifications": false,
+        "profile_background_color": "080101",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/103397848/logo.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/103397848/logo.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15720941/1348663083",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1759429296/steve_icon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1759429296/steve_icon_normal.jpg",
+        "profile_link_color": "F05811",
+        "profile_sidebar_border_color": "F70D10",
+        "profile_sidebar_fill_color": "0D0707",
+        "profile_text_color": "63BD0F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "stevekennedyuk",
+        "statuses_count": 42724,
+        "time_zone": "London",
+        "url": "https://t.co/lVMecoE3Cj",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

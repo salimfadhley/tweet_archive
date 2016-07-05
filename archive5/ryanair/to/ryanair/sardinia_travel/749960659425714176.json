@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 04 13:38:49 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1542862735,
+                "id_str": "1542862735",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Ryanair",
+                "screen_name": "Ryanair"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749960659425714176,
+    "id_str": "749960659425714176",
+    "in_reply_to_screen_name": "Ryanair",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1542862735,
+    "in_reply_to_user_id_str": "1542862735",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        8.70612000023079,
+                        45.1615370000568
+                    ],
+                    [
+                        9.55159199790893,
+                        45.1615370000568
+                    ],
+                    [
+                        9.55159199790893,
+                        45.6426629970125
+                    ],
+                    [
+                        8.70612000023079,
+                        45.6426629970125
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Italia",
+        "country_code": "IT",
+        "full_name": "Milano, Lombardia",
+        "id": "f6d6541b668771a7",
+        "name": "Milano",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/f6d6541b668771a7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Ryanair is the chat service not working?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 24 11:05:36 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Travel Expert in Sardinia, Italy http://t.co/O8gJ1Ph6 . Your Local connection. Charming hotels, holiday tours AND wedding planner for central Mediterranean",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "travelmotus.com",
+                        "expanded_url": "http://www.travelmotus.com",
+                        "indices": [
+                            33,
+                            53
+                        ],
+                        "url": "http://t.co/O8gJ1Ph6"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "travelmotus.com",
+                        "expanded_url": "http://www.travelmotus.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/4sOJngVQkZ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 91,
+        "follow_request_sent": false,
+        "followers_count": 2172,
+        "following": false,
+        "friends_count": 349,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17590126,
+        "id_str": "17590126",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "it",
+        "listed_count": 0,
+        "location": "Sardinia, Italy",
+        "name": "sardinia_travel",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17590126/1400584608",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3058909142/5e4ae71f4530fefd648560ac189def66_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3058909142/5e4ae71f4530fefd648560ac189def66_normal.png",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "sardinia_travel",
+        "statuses_count": 649,
+        "time_zone": "Rome",
+        "url": "http://t.co/4sOJngVQkZ",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 04 20:12:36 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    109,
+                    118
+                ],
+                "text": "Happy4th"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 750059758166675456,
+    "id_str": "750059758166675456",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.890005,
+                        40.4361556
+                    ],
+                    [
+                        -79.777669,
+                        40.4361556
+                    ],
+                    [
+                        -79.777669,
+                        40.5183908
+                    ],
+                    [
+                        -79.890005,
+                        40.5183908
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Penn Hills, PA",
+        "id": "2127a214d4606ccf",
+        "name": "Penn Hills",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2127a214d4606ccf.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir - what is the deal with AA449? Lots of delays - Do I stay for another beer or head over to PIT? #Happy4th",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 26 06:33:17 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wake up, do good, repeat - Husband, talented photographer, Distinguished Toastmaster, hack home chef, cigar lover, & avid Red Sox fan.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "pixaz.weebly.com",
+                        "expanded_url": "http://pixaz.weebly.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/tH6Vy2qolY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 35,
+        "follow_request_sent": false,
+        "followers_count": 313,
+        "following": false,
+        "friends_count": 242,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 42578470,
+        "id_str": "42578470",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "Mesa Arizona",
+        "name": "Tim Swearingen",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/552198105030868993/bCYnMr7W.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/552198105030868993/bCYnMr7W.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42578470/1451636338",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/552197779942961152/4eKthW2M_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/552197779942961152/4eKthW2M_normal.jpeg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TimSwearingen",
+        "statuses_count": 1878,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/tH6Vy2qolY",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

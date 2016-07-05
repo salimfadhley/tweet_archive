@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 04 01:24:19 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 749775814749786112,
+    "id_str": "749775814749786112",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir Doesn't make much sense to have an mec issue, have it worked on, back up from gate, return to gate b/c it wasn't fixed, &amp; sit.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 30 19:13:53 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A dude, world traveler, Man City nut, overall footy enthusiast, fan of Miami american sports teams, lover, peace monger, & a citizen of Earth.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 218,
+        "follow_request_sent": false,
+        "followers_count": 252,
+        "following": false,
+        "friends_count": 721,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 16532520,
+        "id_str": "16532520",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Somewhere b/t NZ & Croatia",
+        "name": "Justin French",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3131178/Maria_Louisa_Park_building_small.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3131178/Maria_Louisa_Park_building_small.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/889758650/Me_CoMS_Pitch_Jersey_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/889758650/Me_CoMS_Pitch_Jersey_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JustusFrancais",
+        "statuses_count": 938,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

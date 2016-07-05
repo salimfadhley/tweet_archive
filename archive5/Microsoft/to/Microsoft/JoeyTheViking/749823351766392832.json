@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 04 04:33:12 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749823351766392832,
+    "id_str": "749823351766392832",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -93.3184,
+                        44.640924
+                    ],
+                    [
+                        -93.156249,
+                        44.640924
+                    ],
+                    [
+                        -93.156249,
+                        44.717832
+                    ],
+                    [
+                        -93.3184,
+                        44.717832
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Lakeville, MN",
+        "id": "a8d13ffe83f33ce5",
+        "name": "Lakeville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a8d13ffe83f33ce5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Microsoft the Xbox one has officially become the worst purchase of my entire life",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 24 19:33:54 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "tomato and onion on that?",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7810,
+        "follow_request_sent": false,
+        "followers_count": 365,
+        "following": false,
+        "friends_count": 410,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 589367692,
+        "id_str": "589367692",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "Joey Capuana",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/589367692/1462969935",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/741432769163591681/2K2Jo3Sm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/741432769163591681/2K2Jo3Sm_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JoeyTheViking",
+        "statuses_count": 5764,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

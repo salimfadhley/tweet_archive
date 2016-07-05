@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 03 23:24:55 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HUUBRF6AJY",
+                "expanded_url": "http://twitter.com/_bbyrios/status/749745769926660096/photo/1",
+                "id": 749745677412888576,
+                "id_str": "749745677412888576",
+                "indices": [
+                    14,
+                    37
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmehuKYUcAA9OoZ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmehuKYUcAA9OoZ.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 576
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 576
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 383
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/HUUBRF6AJY"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749745769926660096,
+    "id_str": "749745769926660096",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -119.64712,
+                        36.553354
+                    ],
+                    [
+                        -119.58837,
+                        36.553354
+                    ],
+                    [
+                        -119.58837,
+                        36.605473
+                    ],
+                    [
+                        -119.64712,
+                        36.605473
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Selma, CA",
+        "id": "9f8bd34c144e52ee",
+        "name": "Selma",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/9f8bd34c144e52ee.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks \ud83d\udc95\ud83d\ude0a https://t.co/HUUBRF6AJY",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 20 20:02:47 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "crybaby w/ a savage attitude . It's lex , your fav ballerina",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3386,
+        "follow_request_sent": false,
+        "followers_count": 920,
+        "following": false,
+        "friends_count": 1227,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 4615189872,
+        "id_str": "4615189872",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Selma, CA",
+        "name": "lex",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4615189872/1467440445",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/741859640527327232/QLDg-jvb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/741859640527327232/QLDg-jvb_normal.jpg",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_bbyrios",
+        "statuses_count": 7328,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,260 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 03 23:19:05 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/StevStiffler/s\u2026",
+                "expanded_url": "https://twitter.com/StevStiffler/status/749729442621161473",
+                "indices": [
+                    11,
+                    34
+                ],
+                "url": "https://t.co/EALQRqPJjL"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749744301916041216,
+    "id_str": "749744301916041216",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -115.403018,
+                        32.78873
+                    ],
+                    [
+                        -115.3628,
+                        32.78873
+                    ],
+                    [
+                        -115.3628,
+                        32.822029
+                    ],
+                    [
+                        -115.403018,
+                        32.822029
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Holtville, CA",
+        "id": "013a895333a781d0",
+        "name": "Holtville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/013a895333a781d0.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Jul 03 22:20:03 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/taT8rO3t2g",
+                    "expanded_url": "http://twitter.com/30SecondScene/status/613864236406583296/video/1",
+                    "id": 613863648377724928,
+                    "id_str": "613863648377724928",
+                    "indices": [
+                        27,
+                        50
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/613863648377724928/pu/img/PCZzhH1ZwE2BUloQ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/613863648377724928/pu/img/PCZzhH1ZwE2BUloQ.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 480,
+                            "resize": "fit",
+                            "w": 854
+                        },
+                        "medium": {
+                            "h": 337,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 191,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "source_status_id": 613864236406583296,
+                    "source_status_id_str": "613864236406583296",
+                    "source_user_id": 2899919287,
+                    "source_user_id_str": "2899919287",
+                    "type": "photo",
+                    "url": "https://t.co/taT8rO3t2g"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 145,
+        "favorited": false,
+        "geo": null,
+        "id": 749729442621161473,
+        "id_str": "749729442621161473",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": true,
+        "retweet_count": 88,
+        "retweeted": false,
+        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+        "text": "Ordering at Starbucks like https://t.co/taT8rO3t2g",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Apr 16 11:08:34 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Stifler is Back Bitches!! (Parody Account)",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 565,
+            "follow_request_sent": false,
+            "followers_count": 353663,
+            "following": false,
+            "friends_count": 73591,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 133682123,
+            "id_str": "133682123",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 521,
+            "location": "",
+            "name": "Steve Stifler",
+            "notifications": false,
+            "profile_background_color": "EBEBEB",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/698905438/7bc83033d0868a4f5ef121b6de36b5ca.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/698905438/7bc83033d0868a4f5ef121b6de36b5ca.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/133682123/1359115477",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2790243373/16497722221593bebfd32814485513c2_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2790243373/16497722221593bebfd32814485513c2_normal.png",
+            "profile_link_color": "990000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F3F3F3",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "StevStiffler",
+            "statuses_count": 125419,
+            "time_zone": "Chennai",
+            "url": null,
+            "utc_offset": 19800,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 749729442621161473,
+    "quoted_status_id_str": "749729442621161473",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Starbucks https://t.co/EALQRqPJjL",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 17 09:34:14 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Chico Livin'",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1629,
+        "follow_request_sent": false,
+        "followers_count": 141,
+        "following": false,
+        "friends_count": 134,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 763383308,
+        "id_str": "763383308",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Chico, CA",
+        "name": "Hugo Romero",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/763383308/1447607527",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/614171886684016640/Yeb3-UKi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/614171886684016640/Yeb3-UKi_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Romerohugo97",
+        "statuses_count": 2911,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

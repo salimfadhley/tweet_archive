@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 02 13:37:18 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 558606074,
+                "id_str": "558606074",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "LVMH",
+                "screen_name": "LVMH"
+            },
+            {
+                "id": 324034364,
+                "id_str": "324034364",
+                "indices": [
+                    6,
+                    11
+                ],
+                "name": "Krug Champagne",
+                "screen_name": "Krug"
+            },
+            {
+                "id": 200483537,
+                "id_str": "200483537",
+                "indices": [
+                    12,
+                    20
+                ],
+                "name": "Olivier Krug",
+                "screen_name": "krugoli"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 749235501400489984,
+    "id_str": "749235501400489984",
+    "in_reply_to_screen_name": "LVMH",
+    "in_reply_to_status_id": 749235487039188992,
+    "in_reply_to_status_id_str": "749235487039188992",
+    "in_reply_to_user_id": 558606074,
+    "in_reply_to_user_id_str": "558606074",
+    "is_quote_status": false,
+    "lang": "fr",
+    "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.2725647,
+                        48.8142186
+                    ],
+                    [
+                        2.3012777,
+                        48.8142186
+                    ],
+                    [
+                        2.3012777,
+                        48.8284413
+                    ],
+                    [
+                        2.2725647,
+                        48.8284413
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Vanves, France",
+        "id": "3bcf61c45fdc2eae",
+        "name": "Vanves",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3bcf61c45fdc2eae.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://twitter.com/\" rel=\"nofollow\">Client Twitter Web</a>",
+    "text": "@LVMH @Krug @krugoli J'en ai dix moi ! Cinq \u00e0 chaque main.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 15 23:30:43 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Je m'appelle C\u00e9line Martin, et j'habite Vanves \u00e0 #Paris \u263a Suivez-moi, \u00e7a porte bonheur \u2665",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "veilledecm.wordpress.com",
+                        "expanded_url": "https://veilledecm.wordpress.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/upjp29SuTB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 21427,
+        "follow_request_sent": false,
+        "followers_count": 6086,
+        "following": false,
+        "friends_count": 4513,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2735908681,
+        "id_str": "2735908681",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 2241,
+        "location": "Vanves, France",
+        "name": "C\u00e9line Martin",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2735908681/1467206263",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/726806794799054849/RiNXd3YM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/726806794799054849/RiNXd3YM_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "VeilleDeCM",
+        "statuses_count": 83069,
+        "time_zone": "Paris",
+        "url": "https://t.co/upjp29SuTB",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

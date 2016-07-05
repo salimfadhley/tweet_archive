@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 04 22:55:29 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    22,
+                    26
+                ],
+                "text": "LAX"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 750100750999531520,
+    "id_str": "750100750999531520",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 750091682540953601,
+    "in_reply_to_status_id_str": "750091682540953601",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -117.184394,
+                        33.447541
+                    ],
+                    [
+                        -117.054639,
+                        33.447541
+                    ],
+                    [
+                        -117.054639,
+                        33.554501
+                    ],
+                    [
+                        -117.184394,
+                        33.554501
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Temecula, CA",
+        "id": "f95304ef80fecc3f",
+        "name": "Temecula",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/f95304ef80fecc3f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Taken at #LAX last year!  Thanks for the great views!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 26 20:28:18 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Enhancing your every travel experience by always creating 5 star moments #travel #5star #luxury #luxurytravel #Always5Star #5StarTips #5starTip",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "always5star.com",
+                        "expanded_url": "http://www.always5star.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/5x7NI42RZP"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 16843,
+        "follow_request_sent": false,
+        "followers_count": 1043,
+        "following": false,
+        "friends_count": 958,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 4818214831,
+        "id_str": "4818214831",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 71,
+        "location": "",
+        "name": "Always 5 Star",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4818214831/1465137844",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/731302411529150464/frF6_Zzj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/731302411529150464/frF6_Zzj_normal.jpg",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "always5star",
+        "statuses_count": 2264,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/5x7NI42RZP",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

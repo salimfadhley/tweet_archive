@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 03 17:50:23 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749661581756162048,
+    "id_str": "749661581756162048",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.474007,
+                        38.568344
+                    ],
+                    [
+                        -90.425156,
+                        38.568344
+                    ],
+                    [
+                        -90.425156,
+                        38.6187
+                    ],
+                    [
+                        -90.474007,
+                        38.6187
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Des Peres, MO",
+        "id": "b81c5ca7b5eecf7a",
+        "name": "Des Peres",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b81c5ca7b5eecf7a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks I'd love to see more packages lunches from y'all without cheese/dairy!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 30 17:10:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "cat rap",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "thirtythreeandme.tumblr.com",
+                        "expanded_url": "http://thirtythreeandme.tumblr.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Jcj8Z7x9t8"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 493,
+        "follow_request_sent": false,
+        "followers_count": 181,
+        "following": false,
+        "friends_count": 223,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 19776665,
+        "id_str": "19776665",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "stl",
+        "name": "Sarah Myers",
+        "notifications": false,
+        "profile_background_color": "8B622D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/79884522/aerie_flower_bg.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/79884522/aerie_flower_bg.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19776665/1400178848",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/726179218/16849_1210160256616_1307010018_30693439_8016965_n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/726179218/16849_1210160256616_1307010018_30693439_8016965_n_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "DA8A65",
+        "profile_sidebar_fill_color": "B1EE7A",
+        "profile_text_color": "571932",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sassmyers",
+        "statuses_count": 3521,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/Jcj8Z7x9t8",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

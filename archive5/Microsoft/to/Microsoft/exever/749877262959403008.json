@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 04 08:07:26 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            },
+            {
+                "id": 24742040,
+                "id_str": "24742040",
+                "indices": [
+                    72,
+                    77
+                ],
+                "name": "Xbox",
+                "screen_name": "Xbox"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749877262959403008,
+    "id_str": "749877262959403008",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.659936,
+                        51.399367
+                    ],
+                    [
+                        -2.510844,
+                        51.399367
+                    ],
+                    [
+                        -2.510844,
+                        51.516387
+                    ],
+                    [
+                        -2.659936,
+                        51.516387
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Bristol, England",
+        "id": "7f15dd80ac78ef40",
+        "name": "Bristol",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7f15dd80ac78ef40.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Microsoft is it that you realized ppl reversengineered the hell out of @Xbox controller or when youre going to support it for everyone?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 16 06:37:56 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I will figure something out",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "exever.net",
+                        "expanded_url": "http://exever.net",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/HlCweuZwoZ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 115,
+        "follow_request_sent": false,
+        "followers_count": 1546,
+        "following": false,
+        "friends_count": 58,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 57264458,
+        "id_str": "57264458",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "UK",
+        "name": "exever",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/506011665326800896/MAL3ltuo.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/506011665326800896/MAL3ltuo.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/57264458/1461258976",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/741716860916387841/l0lw4hnJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/741716860916387841/l0lw4hnJ_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "2E2E2E",
+        "profile_text_color": "B7BACC",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "exever",
+        "statuses_count": 4045,
+        "time_zone": "London",
+        "url": "https://t.co/HlCweuZwoZ",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

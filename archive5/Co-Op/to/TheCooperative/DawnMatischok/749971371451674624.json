@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 04 14:21:23 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/lr6W09lmDP",
+                "expanded_url": "http://twitter.com/DawnMatischok/status/749971371451674624/photo/1",
+                "id": 749971349578317824,
+                "id_str": "749971349578317824",
+                "indices": [
+                    26,
+                    49
+                ],
+                "media_url": "http://pbs.twimg.com/media/Cmhu-AtWAAARM94.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cmhu-AtWAAARM94.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 1536
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/lr6W09lmDP"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22997105,
+                "id_str": "22997105",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "The Co-op",
+                "screen_name": "TheCooperative"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 749971371451674624,
+    "id_str": "749971371451674624",
+    "in_reply_to_screen_name": "TheCooperative",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22997105,
+    "in_reply_to_user_id_str": "22997105",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.330875,
+                        53.10502
+                    ],
+                    [
+                        -3.292776,
+                        53.10502
+                    ],
+                    [
+                        -3.292776,
+                        53.1215467
+                    ],
+                    [
+                        -3.330875,
+                        53.1215467
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Ruthin, Wales",
+        "id": "3029726389fddbe8",
+        "name": "Ruthin",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3029726389fddbe8.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TheCooperative New Cards https://t.co/lr6W09lmDP",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 17 18:19:17 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@eddhere is mine.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2641,
+        "follow_request_sent": false,
+        "followers_count": 389,
+        "following": false,
+        "friends_count": 53,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 954074582,
+        "id_str": "954074582",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Ruthin, North Wales. ",
+        "name": "Caroline",
+        "notifications": false,
+        "profile_background_color": "0E0D0F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/865080407/2cef6ed1f5afca865d263c3da97c1f57.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/865080407/2cef6ed1f5afca865d263c3da97c1f57.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/954074582/1454960560",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/737252067203502080/kOUWoZhk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/737252067203502080/kOUWoZhk_normal.jpg",
+        "profile_link_color": "300DA3",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "DawnMatischok",
+        "statuses_count": 1564,
+        "time_zone": "Hawaii",
+        "url": null,
+        "utc_offset": -36000,
+        "verified": false
+    }
+}

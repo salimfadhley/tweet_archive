@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 03 15:28:22 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749625841764610048,
+    "id_str": "749625841764610048",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.801945,
+                        32.785834
+                    ],
+                    [
+                        -96.801945,
+                        32.785834
+                    ],
+                    [
+                        -96.801945,
+                        32.785834
+                    ],
+                    [
+                        -96.801945,
+                        32.785834
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Starbucks",
+        "id": "07d9d295d7884000",
+        "name": "Starbucks",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9d295d7884000.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks didn't realize locations get to pick and choose if they accept rewards from your app. A little strange for such a popular chain.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 06 22:43:37 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 467,
+        "follow_request_sent": false,
+        "followers_count": 125,
+        "following": false,
+        "friends_count": 439,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 330637178,
+        "id_str": "330637178",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Louisville, KY",
+        "name": "Erin Maguire-Osting",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/330637178/1417530878",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/477291512724611072/pvylM_64_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/477291512724611072/pvylM_64_normal.jpeg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ErinMO12",
+        "statuses_count": 1094,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

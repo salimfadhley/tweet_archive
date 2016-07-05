@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 03 23:45:47 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749751019689521152,
+    "id_str": "749751019689521152",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.7686464225576,
+                        32.86988374188728
+                    ],
+                    [
+                        -96.7686464225576,
+                        32.86988374188728
+                    ],
+                    [
+                        -96.7686464225576,
+                        32.86988374188728
+                    ],
+                    [
+                        -96.7686464225576,
+                        32.86988374188728
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Starbucks",
+        "id": "082d764ce6549000",
+        "name": "Starbucks",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/082d764ce6549000.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Starbucks this is a terrible location, wrong order, they make me wait for ice. Just bad attitude all around",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 17 22:50:08 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Editor en Jefe de https://t.co/gmh9TPBmIs. Tecnolog\u00eda en lenguaje com\u00fan. Mis opiniones son m\u00edas/Opinions are my own.",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "es.DigitalTrends.Com",
+                        "expanded_url": "http://es.DigitalTrends.Com",
+                        "indices": [
+                            18,
+                            41
+                        ],
+                        "url": "https://t.co/gmh9TPBmIs"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/JuanGarciaDTES",
+                        "expanded_url": "https://www.facebook.com/JuanGarciaDTES",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/B73s3Vcr1E"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 923,
+        "follow_request_sent": false,
+        "followers_count": 1107,
+        "following": false,
+        "friends_count": 1307,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 48149559,
+        "id_str": "48149559",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 40,
+        "location": "University Park, TX",
+        "name": "Juan Garc\u00eda",
+        "notifications": false,
+        "profile_background_color": "090A0A",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/839987425/4d09d772b9a8c2c4f9f167a378ebcaa9.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/839987425/4d09d772b9a8c2c4f9f167a378ebcaa9.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/48149559/1453923469",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/705099169988345857/Euv8SWb__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/705099169988345857/Euv8SWb__normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JuanGarciaDTes",
+        "statuses_count": 19297,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/B73s3Vcr1E",
+        "utc_offset": -18000,
+        "verified": true
+    }
+}

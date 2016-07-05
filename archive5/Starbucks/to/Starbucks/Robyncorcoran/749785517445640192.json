@@ -1,0 +1,178 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 04 02:02:52 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    58,
+                    69
+                ],
+                "text": "singlelife"
+            },
+            {
+                "indices": [
+                    70,
+                    80
+                ],
+                "text": "starbucks"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/m8K3NuPEb6",
+                "expanded_url": "http://twitter.com/Robyncorcoran/status/749785517445640192/photo/1",
+                "id": 749785507148599296,
+                "id_str": "749785507148599296",
+                "indices": [
+                    81,
+                    104
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmfF8jtUEAA5-FP.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmfF8jtUEAA5-FP.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 750,
+                        "resize": "fit",
+                        "w": 750
+                    },
+                    "medium": {
+                        "h": 750,
+                        "resize": "fit",
+                        "w": 750
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/m8K3NuPEb6"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749785517445640192,
+    "id_str": "749785517445640192",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.225436,
+                        47.909484
+                    ],
+                    [
+                        -122.225436,
+                        47.909484
+                    ],
+                    [
+                        -122.225436,
+                        47.909484
+                    ],
+                    [
+                        -122.225436,
+                        47.909484
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Starbucks",
+        "id": "07d9c94a92880002",
+        "name": "Starbucks",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9c94a92880002.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks is my boyfriend. I think it's getting serious. #singlelife #starbucks https://t.co/m8K3NuPEb6",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 26 01:51:23 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Secretly wanting to be a ninja, endometriosis fighter, dog lover, loving Jesus!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 82,
+        "follow_request_sent": false,
+        "followers_count": 252,
+        "following": false,
+        "friends_count": 300,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 342462293,
+        "id_str": "342462293",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 15,
+        "location": "Everett, WA",
+        "name": "Robyn Corcoran",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/342462293/1416682653",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/746188332233687044/ZEvrcjkM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/746188332233687044/ZEvrcjkM_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Robyncorcoran",
+        "statuses_count": 10427,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

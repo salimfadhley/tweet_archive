@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 03 18:39:05 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    114,
+                    124
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 127566622,
+                "id_str": "127566622",
+                "indices": [
+                    125,
+                    137
+                ],
+                "name": "Frappuccino",
+                "screen_name": "frappuccino"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749673834270236672,
+    "id_str": "749673834270236672",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": 749016539223896064,
+    "in_reply_to_status_id_str": "749016539223896064",
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -115.384091,
+                        36.129459
+                    ],
+                    [
+                        -115.062159,
+                        36.129459
+                    ],
+                    [
+                        -115.062159,
+                        36.336371
+                    ],
+                    [
+                        -115.384091,
+                        36.336371
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Las Vegas, NV",
+        "id": "5c2b5e46ab891f07",
+        "name": "Las Vegas",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c2b5e46ab891f07.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I'm so happy to hear that!  They're one of my favorites!  We were at the store in Las Vegas at Craig &amp; Jones. @Starbucks @frappuccino \u2764\ufe0f\u2615\ufe0f",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 06 05:35:55 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 628,
+        "follow_request_sent": false,
+        "followers_count": 263,
+        "following": false,
+        "friends_count": 366,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 29151359,
+        "id_str": "29151359",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 15,
+        "location": "Venice, CA",
+        "name": "Carrie Jensen",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000034160255/eb82814b49b8a03c9cab53e16f273644.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000034160255/eb82814b49b8a03c9cab53e16f273644.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29151359/1410128258",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/610598301512134656/07Huho7k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/610598301512134656/07Huho7k_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_carriejensen_",
+        "statuses_count": 3686,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 04 04:39:15 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749824871329198080,
+    "id_str": "749824871329198080",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 749815204645527552,
+    "in_reply_to_status_id_str": "749815204645527552",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.22808,
+                        36.672684
+                    ],
+                    [
+                        -75.9118121,
+                        36.672684
+                    ],
+                    [
+                        -75.9118121,
+                        36.932399
+                    ],
+                    [
+                        -76.22808,
+                        36.932399
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Virginia Beach, VA",
+        "id": "84229b03659050aa",
+        "name": "Virginia Beach",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/84229b03659050aa.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Where, specifically?  Happy to send you her contact information as well.  She's a close family friend.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 22 23:15:38 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Documentation mercenary at @rocketgenius AKA @gravityforms. WordPress and BuddyPress contributor. Creator @thenotifybot.  Married to @blustarchild.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jeffmatson.net",
+                        "expanded_url": "http://jeffmatson.net",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/3EBng3BPdX"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4043,
+        "follow_request_sent": false,
+        "followers_count": 2351,
+        "following": false,
+        "friends_count": 663,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1613867996,
+        "id_str": "1613867996",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 89,
+        "location": "Virginia Beach, VA",
+        "name": "Jeff Matson",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086783588/bca49e125786bea803be18630aa4fc7d.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000086783588/bca49e125786bea803be18630aa4fc7d.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613867996/1467501887",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/749413657939996672/859xpGWY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/749413657939996672/859xpGWY_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TheJeffMatson",
+        "statuses_count": 8302,
+        "time_zone": null,
+        "url": "http://t.co/3EBng3BPdX",
+        "utc_offset": null,
+        "verified": false
+    }
+}

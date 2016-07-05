@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 03 17:06:45 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 18949610,
+                "id_str": "18949610",
+                "indices": [
+                    62,
+                    75
+                ],
+                "name": "Ben & Jerry's",
+                "screen_name": "benandjerrys"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749650601944940545,
+    "id_str": "749650601944940545",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -89.001504,
+                        30.386899
+                    ],
+                    [
+                        -88.856731,
+                        30.386899
+                    ],
+                    [
+                        -88.856731,
+                        30.468736
+                    ],
+                    [
+                        -89.001504,
+                        30.468736
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Biloxi, MS",
+        "id": "b92f67506b6a7eb8",
+        "name": "Biloxi",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b92f67506b6a7eb8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks is the reason I manage to work my morning shift at @benandjerrys.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 10 22:28:15 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "We don't care what you think about us because we don't think about you at all.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "iamtherealest.com",
+                        "expanded_url": "http://www.iamtherealest.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/EQPEay1llA"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 255,
+        "follow_request_sent": false,
+        "followers_count": 90,
+        "following": false,
+        "friends_count": 266,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1258093988,
+        "id_str": "1258093988",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Biloxi, MS",
+        "name": "Dano",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1258093988/1364665587",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/735188200168116225/iFCq1Ok9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/735188200168116225/iFCq1Ok9_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "iamdanielsharpe",
+        "statuses_count": 649,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/EQPEay1llA",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

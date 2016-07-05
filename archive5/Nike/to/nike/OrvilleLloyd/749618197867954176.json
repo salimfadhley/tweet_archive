@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 03 14:58:00 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 415859364,
+                "id_str": "415859364",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Nike",
+                "screen_name": "Nike"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 749618197867954176,
+    "id_str": "749618197867954176",
+    "in_reply_to_screen_name": "Nike",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 415859364,
+    "in_reply_to_user_id_str": "415859364",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.888911,
+                        43.60222
+                    ],
+                    [
+                        -79.630272,
+                        43.60222
+                    ],
+                    [
+                        -79.630272,
+                        43.847722
+                    ],
+                    [
+                        -79.888911,
+                        43.847722
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Brampton, Ontario",
+        "id": "1f4df2b4746ddea7",
+        "name": "Brampton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1f4df2b4746ddea7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Nike Nike world is watching supporting drug cheats like Sharapova and Justin Gatlin hurts your brand.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 20 18:57:48 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I am the author of the new book Under My Skin available now on http://t.co/4rwjfd0Csv, Barnes & Noble, Indigo, and other major bookseller websites.",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Amazon.com",
+                        "expanded_url": "http://Amazon.com",
+                        "indices": [
+                            63,
+                            85
+                        ],
+                        "url": "http://t.co/4rwjfd0Csv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1074,
+        "follow_request_sent": false,
+        "followers_count": 288,
+        "following": false,
+        "friends_count": 203,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 67391895,
+        "id_str": "67391895",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 21,
+        "location": "Toronto",
+        "name": "OrvilleLloydDouglas",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/453314575555780608/n_lwbjZt_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/453314575555780608/n_lwbjZt_normal.jpeg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "OrvilleLloyd",
+        "statuses_count": 9674,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

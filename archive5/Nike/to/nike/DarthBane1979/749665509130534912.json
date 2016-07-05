@@ -1,0 +1,182 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 03 18:06:00 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/lnpC0CDT96",
+                "expanded_url": "http://twitter.com/DarthBane1979/status/749665509130534912/photo/1",
+                "id": 749665370668208129,
+                "id_str": "749665370668208129",
+                "indices": [
+                    68,
+                    91
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmdYrscXEAE-y9z.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmdYrscXEAE-y9z.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 1536
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/lnpC0CDT96"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 415859364,
+                "id_str": "415859364",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Nike",
+                "screen_name": "Nike"
+            },
+            {
+                "id": 87809737,
+                "id_str": "87809737",
+                "indices": [
+                    6,
+                    20
+                ],
+                "name": "The CrossFit Games",
+                "screen_name": "CrossFitGames"
+            },
+            {
+                "id": 1638452100,
+                "id_str": "1638452100",
+                "indices": [
+                    53,
+                    64
+                ],
+                "name": "Lauren Fisher",
+                "screen_name": "ltfisher12"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 749665509130534912,
+    "id_str": "749665509130534912",
+    "in_reply_to_screen_name": "Nike",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 415859364,
+    "in_reply_to_user_id_str": "415859364",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.485561,
+                        38.840172
+                    ],
+                    [
+                        -77.364749,
+                        38.840172
+                    ],
+                    [
+                        -77.364749,
+                        38.917243
+                    ],
+                    [
+                        -77.485561,
+                        38.917243
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chantilly, VA",
+        "id": "353916ce76086be6",
+        "name": "Chantilly",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/353916ce76086be6.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Nike @CrossFitGames does this count as running into @ltfisher12 ?? https://t.co/lnpC0CDT96",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 19 09:48:47 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Active Duty Military",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9487,
+        "follow_request_sent": false,
+        "followers_count": 99,
+        "following": false,
+        "friends_count": 71,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 33170194,
+        "id_str": "33170194",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "Virginia, USA",
+        "name": "James Baluyot",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/732011305675202560/IjnRw1h2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/732011305675202560/IjnRw1h2_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DarthBane1979",
+        "statuses_count": 1857,
+        "time_zone": "Quito",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
