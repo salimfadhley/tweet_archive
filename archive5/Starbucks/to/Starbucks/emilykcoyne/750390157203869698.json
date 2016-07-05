@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jul 05 18:05:29 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 750390157203869698,
+    "id_str": "750390157203869698",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -92.889433,
+                        42.491921
+                    ],
+                    [
+                        -86.24955,
+                        42.491921
+                    ],
+                    [
+                        -86.24955,
+                        47.309715
+                    ],
+                    [
+                        -92.889433,
+                        47.309715
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Wisconsin, USA",
+        "id": "7dc5c6d3bfb10ccc",
+        "name": "Wisconsin",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7dc5c6d3bfb10ccc.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks needs to start carrying almond milk \u2615\ufe0f please and thank you",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 31 06:29:53 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "not all those who wander are lost",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 12574,
+        "follow_request_sent": false,
+        "followers_count": 580,
+        "following": false,
+        "friends_count": 560,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 345814056,
+        "id_str": "345814056",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "krypton ",
+        "name": "Emily Kate",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/742536194/7286f5310d683decde38dd871c5efb31.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/742536194/7286f5310d683decde38dd871c5efb31.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/345814056/1467742042",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748952254531665920/I7dDoD4a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748952254531665920/I7dDoD4a_normal.jpg",
+        "profile_link_color": "5E1A2C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "D1CDD0",
+        "profile_text_color": "E60961",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "emilykcoyne",
+        "statuses_count": 13470,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jul 05 01:23:11 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    22,
+                    35
+                ],
+                "text": "paystobegold"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/NbF7Ej6mIp",
+                "expanded_url": "http://twitter.com/KPIZME/status/750137919579394048/photo/1",
+                "id": 750137912960774144,
+                "id_str": "750137912960774144",
+                "indices": [
+                    36,
+                    59
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmkGdRqUcAADPIi.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmkGdRqUcAADPIi.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1334,
+                        "resize": "fit",
+                        "w": 750
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 675
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 382
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/NbF7Ej6mIp"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 750137919579394048,
+    "id_str": "750137919579394048",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.035311,
+                        37.193164
+                    ],
+                    [
+                        -121.71215,
+                        37.193164
+                    ],
+                    [
+                        -121.71215,
+                        37.469154
+                    ],
+                    [
+                        -122.035311,
+                        37.469154
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Jose, CA",
+        "id": "7d62cffe6f98f349",
+        "name": "San Jose",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7d62cffe6f98f349.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks thank you! #paystobegold https://t.co/NbF7Ej6mIp",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 17 05:39:08 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm just a world away from letting stars light up my mind. I'm just a smile away from bringing hope. -Beta State",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1194,
+        "follow_request_sent": false,
+        "followers_count": 310,
+        "following": false,
+        "friends_count": 400,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14417174,
+        "id_str": "14417174",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 20,
+        "location": "iPhone: 37.292992,-121.931328",
+        "name": "KPIZME",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/616898082/k32txmk5rkzu1ovh5dwz.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/616898082/k32txmk5rkzu1ovh5dwz.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14417174/1443907500",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/617377402428067840/2lH0ArcT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/617377402428067840/2lH0ArcT_normal.jpg",
+        "profile_link_color": "173197",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "CACCCE",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KPIZME",
+        "statuses_count": 22631,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jul 05 17:36:19 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 750382814705676288,
+    "id_str": "750382814705676288",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.639319,
+                        43.403221
+                    ],
+                    [
+                        -78.90582,
+                        43.403221
+                    ],
+                    [
+                        -78.90582,
+                        43.855401
+                    ],
+                    [
+                        -79.639319,
+                        43.855401
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Toronto, Ontario",
+        "id": "3797791ff9c0e4c6",
+        "name": "Toronto",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3797791ff9c0e4c6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks looking to imitate your cold brew at home. Which beans would be best to use?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 03 22:49:26 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Social Media Coordinator/Community Manager, @shomicanada. Freelance film journalist. Nic Cage is my spirit animal. Cold Brew Bro. Opinions are always correct.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "shomi.com",
+                        "expanded_url": "http://shomi.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/kKaPKQNvpE"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3634,
+        "follow_request_sent": false,
+        "followers_count": 1738,
+        "following": false,
+        "friends_count": 1159,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 22694646,
+        "id_str": "22694646",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "Toronto, Ontario (via Oshawa)",
+        "name": "Matt Rorabeck",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22694646/1461464758",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/734148929298833408/w9P-fuPB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/734148929298833408/w9P-fuPB_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "mattrorabeck",
+        "statuses_count": 26785,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/kKaPKQNvpE",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

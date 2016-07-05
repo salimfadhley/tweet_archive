@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jul 05 13:48:38 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 750325517295849473,
+    "id_str": "750325517295849473",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.234587,
+                        41.175884
+                    ],
+                    [
+                        -95.872275,
+                        41.175884
+                    ],
+                    [
+                        -95.872275,
+                        41.375558
+                    ],
+                    [
+                        -96.234587,
+                        41.375558
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Omaha, NE",
+        "id": "a84b808ce3f11719",
+        "name": "Omaha",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a84b808ce3f11719.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks espresso machine broken the day after the Fourth of July! How am I supposed to make it through work without my caffeine! \ud83d\ude29",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 17 04:06:15 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "never follow your dreams chase them",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1115,
+        "follow_request_sent": false,
+        "followers_count": 270,
+        "following": false,
+        "friends_count": 280,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 227554714,
+        "id_str": "227554714",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "",
+        "name": "Emily Bateman",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/227554714/1431392247",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/597928629654462465/5d-82Td0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/597928629654462465/5d-82Td0_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "E_b8man",
+        "statuses_count": 8923,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

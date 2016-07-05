@@ -1,0 +1,177 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jul 05 15:19:44 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    35,
+                    44
+                ],
+                "text": "security"
+            },
+            {
+                "indices": [
+                    45,
+                    50
+                ],
+                "text": "flaw"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HrhO2bFrTS",
+                "expanded_url": "http://twitter.com/lasouthern328/status/750348444326301697/photo/1",
+                "id": 750348435115667456,
+                "id_str": "750348435115667456",
+                "indices": [
+                    57,
+                    80
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmnF7RzW8AAMBL4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmnF7RzW8AAMBL4.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 592,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 592,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 592,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/HrhO2bFrTS"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 750348444326301697,
+    "id_str": "750348444326301697",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -91.218994,
+                        30.354161
+                    ],
+                    [
+                        -90.962605,
+                        30.354161
+                    ],
+                    [
+                        -90.962605,
+                        30.5640391
+                    ],
+                    [
+                        -91.218994,
+                        30.5640391
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Baton Rouge, LA",
+        "id": "c7ef5f3368b68777",
+        "name": "Baton Rouge",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c7ef5f3368b68777.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks ruh-roh better fix this #security #flaw fast! https://t.co/HrhO2bFrTS",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 09 17:25:57 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "SLU Grad student in Sociology and single father.\n\nPGP Key: 77918010\n\nAnything else, just PM or Tweet me.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 250,
+        "follow_request_sent": false,
+        "followers_count": 40,
+        "following": false,
+        "friends_count": 95,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 224706109,
+        "id_str": "224706109",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "St. Gabriel, LA",
+        "name": "Joshua Webb",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/702247090114715648/8mcdgByb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/702247090114715648/8mcdgByb_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lasouthern328",
+        "statuses_count": 1427,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

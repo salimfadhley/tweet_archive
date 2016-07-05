@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jul 05 16:23:00 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 750364367137505280,
+    "id_str": "750364367137505280",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": 750358614087393280,
+    "in_reply_to_status_id_str": "750358614087393280",
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.241563,
+                        42.885157
+                    ],
+                    [
+                        -80.898785,
+                        42.885157
+                    ],
+                    [
+                        -80.898785,
+                        43.231792
+                    ],
+                    [
+                        -81.241563,
+                        43.231792
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Thames Centre, Ontario",
+        "id": "28b85ac2e5adfefb",
+        "name": "Thames Centre",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/28b85ac2e5adfefb.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks I would like to mobile order this what are the \"ingredients\"?? Venti size PLEASE?!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 17 14:09:01 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Who can describe themselves here?",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5134,
+        "follow_request_sent": false,
+        "followers_count": 582,
+        "following": false,
+        "friends_count": 999,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 57651821,
+        "id_str": "57651821",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 28,
+        "location": "London, Ontario, Canada",
+        "name": "Aimee Brewer",
+        "notifications": false,
+        "profile_background_color": "F2E7E6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/32439612/kureyon_swatch.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/32439612/kureyon_swatch.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/57651821/1467388215",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/747602751195058176/15bPHeOz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/747602751195058176/15bPHeOz_normal.jpg",
+        "profile_link_color": "532091",
+        "profile_sidebar_border_color": "5E5F9C",
+        "profile_sidebar_fill_color": "CC3737",
+        "profile_text_color": "360E16",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "aimee_brewer",
+        "statuses_count": 9870,
+        "time_zone": "Quito",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
